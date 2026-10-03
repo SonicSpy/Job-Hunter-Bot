@@ -337,13 +337,9 @@ REMOTE_WORDS = ["remote", "anywhere", "worldwide", "work from home", "wfh", "dis
 
 
 def location_ok(loc, description=""):
-    """Remote only. Accept remote roles open to India / worldwide / APAC; reject region-locked remote."""
+    """Remote only, and the remote area must include India (India / APAC / Asia / worldwide / plain 'Remote')."""
     l = (loc or "").lower()
     if not l.strip():
-        return False
-    india_or_global = any_phrase(l, ["india", "anywhere", "worldwide", "global", "apac", "asia"])
-    blocked = any_phrase(l, CONFIG["blocked_location_words"])
-    if blocked and not india_or_global:
         return False
     if any_phrase(l, ["hybrid", "on-site", "onsite", "in office", "in-office"]):
         return False
@@ -354,10 +350,14 @@ def location_ok(loc, description=""):
                                                             "work from home", "work from anywhere", "100% remote"])
     if not is_remote:
         return False
-    if any_phrase(l, ["india", "apac", "asia"]):
+    if any_phrase(l, ["india", "apac", "asia", "asia pacific", "anywhere", "worldwide", "global"]):
         return True
-    # plain "Remote" with no region: keep (the Claude routine double-checks eligibility before applying)
-    return not any_phrase(l, ["us", "usa", "u.s", "uk", "eu", "europe", "emea", "americas", "canada"])
+    # "Remote" with nothing else (or only filler words) is fine; "Remote, San Francisco" / "Remote - Estonia" is not
+    rest = l
+    for w in REMOTE_WORDS + ["fully", "100%", "first", "only", "position", "role", "job"]:
+        rest = re.sub(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", " ", rest)
+    rest = re.sub(r"[^a-z]+", "", rest)
+    return rest == ""
 
 
 def title_ok(title):
