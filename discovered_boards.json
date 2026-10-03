@@ -1,8 +1,58 @@
 {
+ "2K": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "2k"
+ },
+ "99 Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Acko": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Activision Blizzard": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Adobe": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Agate": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Airtable": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "airtable"
+ },
+ "AlmaBetter": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Amagi": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Anthropic": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "anthropic"
+ },
+ "Apna": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Applause": {
   "ats": null,
@@ -12,6 +62,11 @@
  "Appsmith": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Ather Energy": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Atlan": {
@@ -29,15 +84,75 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Avaamo": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Azerion": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "azerion"
+ },
+ "Behaviour Interactive": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Bewakoof": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "BharatPe": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Big Fish Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "BlackBuck": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Blizzard Entertainment": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Booking.com": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "BrowserStack": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Bungie": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "bungie"
+ },
+ "CD Projekt": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "CRED": {
   "ats": "lever",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "cred"
+ },
+ "Calendly": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "calendly"
  },
  "Canonical": {
   "ats": "greenhouse",
@@ -49,9 +164,44 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "canva"
  },
+ "Capillary Technologies": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "CarDekho": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Cars24": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "cars24"
+ },
+ "Cashfree": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Chargebee": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Classplus": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Cleartrip": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "CleverTap": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Cloudflare": {
@@ -59,30 +209,70 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "cloudflare"
  },
+ "Coding Ninjas": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Cohere": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "cohere"
+ },
+ "Cohesity": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Confluent": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "confluent"
  },
  "Coursera": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "coursera"
  },
+ "Cult.fit": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Darwinbox": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
+ },
+ "Databricks": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "databricks"
  },
  "Deel": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "deel"
  },
+ "Delhivery": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Discord": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "discord"
+ },
+ "Dream Games": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "dreamgames"
+ },
+ "Dream Sports": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Dream11": {
   "ats": null,
@@ -94,6 +284,21 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "druva"
  },
+ "Dukaan": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Duolingo": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "duolingo"
+ },
+ "EA": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Elastic": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -104,24 +309,109 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Embracer": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Epic Games": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "epicgames"
+ },
+ "Eruditus": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Everstage": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Exotel": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Expedia": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Facilio": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Fampay": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "fampay"
+ },
+ "Fi Money": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Figma": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "figma"
+ },
+ "Flipkart": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Freshdesk": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Freshworks": {
   "ats": "lever",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "freshworks"
  },
+ "Frontier Developments": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "GUVI": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Gameberry Labs": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Gameloft": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "gameloft"
+ },
  "Games24x7": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Games2win": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Gameskraft": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Garena": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "GitLab": {
@@ -129,15 +419,55 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "gitlab"
  },
+ "Glance": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "glance"
+ },
+ "Glean": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "glean"
+ },
  "Global App Testing": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Gnani.ai": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Go Digit": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Gojek": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Grab": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "grab"
+ },
  "Grafana Labs": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "grafanalabs"
+ },
+ "Grammarly": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Great Learning": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Groww": {
   "ats": "greenhouse",
@@ -169,9 +499,19 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "HashiCorp": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Hasura": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "HealthifyMe": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Hevo Data": {
@@ -179,14 +519,54 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "hevodata"
  },
+ "Hitwicket": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Homa Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "HubSpot": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "hubspot"
+ },
  "Hugging Face": {
   "ats": "workable",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "huggingface"
  },
+ "Hutch Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Huuuge Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "INDmoney": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Icertis": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "InMobi": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "inmobi"
+ },
+ "InVideo": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Innovaccer": {
@@ -199,14 +579,59 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "intercom"
  },
+ "Internshala": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Intuit": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Invisible Technologies": {
   "ats": "smartrecruiters",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "invisibletechnologies"
  },
+ "Jagex": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "jagex"
+ },
+ "Jam City": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "jamcity"
+ },
+ "Jar": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Junglee Games": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Jupiter": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Juspay": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Kabam": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "kabam"
+ },
+ "Kapture CX": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Katalon": {
@@ -214,14 +639,54 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Keka": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Keywords Studios": {
   "ats": "smartrecruiters",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "keywordsstudios"
  },
+ "Khatabook": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "King": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Kissflow": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Kongregate": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Krafton": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "krafton"
+ },
+ "Krafton India": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "kraftonindia"
+ },
  "Krutrim": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Kuku FM": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Kwalee": {
@@ -244,14 +709,84 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "LeadSquared": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Leadschool": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Leap Finance": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Leena AI": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Lenskart": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Licious": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Lila Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Loco": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Locus": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Loom": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "loom"
+ },
+ "Lowe's": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "MPL": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "MakeMyTrip": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Masai School": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Mastercard": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Mech Mocha": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Meesho": {
@@ -269,19 +804,79 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "mindtickle"
  },
+ "Miniclip": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Miro": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "miro"
+ },
+ "MoEngage": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "MobiKwik": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Mobile Premier League": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Mojang": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "MongoDB": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "mongodb"
  },
+ "Moon Active": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "moonactive"
+ },
+ "Moonfrog": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Myntra": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Mythical Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Nautilus Mobile": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Navi": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "navi"
+ },
  "Nazara": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Netcore Cloud": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Netlify": {
@@ -289,29 +884,164 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "netlify"
  },
+ "Netmarble": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Newton School": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "newtonschool"
+ },
+ "Nexters": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Niantic": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "niantic"
+ },
+ "Nodding Heads Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Nodwin Gaming": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Notion": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "notion"
+ },
+ "Nutanix": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Nykaa": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "OYO": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Observe.AI": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "observeai"
  },
+ "Octro": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Okta": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "okta"
+ },
+ "Ola": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "OpenAI": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "openai"
+ },
+ "Ozonetel": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Paradox Interactive": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "PayPal": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Paytm": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "paytm"
  },
  "Perplexity": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "perplexity"
  },
+ "PharmEasy": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "PhonePe": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Physics Wallah": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Pine Labs": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Pixel United": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Playrix": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Playstudios": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Playtika": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Plivo": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "plivo"
+ },
+ "Pocket FM": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "pocketfm"
+ },
+ "Pocket Gems": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "pocketgems"
+ },
+ "PolicyBazaar": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Postman": {
@@ -319,10 +1049,35 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Practo": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Product Madness": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Quizizz": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Rapido": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Razorpay": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
+ },
+ "Remedy": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "remedy"
  },
  "Remote": {
   "ats": "greenhouse",
@@ -334,6 +1089,16 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "replit"
  },
+ "Revolut": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Riot Games": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "riotgames"
+ },
  "Rippling": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -344,10 +1109,40 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "roblox"
  },
+ "Rocketlane": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Rockstar Games": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "rockstargames"
+ },
+ "Rollic": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Rooter": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Rovio": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Rubrik": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "rubrik"
+ },
+ "Salesforce": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Sarvam": {
   "ats": "ashby",
@@ -359,6 +1154,11 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "saucelabs"
  },
+ "SayGames": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Scale AI": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -369,19 +1169,119 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "scaler"
  },
+ "Sciplay": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Scopely": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "scopely"
+ },
+ "ServiceNow": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "servicenow"
+ },
+ "Setu": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "ShareChat": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Shiprocket": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Shopify": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "SigNoz": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "signoz"
+ },
+ "Simplilearn": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Skill-Lync": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "skill-lync"
+ },
+ "Sky Mavis": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "skymavis"
+ },
+ "Slice": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "slice"
+ },
+ "Smallcase": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Snorkel AI": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "snorkelai"
  },
+ "Snowflake": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "snowflake"
+ },
+ "Space Ape Games": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Spendflo": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Spinny": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Sprinklr": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Stillfront": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Stripe": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "stripe"
+ },
+ "Studio Sirah": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Sumo Digital": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Supabase": {
@@ -394,6 +1294,11 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Supercell": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "supercell"
+ },
  "Surge AI": {
   "ats": "ashby",
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -404,6 +1309,31 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "swiggy"
  },
+ "Take-Two Interactive": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Target": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Tata 1mg": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Teachmint": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Testbook": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Testlio": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -412,6 +1342,16 @@
  "Testsigma": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Tilting Point": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Toddle": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Toloka": {
@@ -429,6 +1369,11 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "toptal"
  },
+ "Treebo": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Turing": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
@@ -438,6 +1383,16 @@
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "twilio"
+ },
+ "Twitch": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "twitch"
+ },
+ "Uber": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "uber"
  },
  "Ubisoft": {
   "ats": null,
@@ -464,15 +1419,75 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Unstop": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Urban Company": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Vedantu": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Vercel": {
   "ats": "greenhouse",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "vercel"
  },
+ "Verloop.io": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Visa": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Voodoo": {
+  "ats": "ashby",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "voodoo"
+ },
+ "Walmart Global Tech": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Wargaming": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "WebEngage": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Whatfix": {
   "ats": "smartrecruiters",
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "whatfix"
+ },
+ "WinZO": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Wise": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "wise"
+ },
+ "Wizards of the Coast": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
  },
  "Yellow.ai": {
   "ats": null,
@@ -484,9 +1499,34 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": "zapier"
  },
+ "Zendesk": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
+ "Zenoti": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "zenoti"
+ },
+ "Zepto": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Zerodha": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
+  "slug": null
+ },
+ "Zeta": {
+  "ats": "lever",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "zeta"
+ },
+ "Zluri": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
   "slug": null
  },
  "Zoho": {
@@ -499,10 +1539,25 @@
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
  },
+ "Zscaler": {
+  "ats": "greenhouse",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "zscaler"
+ },
+ "Zupee": {
+  "ats": null,
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": null
+ },
  "Zynga": {
   "ats": null,
   "checked": "2026-10-03T08:14:37.066102+00:00",
   "slug": null
+ },
+ "ixigo": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-03T14:35:07.610682+00:00",
+  "slug": "ixigo"
  },
  "micro1": {
   "ats": null,
