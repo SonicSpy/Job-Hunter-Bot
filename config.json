@@ -249,7 +249,25 @@
     "phd",
     "research scientist",
     "part-time",
-    "part time"
+    "part time",
+    "speaking",
+    "japanese",
+    "korean",
+    "german",
+    "french",
+    "spanish",
+    "italian",
+    "portuguese",
+    "dutch",
+    "mandarin",
+    "chinese",
+    "arabic",
+    "turkish",
+    "polish",
+    "contractor",
+    "contract",
+    "weekend shift",
+    "night shift"
   ],
   "keep_even_if_excluded": [
     "associate product manager"
