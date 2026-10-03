@@ -1,8 +1,33 @@
 {
- "updated": "2026-10-03T08:47+00:00",
+ "updated": "2026-10-03T13:23+00:00",
  "count": 7,
- "new_this_run": 0,
+ "new_this_run": 3,
  "jobs": [
+  {
+   "id": "enterprisedb-software-engineer-c-developer-pgd",
+   "title": "Software Engineer/C Developer-PGD",
+   "company": "enterprisedb",
+   "category": "AI-assisted developer",
+   "score": 76,
+   "location": "Remote, Worldwide",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/enterprisedb/jobs/software-engineer-c-developer-pgd",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "python",
+    "docker",
+    "test",
+    "git",
+    "postgresql",
+    "api",
+    "quality",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T13:23+00:00",
+   "new": true
+  },
   {
    "id": "imerit-technology-video-data-annotator",
    "title": "Video Data Annotator",
@@ -48,53 +73,6 @@
    "new": false
   },
   {
-   "id": "productsup-full-stack-website-developer",
-   "title": "Full-Stack Website Developer",
-   "company": "Productsup",
-   "category": "AI-assisted developer",
-   "score": 73,
-   "location": "Remote, India",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/productsup/jobs/full-stack-website-developer-7960166469",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "git",
-    "javascript",
-    "node",
-    "api",
-    "qa",
-    "seo",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": false
-  },
-  {
-   "id": "kloudmate-full-stack-golang-developer",
-   "title": "Full Stack GoLang Developer",
-   "company": "KloudMate",
-   "category": "AI-assisted developer",
-   "score": 67,
-   "location": "Remote, Worldwide",
-   "salary": "INR 800000-1600000 / year",
-   "url": "https://himalayas.app/companies/kloudmate/jobs/full-stack-golang-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "docker",
-    "evaluation",
-    "vision",
-    "react",
-    "postgresql",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": false
-  },
-  {
    "id": "notion-forward-deployed-engineer-india",
    "title": "Forward Deployed Engineer, India",
    "company": "Notion",
@@ -117,6 +95,26 @@
    "new": false
   },
   {
+   "id": "tarteel-ai-developer-advocate",
+   "title": "Developer Advocate",
+   "company": "Tarteel AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 62,
+   "location": "Remote, Worldwide",
+   "salary": "USD 70000-80000 / year",
+   "url": "https://himalayas.app/companies/tarteel-ai/jobs/developer-advocate",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "github",
+    "react",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T13:23+00:00",
+   "new": true
+  },
+  {
    "id": "canonical-developer-relations-engineer",
    "title": "Developer Relations Engineer",
    "company": "Canonical",
@@ -136,23 +134,20 @@
    "new": false
   },
   {
-   "id": "harris-software-engineer",
-   "title": "Software Engineer",
-   "company": "Harris",
-   "category": "AI-assisted developer",
-   "score": 58,
+   "id": "ss-c-technologies-application-support-engineer-pa26wiptecoffq1061",
+   "title": "Application Support Engineer - PA26WIPTECOFFQ1061",
+   "company": "SS&C Technologies",
+   "category": "Non-coding tech (high pay)",
+   "score": 56,
    "location": "Remote, India",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/harris/jobs/software-engineer",
+   "url": "https://himalayas.app/companies/ss-c-technologies/jobs/application-support-engineer-pa26wiptecoffq1061",
    "source": "Himalayas",
    "posted": "2026-10-03",
-   "matched_skills": [
-    "javascript",
-    "postgresql"
-   ],
+   "matched_skills": [],
    "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": false
+   "first_seen": "2026-10-03T13:23+00:00",
+   "new": true
   }
  ]
 }

@@ -1,9 +1,9 @@
 # Bot health
 
-Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
+Last run 2026-10-03T13:23+00:00 · raw jobs read: 6506 · matches: 7
 
 ## Remote boards
-- remotive: 153
+- remotive: 144
 - remoteok: 99
 - himalayas: 400
 - jobicy: 100
@@ -11,7 +11,7 @@ Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
 ## Company careers feeds
 | Company | System | Jobs read | Note |
 |---|---|---|---|
-| Anthropic | greenhouse | 641 | ok |
+| Anthropic | greenhouse | 640 | ok |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
 | Atlan | ashby | 6 | ok |
@@ -62,7 +62,7 @@ Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
 | LambdaTest | not found | 0 | add careers link manually if needed |
 | Leena AI | not found | 0 | add careers link manually if needed |
 | MPL | not found | 0 | add careers link manually if needed |
-| Meesho | lever | 57 | ok |
+| Meesho | lever | 56 | ok |
 | Mercor | ashby | 114 | ok |
 | Mindtickle | lever | 17 | ok |
 | Miro | ashby | 28 | ok |
@@ -71,7 +71,7 @@ Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
 | Netlify | greenhouse | 5 | ok |
 | Notion | ashby | 137 | ok |
 | Observe.AI | greenhouse | 12 | ok |
-| OpenAI | ashby | 830 | ok |
+| OpenAI | ashby | 829 | ok |
 | Perplexity | ashby | 127 | ok |
 | PhonePe | not found | 0 | add careers link manually if needed |
 | Postman | not found | 0 | add careers link manually if needed |
@@ -115,4 +115,4 @@ Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: no new jobs
+Telegram: sent 2
