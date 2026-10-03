@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T08:25+00:00 · raw jobs read: 6518 · matches: 7
+Last run 2026-10-03T08:47+00:00 · raw jobs read: 6518 · matches: 7
 
 ## Remote boards
 - remotive: 153
@@ -114,3 +114,5 @@ Last run 2026-10-03T08:25+00:00 · raw jobs read: 6518 · matches: 7
 | Zynga | not found | 0 | add careers link manually if needed |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
+
+Telegram: no new jobs
