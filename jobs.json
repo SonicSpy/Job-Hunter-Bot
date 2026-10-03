@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T08:14+00:00",
- "count": 23,
- "new_this_run": 23,
+ "updated": "2026-10-03T08:25+00:00",
+ "count": 7,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "imerit-technology-video-data-annotator",
@@ -23,7 +23,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "imerit-technology-ai-trainer-image-qa-evaluator",
@@ -45,7 +45,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "productsup-full-stack-website-developer",
@@ -69,121 +69,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "summa-linguae-technologies-software-engineer-fullstack",
-   "title": "Software Engineer - Fullstack",
-   "company": "Summa Linguae Technologies",
-   "category": "AI-assisted developer",
-   "score": 72,
-   "location": "Remote, Poland",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/summalinguae/jobs/software-engineer-fullstack",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "python",
-    "test",
-    "react",
-    "node",
-    "api",
-    "qa",
-    "quality",
-    "sql"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-applied-ai-engineer-api-platform-digital-natives",
-   "title": "Applied AI Engineer, API Platform, Digital Natives",
-   "company": "OpenAI",
-   "category": "AI-assisted developer",
-   "score": 71,
-   "location": "Remote, New York City",
-   "salary": "$251K – $278K • Offers Equity",
-   "url": "https://jobs.ashbyhq.com/openai/3254f6a7-6353-4a77-beec-f37b832c99ae",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-29",
-   "matched_skills": [
-    "python",
-    "evaluation",
-    "test",
-    "typescript",
-    "javascript",
-    "prompt",
-    "api",
-    "quality"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "major-league-hacking-fullstack-ruby-on-rails-software-engineer-remote-contractor-apac-regi",
-   "title": "Fullstack Ruby on Rails Software Engineer (Remote Contractor - APAC Region)",
-   "company": "Major League Hacking",
-   "category": "AI-assisted developer",
-   "score": 70,
-   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
-   "salary": "INR 1500000-2600000 / year",
-   "url": "https://himalayas.app/companies/major-league-hacking/jobs/fullstack-ruby-on-rails-software-engineer-remote-contractor-apac-region",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "git",
-    "react",
-    "javascript",
-    "postgresql",
-    "quality",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "supabase-database-support-engineer-japanese-speaking",
-   "title": "Database Support Engineer (Japanese Speaking)",
-   "company": "Supabase",
-   "category": "Non-coding tech (high pay)",
-   "score": 68,
-   "location": "Remote, APAC",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-23",
-   "matched_skills": [
-    "test",
-    "postgresql",
-    "supabase",
-    "quality",
-    "sql",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "canva-ai-quality-evaluator-german-12-month-contract",
-   "title": "AI Quality Evaluator - German (12-month contract)",
-   "company": "Canva",
-   "category": "AI evaluation / AI trainer",
-   "score": 68,
-   "location": "Remote, Berlin, de",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/canva/6000000001447513",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-09-29",
-   "matched_skills": [
-    "quality"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "kloudmate-full-stack-golang-developer",
@@ -206,31 +92,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-software-engineer-product-velocity",
-   "title": "Software Engineer, Product Velocity",
-   "company": "OpenAI",
-   "category": "AI-assisted developer",
-   "score": 64,
-   "location": "Remote, San Francisco",
-   "salary": "$347K – $445K • Offers Equity",
-   "url": "https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-28",
-   "matched_skills": [
-    "python",
-    "test",
-    "github",
-    "typescript",
-    "node",
-    "quality",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "notion-forward-deployed-engineer-india",
@@ -252,87 +114,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "twilio-technical-support-engineer",
-   "title": "Technical Support Engineer",
-   "company": "Twilio",
-   "category": "Non-coding tech (high pay)",
-   "score": 62,
-   "location": "Remote - Estonia",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8207696",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-09-25",
-   "matched_skills": [
-    "evaluation",
-    "vision",
-    "qa",
-    "quality",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "notion-software-engineer-mobile-core-android",
-   "title": "Software Engineer, Mobile Core (Android)",
-   "company": "Notion",
-   "category": "AI-assisted developer",
-   "score": 62,
-   "location": "Remote, San Francisco, California",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-01",
-   "matched_skills": [
-    "test",
-    "react",
-    "typescript",
-    "node",
-    "quality"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "canva-ai-quality-evaluator-italian-12-month-contract",
-   "title": "AI Quality Evaluator - Italian (12-month Contract)",
-   "company": "Canva",
-   "category": "AI evaluation / AI trainer",
-   "score": 60,
-   "location": "Remote, Milan, it",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/canva/6000000001411681",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-09-16",
-   "matched_skills": [
-    "quality"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "canva-ai-quality-evaluator-spanish-12-month-contract",
-   "title": "AI Quality Evaluator - Spanish (12-month Contract)",
-   "company": "Canva",
-   "category": "AI evaluation / AI trainer",
-   "score": 60,
-   "location": "Remote, Madrid, es",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/canva/6000000001409440",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-09-16",
-   "matched_skills": [
-    "quality"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "canonical-developer-relations-engineer",
@@ -351,7 +133,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   },
   {
    "id": "harris-software-engineer",
@@ -370,125 +152,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-ai-support-engineer-singapore-weekend-shift",
-   "title": "AI Support Engineer - Singapore (Weekend Shift)",
-   "company": "OpenAI",
-   "category": "Non-coding tech (high pay)",
-   "score": 57,
-   "location": "Remote, Singapore",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-29",
-   "matched_skills": [
-    "python",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-software-engineer-devops",
-   "title": "Software Engineer, DevOps",
-   "company": "OpenAI",
-   "category": "AI-assisted developer",
-   "score": 56,
-   "location": "Remote, San Francisco",
-   "salary": "$318K – $485K • Offers Equity",
-   "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-01",
-   "matched_skills": [
-    "python",
-    "benchmark",
-    "test"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-dedicated-support-engineer-toronto",
-   "title": "Dedicated Support Engineer - Toronto",
-   "company": "OpenAI",
-   "category": "Non-coding tech (high pay)",
-   "score": 56,
-   "location": "Ontario - Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/openai/295464f1-7d48-468f-afe2-87f9075b7a20",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-25",
-   "matched_skills": [
-    "test",
-    "api",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-forward-deployed-engineer-singapore-korean-speaking",
-   "title": "Forward Deployed Engineer - Singapore (Korean Speaking)",
-   "company": "OpenAI",
-   "category": "AI-assisted developer",
-   "score": 56,
-   "location": "Remote, Singapore",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/openai/15ff9f15-c986-4ac3-ac2e-cd0f029afbd5",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-01",
-   "matched_skills": [
-    "python",
-    "javascript",
-    "quality"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "grafana-labs-solutions-engineer-france-remote",
-   "title": "Solutions Engineer | France | Remote",
-   "company": "Grafana Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 56,
-   "location": "France (Remote)",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121618004",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-09-26",
-   "matched_skills": [
-    "evaluation",
-    "vision",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
-  },
-  {
-   "id": "openai-product-manufacturing-quality-engineer",
-   "title": "Product Manufacturing & Quality Engineer",
-   "company": "OpenAI",
-   "category": "QA / testing",
-   "score": 55,
-   "location": "Remote, San Francisco",
-   "salary": "$123K – $285K • Offers Equity",
-   "url": "https://jobs.ashbyhq.com/openai/65b255da-4fd9-414e-98d4-0bec4eecf8ff",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-15",
-   "matched_skills": [
-    "test",
-    "quality"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": true
+   "new": false
   }
  ]
 }

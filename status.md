@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T08:14+00:00 · raw jobs read: 6518 · matches: 23
+Last run 2026-10-03T08:25+00:00 · raw jobs read: 6518 · matches: 7
 
 ## Remote boards
 - remotive: 153
