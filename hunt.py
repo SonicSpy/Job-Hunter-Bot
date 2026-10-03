@@ -219,7 +219,8 @@ def fetch_company(company, known):
 # ---------------------------------------------------------------- remote job boards
 def board_remotive():
     out = []
-    for q in ["qa", "testing", "ai trainer", "llm", "support", "customer success", "game", "frontend", "sales engineer"]:
+    for q in ["qa", "testing", "ai trainer", "llm", "support", "customer success", "game", "frontend", "full stack",
+              "react", "sales engineer", "product analyst", "developer advocate", "technical writer", "implementation"]:
         try:
             data = get_json("https://remotive.com/api/remote-jobs?limit=100&search=" + urllib.parse.quote(q))
         except Exception:
@@ -253,7 +254,7 @@ def board_remoteok():
 
 def board_himalayas():
     out = []
-    for offset in range(0, 400, 20):
+    for offset in range(0, 1000, 20):
         try:
             data = get_json(f"https://himalayas.app/jobs/api?limit=20&offset={offset}")
         except Exception:
@@ -292,10 +293,65 @@ def board_jobicy():
     return out
 
 
-BOARDS = {"remotive": board_remotive, "remoteok": board_remoteok, "himalayas": board_himalayas, "jobicy": board_jobicy}
+def board_workingnomads():
+    data = get_json("https://www.workingnomads.com/api/exposed_jobs/")
+    out = []
+    for j in data if isinstance(data, list) else []:
+        out.append(dict(title=j.get("title", ""), company=j.get("company_name", ""),
+                        location="Remote, " + (j.get("location") or "Anywhere"), url=j.get("url", ""),
+                        posted=to_dt(j.get("pub_date")), description=strip_html(j.get("description", ""))[:6000],
+                        salary="", source="Working Nomads (find company link before applying)"))
+    return out
+
+
+def board_weworkremotely():
+    import xml.etree.ElementTree as ET
+    out = []
+    for feed in ["remote-customer-support-jobs", "remote-full-stack-programming-jobs", "remote-front-end-programming-jobs",
+                 "remote-product-jobs", "remote-sales-and-marketing-jobs", "all-other-remote-jobs"]:
+        try:
+            req = urllib.request.Request(f"https://weworkremotely.com/categories/{feed}.rss", headers=UA)
+            root = ET.fromstring(urllib.request.urlopen(req, timeout=20).read())
+        except Exception:
+            continue
+        for it in root.iter("item"):
+            raw_title = it.findtext("title") or ""
+            company, _, title = raw_title.partition(":")
+            out.append(dict(title=title.strip() or raw_title, company=company.strip(),
+                            location="Remote, " + (it.findtext("region") or "Anywhere"), url=it.findtext("link") or "",
+                            posted=to_dt_rss(it.findtext("pubDate")),
+                            description=strip_html(it.findtext("description") or "")[:6000], salary="",
+                            source="We Work Remotely (find company link before applying)"))
+    return out
+
+
+def to_dt_rss(s):
+    from email.utils import parsedate_to_datetime
+    try:
+        return parsedate_to_datetime(s)
+    except Exception:
+        return None
+
+
+BOARDS = {"remotive": board_remotive, "remoteok": board_remoteok, "himalayas": board_himalayas, "jobicy": board_jobicy,
+          "workingnomads": board_workingnomads, "weworkremotely": board_weworkremotely}
 
 
 # ---------------------------------------------------------------- filtering + scoring
+GAMING_COMPANIES = {c.lower() for c in CONFIG.get("gaming_companies", [])}
+
+
+def is_gaming(job):
+    """A gaming job: at a game company, a game-related title, or a description clearly about games."""
+    comp = (job.get("company") or "").lower()
+    if comp in GAMING_COMPANIES or any(g in comp for g in ("games", "gaming", "studios", "esports")):
+        return True
+    if any_phrase(job.get("title", ""), ["game", "games", "gaming", "player", "esports", "playtest", "lqa"]):
+        return True
+    d = (job.get("description") or "").lower()
+    return len(re.findall(r"(?<![a-z])(?:game|games|gaming|gamers?|players?)(?![a-z])", d)) >= 6
+
+
 def classify(title):
     best = None
     for name, cat in CONFIG["categories"].items():
@@ -337,33 +393,50 @@ def salary_too_low(job):
 REMOTE_WORDS = ["remote", "anywhere", "worldwide", "work from home", "wfh", "distributed"]
 
 
-def location_ok(loc, description=""):
-    """Remote only, and the remote area must include India (India / APAC / Asia / worldwide / plain 'Remote')."""
+INDIA_PLACES = ["india", "bengaluru", "bangalore", "hyderabad", "secunderabad", "chennai", "pune", "mumbai", "navi mumbai",
+                "gurugram", "gurgaon", "noida", "delhi", "new delhi", "ncr", "kolkata", "visakhapatnam", "vizag",
+                "vijayawada", "ahmedabad", "kochi", "cochin", "coimbatore", "jaipur", "chandigarh", "indore",
+                "thiruvananthapuram", "trivandrum", "mysuru", "mysore", "bhubaneswar", "nagpur", "lucknow", "goa",
+                "mangalore", "mangaluru", "surat", "vadodara", "guntur", "srikakulam"]
+FOREIGN_HINTS = ["us", "usa", "u.s", "uk", "eu", "europe", "emea", "americas", "canada", "singapore", "dubai", "uae",
+                 "germany", "london", "new york", "san francisco", "australia", "japan", "philippines", "indonesia",
+                 "malaysia", "vietnam", "brazil", "mexico", "poland", "estonia", "ireland", "netherlands", "france"]
+
+
+def work_mode(loc, description=""):
+    """Returns 'Remote', 'Hybrid' or 'On-site' when the job suits Bhargav, else None.
+    Remote: must be open to India (India / APAC / Asia / worldwide / plain 'Remote').
+    Hybrid / On-site: only in India."""
     l = (loc or "").lower()
     if not l.strip():
-        return False
-    if any_phrase(l, ["hybrid", "on-site", "onsite", "in office", "in-office"]):
-        return False
-    is_remote = any_phrase(l, REMOTE_WORDS)
-    if not is_remote and "india" in l:
+        return None
+    in_india = any_phrase(l, INDIA_PLACES)
+    hybrid = any_phrase(l, ["hybrid"]) or (in_india and any_phrase((description or "")[:4000], ["hybrid"]))
+    onsite_word = any_phrase(l, ["on-site", "onsite", "in office", "in-office", "office"])
+    is_remote = any_phrase(l, REMOTE_WORDS) and not hybrid and not onsite_word
+    if not is_remote and in_india and not hybrid:
         # listed under an Indian city, but the description may say the role is remote
-        is_remote = any_phrase((description or "")[:4000], ["fully remote", "remote-first", "remote first",
-                                                            "work from home", "work from anywhere", "100% remote"])
-    if not is_remote:
-        return False
-    if any_phrase(l, ["india", "apac", "asia", "asia pacific", "anywhere", "worldwide", "global"]):
-        return True
-    # "Remote" with nothing else (or only filler words) is fine; "Remote, San Francisco" / "Remote - Estonia" is not
-    rest = l
-    for w in REMOTE_WORDS + ["fully", "100%", "first", "only", "position", "role", "job"]:
-        rest = re.sub(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", " ", rest)
-    rest = re.sub(r"[^a-z]+", "", rest)
-    return rest == ""
+        if any_phrase((description or "")[:4000], ["fully remote", "remote-first", "remote first",
+                                                   "work from home", "work from anywhere", "100% remote"]):
+            is_remote = True
+    if is_remote:
+        if any_phrase(l, ["india", "apac", "asia", "asia pacific", "anywhere", "worldwide", "global"]) or in_india:
+            return "Remote"
+        rest = l
+        for w in REMOTE_WORDS + ["fully", "100%", "first", "only", "position", "role", "job"]:
+            rest = re.sub(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", " ", rest)
+        return "Remote" if re.sub(r"[^a-z]+", "", rest) == "" else None
+    if in_india and not (any_phrase(l, FOREIGN_HINTS) and "india" not in l):
+        return "Hybrid" if hybrid else "On-site"
+    return None
+
+
+SENIOR_WORDS = ["senior", "sr", "sr.", "staff", "principal", "lead", "director", "head of", "vp", "vice president", "chief"]
 
 
 def title_ok(title):
     t = title.lower()
-    if any(k in t for k in CONFIG["keep_even_if_excluded"]):
+    if any(k in t for k in CONFIG["keep_even_if_excluded"]) and not any_phrase(t, SENIOR_WORDS):
         return True
     return not any_phrase(t, CONFIG["exclude_title_words"])
 
@@ -373,10 +446,14 @@ def score(job, cat_weight):
     hits = [k for k in CONFIG["resume_keywords"] if phrase_re(k).search(text)]
     s = cat_weight + min(len(hits) * 3, 30)
     loc = job["location"].lower()
-    if "india" in loc:
-        s += 10
-    elif any(w in loc for w in ("anywhere", "worldwide", "global", "apac")):
-        s += 7
+    mode = job.get("mode", "Remote")
+    if mode == "Remote":
+        s += 10 if any_phrase(loc, INDIA_PLACES) else 7 if any_phrase(loc, ["anywhere", "worldwide", "global", "apac"]) else 4
+    else:
+        # office roles: closer to Srikakulam is better
+        s += 8 if any_phrase(loc, ["visakhapatnam", "vizag", "vijayawada", "srikakulam", "guntur"]) \
+            else 5 if any_phrase(loc, ["hyderabad", "secunderabad", "bhubaneswar"]) \
+            else 3 if any_phrase(loc, ["bengaluru", "bangalore", "chennai"]) else 0
     if job.get("posted"):
         age = (NOW - job["posted"]).days
         s += 10 if age <= 3 else 6 if age <= 7 else 2
@@ -385,13 +462,63 @@ def score(job, cat_weight):
     return min(s, 100), hits[:8]
 
 
+YEARS_RE = re.compile(r"(\d{1,2})\s*\+?\s*(?:-|–|to)?\s*(?:\d{1,2})?\s*\+?\s*(?:years|yrs)", re.I)
+PRODUCT_COMPANIES = {c.lower() for c in CONFIG["companies"]}
+
+
+def is_coding_role(title):
+    t = title.lower()
+    if any(k in t for k in CONFIG.get("keep_even_if_coding", [])):
+        return False
+    return any_phrase(t, CONFIG.get("coding_title_words", []))
+
+
+GENERIC_RELIGION_WORDS = {"religion", "religious", "spiritual", "faith"}  # appear in equal-opportunity statements
+
+
+def is_religious(job):
+    """Skip religion-related companies/products. Company + title use every word; the description only uses
+    specific words, because almost every job post says 'without regard to ... religion' in its EEO statement."""
+    words = CONFIG.get("religious_words", [])
+    if any_phrase(" ".join([job.get("company") or "", job.get("title") or ""]), words):
+        return True
+    strong = [w for w in words if w not in GENERIC_RELIGION_WORDS]
+    return any_phrase((job.get("description") or "")[:3000], strong)
+
+
+def years_required(description):
+    """Smallest 'N years' mentioned near experience wording; None if not stated."""
+    d = (description or "").lower()
+    mins = []
+    for m in YEARS_RE.finditer(d):
+        window = d[max(0, m.start() - 60): m.end() + 60]
+        if "experience" in window or "exp" in window:
+            n = int(m.group(1))
+            if 0 < n < 20:
+                mins.append(n)
+    return min(mins) if mins else None
+
+
 def evaluate(job):
     title = job.get("title") or ""
     if not title or not job.get("url"):
         return None
-    if any(b in (job.get("company") or "").lower() for b in CONFIG["blocked_companies"]):
+    company_l = (job.get("company") or "").lower()
+    if any(b in company_l for b in CONFIG["blocked_companies"]):
         return None
-    if not title_ok(title) or not location_ok(job.get("location"), job.get("description", "")):
+    if not title_ok(title) or is_religious(job):
+        return None
+    mode = work_mode(job.get("location"), job.get("description", ""))
+    if not mode:
+        return None
+    job["mode"] = mode
+    # Remote: coding and non-coding roles are both fine. Hybrid / on-site: non-coding roles only.
+    if mode != "Remote" and is_coding_role(title):
+        return None
+    if any_phrase(job.get("description", ""), CONFIG.get("services_words", [])):
+        return None
+    yrs = years_required(job.get("description"))
+    if yrs is not None and yrs > CONFIG.get("max_years_experience_required", 3):
         return None
     c = (job.get("commitment") or "").lower()
     if any(w in c for w in ("part", "intern", "temporary")):
@@ -400,22 +527,66 @@ def evaluate(job):
         return None
     if salary_too_low(job):
         return None
+    if any_phrase(title + " " + (job.get("description") or "")[:3000], CONFIG.get("ghost_words", [])):
+        return None  # talent-pool / evergreen posts are not real openings
+    if not job.get("posted") and "company careers" not in job["source"].lower():
+        return None  # board listings with no date can't be checked for freshness
     if job.get("posted") and (NOW - job["posted"]).days > CONFIG["max_age_days"]:
         return None
     cat = classify(title)
+    gaming = is_gaming(job)
+    if gaming:
+        # gaming roles must not need coding (QA tester, player support, community, live ops, producer, design, localization...)
+        t = title.lower()
+        if any_phrase(t, CONFIG.get("gaming_coding_words", [])) and not any(k in t for k in CONFIG.get("keep_gaming_even_if_engineer", [])):
+            return None
+        if cat is None or cat[0].startswith("AI-assisted developer") or cat[0] == "Trainee / graduate program" or \
+                any_phrase(t, CONFIG["categories"]["Gaming"]["keywords"]):
+            cat = ("Gaming", CONFIG["categories"]["Gaming"]["weight"])
+        else:
+            cat = (f"Gaming · {cat[0]}", max(cat[1], CONFIG["categories"]["Gaming"]["weight"]))
     if not cat:
         return None
+    if mode != "Remote" and cat[0].startswith("AI-assisted developer"):
+        return None
     sc, hits = score(job, cat[1])
+    if gaming:
+        sc += CONFIG.get("gaming_bonus", 0)
+    if company_l in PRODUCT_COMPANIES:
+        sc += CONFIG.get("product_company_bonus", 0)
+    if any_phrase(title, ["junior", "associate", "entry level", "entry-level", "trainee", "graduate", "fresher", "new grad"]) \
+            or (yrs is not None and yrs <= 1):
+        sc += CONFIG.get("easy_level_bonus", 0)
+    if cat[0].startswith("AI-assisted developer") and any_phrase(job.get("description", ""), CONFIG.get("ai_tools_words", [])):
+        sc += CONFIG.get("ai_tools_bonus", 0)  # dev roles that use AI tools suit him best
+    sc = min(sc, 100)
     if sc < CONFIG["min_score_to_list"]:
         return None
     return dict(
         id=re.sub(r"[^a-z0-9]+", "-", f"{job['company']}-{title}".lower()).strip("-")[:90],
         title=title.strip(), company=(job.get("company") or "").strip(), category=cat[0], score=sc,
-        location=job["location"].strip(", "), salary=job.get("salary") or "Not listed",
+        location=job["location"].strip(", "), mode=mode, salary=job.get("salary") or "Not listed",
         url=job["url"], source=job["source"],
         posted=job["posted"].date().isoformat() if job.get("posted") else "",
         matched_skills=hits, contract=("contract" in c or "contract" in title.lower()),
     )
+
+
+# ---------------------------------------------------------------- ghost-job checks
+def link_is_live(url):
+    """Opens the job link. Dead links and 'no longer accepting applications' pages mean the job is closed."""
+    try:
+        req = urllib.request.Request(url, headers={**UA, "Accept": "text/html,*/*"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            if r.status >= 400:
+                return False
+            page = r.read(300000).decode("utf-8", errors="ignore").lower()
+    except urllib.error.HTTPError as e:
+        return e.code in (401, 403, 429)  # blocked bots, not closed: keep, the daily check will open it properly
+    except Exception:
+        return True  # network hiccup: don't drop the job for that
+    text = re.sub(r"<[^>]+>", " ", page)[:200000]
+    return not any(w in text for w in CONFIG.get("closed_page_words", []) if w != "404")
 
 
 # ---------------------------------------------------------------- telegram alerts (optional)
@@ -432,7 +603,7 @@ def send_telegram(new_jobs):
     lines = [f"<b>🔎 {len(picks)} new job match{'es' if len(picks) > 1 else ''}</b>"]
     for j in picks:
         lines.append(f"\n<b>{j['score']}</b> · <a href=\"{esc(j['url'])}\">{esc(j['title'])}</a>\n"
-                     f"{esc(j['company'])} · {esc(j['location'][:40])}\n💰 {esc(j['salary'][:40])}")
+                     f"{esc(j['company'])} · {esc(j.get('mode', 'Remote'))} · {esc(j['location'][:40])}\n💰 {esc(j['salary'][:40])}")
     lines.append("\nThe daily Claude task will apply to the best ones at 8:46 AM IST.")
     body = urllib.parse.urlencode({"chat_id": chat, "text": "\n".join(lines), "parse_mode": "HTML",
                                    "disable_web_page_preview": "true"}).encode()
@@ -449,7 +620,7 @@ def main():
     known = json.loads(DISCOVERED_FILE.read_text()) if DISCOVERED_FILE.exists() else {}
     raw = []
 
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=16) as pool:
         for company, info, jobs in pool.map(lambda c: fetch_company(c, known), CONFIG["companies"]):
             raw.extend(jobs)
             if info and info.get("ats"):
@@ -474,11 +645,27 @@ def main():
 
     old = json.loads(JOBS_FILE.read_text()) if JOBS_FILE.exists() else {"jobs": []}
     old_by_id = {j["id"]: j for j in old.get("jobs", [])}
-    jobs = []
+    jobs, ghosts = [], 0
+    to_check = []
     for jid, j in found.items():
         j["first_seen"] = old_by_id.get(jid, {}).get("first_seen") or NOW.isoformat(timespec="minutes")
         j["new"] = jid not in old_by_id
-        jobs.append(j)
+        listed_days = (NOW - to_dt(j["first_seen"])).days
+        if listed_days > CONFIG.get("ghost_max_days_listed", 45):
+            ghosts += 1  # open for too long (or reposted again and again): likely a ghost job
+            continue
+        if "company careers" in j["source"].lower():
+            j["verified"] = "Live on company careers page"
+            jobs.append(j)
+        else:
+            to_check.append(j)
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for j, live in zip(to_check, pool.map(lambda x: link_is_live(x["url"]), to_check)):
+            if live:
+                j["verified"] = "Link checked, still open"
+                jobs.append(j)
+            else:
+                ghosts += 1
     jobs.sort(key=lambda j: (-j["score"], j["first_seen"]))
 
     JOBS_FILE.write_text(json.dumps({"updated": NOW.isoformat(timespec="minutes"), "count": len(jobs),
@@ -487,14 +674,14 @@ def main():
     DISCOVERED_FILE.write_text(json.dumps(known, indent=1, sort_keys=True), encoding="utf-8")
 
     md = [f"# Job matches for Bhargav\n", f"Updated {NOW.strftime('%d %b %Y, %H:%M UTC')} · {len(jobs)} open matches\n",
-          "| Score | Role | Company | Location | Salary | Posted |", "|---|---|---|---|---|---|"]
+          "| Score | Role | Company | Mode | Location | Salary | Posted |", "|---|---|---|---|---|---|---|"]
     for j in jobs[:150]:
         flag = " 🆕" if j["new"] else ""
-        md.append(f"| {j['score']} | [{j['title']}]({j['url']}){flag} | {j['company']} | {j['location'][:40]} | "
+        md.append(f"| {j['score']} | [{j['title']}]({j['url']}){flag} | {j['company']} | {j.get('mode','Remote')} | {j['location'][:40]} | "
                   f"{j['salary'][:30]} | {j['posted']} |")
     (ROOT / "JOBS.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 
-    st = [f"# Bot health\n", f"Last run {NOW.isoformat(timespec='minutes')} · raw jobs read: {len(raw)} · matches: {len(jobs)}\n",
+    st = [f"# Bot health\n", f"Last run {NOW.isoformat(timespec='minutes')} · raw jobs read: {len(raw)} · matches: {len(jobs)} · closed or ghost jobs removed: {ghosts}\n",
           "## Remote boards", *[f"- {k}: {v}" for k, v in board_counts.items()],
           "\n## Company careers feeds", "| Company | System | Jobs read | Note |", "|---|---|---|---|", *sorted(status_lines)]
     (ROOT / "status.md").write_text("\n".join(st) + "\n", encoding="utf-8")
