@@ -24,6 +24,9 @@ jobs:
           python-version: "3.12"
 
       - name: Find and score jobs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python hunt.py
 
       - name: Save results
