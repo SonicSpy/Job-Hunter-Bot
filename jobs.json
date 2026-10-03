@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T21:12+00:00",
- "count": 24,
- "new_this_run": 4,
+ "updated": "2026-10-03T23:46+00:00",
+ "count": 23,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -108,7 +108,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T21:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -212,7 +212,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-03T21:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -264,6 +264,28 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "snapscale-wordpress-web-developer",
+   "title": "WordPress Web Developer",
+   "company": "Snapscale",
+   "category": "AI-assisted developer (full stack)",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/snapscale/jobs/wordpress-web-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "communication",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T23:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "canonical-developer-relations-engineer",
@@ -393,30 +415,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "your-personal-ai-join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collect",
-   "title": "Join Our Team as a Freelance Recruiter for AI Annotation and Data Collection Pro",
-   "company": "Your Personal AI",
-   "category": "AI evaluation / AI trainer",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/your-personal-ai/jobs/join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collection-pro",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "annotation",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T21:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -504,24 +502,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "mashreq-associate-ca-cad-centralized-payments",
-   "title": "Associate.CA-CAD Centralized Payments",
-   "company": "Mashreq",
-   "category": "Trainee / graduate program",
-   "score": 68,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mashreq/jobs/associate-ca-cad-centralized-payments",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-10-03T21:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",

@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T21:12+00:00 · raw jobs read: 12079 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-03T23:46+00:00 · raw jobs read: 12077 · matches: 23 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -73,7 +73,7 @@ Last run 2026-10-03T21:12+00:00 · raw jobs read: 12079 · matches: 24 · closed
 | Dukaan | not found | 0 | add careers link manually if needed |
 | Duolingo | greenhouse | 59 | ok |
 | EA | not found | 0 | add careers link manually if needed |
-| Elastic | greenhouse | 394 | ok |
+| Elastic | greenhouse | 392 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
 | Epic Games | greenhouse | 147 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-03T21:12+00:00 · raw jobs read: 12079 · matches: 24 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1
