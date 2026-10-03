@@ -1,0 +1,35 @@
+name: Job hunt
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour, all day and night (GitHub uses UTC)
+  workflow_dispatch: {}     # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-hunt
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find and score jobs
+        run: python hunt.py
+
+      - name: Save results
+        run: |
+          git config user.name "job-hunter-bot"
+          git config user.email "job-hunter-bot@users.noreply.github.com"
+          git add jobs.json JOBS.md status.md discovered_boards.json
+          git diff --cached --quiet || git commit -m "Job hunt $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
