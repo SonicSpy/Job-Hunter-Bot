@@ -511,6 +511,12 @@ def evaluate(job):
     mode = work_mode(job.get("location"), job.get("description", ""))
     if not mode:
         return None
+    # region locks hidden in the title, e.g. "Customer Success Associate (Denver, CO)" or "US Remote Support Advisor"
+    if (any_phrase(title, FOREIGN_HINTS + ["denver", "austin", "seattle", "chicago", "boston", "toronto", "berlin", "paris"])
+            and not any_phrase(title, INDIA_PLACES)) or re.search(r"\(([^)]*,\s*)?[A-Z]{2}\)", title):
+        return None
+    if any_phrase(title, CONFIG.get("services_words", [])):
+        return None
     job["mode"] = mode
     # Remote: coding and non-coding roles are both fine. Hybrid / on-site: non-coding roles only.
     if mode != "Remote" and is_coding_role(title):
@@ -604,7 +610,7 @@ def send_telegram(new_jobs):
     for j in picks:
         lines.append(f"\n<b>{j['score']}</b> · <a href=\"{esc(j['url'])}\">{esc(j['title'])}</a>\n"
                      f"{esc(j['company'])} · {esc(j.get('mode', 'Remote'))} · {esc(j['location'][:40])}\n💰 {esc(j['salary'][:40])}")
-    lines.append("\nThe daily Claude task will apply to the best ones at 8:46 AM IST.")
+    lines.append("\nThe daily Claude task applies to the best ones every morning around 11 AM IST.")
     body = urllib.parse.urlencode({"chat_id": chat, "text": "\n".join(lines), "parse_mode": "HTML",
                                    "disable_web_page_preview": "true"}).encode()
     try:

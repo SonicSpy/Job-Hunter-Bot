@@ -624,7 +624,20 @@
     "cogito",
     "sama",
     "outsourc",
-    "bpo"
+    "bpo",
+    "photon",
+    "transperfect",
+    "vxi",
+    "lionbridge",
+    "welocalize",
+    "startek",
+    "sutherland",
+    "alorica",
+    "ttec",
+    "firstsource",
+    "hinduja global",
+    "iqor",
+    "conduent"
   ],
   "scam_words": [
     "registration fee",
@@ -755,7 +768,12 @@
     "coding",
     "data scientist",
     "scientist",
-    "researcher"
+    "researcher",
+    "sde",
+    "software development",
+    "development engineer",
+    "technical consultant",
+    "front end technical"
   ],
   "keep_even_if_coding": [
     "developer advocate",
@@ -811,7 +829,10 @@
     "deployed at client",
     "client location",
     "third-party payroll",
-    "3rd party payroll"
+    "3rd party payroll",
+    "offshore",
+    "outsourced",
+    "client site"
   ],
   "max_years_experience_required": 3,
   "product_company_bonus": 8,
