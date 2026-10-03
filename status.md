@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed or ghost jobs removed: 0
+Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -71,7 +71,7 @@ Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed
 | Dream11 | not found | 0 | add careers link manually if needed |
 | Druva | greenhouse | 34 | ok |
 | Dukaan | not found | 0 | add careers link manually if needed |
-| Duolingo | greenhouse | 61 | ok |
+| Duolingo | greenhouse | 59 | ok |
 | EA | not found | 0 | add careers link manually if needed |
 | Elastic | greenhouse | 394 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
@@ -104,7 +104,7 @@ Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed
 | Go Digit | not found | 0 | add careers link manually if needed |
 | Gojek | not found | 0 | add careers link manually if needed |
 | Grab | smartrecruiters | 100 | ok |
-| Grafana Labs | greenhouse | 122 | ok |
+| Grafana Labs | greenhouse | 121 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
 | Groww | greenhouse | 7 | ok |
@@ -204,7 +204,7 @@ Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 368 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 829 | ok |
+| OpenAI | ashby | 828 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 715 | ok |
+| Stripe | greenhouse | 716 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 48 | ok |
