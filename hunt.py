@@ -15,6 +15,7 @@ Only the Python standard library is used, so there is nothing to install.
 
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -417,6 +418,32 @@ def evaluate(job):
     )
 
 
+# ---------------------------------------------------------------- telegram alerts (optional)
+def send_telegram(new_jobs):
+    """Sends new matches to Telegram if TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID are set as GitHub secrets."""
+    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip(), os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if not token or not chat or not new_jobs:
+        return "skipped" if not token or not chat else "no new jobs"
+    min_score = CONFIG.get("telegram_min_score", 60)
+    picks = [j for j in new_jobs if j["score"] >= min_score][:10]
+    if not picks:
+        return "no new jobs above telegram_min_score"
+    esc = lambda s: html.escape(str(s or ""))
+    lines = [f"<b>🔎 {len(picks)} new job match{'es' if len(picks) > 1 else ''}</b>"]
+    for j in picks:
+        lines.append(f"\n<b>{j['score']}</b> · <a href=\"{esc(j['url'])}\">{esc(j['title'])}</a>\n"
+                     f"{esc(j['company'])} · {esc(j['location'][:40])}\n💰 {esc(j['salary'][:40])}")
+    lines.append("\nThe daily Claude task will apply to the best ones at 8:46 AM IST.")
+    body = urllib.parse.urlencode({"chat_id": chat, "text": "\n".join(lines), "parse_mode": "HTML",
+                                   "disable_web_page_preview": "true"}).encode()
+    try:
+        urllib.request.urlopen(urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body),
+                               timeout=20).read()
+        return f"sent {len(picks)}"
+    except Exception as e:
+        return f"error: {str(e)[:80]}"
+
+
 # ---------------------------------------------------------------- main
 def main():
     known = json.loads(DISCOVERED_FILE.read_text()) if DISCOVERED_FILE.exists() else {}
@@ -471,7 +498,10 @@ def main():
           "## Remote boards", *[f"- {k}: {v}" for k, v in board_counts.items()],
           "\n## Company careers feeds", "| Company | System | Jobs read | Note |", "|---|---|---|---|", *sorted(status_lines)]
     (ROOT / "status.md").write_text("\n".join(st) + "\n", encoding="utf-8")
-    print(f"raw={len(raw)} matches={len(jobs)} new={sum(j['new'] for j in jobs)} boards={board_counts}")
+    tg = send_telegram([j for j in jobs if j["new"]])
+    with open(ROOT / "status.md", "a", encoding="utf-8") as f:
+        f.write(f"\nTelegram: {tg}\n")
+    print(f"telegram={tg} raw={len(raw)} matches={len(jobs)} new={sum(j['new'] for j in jobs)} boards={board_counts}")
 
 
 if __name__ == "__main__":

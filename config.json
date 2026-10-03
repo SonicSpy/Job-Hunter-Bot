@@ -383,5 +383,6 @@
   ],
   "min_salary_inr_per_year": 800000,
   "max_age_days": 21,
-  "min_score_to_list": 55
+  "min_score_to_list": 55,
+  "telegram_min_score": 60
 }
