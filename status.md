@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T14:35+00:00 · raw jobs read: 12080 · matches: 27 · closed or ghost jobs removed: 0
+Last run 2026-10-03T14:41+00:00 · raw jobs read: 12080 · matches: 21 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -328,4 +328,4 @@ Last run 2026-10-03T14:35+00:00 · raw jobs read: 12080 · matches: 27 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: no new jobs

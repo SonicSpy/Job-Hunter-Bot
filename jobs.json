@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T14:35+00:00",
- "count": 27,
- "new_this_run": 25,
+ "updated": "2026-10-03T14:41+00:00",
+ "count": 21,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -27,7 +27,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -54,7 +54,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -104,7 +104,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -135,31 +135,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "netlify-customer-success-associate-denver-co",
-   "title": "Customer Success Associate (Denver, CO)",
-   "company": "Netlify",
-   "category": "Non-coding tech (high pay)",
-   "score": 95,
-   "location": "Remote",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/netlify/jobs/8806100002",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-09-25",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -183,7 +158,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -210,34 +185,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "hevo-data-associate-software-development-engineer-sde",
-   "title": "Associate Software Development Engineer (SDE)",
-   "company": "Hevo Data",
-   "category": "Trainee / graduate program",
-   "score": 93,
-   "location": "Bangalore, India",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
-   "source": "Company careers (Lever)",
-   "posted": "2026-09-21",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "api",
-    "saas",
-    "fresher",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -260,35 +208,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "transperfect-commerce-and-content-front-end-technical-consultant",
-   "title": "Commerce and Content Front End Technical Consultant",
-   "company": "TransPerfect",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/transperfect/jobs/commerce-and-content-front-end-technical-consultant",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "docker",
-    "github",
-    "react"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "canonical-marketing-associate",
@@ -312,7 +233,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -360,7 +281,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -387,7 +308,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -412,7 +333,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -439,7 +360,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -464,31 +385,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "photon-qa-engineer-offshore-medimpact",
-   "title": "QA engineer | Offshore | Medimpact",
-   "company": "Photon",
-   "category": "QA / testing",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "test case",
-    "testing",
-    "sql",
-    "jira",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -508,7 +405,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -532,7 +429,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -552,56 +449,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "sleek-junior-payroll-assistant",
-   "title": "Junior Payroll Assistant",
-   "company": "Sleek",
-   "category": "Trainee / graduate program",
-   "score": 75,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-09-14",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "prompt"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "vxi-global-solutions-us-remote-technical-support-advisor",
-   "title": "US Remote Technical Support Advisor",
-   "company": "VXI Global Solutions",
-   "category": "Non-coding tech (high pay)",
-   "score": 67,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-09-23",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
@@ -621,7 +470,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -642,7 +491,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -662,7 +511,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   }
  ]
