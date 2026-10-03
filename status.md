@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed or ghost jobs removed: 0
+Last run 2026-10-03T21:12+00:00 · raw jobs read: 12079 · matches: 24 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -22,7 +22,7 @@ Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 640 | ok |
+| Anthropic | greenhouse | 639 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -76,7 +76,7 @@ Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed
 | Elastic | greenhouse | 394 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
-| Epic Games | greenhouse | 145 | ok |
+| Epic Games | greenhouse | 147 | ok |
 | Eruditus | not found | 0 | add careers link manually if needed |
 | Everstage | not found | 0 | add careers link manually if needed |
 | Exotel | not found | 0 | add careers link manually if needed |
@@ -261,7 +261,7 @@ Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed
 | Slice | greenhouse | 29 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 41 | ok |
-| Snowflake | ashby | 347 | ok |
+| Snowflake | ashby | 348 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-03T17:56+00:00 · raw jobs read: 12077 · matches: 21 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: no new jobs
+Telegram: sent 4

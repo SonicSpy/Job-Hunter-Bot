@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T17:56+00:00",
- "count": 21,
- "new_this_run": 0,
+ "updated": "2026-10-03T21:12+00:00",
+ "count": 24,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "firework-integration-solutions-associate",
+   "title": "Integration Solutions Associate",
+   "company": "Firework",
+   "category": "Trainee / graduate program",
+   "score": 98,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/firework/jobs/integration-solutions-associate",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T21:12+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "roblox-junior-critical-harms-investigations-incident-management-specialist",
    "title": "Junior Critical Harms Investigations & Incident Management Specialist",
    "company": "Roblox",
@@ -162,6 +189,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "your-personal-ai-freelancer-support-specialist",
+   "title": "Freelancer Support Specialist",
+   "company": "Your Personal AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "annotation",
+    "onboarding",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-03T21:12+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "hevo-data-associate-customer-experience-engineer",
    "title": "Associate Customer Experience Engineer",
    "company": "Hevo Data",
@@ -210,31 +264,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-marketing-associate",
-   "title": "Marketing Associate",
-   "company": "Canonical",
-   "category": "Trainee / graduate program",
-   "score": 91,
-   "location": "Remote, APAC,  EMEA,  LATAM,  Canada,  USA",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149941-marketing-associate",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "canonical-developer-relations-engineer",
@@ -364,6 +393,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "your-personal-ai-join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collect",
+   "title": "Join Our Team as a Freelance Recruiter for AI Annotation and Data Collection Pro",
+   "company": "Your Personal AI",
+   "category": "AI evaluation / AI trainer",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/your-personal-ai/jobs/join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collection-pro",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "annotation",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-03T21:12+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -451,6 +504,24 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "mashreq-associate-ca-cad-centralized-payments",
+   "title": "Associate.CA-CAD Centralized Payments",
+   "company": "Mashreq",
+   "category": "Trainee / graduate program",
+   "score": 68,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mashreq/jobs/associate-ca-cad-centralized-payments",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-03T21:12+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
