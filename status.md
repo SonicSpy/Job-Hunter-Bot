@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-04T05:49+00:00 · raw jobs read: 12077 · matches: 25 · closed or ghost jobs removed: 0
+Last run 2026-10-04T12:18+00:00 · raw jobs read: 12114 · matches: 21 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 240
+- remotive: 270
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 59
-- weworkremotely: 240
+- workingnomads: 58
+- weworkremotely: 248
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -62,7 +62,7 @@ Last run 2026-10-04T05:49+00:00 · raw jobs read: 12077 · matches: 25 · closed
 | Coursera | greenhouse | 15 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 886 | ok |
+| Databricks | greenhouse | 887 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 51 | ok |
@@ -234,7 +234,7 @@ Last run 2026-10-04T05:49+00:00 · raw jobs read: 12077 · matches: 25 · closed
 | Revolut | not found | 0 | add careers link manually if needed |
 | Riot Games | greenhouse | 164 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 254 | ok |
+| Roblox | greenhouse | 253 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 35 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-04T05:49+00:00 · raw jobs read: 12077 · matches: 25 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 1

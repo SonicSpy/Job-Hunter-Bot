@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-04T05:49+00:00",
- "count": 25,
- "new_this_run": 2,
+ "updated": "2026-10-04T12:18+00:00",
+ "count": 21,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -24,33 +24,6 @@
     "product",
     "api",
     "postman"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "paytm-product-management-associate-product-manager-travel",
-   "title": "Product Management - Associate Product Manager - Travel.",
-   "company": "Paytm",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
-   "source": "Company careers (Lever)",
-   "posted": "2026-09-30",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "product",
-    "analysis"
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
@@ -85,33 +58,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "firework-integration-solutions-associate",
-   "title": "Integration Solutions Associate",
-   "company": "Firework",
-   "category": "Trainee / graduate program",
-   "score": 98,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/firework/jobs/integration-solutions-associate",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T21:12+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "roblox-junior-critical-harms-investigations-incident-management-specialist",
    "title": "Junior Critical Harms Investigations & Incident Management Specialist",
    "company": "Roblox",
@@ -128,6 +74,33 @@
     "communication",
     "analysis",
     "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "paytm-product-management-associate-product-manager-travel",
+   "title": "Product Management - Associate Product Manager - Travel.",
+   "company": "Paytm",
+   "category": "Non-coding tech (high pay)",
+   "score": 97,
+   "location": "Noida, Uttar Pradesh",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
+   "source": "Company careers (Lever)",
+   "posted": "2026-09-30",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "communication",
+    "product",
+    "analysis"
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
@@ -162,6 +135,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "granicus-ai-solutions-engineer3",
+   "title": "AI Solutions Engineer3",
+   "company": "Granicus",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/granicus/jobs/ai-solutions-engineer3",
+   "source": "Himalayas",
+   "posted": "2026-10-04",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-04T12:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -185,33 +185,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "your-personal-ai-freelancer-support-specialist",
-   "title": "Freelancer Support Specialist",
-   "company": "Your Personal AI",
-   "category": "Non-coding tech (high pay)",
-   "score": 95,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "annotation",
-    "onboarding",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-03T21:12+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -264,52 +237,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "snapscale-wordpress-web-developer",
-   "title": "WordPress Web Developer",
-   "company": "Snapscale",
-   "category": "AI-assisted developer (full stack)",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/snapscale/jobs/wordpress-web-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T23:46+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-developer-relations-engineer",
-   "title": "Developer Relations Engineer",
-   "company": "Canonical",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, APAC,  EMEA",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -415,30 +342,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "your-personal-ai-join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collect",
-   "title": "Join Our Team as a Freelance Recruiter for AI Annotation and Data Collection Pro",
-   "company": "Your Personal AI",
-   "category": "AI evaluation / AI trainer",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/your-personal-ai/jobs/join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collection-pro",
-   "source": "Himalayas",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "annotation",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-04T05:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -462,26 +365,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "ixigo-fellowship-agent-intelligence-evaluations",
-   "title": "Fellowship : (Agent Intelligence & Evaluations)",
-   "company": "ixigo",
-   "category": "AI evaluation / AI trainer",
-   "score": 76,
-   "location": "New Delhi, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/ixigo/744000152651310",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-09-30",
-   "matched_skills": [
-    "evaluation"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "expel-associate-soc-analyst",
@@ -528,6 +411,26 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "ixigo-fellowship-agent-intelligence-evaluations",
+   "title": "Fellowship : (Agent Intelligence & Evaluations)",
+   "company": "ixigo",
+   "category": "AI evaluation / AI trainer",
+   "score": 72,
+   "location": "New Delhi, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/ixigo/744000152651310",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-09-30",
+   "matched_skills": [
+    "evaluation"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
    "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
    "company": "CSB Bank Limited",
@@ -545,7 +448,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-04T05:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
