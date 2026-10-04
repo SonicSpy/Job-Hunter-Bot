@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T23:46+00:00",
- "count": 23,
- "new_this_run": 1,
+ "updated": "2026-10-04T05:49+00:00",
+ "count": 25,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -284,7 +284,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T23:46+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -415,6 +415,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "your-personal-ai-join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collect",
+   "title": "Join Our Team as a Freelance Recruiter for AI Annotation and Data Collection Pro",
+   "company": "Your Personal AI",
+   "category": "AI evaluation / AI trainer",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/your-personal-ai/jobs/join-our-team-as-a-freelance-recruiter-for-ai-annotation-and-data-collection-pro",
+   "source": "Himalayas",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "annotation",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-04T05:49+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -502,6 +526,27 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
+   "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
+   "company": "CSB Bank Limited",
+   "category": "QA / testing",
+   "score": 68,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai",
+   "source": "Himalayas",
+   "posted": "2026-10-04",
+   "matched_skills": [
+    "quality",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-04T05:49+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
