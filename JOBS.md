@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 04 Oct 2026, 12:18 UTC · 21 open matches
+Updated 04 Oct 2026, 17:33 UTC · 19 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,7 +9,6 @@ Updated 04 Oct 2026, 12:18 UTC · 21 open matches
 | 97 | [Junior Critical Harms Investigations & Incident Management Specialist](https://careers.roblox.com/jobs/8204513?gh_jid=8204513) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-09-21 |
 | 97 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
 | 96 | [Forward Deployed Engineer, India](https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-09-15 |
-| 96 | [AI Solutions Engineer3](https://himalayas.app/companies/granicus/jobs/ai-solutions-engineer3) 🆕 | Granicus | Remote | Remote, India | Not listed | 2026-10-04 |
 | 95 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
 | 93 | [Associate Customer Experience Engineer](https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda) | Hevo Data | On-site | Pune, Maharashtra | Not listed | 2026-09-25 |
 | 93 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
@@ -20,8 +19,7 @@ Updated 04 Oct 2026, 12:18 UTC · 21 open matches
 | 81 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 76 | [Associate SOC Analyst](https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst) | Expel | Remote | Remote, Anywhere in the World | Not listed | 2026-09-27 |
 | 75 | [Customer Success Executive](https://jobs.smartrecruiters.com/servicenow/744000152904319) | ServiceNow | On-site | Bangalore, in | Not listed | 2026-10-01 |
+| 74 | [Associate 1 - RMT](https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt) 🆕 | KPMG Australia | Remote | Remote, India | Not listed | 2026-10-04 |
 | 72 | [Fellowship : (Agent Intelligence & Evaluations)](https://jobs.smartrecruiters.com/ixigo/744000152651310) | ixigo | On-site | New Delhi, in | Not listed | 2026-09-30 |
-| 68 | [Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai](https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai) | CSB Bank Limited | Remote | Remote, India | Not listed | 2026-10-04 |
 | 59 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Remote | Remote, Worldwide | Not listed | 2026-09-23 |
-| 59 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | Mirantis | Remote | Remote, Worldwide | Not listed | 2026-09-12 |
 | 56 | [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Remote | Remote, Worldwide | Not listed | 2026-09-22 |

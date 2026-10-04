@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-04T12:18+00:00 · raw jobs read: 12114 · matches: 21 · closed or ghost jobs removed: 0
+Last run 2026-10-04T17:33+00:00 · raw jobs read: 12105 · matches: 19 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 58
-- weworkremotely: 248
+- workingnomads: 54
+- weworkremotely: 246
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-04T12:18+00:00 · raw jobs read: 12114 · matches: 21 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 639 | ok |
+| Anthropic | greenhouse | 638 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-10-04T12:18+00:00 · raw jobs read: 12114 · matches: 21 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 390 | ok |
+| MongoDB | greenhouse | 389 | ok |
 | Moon Active | ashby | 36 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -261,7 +261,7 @@ Last run 2026-10-04T12:18+00:00 · raw jobs read: 12114 · matches: 21 · closed
 | Slice | greenhouse | 29 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 41 | ok |
-| Snowflake | ashby | 348 | ok |
+| Snowflake | ashby | 347 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04T12:18+00:00",
- "count": 21,
+ "updated": "2026-10-04T17:33+00:00",
+ "count": 19,
  "new_this_run": 1,
  "jobs": [
   {
@@ -133,33 +133,6 @@
    "first_seen": "2026-10-03T08:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "granicus-ai-solutions-engineer3",
-   "title": "AI Solutions Engineer3",
-   "company": "Granicus",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/granicus/jobs/ai-solutions-engineer3",
-   "source": "Himalayas",
-   "posted": "2026-10-04",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-04T12:18+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -411,6 +384,27 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "kpmg-australia-associate-1-rmt",
+   "title": "Associate 1 - RMT",
+   "company": "KPMG Australia",
+   "category": "Trainee / graduate program",
+   "score": 74,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt",
+   "source": "Himalayas",
+   "posted": "2026-10-04",
+   "matched_skills": [
+    "quality",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-04T17:33+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "ixigo-fellowship-agent-intelligence-evaluations",
    "title": "Fellowship : (Agent Intelligence & Evaluations)",
    "company": "ixigo",
@@ -431,27 +425,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
-   "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
-   "company": "CSB Bank Limited",
-   "category": "QA / testing",
-   "score": 68,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai",
-   "source": "Himalayas",
-   "posted": "2026-10-04",
-   "matched_skills": [
-    "quality",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-04T05:49+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "prenosis-software-engineer",
    "title": "Software Engineer",
    "company": "Prenosis",
@@ -465,27 +438,6 @@
    "posted": "2026-09-23",
    "matched_skills": [
     "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mirantis-software-engineer",
-   "title": "Software Engineer",
-   "company": "Mirantis",
-   "category": "AI-assisted developer (full stack)",
-   "score": 59,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-09-12",
-   "matched_skills": [
-    "ai",
     "remote"
    ],
    "contract": false,
