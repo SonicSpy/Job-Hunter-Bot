@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-04T17:33+00:00 · raw jobs read: 12105 · matches: 19 · closed or ghost jobs removed: 0
+Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -8,7 +8,7 @@ Last run 2026-10-04T17:33+00:00 · raw jobs read: 12105 · matches: 19 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 54
-- weworkremotely: 246
+- weworkremotely: 245
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-04T17:33+00:00 · raw jobs read: 12105 · matches: 19 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 638 | ok |
+| Anthropic | greenhouse | 639 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -73,7 +73,7 @@ Last run 2026-10-04T17:33+00:00 · raw jobs read: 12105 · matches: 19 · closed
 | Dukaan | not found | 0 | add careers link manually if needed |
 | Duolingo | greenhouse | 59 | ok |
 | EA | not found | 0 | add careers link manually if needed |
-| Elastic | greenhouse | 392 | ok |
+| Elastic | greenhouse | 396 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
 | Epic Games | greenhouse | 147 | ok |

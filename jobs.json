@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:33+00:00",
+ "updated": "2026-10-04T21:22+00:00",
  "count": 19,
  "new_this_run": 1,
  "jobs": [
@@ -56,6 +56,33 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "invisible-technologies-agentic-audio-specialist-freelance-ai-trainer-project",
+   "title": "Agentic Audio Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project",
+   "source": "Himalayas",
+   "posted": "2026-10-04",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-04T21:22+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "roblox-junior-critical-harms-investigations-incident-management-specialist",
@@ -382,27 +409,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "kpmg-australia-associate-1-rmt",
-   "title": "Associate 1 - RMT",
-   "company": "KPMG Australia",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt",
-   "source": "Himalayas",
-   "posted": "2026-10-04",
-   "matched_skills": [
-    "quality",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-04T17:33+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "ixigo-fellowship-agent-intelligence-evaluations",
