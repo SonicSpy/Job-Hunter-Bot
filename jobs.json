@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-05T00:54+00:00",
- "count": 20,
- "new_this_run": 1,
+ "updated": "2026-10-05T07:01+00:00",
+ "count": 21,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -342,6 +342,28 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "meesho-associate-operations",
+   "title": "Associate - Operations",
+   "company": "Meesho",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Bangalore, Karnataka",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
+   "source": "Company careers (Lever)",
+   "posted": "2026-10-01",
+   "matched_skills": [
+    "quality",
+    "product",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T07:01+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -391,6 +413,26 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "ixigo-research-fellowship-agent-intelligence-evaluation",
+   "title": "Research Fellowship: Agent Intelligence & Evaluation",
+   "company": "ixigo",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "New Delhi, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/ixigo/744000153403639",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "evaluation"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T07:01+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "servicenow-customer-success-executive",
    "title": "Customer Success Executive",
    "company": "ServiceNow",
@@ -428,28 +470,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T00:54+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "ixigo-fellowship-agent-intelligence-evaluations",
-   "title": "Fellowship : (Agent Intelligence & Evaluations)",
-   "company": "ixigo",
-   "category": "AI evaluation / AI trainer",
-   "score": 72,
-   "location": "New Delhi, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/ixigo/744000152651310",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-09-30",
-   "matched_skills": [
-    "evaluation"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
-   "verified": "Live on company careers page"
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",

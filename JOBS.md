@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 05 Oct 2026, 00:54 UTC · 20 open matches
+Updated 05 Oct 2026, 07:01 UTC · 21 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -17,10 +17,11 @@ Updated 05 Oct 2026, 00:54 UTC · 20 open matches
 | 85 | [Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding) | STEUART NUTRITION | Remote | Remote, Anywhere in the World | Not listed | 2026-09-23 |
 | 83 | [Business Development & Growth Associate, Pharma](https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 83 | [Sales Engineer](https://weworkremotely.com/remote-jobs/postscript-sales-engineer) | Postscript | Remote | Remote, Anywhere in the World | Not listed | 2026-09-29 |
+| 83 | [Associate - Operations](https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad) 🆕 | Meesho | On-site | Bangalore, Karnataka | Not listed | 2026-10-01 |
 | 81 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 76 | [Associate SOC Analyst](https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst) | Expel | Remote | Remote, Anywhere in the World | Not listed | 2026-09-27 |
+| 76 | [Research Fellowship: Agent Intelligence & Evaluation](https://jobs.smartrecruiters.com/ixigo/744000153403639) 🆕 | ixigo | On-site | New Delhi, in | Not listed | 2026-10-05 |
 | 75 | [Customer Success Executive](https://jobs.smartrecruiters.com/servicenow/744000152904319) | ServiceNow | On-site | Bangalore, in | Not listed | 2026-10-01 |
-| 74 | [Associate 1 - RMT](https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt) 🆕 | KPMG Australia | Remote | Remote, India | Not listed | 2026-10-04 |
-| 72 | [Fellowship : (Agent Intelligence & Evaluations)](https://jobs.smartrecruiters.com/ixigo/744000152651310) | ixigo | On-site | New Delhi, in | Not listed | 2026-09-30 |
+| 74 | [Associate 1 - RMT](https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt) | KPMG Australia | Remote | Remote, India | Not listed | 2026-10-04 |
 | 59 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Remote | Remote, Worldwide | Not listed | 2026-09-23 |
 | 56 | [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Remote | Remote, Worldwide | Not listed | 2026-09-22 |
