@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05T15:59+00:00",
- "count": 20,
+ "updated": "2026-10-05T22:36+00:00",
+ "count": 22,
  "new_this_run": 2,
  "jobs": [
   {
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T15:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -160,6 +160,33 @@
    "first_seen": "2026-10-03T08:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "pixibo-junior-frontend-engineer-remote",
+   "title": "Junior Frontend Engineer - Remote",
+   "company": "Pixibo",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pixibo/jobs/junior-frontend-engineer-remote-6296108737",
+   "source": "Himalayas",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "remote",
+    "react",
+    "typescript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T22:36+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -358,8 +385,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T15:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "webflow-it-support-specialist",
+   "title": "IT Support Specialist",
+   "company": "Webflow",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T22:36+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "meesho-associate-operations",
