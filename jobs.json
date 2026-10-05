@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05T07:01+00:00",
- "count": 21,
+ "updated": "2026-10-05T15:59+00:00",
+ "count": 20,
  "new_this_run": 2,
  "jobs": [
   {
@@ -58,31 +58,31 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-agentic-audio-specialist-freelance-ai-trainer-project",
-   "title": "Agentic Audio Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
+   "id": "twilio-technical-support-engineer-2",
+   "title": "Technical Support Engineer 2",
+   "company": "Twilio",
+   "category": "Non-coding tech (high pay)",
    "score": 100,
-   "location": "Remote, Worldwide",
+   "location": "Remote - India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project",
-   "source": "Himalayas",
-   "posted": "2026-10-04",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8239751",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-05",
    "matched_skills": [
-    "evaluation",
     "ai",
-    "quality",
-    "documentation",
     "customer",
     "support",
     "communication",
-    "english"
+    "product",
+    "api",
+    "postman",
+    "sql"
    ],
    "contract": false,
-   "first_seen": "2026-10-04T21:22+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
+   "first_seen": "2026-10-05T15:59+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "roblox-junior-critical-harms-investigations-incident-management-specialist",
@@ -342,11 +342,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "grab-associate-l2-support-engineer",
+   "title": "Associate L2 Support Engineer",
+   "company": "Grab",
+   "category": "Non-coding tech (high pay)",
+   "score": 83,
+   "location": "Bangalore, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/grab/744000153445206",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T15:59+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "meesho-associate-operations",
    "title": "Associate - Operations",
    "company": "Meesho",
    "category": "Trainee / graduate program",
-   "score": 83,
+   "score": 79,
    "location": "Bangalore, Karnataka",
    "mode": "On-site",
    "salary": "Not listed",
@@ -360,57 +380,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T07:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "webflow-it-support-specialist",
-   "title": "IT Support Specialist",
-   "company": "Webflow",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "expel-associate-soc-analyst",
-   "title": "Associate SOC Analyst",
-   "company": "Expel",
-   "category": "Trainee / graduate program",
-   "score": 76,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-09-27",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "analysis",
-    "remote",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "ixigo-research-fellowship-agent-intelligence-evaluation",
@@ -429,7 +400,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T07:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -437,13 +408,13 @@
    "title": "Customer Success Executive",
    "company": "ServiceNow",
    "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Bangalore, in",
+   "score": 72,
+   "location": "Mumbai, in",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000152904319",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000153407564",
    "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-01",
+   "posted": "2026-10-05",
    "matched_skills": [
     "customer"
    ],
@@ -453,23 +424,26 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "kpmg-australia-associate-1-rmt",
-   "title": "Associate 1 - RMT",
-   "company": "KPMG Australia",
+   "id": "expel-associate-soc-analyst",
+   "title": "Associate SOC Analyst",
+   "company": "Expel",
    "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
+   "score": 72,
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/kpmg-australia/jobs/associate-1-rmt",
-   "source": "Himalayas",
-   "posted": "2026-10-04",
+   "url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-09-27",
    "matched_skills": [
-    "quality",
-    "support"
+    "customer",
+    "communication",
+    "analysis",
+    "remote",
+    "gcp"
    ],
    "contract": false,
-   "first_seen": "2026-10-05T00:54+00:00",
+   "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
