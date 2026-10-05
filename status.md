@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed or ghost jobs removed: 0
+Last run 2026-10-05T00:54+00:00 · raw jobs read: 12112 · matches: 20 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -22,7 +22,7 @@ Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 639 | ok |
+| Anthropic | greenhouse | 640 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -91,7 +91,7 @@ Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed
 | Frontier Developments | not found | 0 | add careers link manually if needed |
 | GUVI | not found | 0 | add careers link manually if needed |
 | Gameberry Labs | not found | 0 | add careers link manually if needed |
-| Gameloft | smartrecruiters | 55 | ok |
+| Gameloft | smartrecruiters | 56 | ok |
 | Games24x7 | not found | 0 | add careers link manually if needed |
 | Games2win | not found | 0 | add careers link manually if needed |
 | Gameskraft | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 389 | ok |
+| MongoDB | greenhouse | 390 | ok |
 | Moon Active | ashby | 36 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -196,7 +196,7 @@ Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed
 | Niantic | ashby | 0 | ok |
 | Nodding Heads Games | not found | 0 | add careers link manually if needed |
 | Nodwin Gaming | not found | 0 | add careers link manually if needed |
-| Notion | ashby | 137 | ok |
+| Notion | ashby | 136 | ok |
 | Nutanix | not found | 0 | add careers link manually if needed |
 | Nykaa | not found | 0 | add careers link manually if needed |
 | OYO | not found | 0 | add careers link manually if needed |
@@ -261,7 +261,7 @@ Last run 2026-10-04T21:22+00:00 · raw jobs read: 12109 · matches: 19 · closed
 | Slice | greenhouse | 29 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 41 | ok |
-| Snowflake | ashby | 347 | ok |
+| Snowflake | ashby | 348 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
