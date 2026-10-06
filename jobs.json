@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-05T22:36+00:00",
- "count": 22,
- "new_this_run": 2,
+ "updated": "2026-10-06T02:57+00:00",
+ "count": 24,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -162,29 +162,56 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "pixibo-junior-frontend-engineer-remote",
-   "title": "Junior Frontend Engineer - Remote",
-   "company": "Pixibo",
-   "category": "AI-assisted developer (full stack)",
+   "id": "hercules-technical-customer-support-engineer-apac",
+   "title": "Technical Customer Support Engineer, APAC",
+   "company": "Hercules",
+   "category": "Non-coding tech (high pay)",
    "score": 96,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Australia, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/pixibo/jobs/junior-frontend-engineer-remote-6296108737",
+   "salary": "USD 60000-125000 / year",
+   "url": "https://himalayas.app/companies/hercules/jobs/technical-customer-support-engineer-apac",
    "source": "Himalayas",
-   "posted": "2026-10-05",
+   "posted": "2026-10-06",
    "matched_skills": [
+    "ai",
+    "test case",
     "customer",
     "support",
     "communication",
     "product",
-    "api",
-    "remote",
-    "react",
-    "typescript"
+    "docker",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-05T22:36+00:00",
+   "first_seen": "2026-10-06T02:57+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
+   "title": "Remote FullStack Engineer – React + Django – AI Systems",
+   "company": "Spotter Labs",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-1898874040",
+   "source": "Himalayas",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "ai",
+    "product",
+    "api",
+    "python",
+    "docker",
+    "remote",
+    "react",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-06T02:57+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -264,6 +291,29 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
+   "source": "Himalayas",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-06T02:57+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -410,7 +460,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
