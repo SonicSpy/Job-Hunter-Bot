@@ -1,26 +1,25 @@
 # Job matches for Bhargav
 
-Updated 06 Oct 2026, 02:57 UTC · 24 open matches
+Updated 06 Oct 2026, 10:14 UTC · 23 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Associate Technical Writer](https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74) | Hevo Data | On-site | Bangalore, India | Not listed | 2026-09-18 |
 | 100 | [QA Engineer](https://job-boards.greenhouse.io/scopely/jobs/5425473008?gh_jid=5425473008) | Scopely | Hybrid | IN - Bangalore, India | Not listed | 2026-09-18 |
 | 100 | [Technical Support Engineer 2](https://job-boards.greenhouse.io/twilio/jobs/8239751) | Twilio | Remote | Remote - India | Not listed | 2026-10-05 |
-| 97 | [Junior Critical Harms Investigations & Incident Management Specialist](https://careers.roblox.com/jobs/8204513?gh_jid=8204513) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-09-21 |
+| 100 | [Slots Game Mathematician (Junior-to-Middle)](https://himalayas.app/companies/enjoy-gaming-llc/jobs/slots-game-mathematician-junior-to-middle) 🆕 | Enjoy Gaming LLC | Remote | Remote, Worldwide | Not listed | 2026-10-06 |
 | 97 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
 | 96 | [Forward Deployed Engineer, India](https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-09-15 |
-| 96 | [Technical Customer Support Engineer, APAC](https://himalayas.app/companies/hercules/jobs/technical-customer-support-engineer-apac) 🆕 | Hercules | Remote | Remote, Australia, India | USD 60000-125000 / year | 2026-10-06 |
-| 96 | [Remote FullStack Engineer – React + Django – AI Systems](https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-1898874040) 🆕 | Spotter Labs | Remote | Remote, Argentina, Colombia, India, Mexi | Not listed | 2026-10-05 |
-| 95 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
+| 96 | [Technical Customer Support Engineer, APAC](https://himalayas.app/companies/hercules/jobs/technical-customer-support-engineer-apac) | Hercules | Remote | Remote, Australia, India | USD 60000-125000 / year | 2026-10-06 |
 | 93 | [Associate Customer Experience Engineer](https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda) | Hevo Data | On-site | Pune, Maharashtra | Not listed | 2026-09-25 |
 | 93 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
-| 91 | [SysAdmin/DevOps](https://himalayas.app/companies/reality-games/jobs/sysadmin-devops) 🆕 | Reality Games | Remote | Remote, Worldwide | Not listed | 2026-10-05 |
+| 93 | [Technical Support Specialist (L2/L3)](https://himalayas.app/companies/auditdata/jobs/technical-support-specialist-l2-l3) 🆕 | Auditdata | Remote | Remote, Worldwide | Not listed | 2026-10-06 |
+| 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
+| 91 | [FullStack Developer Frontend Focus](https://himalayas.app/companies/novakid-school/jobs/fullstack-developer-frontend-focus) 🆕 | Novakid School | Remote | Remote, Worldwide | Not listed | 2026-10-06 |
 | 86 | [Forward Deployed Engineer, Professional Services](https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305) | Cloudflare | Remote | Distributed | Not listed | 2026-09-23 |
 | 85 | [Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding) | STEUART NUTRITION | Remote | Remote, Anywhere in the World | Not listed | 2026-09-23 |
 | 83 | [Business Development & Growth Associate, Pharma](https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 83 | [Sales Engineer](https://weworkremotely.com/remote-jobs/postscript-sales-engineer) | Postscript | Remote | Remote, Anywhere in the World | Not listed | 2026-09-29 |
-| 83 | [Associate L2 Support Engineer](https://jobs.smartrecruiters.com/grab/744000153445206) | Grab | On-site | Bangalore, in | Not listed | 2026-10-05 |
 | 81 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 79 | [Associate - Operations](https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad) | Meesho | On-site | Bangalore, Karnataka | Not listed | 2026-10-01 |
 | 76 | [Research Fellowship: Agent Intelligence & Evaluation](https://jobs.smartrecruiters.com/ixigo/744000153403639) | ixigo | On-site | New Delhi, in | Not listed | 2026-10-05 |
