@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T08:37+00:00",
- "count": 25,
- "new_this_run": 6,
+ "updated": "2026-10-07T16:26+00:00",
+ "count": 22,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -112,32 +112,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "ancient-gaming-legal-assistant",
-   "title": "Legal Assistant",
-   "company": "Ancient Gaming",
-   "category": "Gaming",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ancient-gaming/jobs/legal-assistant",
-   "source": "Himalayas",
-   "posted": "2026-10-06",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T01:31+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -161,7 +135,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -188,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -219,31 +193,31 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "notion-forward-deployed-engineer-india",
-   "title": "Forward Deployed Engineer, India",
-   "company": "Notion",
-   "category": "AI-assisted developer (full stack)",
+   "id": "nozomi-networks-technical-support-engineer",
+   "title": "Technical Support Engineer",
+   "company": "Nozomi Networks",
+   "category": "Non-coding tech (high pay)",
    "score": 96,
-   "location": "Remote, Hyderabad, India",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-09-15",
+   "url": "https://himalayas.app/companies/nozomi-networks/jobs/technical-support-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-07",
    "matched_skills": [
     "ai",
-    "quality",
     "testing",
-    "documentation",
     "customer",
+    "support",
     "communication",
+    "english",
     "product",
-    "sql"
+    "api"
    ],
    "contract": false,
-   "first_seen": "2026-10-03T08:14+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
+   "first_seen": "2026-10-07T16:26+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "hevo-data-associate-customer-experience-engineer",
@@ -266,29 +240,6 @@
     "communication",
     "product",
     "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "paytm-associate-user-growth-market-intelligence",
-   "title": "Associate - User Growth (Market intelligence)",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 93,
-   "location": "Remote, Noida, Uttar Pradesh",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07",
-   "source": "Company careers (Lever)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "community"
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
@@ -319,34 +270,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "talent-journey-junior-backend-developer-future-position",
-   "title": "Junior Backend Developer - Future Position",
-   "company": "Talent Journey",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "communication",
-    "english",
-    "saas",
-    "python",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -375,6 +299,29 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "paytm-associate-user-growth-market-intelligence",
+   "title": "Associate - User Growth (Market intelligence)",
+   "company": "Paytm",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, Noida, Uttar Pradesh",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07",
+   "source": "Company careers (Lever)",
+   "posted": "2026-10-03",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -450,7 +397,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -544,29 +491,6 @@
    "first_seen": "2026-10-05T07:01+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "foodliteracyproject-hospitality-support-specialist",
-   "title": "Hospitality Support Specialist",
-   "company": "Foodliteracyproject",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 47000-65000 / year",
-   "url": "https://himalayas.app/companies/foodliteracyproject/jobs/hospitality-support-specialist",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T08:37+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "expel-associate-soc-analyst",
