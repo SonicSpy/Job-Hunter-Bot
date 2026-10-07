@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-06T21:37+00:00",
- "count": 27,
- "new_this_run": 7,
+ "updated": "2026-10-07T01:31+00:00",
+ "count": 26,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -112,29 +112,55 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "hraymo-sound-designer-hraymo",
-   "title": "Sound Designer (Hraymo)",
-   "company": "Hraymo",
+   "id": "ancient-gaming-legal-assistant",
+   "title": "Legal Assistant",
+   "company": "Ancient Gaming",
    "category": "Gaming",
    "score": 100,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/hraymo/jobs/sound-designer-hraymo",
+   "url": "https://himalayas.app/companies/ancient-gaming/jobs/legal-assistant",
    "source": "Himalayas",
    "posted": "2026-10-06",
    "matched_skills": [
-    "quality",
     "documentation",
+    "customer",
     "support",
-    "english",
+    "communication",
     "product",
     "remote",
-    "react",
     "player"
    ],
    "contract": false,
-   "first_seen": "2026-10-06T21:37+00:00",
+   "first_seen": "2026-10-07T01:31+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "harris-associate-technical-support-consultant",
+   "title": "Associate Technical Support Consultant",
+   "company": "Harris",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant",
+   "source": "Himalayas",
+   "posted": "2026-10-06",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-07T01:31+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -187,7 +213,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -241,7 +267,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -295,31 +321,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-3d-modeling-python-specialist-freelance-ai-trainer-project",
-   "title": "3D Modeling & Python Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/3d-modeling-python-specialist-freelance-ai-trainer-project",
-   "source": "Himalayas",
-   "posted": "2026-10-06",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "annotation",
-    "python",
-    "remote",
-    "javascript"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "gruve-junior-network-engineer",
    "title": "Junior Network Engineer",
    "company": "Gruve",
@@ -343,7 +344,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -371,32 +372,6 @@
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "fresh-prints-order-processing-associate",
-   "title": "Order Processing Associate",
-   "company": "Fresh Prints",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/fresh-prints/jobs/order-processing-associate-947856453",
-   "source": "Himalayas",
-   "posted": "2026-10-06",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "prompt",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -448,6 +423,33 @@
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "cyberarrow-front-end-developer-react-js-remote",
+   "title": "Front-end Developer React.js [Remote]",
+   "company": "CyberArrow",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/cyberarrow/jobs/front-end-developer-react-js-remote",
+   "source": "Himalayas",
+   "posted": "2026-10-06",
+   "matched_skills": [
+    "quality",
+    "customer",
+    "support",
+    "product",
+    "saas",
+    "remote",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-07T01:31+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -568,30 +570,6 @@
    "first_seen": "2026-10-05T07:01+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "rctic7-network-software-developer",
-   "title": "Network Software Developer",
-   "company": "Аrctic7",
-   "category": "AI-assisted developer (full stack)",
-   "score": 76,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rctic7/jobs/network-software-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-06",
-   "matched_skills": [
-    "support",
-    "english",
-    "product",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-06T21:37+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "servicenow-customer-success-executive",
