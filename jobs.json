@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T16:26+00:00",
- "count": 22,
- "new_this_run": 1,
+ "updated": "2026-10-07T21:58+00:00",
+ "count": 23,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -139,33 +139,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "gruve-technical-support-engineer",
-   "title": "Technical Support Engineer",
-   "company": "Gruve",
-   "category": "Non-coding tech (high pay)",
-   "score": 98,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/gruve/jobs/technical-support-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "jira",
-    "fresher"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-product-management-associate-product-manager-travel",
    "title": "Product Management - Associate Product Manager - Travel.",
    "company": "Paytm",
@@ -193,29 +166,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "nozomi-networks-technical-support-engineer",
-   "title": "Technical Support Engineer",
-   "company": "Nozomi Networks",
-   "category": "Non-coding tech (high pay)",
+   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
+   "title": "Remote FullStack Engineer – React + Django – AI Systems",
+   "company": "Spotter Labs",
+   "category": "AI-assisted developer (full stack)",
    "score": 96,
-   "location": "Remote, India",
+   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/nozomi-networks/jobs/technical-support-engineer",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-1898874040",
    "source": "Himalayas",
    "posted": "2026-10-07",
    "matched_skills": [
     "ai",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
     "product",
-    "api"
+    "api",
+    "python",
+    "docker",
+    "remote",
+    "react",
+    "gcp"
    ],
    "contract": false,
-   "first_seen": "2026-10-07T16:26+00:00",
+   "first_seen": "2026-10-07T21:58+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -247,31 +220,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "talent-journey-junior-frontend-developer-future-position",
-   "title": "Junior Frontend Developer - Future Position",
-   "company": "Talent Journey",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
+   "id": "mongodb-associate-hr-shared-services",
+   "title": "Associate, HR Shared Services",
+   "company": "MongoDB",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Gurugram",
+   "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position",
-   "source": "Himalayas",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377",
+   "source": "Company careers (Greenhouse)",
    "posted": "2026-10-07",
    "matched_skills": [
+    "ai",
     "quality",
-    "testing",
+    "documentation",
+    "customer",
+    "support",
     "communication",
-    "english",
-    "saas",
-    "github",
-    "remote",
-    "next.js"
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-07T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
+   "first_seen": "2026-10-07T21:58+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -514,6 +486,45 @@
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "swiggy-business-analyst",
+   "title": "Business Analyst",
+   "company": "SWIGGY",
+   "category": "Non-coding tech (high pay)",
+   "score": 72,
+   "location": "Bengaluru, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/swiggy/6000000001469629",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-07",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-07T21:58+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "mst-group-gmbh-digital-solutions-consultant-learning-ai",
+   "title": "Digital Solutions Consultant – Learning & AI",
+   "company": "mst group GmbH",
+   "category": "Non-coding tech (high pay)",
+   "score": 69,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mst-group/jobs/digital-solutions-consultant-learning-ai",
+   "source": "Himalayas",
+   "posted": "2026-10-07",
+   "matched_skills": [
+    "ai",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-07T21:58+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
