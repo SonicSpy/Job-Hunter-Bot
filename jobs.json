@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T16:27+00:00",
- "count": 26,
- "new_this_run": 4,
+ "updated": "2026-10-08T22:03+00:00",
+ "count": 29,
+ "new_this_run": 7,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -139,6 +139,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "jitterbit-java-software-engineer-connectors-remote",
+   "title": "Java Software Engineer - Connectors - Remote",
+   "company": "Jitterbit",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/jitterbit/jobs/java-software-engineer-connectors-remote-1342384693",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T22:03+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "hevo-data-associate-customer-experience-engineer",
    "title": "Associate Customer Experience Engineer",
    "company": "Hevo Data",
@@ -219,29 +246,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "huzzle-founder-s-associate-product-focus",
-   "title": "Founder's Associate (Product Focus)",
-   "company": "Huzzle",
+   "id": "talent-journey-junior-backend-developer-future-position",
+   "title": "Junior Backend Developer - Future Position",
+   "company": "Talent Journey",
    "category": "Trainee / graduate program",
    "score": 92,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/huzzle/jobs/founder-s-associate-product-focus",
+   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
    "source": "Himalayas",
    "posted": "2026-10-08",
    "matched_skills": [
-    "ai",
+    "quality",
+    "testing",
     "communication",
     "english",
-    "product",
-    "api",
-    "remote",
-    "bug",
-    "bugs"
+    "saas",
+    "python",
+    "github",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-08T16:27+00:00",
+   "first_seen": "2026-10-08T22:03+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -273,6 +300,57 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "talentcross-1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a",
+   "title": "1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A",
+   "company": "TalentCross",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "api",
+    "remote",
+    "react"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T22:03+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-vocal-audio-specialist-freelance-ai-trainer-project",
+   "title": "Vocal Audio Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 90,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/vocal-audio-specialist-freelance-ai-trainer-project",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "product",
+    "prompt",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T22:03+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -296,28 +374,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "gp-strategies-corporation-lx-functional-quality-associate",
-   "title": "LX Functional Quality Associate",
-   "company": "GP Strategies Corporation",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/gp-strategies-corporation/jobs/lx-functional-quality-associate",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
    "source": "Himalayas",
    "posted": "2026-10-08",
    "matched_skills": [
-    "quality",
-    "testing",
+    "documentation",
+    "customer",
     "support",
     "communication",
     "english",
-    "product",
+    "saas",
+    "onboarding",
     "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-08T16:27+00:00",
+   "first_seen": "2026-10-08T22:03+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -344,32 +423,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "usa-the-nature-conservancy-portfolio-associate-pfp",
-   "title": "Portfolio Associate, PFP",
-   "company": "USA The Nature Conservancy",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 60000-90000 / year",
-   "url": "https://himalayas.app/companies/usa-the-nature-conservancy/jobs/portfolio-associate-pfp",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "evaluation",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T16:27+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "steuart-nutrition-software-developer-ai-coding",
@@ -447,6 +500,28 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T16:27+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "spotter-labs-pre-sales-cold-caller",
+   "title": "Pre-Sales Cold Caller",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 80,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/pre-sales-cold-caller-578456169",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T22:03+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -543,6 +618,27 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "qwerty-community-manager-reddit",
+   "title": "Community Manager (Reddit)",
+   "company": "QWERTY",
+   "category": "Gaming",
+   "score": 75,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/qwerty/jobs/community-manager-reddit",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "jira",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T22:03+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "expel-associate-soc-analyst",
    "title": "Associate SOC Analyst",
    "company": "Expel",
@@ -565,24 +661,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "swiggy-business-analyst",
-   "title": "Business Analyst",
-   "company": "SWIGGY",
-   "category": "Non-coding tech (high pay)",
-   "score": 72,
-   "location": "Bengaluru, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/swiggy/6000000001469629",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-07",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-10-07T21:58+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "grab-solution-specialist-finance-systems",
