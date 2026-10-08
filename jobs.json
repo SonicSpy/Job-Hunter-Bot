@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T01:54+00:00",
- "count": 25,
- "new_this_run": 4,
+ "updated": "2026-10-08T08:56+00:00",
+ "count": 30,
+ "new_this_run": 9,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -112,56 +112,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "parexel-ai-engineer-agent-platform-tracks",
-   "title": "AI Engineer, Agent/Platform Tracks",
-   "company": "Parexel",
+   "id": "simbian-full-stack-engineer-backend-heavy",
+   "title": "Full Stack Engineer (Backend Heavy)",
+   "company": "Simbian",
    "category": "AI-assisted developer (full stack)",
    "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/parexel/jobs/ai-engineer-agent-platform-tracks",
+   "url": "https://himalayas.app/companies/simbian/jobs/full-stack-engineer-backend-heavy",
    "source": "Himalayas",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "matched_skills": [
     "evaluation",
-    "llm",
     "ai",
     "quality",
-    "testing",
-    "communication",
-    "product",
-    "dataset"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T01:54+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "harris-associate-technical-support-consultant",
-   "title": "Associate Technical Support Consultant",
-   "company": "Harris",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant",
-   "source": "Himalayas",
-   "posted": "2026-10-06",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
     "customer",
     "support",
-    "communication",
     "product",
-    "sql"
+    "dataset",
+    "python"
    ],
    "contract": false,
-   "first_seen": "2026-10-08T01:54+00:00",
+   "first_seen": "2026-10-08T08:56+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -218,33 +191,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "seamless-assist-automation-ai-developer",
-   "title": "Automation & AI Developer",
-   "company": "Seamless Assist",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/seamless-assist/jobs/automation-ai-developer-6921992033",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "documentation",
-    "support",
-    "english",
-    "python",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T01:54+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "hevo-data-associate-customer-experience-engineer",
@@ -327,6 +273,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -348,32 +317,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "neat-solutions-engineer-government",
-   "title": "Solutions Engineer, Government",
-   "company": "Neat",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/neat-no/jobs/solutions-engineer-government",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "evaluation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T01:54+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -450,6 +393,55 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "sdf-systems-software-engineer-php-remote",
+   "title": "Software Engineer (PHP) - Remote",
+   "company": "SDF Systems",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sdf-systems/jobs/software-engineer-php-remote",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "communication",
+    "api",
+    "remote",
+    "javascript",
+    "postgresql",
+    "bugs",
+    "player"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "druva-sales-engineer",
+   "title": "Sales Engineer",
+   "company": "Druva",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Pune, Maharashtra, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://www.druva.com/why-druva/explore/careers/jobs/8857583002/?gh_jid=8857583002",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -545,6 +537,51 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "cloudcops-gmbh-junior-devops-cloud-engineer",
+   "title": "Junior DevOps / Cloud Engineer",
+   "company": "CloudCops GmbH",
+   "category": "Trainee / graduate program",
+   "score": 74,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "EUR 65000-85000 / year",
+   "url": "https://himalayas.app/companies/cloudcops-gmbh/jobs/junior-devops-cloud-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "github",
+    "remote",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "parqet-fintech-gmbh-mobile-engineer-react-native",
+   "title": "Mobile Engineer (React Native)",
+   "company": "Parqet Fintech GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 73,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "EUR 60000-85000 / year",
+   "url": "https://himalayas.app/companies/parqet-fintech-gmbh/jobs/mobile-engineer-react-native",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "remote",
+    "react",
+    "typescript",
+    "playstore"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "expel-associate-soc-analyst",
    "title": "Associate SOC Analyst",
    "company": "Expel",
@@ -585,6 +622,64 @@
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "grab-solution-specialist-finance-systems",
+   "title": "Solution Specialist, Finance Systems",
+   "company": "Grab",
+   "category": "Non-coding tech (high pay)",
+   "score": 72,
+   "location": "Bangalore, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/grab/744000154359024",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-08",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "l21s-gmbh-software-engineer-m-w-d",
+   "title": "Software Engineer (m/w/d)",
+   "company": "L21s GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 64,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/l21s-gmbh/jobs/software-engineer-m-w-d",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "microtech-gmbh-delphi-software-developer-m-w-d",
+   "title": "Delphi Software Developer (m/w/d)",
+   "company": "microtech GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 64,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/microtech-gmbh/jobs/delphi-software-developer-m-w-d",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T08:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",

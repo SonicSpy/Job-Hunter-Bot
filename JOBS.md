@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 08 Oct 2026, 01:54 UTC · 25 open matches
+Updated 08 Oct 2026, 08:56 UTC · 30 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -8,24 +8,29 @@ Updated 08 Oct 2026, 01:54 UTC · 25 open matches
 | 100 | [QA Engineer](https://job-boards.greenhouse.io/scopely/jobs/5425473008?gh_jid=5425473008) | Scopely | Hybrid | IN - Bangalore, India | Not listed | 2026-09-18 |
 | 100 | [Technical Support Engineer 2](https://job-boards.greenhouse.io/twilio/jobs/8239751) | Twilio | Remote | Remote - India | Not listed | 2026-10-05 |
 | 100 | [Software Engineer / AI Code Trainer (Python, Web, Full Stack)](https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149) | CodeForAI | Remote | Remote, USA, UK, India, Australia, Irela | $45-$120/Hour | 2026-10-05 |
-| 100 | [AI Engineer, Agent/Platform Tracks](https://himalayas.app/companies/parexel/jobs/ai-engineer-agent-platform-tracks) 🆕 | Parexel | Remote | Remote, India | Not listed | 2026-10-07 |
-| 100 | [Associate Technical Support Consultant](https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant) 🆕 | Harris | Remote | Remote, India | Not listed | 2026-10-06 |
+| 100 | [Full Stack Engineer (Backend Heavy)](https://himalayas.app/companies/simbian/jobs/full-stack-engineer-backend-heavy) 🆕 | Simbian | Remote | Remote, India | Not listed | 2026-10-08 |
 | 99 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 97 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
-| 96 | [Automation & AI Developer](https://himalayas.app/companies/seamless-assist/jobs/automation-ai-developer-6921992033) 🆕 | Seamless Assist | Remote | Remote, India | Not listed | 2026-10-07 |
 | 93 | [Associate Customer Experience Engineer](https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda) | Hevo Data | On-site | Pune, Maharashtra | Not listed | 2026-09-25 |
 | 92 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
+| 91 | [SysAdmin/DevOps](https://himalayas.app/companies/reality-games/jobs/sysadmin-devops) 🆕 | Reality Games | Remote | Remote, Worldwide | Not listed | 2026-10-08 |
 | 89 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
-| 87 | [Solutions Engineer, Government](https://himalayas.app/companies/neat-no/jobs/solutions-engineer-government) 🆕 | Neat | Remote | Remote, India | Not listed | 2026-10-07 |
 | 86 | [Forward Deployed Engineer, Professional Services](https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305) | Cloudflare | Remote | Distributed | Not listed | 2026-09-23 |
 | 85 | [Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding) | STEUART NUTRITION | Remote | Remote, Anywhere in the World | Not listed | 2026-09-23 |
 | 85 | [Product Analyst II](https://job-boards.greenhouse.io/inmobi/jobs/8181422) | InMobi | On-site | Bangalore | Not listed | 2026-10-06 |
+| 82 | [Software Engineer (PHP) - Remote](https://himalayas.app/companies/sdf-systems/jobs/software-engineer-php-remote) 🆕 | SDF Systems | Remote | Remote, Worldwide | Not listed | 2026-10-08 |
+| 81 | [Sales Engineer](https://www.druva.com/why-druva/explore/careers/jobs/8857583002/?gh_jid=8857583002) 🆕 | Druva | On-site | Pune, Maharashtra, India | Not listed | 2026-10-08 |
 | 79 | [Business Development & Growth Associate, Pharma](https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 79 | [Associate - Operations](https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad) | Meesho | On-site | Bangalore, Karnataka | Not listed | 2026-10-01 |
 | 77 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 76 | [Research Fellowship: Agent Intelligence & Evaluation](https://jobs.smartrecruiters.com/ixigo/744000153403639) | ixigo | On-site | New Delhi, in | Not listed | 2026-10-05 |
+| 74 | [Junior DevOps / Cloud Engineer](https://himalayas.app/companies/cloudcops-gmbh/jobs/junior-devops-cloud-engineer) 🆕 | CloudCops GmbH | Remote | Remote, Worldwide | EUR 65000-85000 / year | 2026-10-08 |
+| 73 | [Mobile Engineer (React Native)](https://himalayas.app/companies/parqet-fintech-gmbh/jobs/mobile-engineer-react-native) 🆕 | Parqet Fintech GmbH | Remote | Remote, Worldwide | EUR 60000-85000 / year | 2026-10-08 |
 | 72 | [Associate SOC Analyst](https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst) | Expel | Remote | Remote, Anywhere in the World | Not listed | 2026-09-27 |
 | 72 | [Business Analyst](https://jobs.smartrecruiters.com/swiggy/6000000001469629) | SWIGGY | On-site | Bengaluru, in | Not listed | 2026-10-07 |
+| 72 | [Solution Specialist, Finance Systems](https://jobs.smartrecruiters.com/grab/744000154359024) 🆕 | Grab | On-site | Bangalore, in | Not listed | 2026-10-08 |
+| 64 | [Software Engineer (m/w/d)](https://himalayas.app/companies/l21s-gmbh/jobs/software-engineer-m-w-d) 🆕 | L21s GmbH | Remote | Remote, Worldwide | Not listed | 2026-10-08 |
+| 64 | [Delphi Software Developer (m/w/d)](https://himalayas.app/companies/microtech-gmbh/jobs/delphi-software-developer-m-w-d) 🆕 | microtech GmbH | Remote | Remote, Worldwide | Not listed | 2026-10-08 |
 | 59 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Remote | Remote, Worldwide | Not listed | 2026-09-23 |
 | 56 | [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Remote | Remote, Worldwide | Not listed | 2026-09-22 |
