@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T08:56+00:00",
- "count": 30,
- "new_this_run": 9,
+ "updated": "2026-10-08T16:27+00:00",
+ "count": 26,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -112,33 +112,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "simbian-full-stack-engineer-backend-heavy",
-   "title": "Full Stack Engineer (Backend Heavy)",
-   "company": "Simbian",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/simbian/jobs/full-stack-engineer-backend-heavy",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "product",
-    "dataset",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -166,33 +139,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "paytm-product-management-associate-product-manager-travel",
-   "title": "Product Management - Associate Product Manager - Travel.",
-   "company": "Paytm",
-   "category": "Non-coding tech (high pay)",
-   "score": 97,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
-   "source": "Company careers (Lever)",
-   "posted": "2026-09-30",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "product",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "hevo-data-associate-customer-experience-engineer",
    "title": "Associate Customer Experience Engineer",
    "company": "Hevo Data",
@@ -213,6 +159,33 @@
     "communication",
     "product",
     "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "paytm-product-management-associate-product-manager-travel",
+   "title": "Product Management - Associate Product Manager - Travel.",
+   "company": "Paytm",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Noida, Uttar Pradesh",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
+   "source": "Company careers (Lever)",
+   "posted": "2026-09-30",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "communication",
+    "product",
+    "analysis"
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
@@ -246,6 +219,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "huzzle-founder-s-associate-product-focus",
+   "title": "Founder's Associate (Product Focus)",
+   "company": "Huzzle",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/huzzle/jobs/founder-s-associate-product-focus",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "ai",
+    "communication",
+    "english",
+    "product",
+    "api",
+    "remote",
+    "bug",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T16:27+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -273,29 +273,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "documentation",
-    "product",
-    "docker",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -317,6 +294,32 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "gp-strategies-corporation-lx-functional-quality-associate",
+   "title": "LX Functional Quality Associate",
+   "company": "GP Strategies Corporation",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/gp-strategies-corporation/jobs/lx-functional-quality-associate",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T16:27+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -341,6 +344,32 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "usa-the-nature-conservancy-portfolio-associate-pfp",
+   "title": "Portfolio Associate, PFP",
+   "company": "USA The Nature Conservancy",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 60000-90000 / year",
+   "url": "https://himalayas.app/companies/usa-the-nature-conservancy/jobs/portfolio-associate-pfp",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "evaluation",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T16:27+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "steuart-nutrition-software-developer-ai-coding",
@@ -396,53 +425,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "sdf-systems-software-engineer-php-remote",
-   "title": "Software Engineer (PHP) - Remote",
-   "company": "SDF Systems",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
+   "id": "ashby-product-support-specialist-apac",
+   "title": "Product Support Specialist - APAC",
+   "company": "Ashby",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Remote, APAC",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sdf-systems/jobs/software-engineer-php-remote",
-   "source": "Himalayas",
+   "url": "https://jobicy.com/jobs/154816-product-support-specialist-apac",
+   "source": "Jobicy (find company link before applying)",
    "posted": "2026-10-08",
    "matched_skills": [
-    "communication",
-    "api",
-    "remote",
-    "javascript",
-    "postgresql",
-    "bugs",
-    "player"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "druva-sales-engineer",
-   "title": "Sales Engineer",
-   "company": "Druva",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Pune, Maharashtra, India",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://www.druva.com/why-druva/explore/careers/jobs/8857583002/?gh_jid=8857583002",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "ai",
+    "quality",
     "customer",
     "support",
-    "saas"
+    "communication",
+    "product",
+    "saas",
+    "onboarding"
    ],
    "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
+   "first_seen": "2026-10-08T16:27+00:00",
    "new": true,
-   "verified": "Live on company careers page"
+   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
@@ -537,51 +543,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "cloudcops-gmbh-junior-devops-cloud-engineer",
-   "title": "Junior DevOps / Cloud Engineer",
-   "company": "CloudCops GmbH",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "EUR 65000-85000 / year",
-   "url": "https://himalayas.app/companies/cloudcops-gmbh/jobs/junior-devops-cloud-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "github",
-    "remote",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "parqet-fintech-gmbh-mobile-engineer-react-native",
-   "title": "Mobile Engineer (React Native)",
-   "company": "Parqet Fintech GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 73,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "EUR 60000-85000 / year",
-   "url": "https://himalayas.app/companies/parqet-fintech-gmbh/jobs/mobile-engineer-react-native",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "remote",
-    "react",
-    "typescript",
-    "playstore"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "expel-associate-soc-analyst",
    "title": "Associate SOC Analyst",
    "company": "Expel",
@@ -638,48 +599,8 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "l21s-gmbh-software-engineer-m-w-d",
-   "title": "Software Engineer (m/w/d)",
-   "company": "L21s GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 64,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/l21s-gmbh/jobs/software-engineer-m-w-d",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "microtech-gmbh-delphi-software-developer-m-w-d",
-   "title": "Delphi Software Developer (m/w/d)",
-   "company": "microtech GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 64,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/microtech-gmbh/jobs/delphi-software-developer-m-w-d",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
