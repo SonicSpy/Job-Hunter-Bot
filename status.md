@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed or ghost jobs removed: 0
+Last run 2026-10-08T01:54+00:00 · raw jobs read: 12154 · matches: 25 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 255
@@ -22,7 +22,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 645 | ok |
+| Anthropic | greenhouse | 646 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -54,18 +54,18 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 427 | ok |
+| Cloudflare | greenhouse | 426 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
-| Cohere | ashby | 125 | ok |
+| Cohere | ashby | 126 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
 | Confluent | ashby | 17 | ok |
 | Coursera | greenhouse | 18 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 894 | ok |
+| Databricks | greenhouse | 893 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
-| Discord | greenhouse | 49 | ok |
+| Discord | greenhouse | 47 | ok |
 | Dream Games | greenhouse | 1 | ok |
 | Dream Sports | not found | 0 | add careers link manually if needed |
 | Dream11 | not found | 0 | add careers link manually if needed |
@@ -76,7 +76,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Elastic | greenhouse | 417 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
-| Epic Games | greenhouse | 148 | ok |
+| Epic Games | greenhouse | 150 | ok |
 | Eruditus | not found | 0 | add careers link manually if needed |
 | Everstage | not found | 0 | add careers link manually if needed |
 | Exotel | not found | 0 | add careers link manually if needed |
@@ -204,7 +204,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 372 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 817 | ok |
+| OpenAI | ashby | 815 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -234,7 +234,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Revolut | not found | 0 | add careers link manually if needed |
 | Riot Games | greenhouse | 165 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 259 | ok |
+| Roblox | greenhouse | 260 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 28 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
@@ -245,7 +245,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Sarvam | ashby | 41 | ok |
 | Sauce Labs | greenhouse | 10 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
-| Scale AI | greenhouse | 188 | ok |
+| Scale AI | greenhouse | 187 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
 | Scopely | greenhouse | 168 | ok |
@@ -261,7 +261,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Slice | greenhouse | 25 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 44 | ok |
-| Snowflake | ashby | 353 | ok |
+| Snowflake | ashby | 356 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
@@ -270,7 +270,7 @@ Last run 2026-10-07T21:58+00:00 · raw jobs read: 12152 · matches: 23 · closed
 | Stripe | greenhouse | 722 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
-| Supabase | ashby | 52 | ok |
+| Supabase | ashby | 53 | ok |
 | SuperGaming | not found | 0 | add careers link manually if needed |
 | Supercell | ashby | 30 | ok |
 | Surge AI | ashby | 28 | ok |

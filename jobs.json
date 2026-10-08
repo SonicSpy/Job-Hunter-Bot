@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-07T21:58+00:00",
- "count": 23,
+ "updated": "2026-10-08T01:54+00:00",
+ "count": 25,
  "new_this_run": 4,
  "jobs": [
   {
@@ -112,6 +112,60 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "parexel-ai-engineer-agent-platform-tracks",
+   "title": "AI Engineer, Agent/Platform Tracks",
+   "company": "Parexel",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/parexel/jobs/ai-engineer-agent-platform-tracks",
+   "source": "Himalayas",
+   "posted": "2026-10-07",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "communication",
+    "product",
+    "dataset"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T01:54+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "harris-associate-technical-support-consultant",
+   "title": "Associate Technical Support Consultant",
+   "company": "Harris",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant",
+   "source": "Himalayas",
+   "posted": "2026-10-06",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T01:54+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -166,29 +220,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
-   "title": "Remote FullStack Engineer – React + Django – AI Systems",
-   "company": "Spotter Labs",
+   "id": "seamless-assist-automation-ai-developer",
+   "title": "Automation & AI Developer",
+   "company": "Seamless Assist",
    "category": "AI-assisted developer (full stack)",
    "score": 96,
-   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-1898874040",
+   "url": "https://himalayas.app/companies/seamless-assist/jobs/automation-ai-developer-6921992033",
    "source": "Himalayas",
    "posted": "2026-10-07",
    "matched_skills": [
+    "llm",
     "ai",
-    "product",
-    "api",
+    "documentation",
+    "support",
+    "english",
     "python",
-    "docker",
-    "remote",
-    "react",
-    "gcp"
+    "github",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-07T21:58+00:00",
+   "first_seen": "2026-10-08T01:54+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -242,7 +296,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T21:58+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -294,6 +348,32 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "neat-solutions-engineer-government",
+   "title": "Solutions Engineer, Government",
+   "company": "Neat",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/neat-no/jobs/solutions-engineer-government",
+   "source": "Himalayas",
+   "posted": "2026-10-07",
+   "matched_skills": [
+    "evaluation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-08T01:54+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -503,29 +583,8 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-07T21:58+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "mst-group-gmbh-digital-solutions-consultant-learning-ai",
-   "title": "Digital Solutions Consultant – Learning & AI",
-   "company": "mst group GmbH",
-   "category": "Non-coding tech (high pay)",
-   "score": 69,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mst-group/jobs/digital-solutions-consultant-learning-ai",
-   "source": "Himalayas",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "ai",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T21:58+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
