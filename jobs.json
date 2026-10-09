@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-09T02:07+00:00",
- "count": 30,
+ "updated": "2026-10-09T09:00+00:00",
+ "count": 24,
  "new_this_run": 2,
  "jobs": [
   {
@@ -85,33 +85,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "codeforai-software-engineer-ai-code-trainer-python-web-full-stack",
-   "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-   "company": "CodeForAI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-   "mode": "Remote",
-   "salary": "$45-$120/Hour",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-   "source": "Remotive (find company link before applying)",
-   "posted": "2026-10-05",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "product",
-    "api",
-    "sql",
-    "analysis"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-06T16:49+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -139,29 +112,56 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "jitterbit-java-software-engineer-connectors-remote",
-   "title": "Java Software Engineer - Connectors - Remote",
-   "company": "Jitterbit",
+   "id": "ab-inbev-ai-engineer",
+   "title": "AI Engineer",
+   "company": "AB InBev",
    "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
+   "score": 99,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/jitterbit/jobs/java-software-engineer-connectors-remote-1342384693",
+   "url": "https://himalayas.app/companies/ab-inbev/jobs/ai-engineer",
    "source": "Himalayas",
-   "posted": "2026-10-08",
+   "posted": "2026-10-09",
    "matched_skills": [
-    "quality",
+    "evaluation",
+    "llm",
+    "ai",
     "testing",
     "customer",
     "support",
-    "communication",
     "product",
-    "api",
-    "sql"
+    "prompt"
    ],
    "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
+   "first_seen": "2026-10-09T09:00+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "codeforai-software-engineer-ai-code-trainer-python-web-full-stack",
+   "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+   "company": "CodeForAI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 98,
+   "location": "Remote, USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+   "mode": "Remote",
+   "salary": "$45-$120/Hour",
+   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+   "source": "Remotive (find company link before applying)",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "communication",
+    "english",
+    "product",
+    "api",
+    "sql",
+    "analysis"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-06T16:49+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -246,33 +246,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "talent-journey-junior-backend-developer-future-position",
-   "title": "Junior Backend Developer - Future Position",
-   "company": "Talent Journey",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "communication",
-    "english",
-    "saas",
-    "python",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -300,33 +273,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "talentcross-1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a",
-   "title": "1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A",
-   "company": "TalentCross",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "support",
-    "product",
-    "api",
-    "remote",
-    "react"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -348,33 +294,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -399,6 +318,31 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "adm-group-finance-administrator-entry-level-remote-mumbai",
+   "title": "Finance Administrator  - Entry level (Remote - Mumbai)",
+   "company": "adm Group",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/adm-group/jobs/finance-administrator-entry-level-remote-mumbai",
+   "source": "Himalayas",
+   "posted": "2026-10-09",
+   "matched_skills": [
+    "documentation",
+    "support",
+    "communication",
+    "english",
+    "entry level",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-09T09:00+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "steuart-nutrition-software-developer-ai-coding",
@@ -480,28 +424,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "spotter-labs-pre-sales-cold-caller",
-   "title": "Pre-Sales Cold Caller",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 80,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/pre-sales-cold-caller-578456169",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "valnet-tech-sites-thetravel-junior-editor",
    "title": "TheTravel | Junior Editor",
    "company": "Valnet Tech Sites",
@@ -522,7 +444,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-09T02:07+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -551,28 +473,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "meesho-associate-operations",
-   "title": "Associate - Operations",
-   "company": "Meesho",
-   "category": "Trainee / graduate program",
-   "score": 79,
-   "location": "Bangalore, Karnataka",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
-   "source": "Company careers (Lever)",
-   "posted": "2026-10-01",
-   "matched_skills": [
-    "quality",
-    "product",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-05T07:01+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -594,47 +494,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "ixigo-research-fellowship-agent-intelligence-evaluation",
-   "title": "Research Fellowship: Agent Intelligence & Evaluation",
-   "company": "ixigo",
-   "category": "AI evaluation / AI trainer",
-   "score": 76,
-   "location": "New Delhi, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/ixigo/744000153403639",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-05",
-   "matched_skills": [
-    "evaluation"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-05T07:01+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "qwerty-community-manager-reddit",
-   "title": "Community Manager (Reddit)",
-   "company": "QWERTY",
-   "category": "Gaming",
-   "score": 75,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/qwerty/jobs/community-manager-reddit",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "jira",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -663,6 +522,26 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "ixigo-research-fellowship-agent-intelligence-evaluation",
+   "title": "Research Fellowship: Agent Intelligence & Evaluation",
+   "company": "ixigo",
+   "category": "AI evaluation / AI trainer",
+   "score": 72,
+   "location": "New Delhi, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/ixigo/744000153403639",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-05",
+   "matched_skills": [
+    "evaluation"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-05T07:01+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "grab-solution-specialist-finance-systems",
    "title": "Solution Specialist, Finance Systems",
    "company": "Grab",
@@ -679,28 +558,6 @@
    "first_seen": "2026-10-08T08:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "pontoonglobal-servicenow-cpq-business-analyst",
-   "title": "ServiceNow CPQ – Business Analyst",
-   "company": "Pontoonglobal",
-   "category": "Non-coding tech (high pay)",
-   "score": 72,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/pontoonglobal/jobs/servicenow-cpq-business-analyst",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "documentation",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-09T02:07+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
