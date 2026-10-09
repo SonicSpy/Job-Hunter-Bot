@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T22:03+00:00",
- "count": 29,
- "new_this_run": 7,
+ "updated": "2026-10-09T02:07+00:00",
+ "count": 30,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -162,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -269,7 +269,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -323,31 +323,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-vocal-audio-specialist-freelance-ai-trainer-project",
-   "title": "Vocal Audio Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/vocal-audio-specialist-freelance-ai-trainer-project",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "product",
-    "prompt",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -397,7 +373,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -522,6 +498,30 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "valnet-tech-sites-thetravel-junior-editor",
+   "title": "TheTravel | Junior Editor",
+   "company": "Valnet Tech Sites",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/valnet-tech-sites/jobs/thetravel-junior-editor",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "evaluation",
+    "quality",
+    "documentation",
+    "communication",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-09T02:07+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -635,7 +635,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-08T22:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -679,6 +679,28 @@
    "first_seen": "2026-10-08T08:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "pontoonglobal-servicenow-cpq-business-analyst",
+   "title": "ServiceNow CPQ – Business Analyst",
+   "company": "Pontoonglobal",
+   "category": "Non-coding tech (high pay)",
+   "score": 72,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pontoonglobal/jobs/servicenow-cpq-business-analyst",
+   "source": "Himalayas",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "documentation",
+    "communication",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-09T02:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
