@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-09T09:00+00:00",
- "count": 24,
- "new_this_run": 2,
+ "updated": "2026-10-09T16:10+00:00",
+ "count": 23,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "canonical-junior-software-engineer-cross-platform-c-multipass",
+   "title": "Junior Software Engineer - Cross-platform C++ - Multipass",
+   "company": "Canonical",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, Australia, Canada, Germany, India, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/canonical/jobs/junior-software-engineer-cross-platform-c-multipass",
+   "source": "Himalayas",
+   "posted": "2026-10-09",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-09T16:10+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -135,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-09T09:00+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -341,7 +368,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-09T09:00+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -396,56 +423,6 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "ashby-product-support-specialist-apac",
-   "title": "Product Support Specialist - APAC",
-   "company": "Ashby",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, APAC",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/154816-product-support-specialist-apac",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-08T16:27+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "valnet-tech-sites-thetravel-junior-editor",
-   "title": "TheTravel | Junior Editor",
-   "company": "Valnet Tech Sites",
-   "category": "Trainee / graduate program",
-   "score": 80,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/valnet-tech-sites/jobs/thetravel-junior-editor",
-   "source": "Himalayas",
-   "posted": "2026-10-08",
-   "matched_skills": [
-    "evaluation",
-    "quality",
-    "documentation",
-    "communication",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-09T02:07+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
