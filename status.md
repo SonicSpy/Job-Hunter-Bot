@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed or ghost jobs removed: 0
+Last run 2026-10-10T18:33+00:00 · raw jobs read: 12216 · matches: 19 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -110,7 +110,7 @@ Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | Groww | greenhouse | 9 | ok |
 | Gupshup | not found | 0 | add careers link manually if needed |
 | HackerEarth | not found | 0 | add careers link manually if needed |
-| HackerRank | greenhouse | 26 | ok |
+| HackerRank | greenhouse | 28 | ok |
 | Handshake | greenhouse | 9 | ok |
 | Haptik | not found | 0 | add careers link manually if needed |
 | HashiCorp | not found | 0 | add careers link manually if needed |
@@ -119,7 +119,7 @@ Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | Hevo Data | lever | 52 | ok |
 | Hitwicket | not found | 0 | add careers link manually if needed |
 | Homa Games | not found | 0 | add careers link manually if needed |
-| HubSpot | greenhouse | 0 | HTTP Error 404: Not Found |
+| HubSpot | not found | 0 | add careers link manually if needed |
 | Hugging Face | workable | 6 | ok |
 | Hutch Games | not found | 0 | add careers link manually if needed |
 | Huuuge Games | not found | 0 | add careers link manually if needed |
@@ -208,7 +208,7 @@ Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
-| Paytm | lever | 181 | ok |
+| Paytm | lever | 180 | ok |
 | Perplexity | ashby | 132 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
@@ -245,7 +245,7 @@ Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | Sarvam | ashby | 41 | ok |
 | Sauce Labs | greenhouse | 11 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
-| Scale AI | greenhouse | 183 | ok |
+| Scale AI | greenhouse | 182 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
 | Scopely | greenhouse | 172 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 1

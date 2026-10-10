@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 10 Oct 2026, 13:39 UTC · 19 open matches
+Updated 10 Oct 2026, 18:33 UTC · 19 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -11,12 +11,12 @@ Updated 10 Oct 2026, 13:39 UTC · 19 open matches
 | 93 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
 | 92 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
-| 91 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) 🆕 | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
+| 91 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 89 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
-| 87 | [Enterprise Solution Specialist III](https://himalayas.app/companies/jabil/jobs/enterprise-solution-specialist-iii) 🆕 | Jabil | Remote | Remote, India | Not listed | 2026-10-10 |
 | 86 | [Forward Deployed Engineer, Professional Services](https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305) | Cloudflare | Remote | Distributed | Not listed | 2026-09-23 |
 | 85 | [Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding) | STEUART NUTRITION | Remote | Remote, Anywhere in the World | Not listed | 2026-09-23 |
 | 85 | [Product Analyst II](https://job-boards.greenhouse.io/inmobi/jobs/8181422) | InMobi | On-site | Bangalore | Not listed | 2026-10-06 |
+| 83 | [Collections Associate](https://himalayas.app/companies/noctrix-health/jobs/collections-associate) 🆕 | Noctrix Health | Remote | Remote, Worldwide | Not listed | 2026-10-10 |
 | 79 | [Business Development & Growth Associate, Pharma](https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 77 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 72 | [Research Fellowship: Agent Intelligence & Evaluation](https://jobs.smartrecruiters.com/ixigo/744000153403639) | ixigo | On-site | New Delhi, in | Not listed | 2026-10-05 |

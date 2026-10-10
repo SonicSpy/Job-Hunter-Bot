@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T13:39+00:00",
+ "updated": "2026-10-10T18:33+00:00",
  "count": 19,
- "new_this_run": 2,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -215,7 +215,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -240,32 +240,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "jabil-enterprise-solution-specialist-iii",
-   "title": "Enterprise Solution Specialist III",
-   "company": "Jabil",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/jabil/jobs/enterprise-solution-specialist-iii",
-   "source": "Himalayas",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "product",
-    "analysis",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T13:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -343,6 +317,31 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "noctrix-health-collections-associate",
+   "title": "Collections Associate",
+   "company": "Noctrix Health",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/noctrix-health/jobs/collections-associate",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-10T18:33+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
