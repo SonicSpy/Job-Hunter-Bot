@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T00:48+00:00",
- "count": 25,
- "new_this_run": 5,
+ "updated": "2026-10-10T07:04+00:00",
+ "count": 23,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "hevo-data-associate-technical-writer",
@@ -109,29 +109,6 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "grid-junior-live-esports-trader-moba-league-of-legends-m-f-x",
-   "title": "Junior Live Esports Trader – MOBA (League of Legends) (m/f/x)",
-   "company": "GRID",
-   "category": "Gaming",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/grid/jobs/junior-live-esports-trader-moba-league-of-legends-m-f-x",
-   "source": "Himalayas",
-   "posted": "2026-10-09",
-   "matched_skills": [
-    "support",
-    "english",
-    "player",
-    "esports"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T00:48+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -269,6 +246,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T07:04+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -292,54 +292,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "moneygram-implementation-coordinator",
-   "title": "Implementation Coordinator",
+   "id": "moneygram-customer-support-specialist-inbound-calls",
+   "title": "Customer Support Specialist - inbound calls",
    "company": "MoneyGram",
-   "category": "Non-coding tech (high pay)",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 350000-370000 / year",
-   "url": "https://himalayas.app/companies/moneygram/jobs/implementation-coordinator",
-   "source": "Himalayas",
-   "posted": "2026-10-09",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T00:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
    "category": "Non-coding tech (high pay)",
    "score": 87,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
+   "url": "https://himalayas.app/companies/moneygram/jobs/customer-support-specialist-inbound-calls",
    "source": "Himalayas",
-   "posted": "2026-10-09",
+   "posted": "2026-10-10",
    "matched_skills": [
-    "documentation",
+    "quality",
     "customer",
     "support",
     "communication",
     "english",
-    "saas",
-    "onboarding",
-    "remote"
+    "product",
+    "remote",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-10T00:48+00:00",
+   "first_seen": "2026-10-10T07:04+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -366,33 +341,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
-   "source": "Himalayas",
-   "posted": "2026-10-09",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-10T00:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "steuart-nutrition-software-developer-ai-coding",
@@ -448,28 +396,25 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "ewor-gmbh-applied-ai-co-founder-coo-100-remote-m-f-d",
-   "title": "Applied AI Co-Founder / COO (100 % remote) (m/f/d)",
-   "company": "EWOR GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
+   "id": "jobs-for-humanity-go-ai-associate-only-person-with-disability",
+   "title": "Go AI Associate - Only person with disability",
+   "company": "Jobs for Humanity",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-coo-100-remote-m-f-d-1185467627",
+   "url": "https://himalayas.app/companies/jobs-for-humanity/jobs/go-ai-associate-only-person-with-disability-9016408796",
    "source": "Himalayas",
-   "posted": "2026-10-09",
+   "posted": "2026-10-10",
    "matched_skills": [
     "ai",
-    "support",
-    "communication",
-    "english",
+    "quality",
     "product",
-    "remote",
-    "community"
+    "annotation"
    ],
    "contract": false,
-   "first_seen": "2026-10-10T00:48+00:00",
+   "first_seen": "2026-10-10T07:04+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -524,27 +469,25 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "expel-associate-soc-analyst",
-   "title": "Associate SOC Analyst",
-   "company": "Expel",
-   "category": "Trainee / graduate program",
-   "score": 72,
-   "location": "Remote, Anywhere in the World",
+   "id": "thehivecareers-pre-sales-proposal-analyst-technical-projects",
+   "title": "Pre-Sales Proposal Analyst (Technical Projects)",
+   "company": "TheHiveCareers",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-09-27",
+   "url": "https://himalayas.app/companies/thehivecareers/jobs/pre-sales-proposal-analyst-technical-projects-3827546004",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
    "matched_skills": [
-    "customer",
-    "communication",
-    "analysis",
-    "remote",
-    "gcp"
+    "ai",
+    "support",
+    "remote"
    ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
+   "contract": true,
+   "first_seen": "2026-10-10T07:04+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {

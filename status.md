@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed or ghost jobs removed: 0
+Last run 2026-10-10T07:04+00:00 · raw jobs read: 12196 · matches: 23 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 255
@@ -8,7 +8,7 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 54
-- weworkremotely: 293
+- weworkremotely: 289
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -59,7 +59,7 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 | Cohere | ashby | 119 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
 | Confluent | ashby | 17 | ok |
-| Coursera | greenhouse | 16 | ok |
+| Coursera | greenhouse | 17 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
 | Databricks | greenhouse | 892 | ok |
@@ -125,7 +125,7 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 | Huuuge Games | not found | 0 | add careers link manually if needed |
 | INDmoney | not found | 0 | add careers link manually if needed |
 | Icertis | not found | 0 | add careers link manually if needed |
-| InMobi | greenhouse | 71 | ok |
+| InMobi | greenhouse | 72 | ok |
 | InVideo | not found | 0 | add careers link manually if needed |
 | Innovaccer | not found | 0 | add careers link manually if needed |
 | Intercom | greenhouse | 106 | ok |
@@ -232,7 +232,7 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 | Remote | greenhouse | 2 | ok |
 | Replit | ashby | 69 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
-| Riot Games | greenhouse | 162 | ok |
+| Riot Games | greenhouse | 160 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
 | Roblox | greenhouse | 265 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
@@ -245,7 +245,7 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 | Sarvam | ashby | 41 | ok |
 | Sauce Labs | greenhouse | 11 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
-| Scale AI | greenhouse | 182 | ok |
+| Scale AI | greenhouse | 183 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
 | Scopely | greenhouse | 172 | ok |
@@ -321,11 +321,11 @@ Last run 2026-10-10T00:48+00:00 · raw jobs read: 12199 · matches: 25 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 380 | ok |
+| Zscaler | greenhouse | 379 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
-| ixigo | smartrecruiters | 9 | ok |
+| ixigo | smartrecruiters | 10 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 5
+Telegram: sent 4
