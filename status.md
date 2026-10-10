@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-10T18:33+00:00 · raw jobs read: 12216 · matches: 19 · closed or ghost jobs removed: 0
+Last run 2026-10-10T22:29+00:00 · raw jobs read: 12214 · matches: 26 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 54
-- weworkremotely: 296
+- workingnomads: 53
+- weworkremotely: 295
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -328,4 +328,4 @@ Last run 2026-10-10T18:33+00:00 · raw jobs read: 12216 · matches: 19 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 8

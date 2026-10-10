@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T18:33+00:00",
- "count": 19,
- "new_this_run": 1,
+ "updated": "2026-10-10T22:29+00:00",
+ "count": 26,
+ "new_this_run": 8,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -82,6 +82,60 @@
    "contract": true,
    "first_seen": "2026-10-06T16:49+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mati-carbon-research-associate",
+   "title": "Research Associate",
+   "company": "Mati Carbon",
+   "category": "Trainee / graduate program",
+   "score": 95,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mati-carbon/jobs/research-associate",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "support",
+    "english",
+    "product",
+    "analysis",
+    "dataset"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "clario-software-developer",
+   "title": "Software Developer",
+   "company": "Clario",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/clario/jobs/software-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -219,6 +273,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "sourcegraph-software-engineer-platform-ic3",
+   "title": "Software Engineer - Platform [IC3]",
+   "company": "Sourcegraph",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 74000-148000 / year",
+   "url": "https://himalayas.app/companies/sourcegraph-com/jobs/software-engineer-platform-ic3",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -319,27 +400,28 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "noctrix-health-collections-associate",
-   "title": "Collections Associate",
-   "company": "Noctrix Health",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, Worldwide",
+   "id": "bigbinary-react-native-engineer",
+   "title": "React Native Engineer",
+   "company": "BigBinary",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/noctrix-health/jobs/collections-associate",
+   "url": "https://himalayas.app/companies/bigbinary/jobs/react-native-engineer",
    "source": "Himalayas",
    "posted": "2026-10-10",
    "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
+    "quality",
+    "english",
     "product",
-    "remote"
+    "github",
+    "remote",
+    "react",
+    "node"
    ],
-   "contract": true,
-   "first_seen": "2026-10-10T18:33+00:00",
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -369,6 +451,47 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "vira-games-promo-artist",
+   "title": "Promo Artist",
+   "company": "Vira Games",
+   "category": "Gaming",
+   "score": 79,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/vira-games/jobs/promo-artist",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "fresh-prints-customer-support-specialist-retail-operations",
+   "title": "Customer Support Specialist (Retail Operations)",
+   "company": "Fresh Prints",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/freshprintsshop/jobs/customer-support-specialist-retail-operations",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -391,6 +514,50 @@
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "kpmg-australia-run-automation-anywhere-rpa-developer-associate-consultant-mft-kgs-ch",
+   "title": "Run  - Automation Anywhere RPA Developer - Associate Consultant-MFT - KGS CH",
+   "company": "KPMG Australia",
+   "category": "Trainee / graduate program",
+   "score": 77,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/kpmg-australia/jobs/run-automation-anywhere-rpa-developer-associate-consultant-mft-kgs-ch",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "customer",
+    "support",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "attain-cad-polylining-and-space-business-analyst",
+   "title": "CAD, Polylining and Space Business Analyst",
+   "company": "Attain",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/attainsolutions/jobs/cad-polylining-and-space-business-analyst",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "quality",
+    "support",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T22:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
