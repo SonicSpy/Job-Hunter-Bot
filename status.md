@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-10T07:04+00:00 · raw jobs read: 12196 · matches: 23 · closed or ghost jobs removed: 0
+Last run 2026-10-10T13:39+00:00 · raw jobs read: 12216 · matches: 19 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 255
+- remotive: 270
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 54
-- weworkremotely: 289
+- weworkremotely: 296
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -267,7 +267,7 @@ Last run 2026-10-10T07:04+00:00 · raw jobs read: 12196 · matches: 23 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 729 | ok |
+| Stripe | greenhouse | 728 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -321,11 +321,11 @@ Last run 2026-10-10T07:04+00:00 · raw jobs read: 12196 · matches: 23 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 379 | ok |
+| Zscaler | greenhouse | 378 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 10 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 2
