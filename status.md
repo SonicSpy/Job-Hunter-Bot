@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-11T23:40+00:00 · raw jobs read: 12210 · matches: 26 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -8,7 +8,7 @@ Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 51
-- weworkremotely: 302
+- weworkremotely: 301
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -202,9 +202,9 @@ Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 10 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 378 | ok |
+| Okta | greenhouse | 377 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 815 | ok |
+| OpenAI | ashby | 812 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -232,7 +232,7 @@ Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed
 | Remote | greenhouse | 2 | ok |
 | Replit | ashby | 69 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
-| Riot Games | greenhouse | 160 | ok |
+| Riot Games | greenhouse | 159 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
 | Roblox | greenhouse | 265 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 728 | ok |
+| Stripe | greenhouse | 727 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 4

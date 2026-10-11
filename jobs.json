@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T20:14+00:00",
- "count": 24,
- "new_this_run": 2,
+ "updated": "2026-10-11T23:40+00:00",
+ "count": 26,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -29,33 +29,6 @@
    "first_seen": "2026-10-05T15:59+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "zimperium-customer-support-engineer-endpoint-mtd-device-cybersecurity",
-   "title": "Customer Support Engineer - Endpoint/MTD (Device) & Cybersecurity",
-   "company": "Zimperium",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/zimperium/jobs/customer-support-engineer-endpoint-mtd-device-cybersecurity",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "sql",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T20:14+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -136,6 +109,33 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "seamless-assist-automation-ai-developer",
+   "title": "Automation & AI Developer",
+   "company": "Seamless Assist",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/seamless-assist/jobs/automation-ai-developer-5963299674",
+   "source": "Himalayas",
+   "posted": "2026-10-11",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "documentation",
+    "support",
+    "english",
+    "python",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T23:40+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -326,6 +326,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
+   "source": "Himalayas",
+   "posted": "2026-10-11",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T23:40+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
    "title": "Forward Deployed Engineer, Professional Services",
    "company": "Cloudflare",
@@ -350,29 +377,27 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
+   "id": "buildbear-labs-digital-marketing-associate-global-remote",
+   "title": "Digital Marketing Associate (Global) {Remote}",
+   "company": "BuildBear Labs",
+   "category": "Trainee / graduate program",
    "score": 86,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
+   "url": "https://himalayas.app/companies/buildbear-labs/jobs/digital-marketing-associate-global-remote",
    "source": "Himalayas",
    "posted": "2026-10-11",
    "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
     "customer",
-    "support",
     "communication",
-    "english",
-    "product"
+    "product",
+    "remote",
+    "community",
+    "discord"
    ],
-   "contract": true,
-   "first_seen": "2026-10-11T20:14+00:00",
+   "contract": false,
+   "first_seen": "2026-10-11T23:40+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -424,6 +449,30 @@
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "wadhwani-ai-associate-machine-learning-scientist",
+   "title": "Associate Machine Learning Scientist",
+   "company": "Wadhwani AI",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/wadhwani-ai/jobs/associate-machine-learning-scientist-4897794238",
+   "source": "Himalayas",
+   "posted": "2026-10-11",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "analysis",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T23:40+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
