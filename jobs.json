@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T22:29+00:00",
- "count": 26,
- "new_this_run": 8,
+ "updated": "2026-10-11T01:51+00:00",
+ "count": 23,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -82,60 +82,6 @@
    "contract": true,
    "first_seen": "2026-10-06T16:49+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mati-carbon-research-associate",
-   "title": "Research Associate",
-   "company": "Mati Carbon",
-   "category": "Trainee / graduate program",
-   "score": 95,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mati-carbon/jobs/research-associate",
-   "source": "Himalayas",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "english",
-    "product",
-    "analysis",
-    "dataset"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "clario-software-developer",
-   "title": "Software Developer",
-   "company": "Clario",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/clario/jobs/software-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -273,29 +219,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sourcegraph-software-engineer-platform-ic3",
-   "title": "Software Engineer - Platform [IC3]",
-   "company": "Sourcegraph",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
+   "id": "repligen-technical-support-engineer-ii",
+   "title": "Technical Support Engineer II",
+   "company": "Repligen",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, India",
    "mode": "Remote",
-   "salary": "USD 74000-148000 / year",
-   "url": "https://himalayas.app/companies/sourcegraph-com/jobs/software-engineer-platform-ic3",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/repligen/jobs/technical-support-engineer-ii",
    "source": "Himalayas",
-   "posted": "2026-10-10",
+   "posted": "2026-10-11",
    "matched_skills": [
-    "ai",
     "quality",
+    "documentation",
     "customer",
     "support",
     "communication",
+    "english",
     "product",
-    "api",
-    "saas"
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
+   "first_seen": "2026-10-11T01:51+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -321,6 +267,32 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "pearson-advanced-associate-test-center-support",
+   "title": "Advanced Associate, Test Center Support",
+   "company": "Pearson",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pearson/jobs/advanced-associate-test-center-support",
+   "source": "Himalayas",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T01:51+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -400,32 +372,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "bigbinary-react-native-engineer",
-   "title": "React Native Engineer",
-   "company": "BigBinary",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/bigbinary/jobs/react-native-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "quality",
-    "english",
-    "product",
-    "github",
-    "remote",
-    "react",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "talkspace-business-development-growth-associate-pharma",
    "title": "Business Development & Growth Associate, Pharma",
    "company": "Talkspace",
@@ -451,43 +397,20 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "vira-games-promo-artist",
-   "title": "Promo Artist",
+   "id": "vira-games-producer-rnd",
+   "title": "Producer (RnD)",
    "company": "Vira Games",
    "category": "Gaming",
    "score": 79,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/vira-games/jobs/promo-artist",
+   "url": "https://himalayas.app/companies/vira-games/jobs/producer-rnd",
    "source": "Himalayas",
    "posted": "2026-10-10",
    "matched_skills": [],
    "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "fresh-prints-customer-support-specialist-retail-operations",
-   "title": "Customer Support Specialist (Retail Operations)",
-   "company": "Fresh Prints",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/freshprintsshop/jobs/customer-support-specialist-retail-operations",
-   "source": "Himalayas",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T22:29+00:00",
+   "first_seen": "2026-10-11T01:51+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -535,7 +458,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -557,7 +480,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-10T22:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
