@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-11T08:47+00:00 · raw jobs read: 12225 · matches: 29 · closed or ghost jobs removed: 0
+Last run 2026-10-11T15:38+00:00 · raw jobs read: 12222 · matches: 24 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -180,8 +180,8 @@ Last run 2026-10-11T08:47+00:00 · raw jobs read: 12225 · matches: 29 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 392 | ok |
-| Moon Active | ashby | 36 | ok |
+| MongoDB | greenhouse | 391 | ok |
+| Moon Active | ashby | 35 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
 | Mythical Games | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-10-11T08:47+00:00 · raw jobs read: 12225 · matches: 29 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 729 | ok |
+| Stripe | greenhouse | 728 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-11T08:47+00:00 · raw jobs read: 12225 · matches: 29 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: sent 2
