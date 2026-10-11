@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-11T15:38+00:00 · raw jobs read: 12222 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-11T20:14+00:00 · raw jobs read: 12217 · matches: 24 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 53
-- weworkremotely: 305
+- workingnomads: 51
+- weworkremotely: 302
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -62,7 +62,7 @@ Last run 2026-10-11T15:38+00:00 · raw jobs read: 12222 · matches: 24 · closed
 | Coursera | greenhouse | 17 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 892 | ok |
+| Databricks | greenhouse | 891 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 49 | ok |
@@ -84,7 +84,7 @@ Last run 2026-10-11T15:38+00:00 · raw jobs read: 12222 · matches: 24 · closed
 | Facilio | not found | 0 | add careers link manually if needed |
 | Fampay | lever | 16 | ok |
 | Fi Money | not found | 0 | add careers link manually if needed |
-| Figma | greenhouse | 150 | ok |
+| Figma | greenhouse | 151 | ok |
 | Flipkart | not found | 0 | add careers link manually if needed |
 | Freshdesk | not found | 0 | add careers link manually if needed |
 | Freshworks | lever | 0 | ok |

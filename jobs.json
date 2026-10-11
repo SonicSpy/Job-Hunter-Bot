@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:38+00:00",
+ "updated": "2026-10-11T20:14+00:00",
  "count": 24,
  "new_this_run": 2,
  "jobs": [
@@ -31,6 +31,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "zimperium-customer-support-engineer-endpoint-mtd-device-cybersecurity",
+   "title": "Customer Support Engineer - Endpoint/MTD (Device) & Cybersecurity",
+   "company": "Zimperium",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/zimperium/jobs/customer-support-engineer-endpoint-mtd-device-cybersecurity",
+   "source": "Himalayas",
+   "posted": "2026-10-11",
+   "matched_skills": [
+    "ai",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T20:14+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "vercel-software-engineer-backend",
    "title": "Software Engineer, Backend",
    "company": "Vercel",
@@ -55,33 +82,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "solution-community-ai-full-stack-engineer-volunteer-unpaid",
-   "title": "AI Full Stack Engineer (Volunteer, unpaid)",
-   "company": "Solution Community",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/solution-community/jobs/ai-full-stack-engineer-volunteer-unpaid",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "product",
-    "sql",
-    "prompt"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T15:38+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -220,59 +220,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "earthdaily-analytics-sales-engineer-apac",
-   "title": "Sales Engineer - APAC",
-   "company": "EarthDaily Analytics",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/earthdaily/jobs/sales-engineer-apac",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "saas",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T15:38+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mongodb-associate-hr-shared-services",
-   "title": "Associate, HR Shared Services",
-   "company": "MongoDB",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Gurugram",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T21:58+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -353,6 +300,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "mongodb-associate-hr-shared-services",
+   "title": "Associate, HR Shared Services",
+   "company": "MongoDB",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Gurugram",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-07",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-07T21:58+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
    "title": "Forward Deployed Engineer, Professional Services",
    "company": "Cloudflare",
@@ -375,6 +348,33 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
+   "title": "ServiceNow QA Consultant (CSM/ITSM)",
+   "company": "Joyful Craftsmen AG",
+   "category": "QA / testing",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
+   "source": "Himalayas",
+   "posted": "2026-10-11",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-11T20:14+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "paytm-associate-user-growth-market-intelligence",
