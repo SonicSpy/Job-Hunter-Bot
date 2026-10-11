@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-11T01:51+00:00 · raw jobs read: 12215 · matches: 23 · closed or ghost jobs removed: 0
+Last run 2026-10-11T08:47+00:00 · raw jobs read: 12225 · matches: 29 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 270
@@ -8,7 +8,7 @@ Last run 2026-10-11T01:51+00:00 · raw jobs read: 12215 · matches: 23 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 53
-- weworkremotely: 294
+- weworkremotely: 305
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -261,13 +261,13 @@ Last run 2026-10-11T01:51+00:00 · raw jobs read: 12215 · matches: 23 · closed
 | Slice | greenhouse | 25 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 44 | ok |
-| Snowflake | ashby | 360 | ok |
+| Snowflake | ashby | 358 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 728 | ok |
+| Stripe | greenhouse | 729 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-11T01:51+00:00 · raw jobs read: 12215 · matches: 23 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 3
+Telegram: sent 10
