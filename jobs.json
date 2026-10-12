@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T23:40+00:00",
+ "updated": "2026-10-12T05:53+00:00",
  "count": 26,
  "new_this_run": 4,
  "jobs": [
@@ -109,33 +109,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "seamless-assist-automation-ai-developer",
-   "title": "Automation & AI Developer",
-   "company": "Seamless Assist",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/seamless-assist/jobs/automation-ai-developer-5963299674",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "documentation",
-    "support",
-    "english",
-    "python",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T23:40+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -326,33 +299,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T23:40+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
    "title": "Forward Deployed Engineer, Professional Services",
    "company": "Cloudflare",
@@ -375,31 +321,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "buildbear-labs-digital-marketing-associate-global-remote",
-   "title": "Digital Marketing Associate (Global) {Remote}",
-   "company": "BuildBear Labs",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/buildbear-labs/jobs/digital-marketing-associate-global-remote",
-   "source": "Himalayas",
-   "posted": "2026-10-11",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "remote",
-    "community",
-    "discord"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-11T23:40+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "paytm-associate-user-growth-market-intelligence",
@@ -452,26 +373,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "wadhwani-ai-associate-machine-learning-scientist",
-   "title": "Associate Machine Learning Scientist",
-   "company": "Wadhwani AI",
-   "category": "Trainee / graduate program",
-   "score": 83,
+   "id": "vrinda-international-remote-language-support-specialists",
+   "title": "REMOTE LANGUAGE SUPPORT SPECIALISTS",
+   "company": "Vrinda International",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
    "location": "Remote, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wadhwani-ai/jobs/associate-machine-learning-scientist-4897794238",
+   "salary": "INR 800000-800000 / year",
+   "url": "https://himalayas.app/companies/vrinda-international/jobs/remote-language-support-specialists",
    "source": "Himalayas",
-   "posted": "2026-10-11",
+   "posted": "2026-10-12",
    "matched_skills": [
-    "ai",
+    "customer",
     "support",
     "communication",
-    "analysis",
-    "python"
+    "english",
+    "fresher",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-11T23:40+00:00",
+   "first_seen": "2026-10-12T05:53+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -522,6 +444,29 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "supersourcing-reactnative-developer",
+   "title": "ReactNative Developer",
+   "company": "Supersourcing",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/supersourcing/jobs/reactnative-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T05:53+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -611,6 +556,44 @@
    "first_seen": "2026-10-08T08:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "servicenow-advisory-solution-consultant",
+   "title": "Advisory Solution Consultant",
+   "company": "ServiceNow",
+   "category": "Non-coding tech (high pay)",
+   "score": 69,
+   "location": "Mumbai, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000154921069",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-12",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-12T05:53+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "odindo-global-private-limited-wordpress-web-developer-freelance-work-from-home",
+   "title": "WordPress Web Developer, Freelance, Work From Home",
+   "company": "Odindo Global Private Limited",
+   "category": "AI-assisted developer (full stack)",
+   "score": 67,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/odindo-global-private-limited/jobs/wordpress-web-developer-freelance-work-from-home",
+   "source": "Himalayas",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "bugs"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-12T05:53+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "prenosis-software-engineer",
