@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T15:19+00:00",
+ "updated": "2026-10-12T22:57+00:00",
  "count": 29,
- "new_this_run": 9,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -58,60 +58,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "emetlab-junior-software-engineer",
-   "title": "Junior Software Engineer",
-   "company": "Emetlab",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "product",
-    "annotation",
-    "dataset"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "gitstart-javascript-engineer",
-   "title": "Javascript Engineer",
-   "company": "GitStart",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/gitstart/jobs/javascript-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "communication",
-    "product",
-    "api",
-    "remote",
-    "react"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "codeforai-software-engineer-ai-code-trainer-python-web-full-stack",
    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
    "company": "CodeForAI",
@@ -158,7 +104,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -186,6 +132,33 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "your-personal-ai-freelancer-support-specialist",
+   "title": "Freelancer Support Specialist",
+   "company": "Your Personal AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
+   "source": "Himalayas",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "annotation",
+    "onboarding",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-12T22:57+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -243,6 +216,59 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "buildbear-labs-junior-frontend-web-developer",
+   "title": "Junior Frontend Web Developer",
+   "company": "BuildBear Labs",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/buildbear-labs/jobs/junior-frontend-web-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "product",
+    "remote",
+    "react",
+    "typescript",
+    "node",
+    "tailwind",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T22:57+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "talent-journey-junior-backend-developer-future-position",
+   "title": "Junior Backend Developer - Future Position",
+   "company": "Talent Journey",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
+   "source": "Himalayas",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "communication",
+    "english",
+    "saas",
+    "python",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T22:57+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -294,32 +320,6 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "biome-sustainability-ventures-founders-office-associate",
-   "title": "Founders Office Associate",
-   "company": "Biome Sustainability Ventures",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/biome-sustainability-ventures/jobs/founders-office-associate",
-   "source": "Himalayas",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -444,7 +444,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -468,7 +468,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -498,48 +498,49 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "axiom-technologies-it-support-engineer-l8337y73",
-   "title": "IT Support Engineer_L8337Y73",
-   "company": "Axiom Technologies",
+   "id": "jibe-enterprise-software-inc-implementation-executive",
+   "title": "Implementation Executive",
+   "company": "JiBe Enterprise Software, Inc.",
    "category": "Non-coding tech (high pay)",
-   "score": 78,
+   "score": 81,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/axiom-technologies/jobs/it-support-engineer_l8337y73",
+   "url": "https://himalayas.app/companies/jibe-enterprise-software-inc/jobs/implementation-executive",
    "source": "Himalayas",
    "posted": "2026-10-12",
    "matched_skills": [
-    "quality",
     "customer",
-    "support",
-    "communication"
+    "communication",
+    "english",
+    "product",
+    "player"
    ],
    "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
+   "first_seen": "2026-10-12T22:57+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
   {
-   "id": "axiom-technologies-it-support-engineer-qw665x69",
-   "title": "IT Support Engineer_QW665X69",
-   "company": "Axiom Technologies",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
+   "id": "people-s-growth-hr-solutions-software-developer",
+   "title": "Software Developer",
+   "company": "People's Growth HR Solutions",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/axiom-technologies/jobs/it-support-engineer_qw665x69",
+   "url": "https://himalayas.app/companies/people-s-growth-hr-solutions/jobs/software-developer",
    "source": "Himalayas",
    "posted": "2026-10-12",
    "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication"
+    "remote",
+    "react",
+    "typescript",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
+   "first_seen": "2026-10-12T22:57+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -569,15 +570,15 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "kpmg-india-associate-1-rmt",
+   "id": "b-s-r-co-llp-associate-1-rmt",
    "title": "Associate 1 - RMT",
-   "company": "KPMG India",
+   "company": "B S R & Co. LLP",
    "category": "Trainee / graduate program",
    "score": 74,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/kpmg-india/jobs/associate-1-rmt",
+   "url": "https://himalayas.app/companies/b-s-r-co-llp/jobs/associate-1-rmt",
    "source": "Himalayas",
    "posted": "2026-10-12",
    "matched_skills": [
@@ -585,7 +586,7 @@
     "support"
    ],
    "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
+   "first_seen": "2026-10-12T22:57+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
