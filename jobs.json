@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T11:45+00:00",
- "count": 28,
- "new_this_run": 5,
+ "updated": "2026-10-13T19:15+00:00",
+ "count": 31,
+ "new_this_run": 8,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -54,6 +54,60 @@
    ],
    "contract": true,
    "first_seen": "2026-10-13T11:45+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "signoz-technical-account-executive",
+   "title": "Technical Account Executive",
+   "company": "SigNoz",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India or EU",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "evaluation",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "mercor-software-developer-fully-remote-upto-30-hr",
+   "title": "Software Developer - Fully Remote | Upto $30/hr",
+   "company": "mercor",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/software-developer-fully-remote-upto-30-hr",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -108,7 +162,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-13T11:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -135,6 +189,57 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "invisible-technologies-business-owners-freelance-ai-trainer-project",
+   "title": "Business Owners - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 96,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/business-owners-freelance-ai-trainer-project",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mercor-data-engineer-ai-model-evaluation",
+   "title": "Data Engineer - AI Model Evaluation",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/data-engineer-ai-model-evaluation-9809744015",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "support",
+    "gemini",
+    "remote",
+    "bugs"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -159,6 +264,33 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "your-personal-ai-freelancer-support-specialist",
+   "title": "Freelancer Support Specialist",
+   "company": "Your Personal AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "annotation",
+    "onboarding",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -266,7 +398,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-13T11:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -324,29 +456,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "lifted-an-upwork-company-138512-backend-software-engineer-payments",
-   "title": "#138512 - Backend Software Engineer - Payments",
-   "company": "Lifted (an Upwork Company)",
+   "id": "td-synnex-full-stack-developer",
+   "title": "Full Stack Developer",
+   "company": "TD SYNNEX",
    "category": "AI-assisted developer (full stack)",
    "score": 91,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/138512-backend-software-engineer-payments",
+   "url": "https://himalayas.app/companies/td-synnex/jobs/full-stack-developer",
    "source": "Himalayas",
    "posted": "2026-10-13",
    "matched_skills": [
+    "evaluation",
     "testing",
     "documentation",
     "support",
     "product",
-    "api",
-    "sql",
-    "jira",
-    "python"
+    "analysis",
+    "onboarding",
+    "full stack"
    ],
-   "contract": true,
-   "first_seen": "2026-10-13T11:45+00:00",
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -475,6 +607,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "mercor-software-tester-fully-remote-upto-60-hr",
+   "title": "Software Tester - Fully Remote | Upto $60/hr",
+   "company": "mercor",
+   "category": "QA / testing",
+   "score": 82,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "support",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "inmobi-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "InMobi",
@@ -501,6 +656,30 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "signers-national-placement-associate",
+   "title": "Placement Associate",
+   "company": "Signers National",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/signers-national/jobs/placement-associate",
+   "source": "Himalayas",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "talkspace-business-development-growth-associate-pharma",
    "title": "Business Development & Growth Associate, Pharma",
    "company": "Talkspace",
@@ -522,27 +701,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "b-s-r-co-llp-associate-1-rmt",
-   "title": "Associate 1 - RMT",
-   "company": "B S R & Co. LLP",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/b-s-r-co-llp/jobs/associate-1-rmt",
-   "source": "Himalayas",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "quality",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T22:57+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -572,27 +730,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "clera-founders-associate",
-   "title": "Founders Associate",
-   "company": "Clera",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 60000-90000 / year",
-   "url": "https://himalayas.app/companies/clera/jobs/founders-associate-2059919482",
-   "source": "Himalayas",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "customer",
-    "communication"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-13T11:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "servicenow-advisory-solution-consultant",
    "title": "Advisory Solution Consultant",
    "company": "ServiceNow",
@@ -607,26 +744,6 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-12T05:53+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "ixigo-research-fellowship-agent-intelligence-evaluation",
-   "title": "Research Fellowship: Agent Intelligence & Evaluation",
-   "company": "ixigo",
-   "category": "AI evaluation / AI trainer",
-   "score": 68,
-   "location": "New Delhi, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/ixigo/744000153403639",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-05",
-   "matched_skills": [
-    "evaluation"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-05T07:01+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -662,26 +779,6 @@
    "posted": "2026-09-23",
    "matched_skills": [
     "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "redmimicry-software-developer-security-analytics",
-   "title": "Software Developer Security Analytics",
-   "company": "RedMimicry",
-   "category": "AI-assisted developer (full stack)",
-   "score": 56,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-09-22",
-   "matched_skills": [
     "remote"
    ],
    "contract": false,
