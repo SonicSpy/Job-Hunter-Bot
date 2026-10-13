@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T22:57+00:00",
- "count": 29,
- "new_this_run": 6,
+ "updated": "2026-10-13T03:32+00:00",
+ "count": 28,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -158,7 +158,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -238,7 +238,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -265,7 +265,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -423,31 +423,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "buildbear-labs-technical-writer-and-trainer-knowledge-pathfinder-remote",
-   "title": "Technical Writer and Trainer: Knowledge Pathfinder {Remote}",
-   "company": "BuildBear Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/buildbear-labs/jobs/technical-writer-and-trainer-knowledge-pathfinder-remote",
-   "source": "Himalayas",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -518,7 +493,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -541,7 +516,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -587,7 +562,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T22:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
