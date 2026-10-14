@@ -1,35 +1,8 @@
 {
- "updated": "2026-10-14T04:50+00:00",
- "count": 27,
- "new_this_run": 6,
+ "updated": "2026-10-14T10:09+00:00",
+ "count": 25,
+ "new_this_run": 3,
  "jobs": [
-  {
-   "id": "twilio-technical-support-engineer-2",
-   "title": "Technical Support Engineer 2",
-   "company": "Twilio",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote - India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8239751",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-05",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "postman",
-    "sql"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-05T15:59+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
   {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
@@ -81,6 +54,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T04:50+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-language-alignment-resource-partner-punjabi-freelance-ai-trainer-pr",
+   "title": "Language Alignment & Resource Partner (Punjabi) - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Mexico, Netherlands, Russian Federation, South Africa, South Korea, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-punjabi-freelance-ai-trainer-project",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T10:09+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -158,7 +158,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T04:50+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -185,33 +185,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "codeforai-software-engineer-ai-code-trainer-python-web-full-stack",
-   "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-   "company": "CodeForAI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-   "mode": "Remote",
-   "salary": "$45-$120/Hour",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-   "source": "Remotive (find company link before applying)",
-   "posted": "2026-10-05",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "product",
-    "api",
-    "sql",
-    "analysis"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-06T16:49+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -297,60 +270,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "typeform-full-stack-developer",
-   "title": "Full Stack Developer",
-   "company": "Typeform",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T13:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "infomediji-qa-engineer-unity-team",
-   "title": "QA Engineer (Unity Team)",
-   "company": "Infomediji",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team",
-   "source": "Himalayas",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "manual testing",
-    "testing",
-    "documentation",
-    "customer",
-    "english",
-    "api"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "mongodb-associate-hr-shared-services",
    "title": "Associate, HR Shared Services",
    "company": "MongoDB",
@@ -375,6 +294,33 @@
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "typeform-full-stack-developer",
+   "title": "Full Stack Developer",
+   "company": "Typeform",
+   "category": "AI-assisted developer (full stack)",
+   "score": 87,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-10",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-10T13:39+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
   },
   {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
@@ -475,31 +421,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "astreya-software-engineer-ii",
-   "title": "Software Engineer II",
-   "company": "Astreya",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/astreya/jobs/software-engineer-ii-1963141452",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "product",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "inmobi-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "InMobi",
@@ -544,7 +465,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T04:50+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -573,6 +494,24 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "zeta-associate-legal",
+   "title": "Associate Legal",
+   "company": "Zeta",
+   "category": "Trainee / graduate program",
+   "score": 74,
+   "location": "Mumbai / Bangalore",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/zeta/c6ff3085-f2fb-4c56-9fcd-613a5a32c069",
+   "source": "Company careers (Lever)",
+   "posted": "2026-10-13",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-14T10:09+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -598,29 +537,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "nextalpha-nu-dawn-frontend-engineer-react-nextjs-git-responsive-design",
-   "title": "Frontend Engineer (React/NextJS, Git, Responsive Design)",
-   "company": "NextAlpha (Nu Dawn)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 73,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "INR 1200000-1200000 / year",
-   "url": "https://himalayas.app/companies/nextalpha-nu-dawn/jobs/frontend-engineer-react-nextjs-git-responsive-design",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "ai",
-    "communication",
-    "python",
-    "react"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "servicenow-advisory-solution-consultant",
    "title": "Advisory Solution Consultant",
    "company": "ServiceNow",
@@ -636,6 +552,24 @@
    "contract": false,
    "first_seen": "2026-10-12T05:53+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "servicenow-advisory-solution-consultant-bfsi",
+   "title": "Advisory Solution Consultant - BFSI",
+   "company": "ServiceNow",
+   "category": "Non-coding tech (high pay)",
+   "score": 69,
+   "location": "Mumbai, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000155447500",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-14",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-14T10:09+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
