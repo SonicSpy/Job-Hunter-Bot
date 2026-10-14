@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14T10:09+00:00",
- "count": 25,
+ "updated": "2026-10-14T15:07+00:00",
+ "count": 24,
  "new_this_run": 3,
  "jobs": [
   {
@@ -29,60 +29,6 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "quantum-strides-llc-ai-engineer-anthropic",
-   "title": "AI Engineer- Anthropic",
-   "company": "Quantum Strides LLC",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-engineer-anthropic",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "communication",
-    "product",
-    "prompt",
-    "python",
-    "docker"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-language-alignment-resource-partner-punjabi-freelance-ai-trainer-pr",
-   "title": "Language Alignment & Resource Partner (Punjabi) - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Mexico, Netherlands, Russian Federation, South Africa, South Korea, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-punjabi-freelance-ai-trainer-project",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T10:09+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -133,33 +79,6 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
-   "title": "Remote FullStack Engineer – React + Django – AI Systems",
-   "company": "Spotter Labs",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-8589740143",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "ai",
-    "product",
-    "api",
-    "python",
-    "docker",
-    "remote",
-    "react",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-query-execution",
@@ -270,6 +189,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "first-advantage-software-qa-engineer",
+   "title": "Software QA Engineer",
+   "company": "First Advantage",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/first-advantage/jobs/software-qa-engineer-715133906",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "english",
+    "api",
+    "sql",
+    "jira",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T15:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "mongodb-associate-hr-shared-services",
    "title": "Associate, HR Shared Services",
    "company": "MongoDB",
@@ -294,6 +240,29 @@
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T15:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "typeform-full-stack-developer",
@@ -447,28 +416,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "bored-panda-junior-social-media-manager",
-   "title": "Junior Social Media Manager",
-   "company": "bored panda",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, Albania, Andorra, Angola, Argentina, Armenia, Azerbaijan, Bangladesh, Bosnia and Herzegovina, Brazil, Chile, Colombia, Ecuador, Egypt, Georgia, Greece, India, Indonesia, Kenya, Kosovo, Madagascar, Malta, Mauritius, Moldova, Montenegro, Mozambique, Nigeria, North Macedonia, Romania, Serbia, Slovenia, South Africa, Ukraine",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/jobs-boredpanda/jobs/junior-social-media-manager",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "support",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T04:50+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "talkspace-business-development-growth-associate-pharma",
    "title": "Business Development & Growth Associate, Pharma",
    "company": "Talkspace",
@@ -494,6 +441,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "my-own-staff-customer-success",
+   "title": "Customer Success",
+   "company": "My Own Staff",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/my-own-staff/jobs/customer-success",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "customer",
+    "product",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T15:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "zeta-associate-legal",
    "title": "Associate Legal",
    "company": "Zeta",
@@ -508,7 +478,7 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-14T10:09+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -569,7 +539,7 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-14T10:09+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
