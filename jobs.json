@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T15:07+00:00",
- "count": 24,
- "new_this_run": 3,
+ "updated": "2026-10-14T19:21+00:00",
+ "count": 28,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,6 +31,60 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "peakflo-technical-operations-ai-automation-engineer-india-remote",
+   "title": "Technical Operations & AI Automation Engineer - (India/Remote)",
+   "company": "Peakflo",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "INR 1200000-1600000 / year",
+   "url": "https://himalayas.app/companies/peakflo/jobs/technical-operations-ai-automation-engineer-india-remote",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "documentation",
+    "customer",
+    "support",
+    "product",
+    "analysis",
+    "prompt"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mercor-full-stack-engineer-ai-lab",
+   "title": "Full Stack Engineer - AI Lab",
+   "company": "mercor",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/full-stack-engineer-ai-lab",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "python"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "vercel-software-engineer-backend",
    "title": "Software Engineer, Backend",
    "company": "Vercel",
@@ -58,6 +112,60 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "appetiser-apps-junior-full-stack-developer",
+   "title": "Junior Full-Stack Developer",
+   "company": "Appetiser Apps",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/appetiser-apps/jobs/junior-full-stack-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "product",
+    "api",
+    "postman",
+    "sql",
+    "typescript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "emetlab-junior-software-engineer",
+   "title": "Junior Software Engineer",
+   "company": "Emetlab",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "support",
+    "communication",
+    "product",
+    "annotation",
+    "dataset"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "roblox-recruiting-coordinator",
    "title": "Recruiting Coordinator",
    "company": "Roblox",
@@ -79,6 +187,31 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "collider-polygon-high-performance-writer-entertainment-gaming",
+   "title": "Polygon High-Performance Writer (Entertainment & Gaming)",
+   "company": "Collider",
+   "category": "Gaming",
+   "score": 97,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/collider/jobs/polygon-high-performance-writer-entertainment-gaming",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "evaluation",
+    "quality",
+    "documentation",
+    "communication",
+    "english",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-query-execution",
@@ -105,6 +238,33 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "netapp-software-engineer",
+   "title": "Software Engineer",
+   "company": "NetApp",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/netapp/jobs/software-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T19:21+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -189,33 +349,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "first-advantage-software-qa-engineer",
-   "title": "Software QA Engineer",
-   "company": "First Advantage",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/first-advantage/jobs/software-qa-engineer-715133906",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "english",
-    "api",
-    "sql",
-    "jira",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T15:07+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "mongodb-associate-hr-shared-services",
    "title": "Associate, HR Shared Services",
    "company": "MongoDB",
@@ -261,7 +394,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T15:07+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -438,29 +571,6 @@
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "my-own-staff-customer-success",
-   "title": "Customer Success",
-   "company": "My Own Staff",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/my-own-staff/jobs/customer-success",
-   "source": "Himalayas",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "customer",
-    "product",
-    "saas",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T15:07+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
