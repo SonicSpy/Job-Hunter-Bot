@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T23:17+00:00",
- "count": 25,
- "new_this_run": 4,
+ "updated": "2026-10-14T04:50+00:00",
+ "count": 27,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "twilio-technical-support-engineer-2",
@@ -58,29 +58,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "service-management-group-smg-associate-support-engineer",
-   "title": "Associate Support Engineer",
-   "company": "Service Management Group (SMG)",
-   "category": "Non-coding tech (high pay)",
+   "id": "quantum-strides-llc-ai-engineer-anthropic",
+   "title": "AI Engineer- Anthropic",
+   "company": "Quantum Strides LLC",
+   "category": "AI-assisted developer (full stack)",
    "score": 100,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/service-management-group-smg/jobs/associate-support-engineer",
+   "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-engineer-anthropic",
    "source": "Himalayas",
-   "posted": "2026-10-13",
+   "posted": "2026-10-14",
    "matched_skills": [
+    "evaluation",
+    "llm",
     "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
     "communication",
-    "product"
+    "product",
+    "prompt",
+    "python",
+    "docker"
    ],
    "contract": false,
-   "first_seen": "2026-10-13T23:17+00:00",
+   "first_seen": "2026-10-14T04:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -133,6 +133,33 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
+   "title": "Remote FullStack Engineer – React + Django – AI Systems",
+   "company": "Spotter Labs",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-8589740143",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "ai",
+    "product",
+    "api",
+    "python",
+    "docker",
+    "remote",
+    "react",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T04:50+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-query-execution",
@@ -297,29 +324,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sybilla-technologies-junior-sensor-network-operator",
-   "title": "Junior Sensor Network Operator",
-   "company": "Sybilla Technologies",
-   "category": "Trainee / graduate program",
+   "id": "infomediji-qa-engineer-unity-team",
+   "title": "QA Engineer (Unity Team)",
+   "company": "Infomediji",
+   "category": "QA / testing",
    "score": 89,
    "location": "Remote, Worldwide",
    "mode": "Remote",
-   "salary": "EUR 3000-4000 / year",
-   "url": "https://himalayas.app/companies/sybilla-technologies/jobs/junior-sensor-network-operator",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team",
    "source": "Himalayas",
    "posted": "2026-10-13",
    "matched_skills": [
+    "ai",
     "quality",
+    "manual testing",
     "testing",
     "documentation",
     "customer",
-    "support",
     "english",
-    "onboarding",
-    "python"
+    "api"
    ],
    "contract": true,
-   "first_seen": "2026-10-13T23:17+00:00",
+   "first_seen": "2026-10-14T04:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -350,33 +377,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-1414049688",
-   "source": "Himalayas",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-13T23:17+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cloudflare-forward-deployed-engineer-professional-services",
    "title": "Forward Deployed Engineer, Professional Services",
    "company": "Cloudflare",
@@ -399,33 +399,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
-   "source": "Himalayas",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-13T23:17+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "paytm-associate-user-growth-market-intelligence",
@@ -502,6 +475,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "astreya-software-engineer-ii",
+   "title": "Software Engineer II",
+   "company": "Astreya",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/astreya/jobs/software-engineer-ii-1963141452",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "product",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T04:50+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "inmobi-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "InMobi",
@@ -526,6 +524,28 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "bored-panda-junior-social-media-manager",
+   "title": "Junior Social Media Manager",
+   "company": "bored panda",
+   "category": "Trainee / graduate program",
+   "score": 77,
+   "location": "Remote, Albania, Andorra, Angola, Argentina, Armenia, Azerbaijan, Bangladesh, Bosnia and Herzegovina, Brazil, Chile, Colombia, Ecuador, Egypt, Georgia, Greece, India, Indonesia, Kenya, Kosovo, Madagascar, Malta, Mauritius, Moldova, Montenegro, Mozambique, Nigeria, North Macedonia, Romania, Serbia, Slovenia, South Africa, Ukraine",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/jobs-boredpanda/jobs/junior-social-media-manager",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "support",
+    "communication",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T04:50+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
@@ -575,6 +595,29 @@
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "nextalpha-nu-dawn-frontend-engineer-react-nextjs-git-responsive-design",
+   "title": "Frontend Engineer (React/NextJS, Git, Responsive Design)",
+   "company": "NextAlpha (Nu Dawn)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 73,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "INR 1200000-1200000 / year",
+   "url": "https://himalayas.app/companies/nextalpha-nu-dawn/jobs/frontend-engineer-react-nextjs-git-responsive-design",
+   "source": "Himalayas",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "ai",
+    "communication",
+    "python",
+    "react"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T04:50+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
