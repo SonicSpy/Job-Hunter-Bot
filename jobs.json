@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:12+00:00",
+ "updated": "2026-10-15T01:27+00:00",
  "count": 28,
- "new_this_run": 4,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -264,7 +264,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -396,7 +396,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-14T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -495,7 +495,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-14T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
