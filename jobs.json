@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T13:23+00:00",
- "count": 26,
- "new_this_run": 2,
+ "updated": "2026-10-15T18:16+00:00",
+ "count": 25,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,30 +31,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "lattice-technologies-pvt-ltd-qa-engineer-testing",
-   "title": "QA Engineer (Testing)",
-   "company": "Lattice Technologies Pvt Ltd",
-   "category": "QA / testing",
-   "score": 100,
+   "id": "creative-chaos-full-stack-engineer-python-react",
+   "title": "Full Stack Engineer - Python+React",
+   "company": "Creative Chaos",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lattice-technologies-pvt-ltd/jobs/qa-engineer-testing",
+   "url": "https://himalayas.app/companies/creative-chaos/jobs/full-stack-engineer-python-react-257488219",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
     "llm",
     "ai",
     "quality",
-    "test case",
-    "testing",
-    "support",
+    "communication",
     "product",
-    "api"
+    "python",
+    "react",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-10-15T07:24+00:00",
-   "new": false,
+   "first_seen": "2026-10-15T18:16+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -212,7 +212,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -270,32 +270,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mongodb-associate-hr-shared-services",
-   "title": "Associate, HR Shared Services",
-   "company": "MongoDB",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Gurugram",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-07",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-07T21:58+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -320,6 +294,32 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "trinity-life-sciences-desktop-support-specialist",
+   "title": "Desktop Support Specialist",
+   "company": "Trinity Life Sciences",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/trinity-life-sciences/jobs/desktop-support-specialist",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-15T18:16+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -370,33 +370,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "steuart-nutrition-software-developer-ai-coding",
-   "title": "Software Developer AI Coding",
-   "company": "STEUART NUTRITION",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-09-23",
-   "matched_skills": [
-    "ai",
-    "communication",
-    "english",
-    "prompt",
-    "python",
-    "remote",
-    "typescript",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
    "title": "Remote AI Trainers (Generalist and Python Coding Experts)",
    "company": "AITrainers",
@@ -422,6 +395,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "mongodb-associate-hr-shared-services",
+   "title": "Associate, HR Shared Services",
+   "company": "MongoDB",
+   "category": "Trainee / graduate program",
+   "score": 84,
+   "location": "Gurugram",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-07",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-07T21:58+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -443,6 +442,31 @@
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "hook-ladder-digital-junior-digital-marketer",
+   "title": "Junior Digital Marketer",
+   "company": "Hook + Ladder Digital",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/hook-ladder-digital/jobs/junior-digital-marketer",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "english",
+    "remote",
+    "community"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-15T18:16+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -497,26 +521,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "servicenow-technical-support-engineer",
-   "title": "Technical Support Engineer",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Bangalore, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000155671779",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T07:24+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "meesho-associate-operations",
    "title": "Associate - Operations",
    "company": "Meesho",
@@ -535,7 +539,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -564,22 +568,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "servicenow-advisory-solution-consultant",
-   "title": "Advisory Solution Consultant",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 69,
-   "location": "Mumbai, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000154921069",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-12",
-   "matched_skills": [],
+   "id": "nextalpha-nu-dawn-frontend-engineer-react-nextjs-git-responsive-design",
+   "title": "Frontend Engineer (React/NextJS, Git, Responsive Design)",
+   "company": "NextAlpha (Nu Dawn)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 73,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "INR 1200000-1200000 / year",
+   "url": "https://himalayas.app/companies/nextalpha-nu-dawn/jobs/frontend-engineer-react-nextjs-git-responsive-design",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "ai",
+    "communication",
+    "python",
+    "react"
+   ],
    "contract": false,
-   "first_seen": "2026-10-12T05:53+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
+   "first_seen": "2026-10-15T18:16+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "servicenow-advisory-solution-consultant-bfsi",
@@ -616,27 +625,6 @@
    "first_seen": "2026-10-08T08:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "prenosis-software-engineer",
-   "title": "Software Engineer",
-   "company": "Prenosis",
-   "category": "AI-assisted developer (full stack)",
-   "score": 59,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-09-23",
-   "matched_skills": [
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   }
  ]
 }
