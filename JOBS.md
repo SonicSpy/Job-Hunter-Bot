@@ -1,19 +1,19 @@
 # Job matches for Bhargav
 
-Updated 15 Oct 2026, 07:24 UTC · 26 open matches
+Updated 15 Oct 2026, 13:23 UTC · 26 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
-| 100 | [QA Engineer (Testing)](https://himalayas.app/companies/lattice-technologies-pvt-ltd/jobs/qa-engineer-testing) 🆕 | Lattice Technologies Pvt Ltd | Remote | Remote, India | Not listed | 2026-10-15 |
-| 99 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
+| 100 | [QA Engineer (Testing)](https://himalayas.app/companies/lattice-technologies-pvt-ltd/jobs/qa-engineer-testing) | Lattice Technologies Pvt Ltd | Remote | Remote, India | Not listed | 2026-10-15 |
 | 97 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
-| 97 | [Ubuntu Linux Kernel Test Engineer](https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer) 🆕 | Canonical | Remote | Remote, APAC,  China | Not listed | 2026-10-15 |
-| 95 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
+| 97 | [Ubuntu Linux Kernel Test Engineer](https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer) | Canonical | Remote | Remote, APAC,  China | Not listed | 2026-10-15 |
+| 95 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
 | 93 | [Associate Customer Experience Engineer](https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda) | Hevo Data | On-site | Pune, Maharashtra | Not listed | 2026-09-25 |
 | 93 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
+| 93 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) 🆕 | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
-| 91 | [1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A](https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a) | TalentCross | Remote | Remote, Worldwide | Not listed | 2026-10-14 |
+| 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 88 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |
 | 87 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 86 | [Forward Deployed Engineer, Professional Services](https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305) | Cloudflare | Remote | Distributed | Not listed | 2026-09-23 |
@@ -22,9 +22,9 @@ Updated 15 Oct 2026, 07:24 UTC · 26 open matches
 | 85 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 84 | [Full-Stack E-commerce Developer with Sage X3 Experience](https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-10-12 |
 | 77 | [Product Analyst II](https://job-boards.greenhouse.io/inmobi/jobs/8181422) | InMobi | On-site | Bangalore | Not listed | 2026-10-06 |
-| 77 | [Strategic Projects Associate](https://himalayas.app/companies/terac/jobs/strategic-projects-associate-1068719544) 🆕 | Terac | Remote | Remote, Worldwide | USD 30000-55000 / year | 2026-10-15 |
 | 75 | [Business Development & Growth Associate, Pharma](https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
-| 75 | [Technical Support Engineer](https://jobs.smartrecruiters.com/servicenow/744000155671779) 🆕 | ServiceNow | On-site | Bangalore, in | Not listed | 2026-10-15 |
+| 75 | [Technical Support Engineer](https://jobs.smartrecruiters.com/servicenow/744000155671779) | ServiceNow | On-site | Bangalore, in | Not listed | 2026-10-15 |
+| 75 | [Associate - Operations](https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad) 🆕 | Meesho | On-site | Bangalore, Karnataka | Not listed | 2026-10-01 |
 | 73 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/webflow-it-support-specialist) | Webflow | Remote | Remote, Anywhere in the World | Not listed | 2026-10-03 |
 | 69 | [Advisory Solution Consultant](https://jobs.smartrecruiters.com/servicenow/744000154921069) | ServiceNow | On-site | Mumbai, in | Not listed | 2026-10-12 |
 | 69 | [Advisory Solution Consultant - BFSI](https://jobs.smartrecruiters.com/servicenow/744000155447500) | ServiceNow | On-site | Mumbai, in | Not listed | 2026-10-14 |
