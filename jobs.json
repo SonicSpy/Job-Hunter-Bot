@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T18:16+00:00",
- "count": 25,
- "new_this_run": 4,
+ "updated": "2026-10-15T21:26+00:00",
+ "count": 24,
+ "new_this_run": 5,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,29 +31,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "creative-chaos-full-stack-engineer-python-react",
-   "title": "Full Stack Engineer - Python+React",
-   "company": "Creative Chaos",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
+   "id": "mercor-music-evaluation-expert-fully-remote-upto-19-hr",
+   "title": "Music Evaluation Expert - Fully Remote | Upto $19/hr",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/creative-chaos/jobs/full-stack-engineer-python-react-257488219",
+   "url": "https://himalayas.app/companies/mercor/jobs/music-evaluation-expert-fully-remote-upto-19-hr",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
-    "llm",
+    "evaluation",
     "ai",
     "quality",
-    "communication",
-    "product",
-    "python",
-    "react",
-    "javascript"
+    "support",
+    "english",
+    "prompt",
+    "onboarding",
+    "remote"
    ],
-   "contract": false,
-   "first_seen": "2026-10-15T18:16+00:00",
+   "contract": true,
+   "first_seen": "2026-10-15T21:26+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -81,30 +81,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-ubuntu-linux-kernel-test-engineer",
-   "title": "Ubuntu Linux Kernel Test Engineer",
-   "company": "Canonical",
-   "category": "QA / testing",
-   "score": 97,
-   "location": "Remote, APAC,  China",
+   "id": "discovered-full-stack-data-scientist",
+   "title": "Full Stack Data Scientist",
+   "company": "Discovered",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
-   "source": "Jobicy (find company link before applying)",
+   "salary": "USD 30000-50000 / year",
+   "url": "https://himalayas.app/companies/discovered/jobs/full-stack-data-scientist",
+   "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
     "ai",
     "quality",
-    "testing",
-    "support",
+    "customer",
     "communication",
-    "english",
+    "product",
     "analysis",
-    "python"
+    "saas",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-15T07:24+00:00",
-   "new": false,
+   "first_seen": "2026-10-15T21:26+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -132,6 +132,33 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "venza-front-end-developer",
+   "title": "Front-End Developer",
+   "company": "VENZA",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/venza/jobs/front-end-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "remote",
+    "react",
+    "typescript",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-15T21:26+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -297,54 +324,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "trinity-life-sciences-desktop-support-specialist",
-   "title": "Desktop Support Specialist",
-   "company": "Trinity Life Sciences",
-   "category": "Non-coding tech (high pay)",
+   "id": "mighty-networks-community-manager",
+   "title": "Community Manager",
+   "company": "Mighty Networks",
+   "category": "Gaming",
    "score": 87,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/trinity-life-sciences/jobs/desktop-support-specialist",
+   "salary": "USD 40000-60000 / year",
+   "url": "https://himalayas.app/companies/mighty-networks/jobs/community-manager-4526176988",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
     "quality",
-    "documentation",
-    "customer",
     "support",
     "communication",
+    "onboarding",
     "remote",
-    "player"
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-15T18:16+00:00",
+   "first_seen": "2026-10-15T21:26+00:00",
    "new": true,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "cloudflare-forward-deployed-engineer-professional-services",
-   "title": "Forward Deployed Engineer, Professional Services",
-   "company": "Cloudflare",
-   "category": "AI-assisted developer (full stack)",
-   "score": 86,
-   "location": "Distributed",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-09-23",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "paytm-associate-user-growth-market-intelligence",
@@ -445,31 +447,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "hook-ladder-digital-junior-digital-marketer",
-   "title": "Junior Digital Marketer",
-   "company": "Hook + Ladder Digital",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/hook-ladder-digital/jobs/junior-digital-marketer",
-   "source": "Himalayas",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "english",
-    "remote",
-    "community"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-15T18:16+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "inmobi-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "InMobi",
@@ -494,6 +471,27 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "dataforest-gmbh-it-support-specialist-junior-2nd-level-hosting-m-w-d",
+   "title": "IT Support Specialist (Junior, 2nd Level) – Hosting (m/w/d)",
+   "company": "dataforest GmbH",
+   "category": "Non-coding tech (high pay)",
+   "score": 77,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/dataforest-gmbh/jobs/it-support-specialist-junior-2nd-level-hosting-m-w-d",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "support",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-15T21:26+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
@@ -565,29 +563,6 @@
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "nextalpha-nu-dawn-frontend-engineer-react-nextjs-git-responsive-design",
-   "title": "Frontend Engineer (React/NextJS, Git, Responsive Design)",
-   "company": "NextAlpha (Nu Dawn)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 73,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "INR 1200000-1200000 / year",
-   "url": "https://himalayas.app/companies/nextalpha-nu-dawn/jobs/frontend-engineer-react-nextjs-git-responsive-design",
-   "source": "Himalayas",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "ai",
-    "communication",
-    "python",
-    "react"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T18:16+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
