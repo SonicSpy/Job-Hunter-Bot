@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed or ghost jobs removed: 0
+Last run 2026-10-16T05:50+00:00 · raw jobs read: 12140 · matches: 23 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 210
@@ -8,7 +8,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 51
-- weworkremotely: 336
+- weworkremotely: 337
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Airtable | greenhouse | 5 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 655 | ok |
+| Anthropic | greenhouse | 654 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -54,7 +54,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 441 | ok |
+| Cloudflare | greenhouse | 438 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 118 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Coursera | greenhouse | 21 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 897 | ok |
+| Databricks | greenhouse | 898 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 49 | ok |
@@ -96,7 +96,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Games2win | not found | 0 | add careers link manually if needed |
 | Gameskraft | not found | 0 | add careers link manually if needed |
 | Garena | not found | 0 | add careers link manually if needed |
-| GitLab | greenhouse | 218 | ok |
+| GitLab | greenhouse | 219 | ok |
 | Glance | greenhouse | 36 | ok |
 | Glean | smartrecruiters | 1 | ok |
 | Global App Testing | not found | 0 | add careers link manually if needed |
@@ -138,7 +138,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Junglee Games | not found | 0 | add careers link manually if needed |
 | Jupiter | not found | 0 | add careers link manually if needed |
 | Juspay | not found | 0 | add careers link manually if needed |
-| Kabam | lever | 23 | ok |
+| Kabam | lever | 24 | ok |
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
@@ -175,7 +175,7 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Mercor | ashby | 112 | ok |
 | Mindtickle | lever | 20 | ok |
 | Miniclip | not found | 0 | add careers link manually if needed |
-| Miro | ashby | 23 | ok |
+| Miro | ashby | 22 | ok |
 | MoEngage | not found | 0 | add careers link manually if needed |
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
@@ -202,9 +202,9 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 9 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 380 | ok |
+| Okta | greenhouse | 379 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 803 | ok |
+| OpenAI | ashby | 802 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -228,13 +228,13 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Quizizz | not found | 0 | add careers link manually if needed |
 | Rapido | not found | 0 | add careers link manually if needed |
 | Razorpay | not found | 0 | add careers link manually if needed |
-| Remedy | greenhouse | 12 | ok |
+| Remedy | greenhouse | 11 | ok |
 | Remote | greenhouse | 2 | ok |
 | Replit | ashby | 65 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
-| Riot Games | greenhouse | 170 | ok |
+| Riot Games | greenhouse | 171 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 259 | ok |
+| Roblox | greenhouse | 260 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 25 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
@@ -261,13 +261,13 @@ Last run 2026-10-16T00:23+00:00 · raw jobs read: 12142 · matches: 23 · closed
 | Slice | greenhouse | 27 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 44 | ok |
-| Snowflake | ashby | 358 | ok |
+| Snowflake | ashby | 359 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 726 | ok |
+| Stripe | greenhouse | 725 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |

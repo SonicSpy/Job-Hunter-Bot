@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:23+00:00",
+ "updated": "2026-10-16T05:50+00:00",
  "count": 23,
  "new_this_run": 4,
  "jobs": [
@@ -31,29 +31,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "crazygames-remote-product-analyst",
-   "title": "[REMOTE] Product Analyst",
-   "company": "CrazyGames",
-   "category": "Gaming · Non-coding tech (high pay)",
+   "id": "marrina-decisions-remote-india-forward-deployed-systems-engineer",
+   "title": "REMOTE (INDIA):  Forward Deployed Systems Engineer",
+   "company": "Marrina Decisions",
+   "category": "AI-assisted developer (full stack)",
    "score": 100,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/crazygames/jobs/remote-product-analyst",
+   "url": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-forward-deployed-systems-engineer",
    "source": "Himalayas",
-   "posted": "2026-10-15",
+   "posted": "2026-10-16",
    "matched_skills": [
+    "llm",
     "ai",
     "testing",
     "support",
     "communication",
     "product",
     "sql",
-    "analysis",
-    "remote"
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T00:23+00:00",
+   "first_seen": "2026-10-16T05:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -79,33 +79,6 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
-   "title": "Remote FullStack Engineer – React + Django – AI Systems",
-   "company": "Spotter Labs",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-8589740143",
-   "source": "Himalayas",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "ai",
-    "product",
-    "api",
-    "python",
-    "docker",
-    "remote",
-    "react",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-16T00:23+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -270,29 +243,25 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "teladoc-health-software-engineer-iii",
-   "title": "Software Engineer III",
-   "company": "Teladoc Health",
-   "category": "AI-assisted developer (full stack)",
+   "id": "ancient-gaming-talent-sourcer",
+   "title": "Talent Sourcer",
+   "company": "Ancient Gaming",
+   "category": "Gaming",
    "score": 91,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/teladoc-health/jobs/software-engineer-iii",
+   "url": "https://himalayas.app/companies/ancient-gaming/jobs/talent-sourcer",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
-    "testing",
-    "documentation",
     "support",
-    "communication",
     "product",
-    "sql",
-    "analysis",
-    "javascript"
+    "remote",
+    "discord"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T00:23+00:00",
+   "first_seen": "2026-10-16T05:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -321,6 +290,31 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "harris-associate-systems-engineer",
+   "title": "Associate Systems Engineer",
+   "company": "Harris",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/harris/jobs/associate-systems-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "sql",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T05:50+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -448,23 +442,26 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "bold-associate-product-manager-real-time-payments",
-   "title": "Associate Product Manager- Real Time Payments",
-   "company": "Bold",
-   "category": "Non-coding tech (high pay)",
-   "score": 77,
+   "id": "drivesavers-data-recovery-remote-c-c-software-engineer-data-recovery-tools",
+   "title": "Remote C/C++ Software Engineer - Data Recovery Tools",
+   "company": "DriveSavers Data Recovery",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/bold/jobs/associate-product-manager-real-time-payments",
+   "url": "https://himalayas.app/companies/drivesavers-data-recovery/jobs/remote-c-c-software-engineer-data-recovery-tools",
    "source": "Himalayas",
-   "posted": "2026-10-15",
+   "posted": "2026-10-16",
    "matched_skills": [
-    "product",
-    "sql"
+    "customer",
+    "analysis",
+    "python",
+    "github",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T00:23+00:00",
+   "first_seen": "2026-10-16T05:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
