@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16T11:20+00:00",
- "count": 21,
+ "updated": "2026-10-16T16:36+00:00",
+ "count": 22,
  "new_this_run": 3,
  "jobs": [
   {
@@ -27,29 +27,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-13T19:15+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "roblox-recruiting-coordinator",
-   "title": "Recruiting Coordinator",
-   "company": "Roblox",
-   "category": "Gaming",
-   "score": 97,
-   "location": "Gurugram, Haryana, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8242255?gh_jid=8242255",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "support",
-    "communication",
-    "player",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -81,29 +58,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "affidea-bv-qa-and-uat-tester",
-   "title": "QA and UAT Tester",
-   "company": "Affidea BV",
-   "category": "QA / testing",
-   "score": 94,
+   "id": "headspin-junior-support-engineer",
+   "title": "Junior Support Engineer",
+   "company": "HeadSpin",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/affidea-bv/jobs/qa-and-uat-tester",
+   "url": "https://himalayas.app/companies/headspin/jobs/junior-support-engineer",
    "source": "Himalayas",
    "posted": "2026-10-16",
    "matched_skills": [
-    "quality",
-    "test case",
     "testing",
-    "documentation",
+    "customer",
     "support",
+    "communication",
     "product",
-    "sql",
-    "jira"
+    "jira",
+    "python",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T11:20+00:00",
+   "first_seen": "2026-10-16T16:36+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -158,6 +135,29 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "roblox-recruiting-coordinator",
+   "title": "Recruiting Coordinator",
+   "company": "Roblox",
+   "category": "Gaming",
+   "score": 93,
+   "location": "Gurugram, Haryana, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://careers.roblox.com/jobs/8242255?gh_jid=8242255",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "support",
+    "communication",
+    "player",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -243,6 +243,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "neuehealth-software-engineer-4",
+   "title": "Software Engineer 4",
+   "company": "NeueHealth",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/neuehealth/jobs/software-engineer-4",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "product",
+    "api",
+    "remote",
+    "react",
+    "next.js"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T16:36+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -267,6 +294,31 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "altera-digital-health-associate-systems-engineer",
+   "title": "Associate Systems Engineer",
+   "company": "Altera Digital Health",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/altera-digital-health/jobs/associate-systems-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "sql",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T16:36+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -348,7 +400,7 @@
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
    "category": "AI-assisted developer (full stack)",
-   "score": 84,
+   "score": 80,
    "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
@@ -480,29 +532,8 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-16T11:20+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "zup-pessoa-especialista-em-desenvolvimento-full-stack",
-   "title": "Pessoa Especialista em Desenvolvimento Full-stack",
-   "company": "Zup",
-   "category": "AI-assisted developer (full stack)",
-   "score": 67,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/zup/jobs/pessoa-especialista-em-desenvolvimento-full-stack",
-   "source": "Himalayas",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "docker",
-    "github"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-16T11:20+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "grab-solution-specialist-finance-systems",
