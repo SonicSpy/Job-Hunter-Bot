@@ -1,21 +1,23 @@
 # Job matches for Bhargav
 
-Updated 16 Oct 2026, 16:36 UTC · 22 open matches
+Updated 16 Oct 2026, 19:56 UTC · 24 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
+| 100 | [Software Engineer (SDET)](https://himalayas.app/companies/sophos/jobs/software-engineer-sdet) 🆕 | Sophos | Remote | Remote, India | Not listed | 2026-10-16 |
 | 95 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
-| 95 | [Junior Support Engineer](https://himalayas.app/companies/headspin/jobs/junior-support-engineer) 🆕 | HeadSpin | Remote | Remote, Worldwide | Not listed | 2026-10-16 |
 | 93 | [Associate Customer Experience Engineer](https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda) | Hevo Data | On-site | Pune, Maharashtra | Not listed | 2026-09-25 |
 | 93 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
 | 93 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 93 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
+| 93 | [Software Engineer- Frontend](https://himalayas.app/companies/webengage/jobs/software-engineer-frontend) 🆕 | WebEngage | Remote | Remote, India | Not listed | 2026-10-16 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
-| 91 | [Software Engineer 4](https://himalayas.app/companies/neuehealth/jobs/software-engineer-4) 🆕 | NeueHealth | Remote | Remote, Worldwide | Not listed | 2026-10-16 |
+| 91 | [Software Engineer 4](https://himalayas.app/companies/neuehealth/jobs/software-engineer-4) | NeueHealth | Remote | Remote, Worldwide | Not listed | 2026-10-16 |
+| 88 | [Associate Sales](https://himalayas.app/companies/newfold-digital/jobs/associate-sales) 🆕 | Newfold Digital | Hybrid | Remote, India | Not listed | 2026-10-16 |
+| 88 | [Growth Associate, Mar-tech](https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564) 🆕 | WebEngage | Remote | Remote, India | Not listed | 2026-10-16 |
 | 87 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
-| 86 | [Associate Systems Engineer](https://himalayas.app/companies/altera-digital-health/jobs/associate-systems-engineer) 🆕 | Altera Digital Health | Remote | Remote, India | Not listed | 2026-10-16 |
 | 85 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
 | 85 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 84 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |

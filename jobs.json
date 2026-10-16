@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T16:36+00:00",
- "count": 22,
- "new_this_run": 3,
+ "updated": "2026-10-16T19:56+00:00",
+ "count": 24,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,6 +31,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "sophos-software-engineer-sdet",
+   "title": "Software Engineer (SDET)",
+   "company": "Sophos",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sophos/jobs/software-engineer-sdet",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T19:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "vercel-software-engineer-backend",
    "title": "Software Engineer, Backend",
    "company": "Vercel",
@@ -55,33 +82,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "headspin-junior-support-engineer",
-   "title": "Junior Support Engineer",
-   "company": "HeadSpin",
-   "category": "Non-coding tech (high pay)",
-   "score": 95,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/headspin/jobs/junior-support-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "jira",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-16T16:36+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -189,6 +189,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T19:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -266,6 +292,56 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T16:36+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "newfold-digital-associate-sales",
+   "title": "Associate Sales",
+   "company": "Newfold Digital",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/newfold-digital/jobs/associate-sales",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "saas",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T19:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T19:56+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -294,31 +370,6 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "altera-digital-health-associate-systems-engineer",
-   "title": "Associate Systems Engineer",
-   "company": "Altera Digital Health",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/altera-digital-health/jobs/associate-systems-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "communication",
-    "sql",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-16T16:36+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
