@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T21:26+00:00",
- "count": 24,
- "new_this_run": 5,
+ "updated": "2026-10-16T00:23+00:00",
+ "count": 23,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,29 +31,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "mercor-music-evaluation-expert-fully-remote-upto-19-hr",
-   "title": "Music Evaluation Expert - Fully Remote | Upto $19/hr",
-   "company": "mercor",
-   "category": "AI evaluation / AI trainer",
+   "id": "crazygames-remote-product-analyst",
+   "title": "[REMOTE] Product Analyst",
+   "company": "CrazyGames",
+   "category": "Gaming · Non-coding tech (high pay)",
    "score": 100,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mercor/jobs/music-evaluation-expert-fully-remote-upto-19-hr",
+   "url": "https://himalayas.app/companies/crazygames/jobs/remote-product-analyst",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
-    "evaluation",
     "ai",
-    "quality",
+    "testing",
     "support",
-    "english",
-    "prompt",
-    "onboarding",
+    "communication",
+    "product",
+    "sql",
+    "analysis",
     "remote"
    ],
-   "contract": true,
-   "first_seen": "2026-10-15T21:26+00:00",
+   "contract": false,
+   "first_seen": "2026-10-16T00:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -81,29 +81,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "discovered-full-stack-data-scientist",
-   "title": "Full Stack Data Scientist",
-   "company": "Discovered",
+   "id": "spotter-labs-remote-fullstack-engineer-react-django-ai-systems",
+   "title": "Remote FullStack Engineer – React + Django – AI Systems",
+   "company": "Spotter Labs",
    "category": "AI-assisted developer (full stack)",
    "score": 96,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Argentina, Colombia, India, Mexico, Pakistan, Philippines",
    "mode": "Remote",
-   "salary": "USD 30000-50000 / year",
-   "url": "https://himalayas.app/companies/discovered/jobs/full-stack-data-scientist",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-fullstack-engineer-react-django-ai-systems-8589740143",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
     "ai",
-    "quality",
-    "customer",
-    "communication",
     "product",
-    "analysis",
-    "saas",
-    "remote"
+    "api",
+    "python",
+    "docker",
+    "remote",
+    "react",
+    "gcp"
    ],
    "contract": false,
-   "first_seen": "2026-10-15T21:26+00:00",
+   "first_seen": "2026-10-16T00:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -132,33 +132,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "venza-front-end-developer",
-   "title": "Front-End Developer",
-   "company": "VENZA",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/venza/jobs/front-end-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "support",
-    "product",
-    "remote",
-    "react",
-    "typescript",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T21:26+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -297,6 +270,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "teladoc-health-software-engineer-iii",
+   "title": "Software Engineer III",
+   "company": "Teladoc Health",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/teladoc-health/jobs/software-engineer-iii",
+   "source": "Himalayas",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "analysis",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-16T00:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -321,31 +321,6 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mighty-networks-community-manager",
-   "title": "Community Manager",
-   "company": "Mighty Networks",
-   "category": "Gaming",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 40000-60000 / year",
-   "url": "https://himalayas.app/companies/mighty-networks/jobs/community-manager-4526176988",
-   "source": "Himalayas",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "quality",
-    "support",
-    "communication",
-    "onboarding",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T21:26+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -473,23 +448,23 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "dataforest-gmbh-it-support-specialist-junior-2nd-level-hosting-m-w-d",
-   "title": "IT Support Specialist (Junior, 2nd Level) – Hosting (m/w/d)",
-   "company": "dataforest GmbH",
+   "id": "bold-associate-product-manager-real-time-payments",
+   "title": "Associate Product Manager- Real Time Payments",
+   "company": "Bold",
    "category": "Non-coding tech (high pay)",
    "score": 77,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/dataforest-gmbh/jobs/it-support-specialist-junior-2nd-level-hosting-m-w-d",
+   "url": "https://himalayas.app/companies/bold/jobs/associate-product-manager-real-time-payments",
    "source": "Himalayas",
    "posted": "2026-10-15",
    "matched_skills": [
-    "support",
-    "remote"
+    "product",
+    "sql"
    ],
    "contract": false,
-   "first_seen": "2026-10-15T21:26+00:00",
+   "first_seen": "2026-10-16T00:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
