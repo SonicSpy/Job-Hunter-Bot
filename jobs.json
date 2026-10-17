@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T15:31+00:00",
+ "updated": "2026-10-17T18:29+00:00",
  "count": 25,
- "new_this_run": 4,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,30 +31,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "arangodb-frontend-engineer",
-   "title": "Frontend Engineer",
-   "company": "ArangoDB",
+   "id": "creative-chaos-full-stack-engineer-python-react",
+   "title": "Full Stack Engineer - Python+React",
+   "company": "Creative Chaos",
    "category": "AI-assisted developer (full stack)",
-   "score": 100,
+   "score": 99,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/arangodb/jobs/frontend-engineer",
+   "url": "https://himalayas.app/companies/creative-chaos/jobs/full-stack-engineer-python-react-257488219",
    "source": "Himalayas",
    "posted": "2026-10-17",
    "matched_skills": [
+    "llm",
     "ai",
-    "testing",
+    "quality",
     "communication",
     "product",
-    "api",
-    "sql",
+    "python",
     "react",
-    "typescript"
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-10-17T11:35+00:00",
-   "new": false,
+   "first_seen": "2026-10-17T18:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -82,33 +82,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "akko-software-developer-in-test-sdet",
-   "title": "Software Developer in Test (SDET)",
-   "company": "AKKO",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/akko/jobs/software-developer-in-test-sdet",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "test case",
-    "manual testing",
-    "testing",
-    "documentation",
-    "customer",
-    "product",
-    "api",
-    "postman"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-17T15:31+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -189,60 +162,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "cloud-counselage-pvt-ltd-qa-engineer",
-   "title": "QA Engineer",
-   "company": "Cloud Counselage Pvt Ltd",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/qa-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "jira",
-    "fresher",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T11:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "pricelabs-graduate-programme-india",
-   "title": "Graduate Programme - India",
-   "company": "PriceLabs",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/pricelabs-co/jobs/graduate-programme-india",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "prompt",
-    "saas",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T15:31+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -297,6 +216,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T18:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -321,6 +263,33 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
+   "title": "ServiceNow QA Consultant (CSM/ITSM)",
+   "company": "Joyful Craftsmen AG",
+   "category": "QA / testing",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-17T18:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -398,26 +367,53 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "wadhwani-ai-associate-machine-learning-scientist",
-   "title": "Associate Machine Learning Scientist",
-   "company": "Wadhwani AI",
-   "category": "Trainee / graduate program",
-   "score": 83,
+   "id": "m-ller-s-solutions-presales-consultant",
+   "title": "Presales Consultant",
+   "company": "Müller`s Solutions",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wadhwani-ai/jobs/associate-machine-learning-scientist-4897794238",
+   "url": "https://himalayas.app/companies/muller-s-solutions/jobs/presales-consultant",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T18:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "ewor-gmbh-applied-ai-co-founder-cto-100-remote-m-f-d",
+   "title": "Applied AI Co-Founder / CTO (100 % remote) (m/f/d)",
+   "company": "EWOR GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-cto-100-remote-m-f-d-9741035417",
    "source": "Himalayas",
    "posted": "2026-10-17",
    "matched_skills": [
     "ai",
     "support",
     "communication",
-    "analysis",
-    "python"
+    "english",
+    "product",
+    "remote",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-17T15:31+00:00",
+   "first_seen": "2026-10-17T18:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -443,6 +439,31 @@
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "xktalent-inc-rimutee-desarrollador-full-stack",
+   "title": "DESARROLLADOR FULL STACK",
+   "company": "XKTalent Inc. - Rimutee",
+   "category": "AI-assisted developer (full stack)",
+   "score": 79,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-full-stack",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "sql",
+    "python",
+    "docker",
+    "react",
+    "node",
+    "full stack"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-17T18:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -563,27 +584,6 @@
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T15:31+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
