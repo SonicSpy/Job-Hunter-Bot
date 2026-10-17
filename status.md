@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-17T15:31+00:00 · raw jobs read: 12175 · matches: 25 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -8,7 +8,7 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 49
-- weworkremotely: 341
+- weworkremotely: 342
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 656 | ok |
+| Anthropic | greenhouse | 655 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -204,7 +204,7 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 393 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 815 | ok |
+| OpenAI | ashby | 814 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -234,7 +234,7 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Revolut | not found | 0 | add careers link manually if needed |
 | Riot Games | greenhouse | 174 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 262 | ok |
+| Roblox | greenhouse | 263 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 25 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 731 | ok |
+| Stripe | greenhouse | 732 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 5
+Telegram: sent 4

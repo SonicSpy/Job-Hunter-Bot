@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T11:35+00:00",
- "count": 24,
- "new_this_run": 5,
+ "updated": "2026-10-17T15:31+00:00",
+ "count": 25,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -54,34 +54,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-17T11:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "whitetech-business-analyst",
-   "title": "Business Analyst",
-   "company": "WhiteTech",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, Australia, Canada, India, United Kingdom, United States",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/whitetech/jobs/business-analyst",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T11:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -109,6 +82,33 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "akko-software-developer-in-test-sdet",
+   "title": "Software Developer in Test (SDET)",
+   "company": "AKKO",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/akko/jobs/software-developer-in-test-sdet",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "test case",
+    "manual testing",
+    "testing",
+    "documentation",
+    "customer",
+    "product",
+    "api",
+    "postman"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-17T15:31+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -212,6 +212,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-17T11:35+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "pricelabs-graduate-programme-india",
+   "title": "Graduate Programme - India",
+   "company": "PriceLabs",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pricelabs-co/jobs/graduate-programme-india",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "prompt",
+    "saas",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T15:31+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -371,6 +398,30 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "wadhwani-ai-associate-machine-learning-scientist",
+   "title": "Associate Machine Learning Scientist",
+   "company": "Wadhwani AI",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/wadhwani-ai/jobs/associate-machine-learning-scientist-4897794238",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "analysis",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T15:31+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -392,29 +443,6 @@
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "cloud-counselage-pvt-ltd-business-development-associate",
-   "title": "Business Development Associate",
-   "company": "Cloud Counselage Pvt Ltd",
-   "category": "Trainee / graduate program",
-   "score": 80,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/business-development-associate",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "customer",
-    "fresher",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T11:35+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -463,31 +491,6 @@
    "contract": false,
    "first_seen": "2026-10-17T01:17+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "cloud-counselage-pvt-ltd-sales-trainee",
-   "title": "Sales Trainee",
-   "company": "Cloud Counselage Pvt Ltd",
-   "category": "Trainee / graduate program",
-   "score": 76,
-   "location": "Remote, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/sales-trainee",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "fresher",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T11:35+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -560,6 +563,27 @@
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T15:31+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
