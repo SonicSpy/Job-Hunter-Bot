@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T22:49+00:00",
- "count": 28,
- "new_this_run": 9,
+ "updated": "2026-10-17T01:17+00:00",
+ "count": 29,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,33 +31,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "cloud-counselage-pvt-ltd-junior-full-stack-web-developer",
-   "title": "JUNIOR FULL STACK WEB DEVELOPER",
-   "company": "Cloud Counselage Pvt Ltd",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/junior-full-stack-web-developer",
-   "source": "Himalayas",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "product",
-    "sql",
-    "fresher",
-    "python",
-    "docker",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "mercor-video-annotation-specialist-fully-remote-upto-25-hr",
    "title": "Video Annotation Specialist - Fully Remote | Upto $25/hr",
    "company": "mercor",
@@ -81,7 +54,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -239,32 +212,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
-   "id": "cloud-counselage-pvt-ltd-community-operations-specialist",
-   "title": "Community Operations Specialist",
-   "company": "Cloud Counselage Pvt Ltd",
-   "category": "Gaming",
+   "id": "mimidentalclinic-junior-software-engineer",
+   "title": "Junior Software Engineer",
+   "company": "Mimidentalclinic",
+   "category": "AI-assisted developer (full stack)",
    "score": 93,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/community-operations-specialist",
+   "url": "https://himalayas.app/companies/mimidentalclinic/jobs/junior-software-engineer",
    "source": "Himalayas",
    "posted": "2026-10-16",
    "matched_skills": [
-    "customer",
+    "quality",
     "support",
     "communication",
     "product",
-    "fresher",
+    "python",
     "remote",
-    "community"
+    "typescript",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T22:49+00:00",
+   "first_seen": "2026-10-17T01:17+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -342,7 +316,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -373,15 +347,15 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
+   "id": "cloud-counselage-pvt-ltd-it-pre-sales-engineer-technical",
+   "title": "IT Pre-Sales Engineer (Technical)",
+   "company": "Cloud Counselage Pvt Ltd",
    "category": "Non-coding tech (high pay)",
    "score": 87,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583",
+   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/it-pre-sales-engineer-technical",
    "source": "Himalayas",
    "posted": "2026-10-16",
    "matched_skills": [
@@ -389,13 +363,37 @@
     "customer",
     "support",
     "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
+    "product",
+    "fresher",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-16T22:49+00:00",
+   "first_seen": "2026-10-17T01:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "lexoga-forward-deployed-engineer",
+   "title": "Forward Deployed Engineer",
+   "company": "Lexoga",
+   "category": "AI-assisted developer (full stack)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 60000-180000 / year",
+   "url": "https://himalayas.app/companies/lexoga/jobs/forward-deployed-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "customer",
+    "product",
+    "annotation"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T01:17+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -496,7 +494,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -542,7 +540,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -570,6 +568,28 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "voltus-customer-success-associate",
+   "title": "Customer Success Associate",
+   "company": "Voltus",
+   "category": "Non-coding tech (high pay)",
+   "score": 77,
+   "location": "Remote, Remote",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T01:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
@@ -663,7 +683,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-16T22:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

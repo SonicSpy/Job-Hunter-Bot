@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed or ghost jobs removed: 0
+Last run 2026-10-17T01:17+00:00 · raw jobs read: 12203 · matches: 29 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 225
@@ -8,7 +8,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 49
-- weworkremotely: 339
+- weworkremotely: 340
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 654 | ok |
+| Anthropic | greenhouse | 655 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -54,7 +54,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 436 | ok |
+| Cloudflare | greenhouse | 435 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 118 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Coursera | greenhouse | 20 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 897 | ok |
+| Databricks | greenhouse | 898 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 47 | ok |
@@ -96,7 +96,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Games2win | not found | 0 | add careers link manually if needed |
 | Gameskraft | not found | 0 | add careers link manually if needed |
 | Garena | not found | 0 | add careers link manually if needed |
-| GitLab | greenhouse | 227 | ok |
+| GitLab | greenhouse | 231 | ok |
 | Glance | greenhouse | 35 | ok |
 | Glean | smartrecruiters | 1 | ok |
 | Global App Testing | not found | 0 | add careers link manually if needed |
@@ -138,7 +138,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Junglee Games | not found | 0 | add careers link manually if needed |
 | Jupiter | not found | 0 | add careers link manually if needed |
 | Juspay | not found | 0 | add careers link manually if needed |
-| Kabam | lever | 24 | ok |
+| Kabam | lever | 22 | ok |
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
@@ -202,9 +202,9 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 9 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 390 | ok |
+| Okta | greenhouse | 393 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 811 | ok |
+| OpenAI | ashby | 815 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -228,7 +228,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Quizizz | not found | 0 | add careers link manually if needed |
 | Rapido | not found | 0 | add careers link manually if needed |
 | Razorpay | not found | 0 | add careers link manually if needed |
-| Remedy | greenhouse | 11 | ok |
+| Remedy | greenhouse | 12 | ok |
 | Remote | greenhouse | 2 | ok |
 | Replit | ashby | 65 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
@@ -240,7 +240,7 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 144 | ok |
+| Rubrik | greenhouse | 143 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 42 | ok |
 | Sauce Labs | greenhouse | 9 | ok |
@@ -286,9 +286,9 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 17 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 31 | ok |
+| Toptal | lever | 32 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
-| Turing | greenhouse | 29 | ok |
+| Turing | greenhouse | 30 | ok |
 | Twilio | greenhouse | 133 | ok |
 | Twitch | greenhouse | 46 | ok |
 | Uber | smartrecruiters | 1 | ok |
@@ -321,11 +321,11 @@ Last run 2026-10-16T22:49+00:00 · raw jobs read: 12191 · matches: 28 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 369 | ok |
+| Zscaler | greenhouse | 368 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 10 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 9
+Telegram: sent 4
