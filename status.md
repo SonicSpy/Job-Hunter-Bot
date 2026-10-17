@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-17T18:29+00:00 · raw jobs read: 12175 · matches: 25 · closed or ghost jobs removed: 0
+Last run 2026-10-17T21:26+00:00 · raw jobs read: 12142 · matches: 22 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -8,7 +8,7 @@ Last run 2026-10-17T18:29+00:00 · raw jobs read: 12175 · matches: 25 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 49
-- weworkremotely: 342
+- weworkremotely: 341
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -286,7 +286,7 @@ Last run 2026-10-17T18:29+00:00 · raw jobs read: 12175 · matches: 25 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 17 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 32 | ok |
+| Toptal | lever | 0 | HTTP Error 500: Internal Server Error |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 29 | ok |
 | Twilio | greenhouse | 133 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-17T18:29+00:00 · raw jobs read: 12175 · matches: 25 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 6
+Telegram: sent 3

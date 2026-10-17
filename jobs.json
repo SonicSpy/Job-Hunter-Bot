@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T18:29+00:00",
- "count": 25,
- "new_this_run": 6,
+ "updated": "2026-10-17T21:26+00:00",
+ "count": 22,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,29 +31,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "creative-chaos-full-stack-engineer-python-react",
-   "title": "Full Stack Engineer - Python+React",
-   "company": "Creative Chaos",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, India",
+   "id": "collider-trading-card-games-tcg-writer",
+   "title": "Trading Card Games (TCG) Writer",
+   "company": "Collider",
+   "category": "Gaming",
+   "score": 100,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/creative-chaos/jobs/full-stack-engineer-python-react-257488219",
+   "url": "https://himalayas.app/companies/collider/jobs/trading-card-games-tcg-writer",
    "source": "Himalayas",
    "posted": "2026-10-17",
    "matched_skills": [
-    "llm",
-    "ai",
+    "evaluation",
     "quality",
+    "documentation",
     "communication",
     "product",
-    "python",
-    "react",
-    "javascript"
+    "analysis",
+    "remote",
+    "player"
    ],
-   "contract": false,
-   "first_seen": "2026-10-17T18:29+00:00",
+   "contract": true,
+   "first_seen": "2026-10-17T21:26+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -162,6 +162,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "mercor-llm-systems-engineer-fully-remote-upto-500-task-task-based",
+   "title": "LLM Systems Engineer - Fully Remote | Upto $500/task Task based",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/llm-systems-engineer-fully-remote-upto-500-task-task-based-2236471930",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "support",
+    "product",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-17T21:26+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -216,25 +240,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
-   "score": 91,
-   "location": "Remote, Worldwide",
+   "id": "harman-international-software-engineer-c-qt",
+   "title": "Software Engineer - C++ QT",
+   "company": "HARMAN International",
+   "category": "AI-assisted developer (full stack)",
+   "score": 88,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops",
+   "url": "https://himalayas.app/companies/harman-international/jobs/software-engineer-c-qt",
    "source": "Himalayas",
    "posted": "2026-10-17",
    "matched_skills": [
-    "documentation",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "communication",
     "product",
-    "docker",
-    "gcp"
+    "remote",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-17T18:29+00:00",
+   "first_seen": "2026-10-17T21:26+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -263,33 +291,6 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-17T18:29+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -367,57 +368,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "m-ller-s-solutions-presales-consultant",
-   "title": "Presales Consultant",
-   "company": "Müller`s Solutions",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/muller-s-solutions/jobs/presales-consultant",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T18:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "ewor-gmbh-applied-ai-co-founder-cto-100-remote-m-f-d",
-   "title": "Applied AI Co-Founder / CTO (100 % remote) (m/f/d)",
-   "company": "EWOR GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-cto-100-remote-m-f-d-9741035417",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T18:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -439,31 +389,6 @@
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "xktalent-inc-rimutee-desarrollador-full-stack",
-   "title": "DESARROLLADOR FULL STACK",
-   "company": "XKTalent Inc. - Rimutee",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-full-stack",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "sql",
-    "python",
-    "docker",
-    "react",
-    "node",
-    "full stack"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-17T18:29+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
