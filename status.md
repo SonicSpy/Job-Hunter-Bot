@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-17T06:55+00:00 · raw jobs read: 12204 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-10-17T11:35+00:00 · raw jobs read: 12174 · matches: 24 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 225
+- remotive: 195
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 49
-- weworkremotely: 340
+- weworkremotely: 341
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -321,11 +321,11 @@ Last run 2026-10-17T06:55+00:00 · raw jobs read: 12204 · matches: 31 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 366 | ok |
+| Zscaler | greenhouse | 365 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 10 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 9
+Telegram: sent 5
