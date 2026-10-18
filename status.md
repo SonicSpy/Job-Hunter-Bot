@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed or ghost jobs removed: 0
+Last run 2026-10-18T13:59+00:00 · raw jobs read: 12175 · matches: 26 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -104,7 +104,7 @@ Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | Go Digit | not found | 0 | add careers link manually if needed |
 | Gojek | not found | 0 | add careers link manually if needed |
 | Grab | smartrecruiters | 100 | ok |
-| Grafana Labs | greenhouse | 112 | ok |
+| Grafana Labs | greenhouse | 114 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
 | Groww | greenhouse | 10 | ok |
@@ -240,7 +240,7 @@ Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 144 | ok |
+| Rubrik | greenhouse | 143 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 42 | ok |
 | Sauce Labs | greenhouse | 9 | ok |
@@ -267,7 +267,7 @@ Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 732 | ok |
+| Stripe | greenhouse | 731 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 54 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 6
+Telegram: sent 4

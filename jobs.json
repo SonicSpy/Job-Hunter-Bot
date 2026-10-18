@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T09:35+00:00",
+ "updated": "2026-10-18T13:59+00:00",
  "count": 26,
- "new_this_run": 6,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,6 +31,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "marrina-decisions-remote-india-ai-engineer-saas-platform",
+   "title": "REMOTE (INDIA):   AI Engineer- SaaS Platform",
+   "company": "Marrina Decisions",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-ai-engineer-saas-platform-5376820926",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T13:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "invisible-technologies-audio-editor-for-dialogue-audio-post-production-freelance-ai-traine",
    "title": "Audio Editor for Dialogue / Audio Post-Production - Freelance AI Trainer Project",
    "company": "Invisible Technologies",
@@ -52,7 +79,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T09:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -80,33 +107,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "affidea-bv-junior-digital-innovation-engineer",
-   "title": "Junior Digital Innovation Engineer",
-   "company": "Affidea BV",
-   "category": "Trainee / graduate program",
-   "score": 95,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/affidea-bv/jobs/junior-digital-innovation-engineer",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "documentation",
-    "support",
-    "product",
-    "jira",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -187,29 +187,28 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "smart-working-qa-automation-engineer-remote-full-time-hr217",
-   "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
-   "company": "Smart Working",
-   "category": "QA / testing",
-   "score": 92,
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
-    "ai",
-    "quality",
     "testing",
-    "documentation",
-    "support",
+    "customer",
     "communication",
-    "english",
-    "product"
+    "product",
+    "saas",
+    "react",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
+   "first_seen": "2026-10-18T13:59+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -268,29 +267,25 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "marrina-decisions-remote-india-frontend-engineer-saas-maintenance",
-   "title": "REMOTE (INDIA):  Frontend Engineer – SaaS Maintenance",
-   "company": "Marrina Decisions",
-   "category": "AI-assisted developer (full stack)",
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
    "score": 88,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-frontend-engineer-saas-maintenance-2140363524",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
-    "testing",
-    "api",
-    "saas",
-    "remote",
-    "react",
-    "next.js",
-    "typescript",
-    "tailwind"
+    "customer",
+    "communication",
+    "product",
+    "steam"
    ],
    "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
+   "first_seen": "2026-10-18T13:59+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -423,30 +418,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "2070-health-associate-consultant-healthcare",
-   "title": "Associate Consultant - Healthcare",
-   "company": "2070 Health",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/2070-health/jobs/associate-consultant-healthcare",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -538,7 +509,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -630,6 +601,27 @@
    "first_seen": "2026-10-16T11:20+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "wilsonhcg-early-careers-recruitment-consultant-south-africa-fixed-term",
+   "title": "Early Careers Recruitment Consultant - South Africa | Fixed-Term",
+   "company": "WilsonHCG",
+   "category": "Trainee / graduate program",
+   "score": 66,
+   "location": "Remote, Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, French Southern Territories, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/wilsonhcg/jobs/early-careers-recruitment-consultant-south-africa-fixed-term",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "quality",
+    "communication"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T13:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "grab-solution-specialist-finance-systems",
