@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-18T04:28+00:00 · raw jobs read: 12179 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-18T09:35+00:00 · raw jobs read: 12175 · matches: 26 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 195
+- remotive: 180
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 49
-- weworkremotely: 341
+- weworkremotely: 351
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -284,7 +284,7 @@ Last run 2026-10-18T04:28+00:00 · raw jobs read: 12179 · matches: 24 · closed
 | Testsigma | not found | 0 | add careers link manually if needed |
 | Tilting Point | not found | 0 | add careers link manually if needed |
 | Toddle | not found | 0 | add careers link manually if needed |
-| Toloka | greenhouse | 17 | ok |
+| Toloka | greenhouse | 18 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
 | Toptal | lever | 32 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T04:28+00:00 · raw jobs read: 12179 · matches: 24 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 6
