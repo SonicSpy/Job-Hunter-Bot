@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-18T13:59+00:00 · raw jobs read: 12175 · matches: 26 · closed or ghost jobs removed: 0
+Last run 2026-10-18T17:21+00:00 · raw jobs read: 12170 · matches: 23 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 49
-- weworkremotely: 351
+- workingnomads: 46
+- weworkremotely: 350
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-18T13:59+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 655 | ok |
+| Anthropic | greenhouse | 656 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -54,7 +54,7 @@ Last run 2026-10-18T13:59+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 435 | ok |
+| Cloudflare | greenhouse | 433 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 118 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T13:59+00:00 · raw jobs read: 12175 · matches: 26 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1

@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T13:59+00:00",
- "count": 26,
- "new_this_run": 4,
+ "updated": "2026-10-18T17:21+00:00",
+ "count": 23,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -29,58 +29,6 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "marrina-decisions-remote-india-ai-engineer-saas-platform",
-   "title": "REMOTE (INDIA):   AI Engineer- SaaS Platform",
-   "company": "Marrina Decisions",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-ai-engineer-saas-platform-5376820926",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T13:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-audio-editor-for-dialogue-audio-post-production-freelance-ai-traine",
-   "title": "Audio Editor for Dialogue / Audio Post-Production - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, Australia, Canada, France, Germany, India, Philippines, United Kingdom, United States",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/audio-editor-for-dialogue-audio-post-production-freelance-ai-trainer-project",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "product",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T09:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -187,32 +135,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T13:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -264,29 +186,6 @@
    "contract": false,
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T13:59+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -389,6 +288,30 @@
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "ready-ai-engineer-ia-data-engineer",
+   "title": "AI Engineer / IA Data Engineer",
+   "company": "Ready",
+   "category": "AI-assisted developer (full stack)",
+   "score": 84,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joinready/jobs/ai-engineer-ia-data-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "ai",
+    "product",
+    "prompt",
+    "python",
+    "github"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T17:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "typeform-full-stack-developer",
@@ -620,7 +543,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T13:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
