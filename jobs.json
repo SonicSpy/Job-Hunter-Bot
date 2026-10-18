@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T17:21+00:00",
- "count": 23,
- "new_this_run": 1,
+ "updated": "2026-10-18T20:39+00:00",
+ "count": 34,
+ "new_this_run": 12,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -29,6 +29,87 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "canonical-junior-ubuntu-software-engineer",
+   "title": "Junior Ubuntu Software Engineer",
+   "company": "Canonical",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/canonical/jobs/junior-ubuntu-software-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "communication",
+    "english",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "pratham-international-ai-engineer-asr-pradigi-a-pratham-initiative",
+   "title": "AI Engineer - ASR: PraDigi, a Pratham Initiative",
+   "company": "Pratham International",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pratham-international/jobs/ai-engineer-asr-pradigi-a-pratham-initiative",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "hindi"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "canonical-ubuntu-software-engineer",
+   "title": "Ubuntu Software Engineer",
+   "company": "Canonical",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/canonical/jobs/ubuntu-software-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "communication",
+    "english",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -135,6 +216,58 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "invisible-technologies-road-inspector-civil-engineer-freelance-ai-trainer-project",
+   "title": "Road Inspector / Civil Engineer – Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 93,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/road-inspector-civil-engineer-freelance-ai-trainer-project",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "communication",
+    "annotation",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "talent-journey-junior-frontend-developer-future-position",
+   "title": "Junior Frontend Developer - Future Position",
+   "company": "Talent Journey",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "communication",
+    "english",
+    "saas",
+    "github",
+    "remote",
+    "next.js"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -189,6 +322,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -210,31 +370,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
-   "title": "Remote AI Trainers (Generalist and Python Coding Experts)",
-   "company": "AITrainers",
-   "category": "AI evaluation / AI trainer",
-   "score": 85,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-14",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "prompt",
-    "python",
-    "remote",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-14T23:12+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "askable-software-engineer-ai-coding-tasks",
@@ -310,7 +445,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T17:21+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -337,6 +472,31 @@
    ],
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
+   "title": "Remote AI Trainers (Generalist and Python Coding Experts)",
+   "company": "AITrainers",
+   "category": "AI evaluation / AI trainer",
+   "score": 81,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-14",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "prompt",
+    "python",
+    "remote",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-14T23:12+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -508,6 +668,128 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "ready-business-analyst-t-cnico-ingl-s",
+   "title": "Business Analyst Técnico + Inglés",
+   "company": "Ready",
+   "category": "Non-coding tech (high pay)",
+   "score": 72,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joinready/jobs/business-analyst-tecnico-ingles",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "english",
+    "product",
+    "analysis"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "saks-off-5th-associate-risk-operation",
+   "title": "Associate, Risk Operation",
+   "company": "Saks OFF 5TH",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/associate-risk-operation",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "saks-off-5th-trainee-general-accounting",
+   "title": "Trainee - General Accounting",
+   "company": "Saks OFF 5TH",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-general-accounting",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "saks-off-5th-trainee-sales-audit",
+   "title": "Trainee - Sales Audit",
+   "company": "Saks OFF 5TH",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-sales-audit",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "saks-off-5th-trainee-digital-item-set-up",
+   "title": "Trainee - Digital Item set-up",
+   "company": "Saks OFF 5TH",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-digital-item-set-up-1517912429",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "saks-off-5th-trainee-capital-payables",
+   "title": "Trainee, Capital Payables",
+   "company": "Saks OFF 5TH",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-capital-payables",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T20:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "servicenow-advisory-solution-consultant-core-business-solutions",
    "title": "Advisory Solution Consultant - Core Business Solutions",
    "company": "ServiceNow",
@@ -524,27 +806,6 @@
    "first_seen": "2026-10-16T11:20+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "wilsonhcg-early-careers-recruitment-consultant-south-africa-fixed-term",
-   "title": "Early Careers Recruitment Consultant - South Africa | Fixed-Term",
-   "company": "WilsonHCG",
-   "category": "Trainee / graduate program",
-   "score": 66,
-   "location": "Remote, Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, French Southern Territories, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wilsonhcg/jobs/early-careers-recruitment-consultant-south-africa-fixed-term",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "quality",
-    "communication"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T13:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "grab-solution-specialist-finance-systems",

@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-18T17:21+00:00 · raw jobs read: 12170 · matches: 23 · closed or ghost jobs removed: 0
+Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -8,7 +8,7 @@ Last run 2026-10-18T17:21+00:00 · raw jobs read: 12170 · matches: 23 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 46
-- weworkremotely: 350
+- weworkremotely: 348
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-18T17:21+00:00 · raw jobs read: 12170 · matches: 23 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 656 | ok |
+| Anthropic | greenhouse | 655 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T17:21+00:00 · raw jobs read: 12170 · matches: 23 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 10
