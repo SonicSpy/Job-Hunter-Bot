@@ -1,20 +1,22 @@
 # Job matches for Bhargav
 
-Updated 17 Oct 2026, 21:26 UTC · 22 open matches
+Updated 18 Oct 2026, 00:01 UTC · 24 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
-| 100 | [Trading Card Games (TCG) Writer](https://himalayas.app/companies/collider/jobs/trading-card-games-tcg-writer) 🆕 | Collider | Remote | Remote, Worldwide | Not listed | 2026-10-17 |
+| 100 | [APAC | Roblox](https://himalayas.app/companies/kodland/jobs/apac-roblox) 🆕 | Kodland | Remote | Remote, American Samoa, Australia, Bangl | Not listed | 2026-10-17 |
 | 95 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
 | 93 | [Product Management - Associate Product Manager - Travel.](https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-09-30 |
 | 93 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 93 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
-| 93 | [LLM Systems Engineer - Fully Remote | Upto $500/task Task based](https://himalayas.app/companies/mercor/jobs/llm-systems-engineer-fully-remote-upto-500-task-task-based-2236471930) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-10-17 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
-| 88 | [Software Engineer - C++ QT](https://himalayas.app/companies/harman-international/jobs/software-engineer-c-qt) 🆕 | HARMAN International | Remote | Remote, India | Not listed | 2026-10-17 |
+| 89 | [Manual QA Engineer](https://himalayas.app/companies/fundcount/jobs/manual-qa-engineer) 🆕 | FundCount | Remote | Remote, Worldwide | Not listed | 2026-10-17 |
+| 89 | [Associate Teacher APAC - Data Analytics](https://himalayas.app/companies/decoded-limited/jobs/associate-teacher-apac-data-analytics) 🆕 | Decoded Limited | Remote | Remote, American Samoa, Australia, Bangl | Not listed | 2026-10-17 |
+| 88 | [Software Engineer - C++ QT](https://himalayas.app/companies/harman-international/jobs/software-engineer-c-qt) | HARMAN International | Remote | Remote, India | Not listed | 2026-10-17 |
 | 87 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
+| 87 | [Remote Customer Onboarding Support Specialist](https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583) 🆕 | Spotter Labs | Remote | Remote, Worldwide | Not listed | 2026-10-17 |
 | 85 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
 | 85 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 84 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |

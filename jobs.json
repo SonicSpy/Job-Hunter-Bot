@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T21:26+00:00",
- "count": 22,
- "new_this_run": 3,
+ "updated": "2026-10-18T00:01+00:00",
+ "count": 24,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,29 +31,27 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "collider-trading-card-games-tcg-writer",
-   "title": "Trading Card Games (TCG) Writer",
-   "company": "Collider",
+   "id": "kodland-apac-roblox",
+   "title": "APAC | Roblox",
+   "company": "Kodland",
    "category": "Gaming",
    "score": 100,
-   "location": "Remote, Worldwide",
+   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/collider/jobs/trading-card-games-tcg-writer",
+   "url": "https://himalayas.app/companies/kodland/jobs/apac-roblox",
    "source": "Himalayas",
    "posted": "2026-10-17",
    "matched_skills": [
-    "evaluation",
-    "quality",
-    "documentation",
-    "communication",
-    "product",
-    "analysis",
+    "support",
+    "english",
+    "onboarding",
+    "python",
     "remote",
-    "player"
+    "community"
    ],
    "contract": true,
-   "first_seen": "2026-10-17T21:26+00:00",
+   "first_seen": "2026-10-18T00:01+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -162,30 +160,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mercor-llm-systems-engineer-fully-remote-upto-500-task-task-based",
-   "title": "LLM Systems Engineer - Fully Remote | Upto $500/task Task based",
-   "company": "mercor",
-   "category": "AI evaluation / AI trainer",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mercor/jobs/llm-systems-engineer-fully-remote-upto-500-task-task-based-2236471930",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "support",
-    "product",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-17T21:26+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -240,6 +214,59 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "fundcount-manual-qa-engineer",
+   "title": "Manual QA Engineer",
+   "company": "FundCount",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/fundcount/jobs/manual-qa-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "manual testing",
+    "testing",
+    "documentation",
+    "english",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T00:01+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "decoded-limited-associate-teacher-apac-data-analytics",
+   "title": "Associate Teacher APAC - Data Analytics",
+   "company": "Decoded Limited",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/decoded-limited/jobs/associate-teacher-apac-data-analytics",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "quality",
+    "support",
+    "product",
+    "sql",
+    "analysis",
+    "python",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T00:01+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "harman-international-software-engineer-c-qt",
    "title": "Software Engineer - C++ QT",
    "company": "HARMAN International",
@@ -263,7 +290,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-17T21:26+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -291,6 +318,33 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583",
+   "source": "Himalayas",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T00:01+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
