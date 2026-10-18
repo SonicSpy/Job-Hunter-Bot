@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T00:01+00:00",
+ "updated": "2026-10-18T04:28+00:00",
  "count": 24,
- "new_this_run": 4,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -52,7 +52,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T00:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -237,33 +237,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T00:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "decoded-limited-associate-teacher-apac-data-analytics",
-   "title": "Associate Teacher APAC - Data Analytics",
-   "company": "Decoded Limited",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/decoded-limited/jobs/associate-teacher-apac-data-analytics",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "quality",
-    "support",
-    "product",
-    "sql",
-    "analysis",
-    "python",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T00:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -321,33 +295,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583",
-   "source": "Himalayas",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T00:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-associate-user-growth-market-intelligence",
    "title": "Associate - User Growth (Market intelligence)",
    "company": "Paytm",
@@ -396,6 +343,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "askable-software-engineer-ai-coding-tasks",
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 10000-10000 / year",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "testing",
+    "python",
+    "docker",
+    "remote",
+    "typescript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T04:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "mongodb-associate-hr-shared-services",
    "title": "Associate, HR Shared Services",
    "company": "MongoDB",
@@ -420,6 +394,31 @@
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "affidea-bv-junior-devops-engineer",
+   "title": "Junior DevOps Engineer",
+   "company": "Affidea BV",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/affidea-bv/jobs/junior-devops-engineer",
+   "source": "Himalayas",
+   "posted": "2026-10-18",
+   "matched_skills": [
+    "documentation",
+    "support",
+    "prompt",
+    "onboarding",
+    "python",
+    "github"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T04:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",

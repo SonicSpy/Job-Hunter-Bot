@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-18T00:01+00:00 · raw jobs read: 12174 · matches: 24 · closed or ghost jobs removed: 0
+Last run 2026-10-18T04:28+00:00 · raw jobs read: 12179 · matches: 24 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -104,7 +104,7 @@ Last run 2026-10-18T00:01+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Go Digit | not found | 0 | add careers link manually if needed |
 | Gojek | not found | 0 | add careers link manually if needed |
 | Grab | smartrecruiters | 100 | ok |
-| Grafana Labs | greenhouse | 106 | ok |
+| Grafana Labs | greenhouse | 112 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
 | Groww | greenhouse | 10 | ok |
@@ -204,7 +204,7 @@ Last run 2026-10-18T00:01+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 393 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 814 | ok |
+| OpenAI | ashby | 813 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T00:01+00:00 · raw jobs read: 12174 · matches: 24 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 2
