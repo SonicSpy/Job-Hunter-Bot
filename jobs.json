@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T20:39+00:00",
- "count": 34,
- "new_this_run": 12,
+ "updated": "2026-10-18T23:10+00:00",
+ "count": 32,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -39,7 +39,7 @@
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/canonical/jobs/junior-ubuntu-software-engineer",
+   "url": "https://himalayas.app/companies/canonical/jobs/junior-ubuntu-software-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -54,34 +54,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "pratham-international-ai-engineer-asr-pradigi-a-pratham-initiative",
-   "title": "AI Engineer - ASR: PraDigi, a Pratham Initiative",
-   "company": "Pratham International",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/pratham-international/jobs/ai-engineer-asr-pradigi-a-pratham-initiative",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "hindi"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -93,7 +66,7 @@
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/canonical/jobs/ubuntu-software-engineer",
+   "url": "https://himalayas.app/companies/canonical/jobs/ubuntu-software-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -108,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -224,7 +197,7 @@
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/road-inspector-civil-engineer-freelance-ai-trainer-project",
+   "url": "https://himalayas.app/companies/inv/jobs/road-inspector-civil-engineer-freelance-ai-trainer-project?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -237,7 +210,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -249,7 +222,7 @@
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position",
+   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -264,7 +237,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -330,7 +303,7 @@
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -345,7 +318,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -425,27 +398,28 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "ready-ai-engineer-ia-data-engineer",
-   "title": "AI Engineer / IA Data Engineer",
-   "company": "Ready",
-   "category": "AI-assisted developer (full stack)",
+   "id": "granicus-automation-engineer-2-technical-support",
+   "title": "Automation Engineer 2 - Technical Support",
+   "company": "Granicus",
+   "category": "Non-coding tech (high pay)",
    "score": 84,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Armenia, Australia, Canada, India, New Zealand, United Kingdom, United States",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joinready/jobs/ai-engineer-ia-data-engineer",
+   "url": "https://himalayas.app/companies/granicus/jobs/automation-engineer-2-technical-support?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
     "ai",
+    "customer",
+    "support",
+    "communication",
     "product",
-    "prompt",
-    "python",
-    "github"
+    "remote"
    ],
-   "contract": true,
-   "first_seen": "2026-10-18T17:21+00:00",
-   "new": false,
+   "contract": false,
+   "first_seen": "2026-10-18T23:10+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -668,28 +642,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "ready-business-analyst-t-cnico-ingl-s",
-   "title": "Business Analyst Técnico + Inglés",
-   "company": "Ready",
-   "category": "Non-coding tech (high pay)",
-   "score": 72,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joinready/jobs/business-analyst-tecnico-ingles",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "english",
-    "product",
-    "analysis"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "saks-off-5th-associate-risk-operation",
    "title": "Associate, Risk Operation",
    "company": "Saks OFF 5TH",
@@ -698,7 +650,7 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/associate-risk-operation",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/associate-risk-operation?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -706,7 +658,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -718,7 +670,7 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-general-accounting",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-general-accounting?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -726,7 +678,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -738,7 +690,7 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-sales-audit",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-sales-audit?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -746,7 +698,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -758,7 +710,7 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-digital-item-set-up-1517912429",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-digital-item-set-up-1517912429?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -766,7 +718,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -778,7 +730,7 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-capital-payables",
+   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-capital-payables?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-18",
    "matched_skills": [
@@ -786,7 +738,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T20:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

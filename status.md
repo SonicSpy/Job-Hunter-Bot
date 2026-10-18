@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-10-18T23:10+00:00 · raw jobs read: 12160 · matches: 32 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -8,7 +8,7 @@ Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 46
-- weworkremotely: 348
+- weworkremotely: 347
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 655 | ok |
+| Anthropic | greenhouse | 656 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -202,13 +202,13 @@ Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 9 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 393 | ok |
+| Okta | greenhouse | 385 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 813 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
-| Paytm | lever | 182 | ok |
+| Paytm | lever | 183 | ok |
 | Perplexity | ashby | 133 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T20:39+00:00 · raw jobs read: 12167 · matches: 34 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: sent 1
