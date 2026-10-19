@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T06:13+00:00",
- "count": 24,
- "new_this_run": 2,
+ "updated": "2026-10-19T13:15+00:00",
+ "count": 26,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -31,30 +31,57 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "vercel-software-engineer-backend",
-   "title": "Software Engineer, Backend",
-   "company": "Vercel",
-   "category": "AI-assisted developer (full stack)",
-   "score": 95,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
+   "id": "figma-customer-support-specialist-bengaluru-india",
+   "title": "Customer Support Specialist (Bengaluru, India)",
+   "company": "Figma",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Bengaluru, India",
+   "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-11",
+   "url": "https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-19",
    "matched_skills": [
-    "quality",
+    "ai",
     "customer",
+    "support",
     "communication",
+    "english",
     "product",
-    "sql",
-    "remote",
-    "react",
-    "typescript"
+    "saas",
+    "onboarding"
    ],
    "contract": false,
-   "first_seen": "2026-10-11T08:47+00:00",
-   "new": false,
+   "first_seen": "2026-10-19T13:15+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "thakral-one-full-stack-java-developer",
+   "title": "Full Stack Java Developer",
+   "company": "Thakral One",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/thakral-one/jobs/full-stack-java-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T13:15+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -106,33 +133,6 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "6sense-it-support-specialist",
-   "title": "IT Support Specialist",
-   "company": "6sense",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -189,29 +189,56 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
+   "id": "vercel-software-engineer-backend",
+   "title": "Software Engineer, Backend",
+   "company": "Vercel",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
+   "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-11",
    "matched_skills": [
+    "quality",
+    "customer",
+    "communication",
+    "product",
+    "sql",
+    "remote",
+    "react",
+    "typescript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-11T08:47+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "6sense-it-support-specialist",
+   "title": "IT Support Specialist",
+   "company": "6sense",
+   "category": "Non-coding tech (high pay)",
+   "score": 89,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-15",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
     "documentation",
     "customer",
     "support",
     "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
+   "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -240,15 +267,15 @@
   },
   {
    "id": "askable-software-engineer-ai-coding-tasks",
-   "title": "Software Engineer AI Coding Tasks",
+   "title": "Software Engineer, AI Coding Tasks",
    "company": "Askable",
    "category": "AI-assisted developer (full stack)",
    "score": 85,
    "location": "Remote, Worldwide",
    "mode": "Remote",
-   "salary": "USD 10000-10000 / year",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-   "source": "RemoteOK (find company link before applying)",
+   "salary": "$1000 per task",
+   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+   "source": "Remotive (find company link before applying)",
    "posted": "2026-10-17",
    "matched_skills": [
     "evaluation",
@@ -260,7 +287,7 @@
     "remote",
     "typescript"
    ],
-   "contract": false,
+   "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
    "verified": "Link checked, still open"
@@ -313,7 +340,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T06:13+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -390,6 +417,30 @@
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "kombo-medical-solutions-ug-customer-success-representative-m-w-d",
+   "title": "Customer Success Representative (m/w/d)",
+   "company": "KOMBO medical solutions UG",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/kombo-medical-solutions-ug/jobs/customer-success-representative-m-w-d?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T13:15+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -484,7 +535,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T06:13+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
