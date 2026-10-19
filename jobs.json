@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:14+00:00",
- "count": 31,
- "new_this_run": 0,
+ "updated": "2026-10-19T06:13+00:00",
+ "count": 24,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -29,60 +29,6 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-junior-ubuntu-software-engineer",
-   "title": "Junior Ubuntu Software Engineer",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/canonical/jobs/junior-ubuntu-software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-ubuntu-software-engineer",
-   "title": "Ubuntu Software Engineer",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/canonical/jobs/ubuntu-software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "vercel-software-engineer-backend",
@@ -185,31 +131,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-road-inspector-civil-engineer-freelance-ai-trainer-project",
-   "title": "Road Inspector / Civil Engineer – Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/road-inspector-civil-engineer-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T20:39+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -371,28 +292,28 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "granicus-automation-engineer-2-technical-support",
-   "title": "Automation Engineer 2 - Technical Support",
-   "company": "Granicus",
+   "id": "makerble-hr-and-technical-support-volunteer",
+   "title": "HR and Technical Support Volunteer",
+   "company": "Makerble",
    "category": "Non-coding tech (high pay)",
    "score": 84,
-   "location": "Remote, Armenia, Australia, Canada, India, New Zealand, United Kingdom, United States",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/granicus/jobs/automation-engineer-2-technical-support?utm_source=api",
+   "url": "https://himalayas.app/companies/makerble/jobs/hr-and-technical-support-volunteer?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "matched_skills": [
-    "ai",
-    "customer",
+    "testing",
     "support",
     "communication",
-    "product",
-    "remote"
+    "english",
+    "analysis",
+    "onboarding"
    ],
    "contract": false,
-   "first_seen": "2026-10-18T23:10+00:00",
-   "new": false,
+   "first_seen": "2026-10-19T06:13+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -543,6 +464,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "kombo-medical-solutions-ug-full-stack-developer-m-w-d",
+   "title": "Full Stack Developer (m/w/d)",
+   "company": "KOMBO medical solutions UG",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/kombo-medical-solutions-ug/jobs/full-stack-developer-m-w-d?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "testing",
+    "product",
+    "api",
+    "remote",
+    "full stack"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T06:13+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "talkspace-business-development-growth-associate-pharma",
    "title": "Business Development & Growth Associate, Pharma",
    "company": "Talkspace",
@@ -611,106 +556,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "saks-off-5th-associate-risk-operation",
-   "title": "Associate, Risk Operation",
-   "company": "Saks OFF 5TH",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/associate-risk-operation?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "saks-off-5th-trainee-general-accounting",
-   "title": "Trainee - General Accounting",
-   "company": "Saks OFF 5TH",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-general-accounting?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "saks-off-5th-trainee-sales-audit",
-   "title": "Trainee - Sales Audit",
-   "company": "Saks OFF 5TH",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-sales-audit?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "saks-off-5th-trainee-digital-item-set-up",
-   "title": "Trainee - Digital Item set-up",
-   "company": "Saks OFF 5TH",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-digital-item-set-up-1517912429?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "saks-off-5th-trainee-capital-payables",
-   "title": "Trainee, Capital Payables",
-   "company": "Saks OFF 5TH",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/saks-off-5th/jobs/trainee-capital-payables?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "customer"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
