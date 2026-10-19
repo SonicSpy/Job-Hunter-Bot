@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T13:15+00:00",
- "count": 26,
- "new_this_run": 3,
+ "updated": "2026-10-19T19:20+00:00",
+ "count": 29,
+ "new_this_run": 7,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -54,19 +54,19 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T13:15+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
-   "id": "thakral-one-full-stack-java-developer",
-   "title": "Full Stack Java Developer",
-   "company": "Thakral One",
-   "category": "AI-assisted developer (full stack)",
+   "id": "affidea-bv-qa-and-uat-tester",
+   "title": "QA and UAT Tester",
+   "company": "Affidea BV",
+   "category": "QA / testing",
    "score": 94,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/thakral-one/jobs/full-stack-java-developer?utm_source=api",
+   "url": "https://himalayas.app/companies/affidea-bv/jobs/qa-and-uat-tester?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-19",
    "matched_skills": [
@@ -75,12 +75,12 @@
     "testing",
     "documentation",
     "support",
-    "communication",
     "product",
-    "sql"
+    "sql",
+    "jira"
    ],
    "contract": false,
-   "first_seen": "2026-10-19T13:15+00:00",
+   "first_seen": "2026-10-19T19:20+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -133,6 +133,33 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "cast-automation-test-engineer-for-imaging-cloud-saas",
+   "title": "Automation Test Engineer for Imaging Cloud Saas",
+   "company": "CAST",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/cast/jobs/automation-test-engineer-for-imaging-cloud-saas?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "communication",
+    "product",
+    "sql",
+    "jira",
+    "analysis",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T19:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -216,6 +243,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T19:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "6sense-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "6sense",
@@ -240,6 +290,33 @@
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
+   "title": "ServiceNow QA Consultant (CSM/ITSM)",
+   "company": "Joyful Craftsmen AG",
+   "category": "QA / testing",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-19T19:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -319,31 +396,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "makerble-hr-and-technical-support-volunteer",
-   "title": "HR and Technical Support Volunteer",
-   "company": "Makerble",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/makerble/jobs/hr-and-technical-support-volunteer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "testing",
-    "support",
-    "communication",
-    "english",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-19T06:13+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -368,6 +420,30 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "weekday-talent-operations-associate-consultant",
+   "title": "Talent Operations Associate Consultant",
+   "company": "Weekday",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/weekday/jobs/talent-operations-associate-consultant?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "evaluation",
+    "quality",
+    "documentation",
+    "communication",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-19T19:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -420,26 +496,48 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "kombo-medical-solutions-ug-customer-success-representative-m-w-d",
-   "title": "Customer Success Representative (m/w/d)",
-   "company": "KOMBO medical solutions UG",
-   "category": "Non-coding tech (high pay)",
+   "id": "xktalent-inc-rimutee-middleware-devops-community",
+   "title": "MIDDLEWARE|DEVOPS COMMUNITY",
+   "company": "XKTalent Inc. - Rimutee",
+   "category": "Gaming",
    "score": 78,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/kombo-medical-solutions-ug/jobs/customer-success-representative-m-w-d?utm_source=api",
+   "url": "https://himalayas.app/companies/rekluti/jobs/middleware-devops-community?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-19",
    "matched_skills": [
-    "ai",
+    "english",
+    "remote",
+    "community"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-19T19:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "evolve-peptides-operations-support-specialist",
+   "title": "Operations Support Specialist",
+   "company": "Evolve Peptides",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-19",
+   "matched_skills": [
     "customer",
     "support",
-    "onboarding",
+    "english",
+    "product",
     "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-19T13:15+00:00",
+   "first_seen": "2026-10-19T19:20+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -511,30 +609,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "kombo-medical-solutions-ug-full-stack-developer-m-w-d",
-   "title": "Full Stack Developer (m/w/d)",
-   "company": "KOMBO medical solutions UG",
-   "category": "AI-assisted developer (full stack)",
-   "score": 76,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/kombo-medical-solutions-ug/jobs/full-stack-developer-m-w-d?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "testing",
-    "product",
-    "api",
-    "remote",
-    "full stack"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-19T06:13+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
