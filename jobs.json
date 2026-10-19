@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T23:10+00:00",
- "count": 32,
- "new_this_run": 1,
+ "updated": "2026-10-19T01:14+00:00",
+ "count": 31,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -214,33 +214,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "talent-journey-junior-frontend-developer-future-position",
-   "title": "Junior Frontend Developer - Future Position",
-   "company": "Talent Journey",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-18",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "communication",
-    "english",
-    "saas",
-    "github",
-    "remote",
-    "next.js"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T20:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "dremio-software-engineer-developer-experience",
    "title": "Software Engineer - Developer Experience",
    "company": "Dremio",
@@ -419,7 +392,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T23:10+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

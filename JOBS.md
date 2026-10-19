@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 18 Oct 2026, 23:10 UTC · 32 open matches
+Updated 19 Oct 2026, 01:14 UTC · 31 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -12,14 +12,13 @@ Updated 18 Oct 2026, 23:10 UTC · 32 open matches
 | 93 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 93 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
 | 93 | [Road Inspector / Civil Engineer – Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/road-inspector-civil-engineer-freelance-ai-trainer-project?utm_source=api) | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-10-18 |
-| 93 | [Junior Frontend Developer - Future Position](https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position?utm_source=api) | Talent Journey | Remote | Remote, Worldwide | Not listed | 2026-10-18 |
 | 91 | [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-09-28 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 87 | [Remote Customer Onboarding Support Specialist](https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api) | Spotter Labs | Remote | Remote, Worldwide | Not listed | 2026-10-18 |
 | 85 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
 | 85 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | Remote | Remote, Worldwide | USD 10000-10000 / year | 2026-10-17 |
 | 84 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |
-| 84 | [Automation Engineer 2 - Technical Support](https://himalayas.app/companies/granicus/jobs/automation-engineer-2-technical-support?utm_source=api) 🆕 | Granicus | Remote | Remote, Armenia, Australia, Canada, Indi | Not listed | 2026-10-18 |
+| 84 | [Automation Engineer 2 - Technical Support](https://himalayas.app/companies/granicus/jobs/automation-engineer-2-technical-support?utm_source=api) | Granicus | Remote | Remote, Armenia, Australia, Canada, Indi | Not listed | 2026-10-18 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 81 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 80 | [Full-Stack E-commerce Developer with Sage X3 Experience](https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-10-12 |

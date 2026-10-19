@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-18T23:10+00:00 · raw jobs read: 12160 · matches: 32 · closed or ghost jobs removed: 0
+Last run 2026-10-19T01:14+00:00 · raw jobs read: 12164 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -22,7 +22,7 @@ Last run 2026-10-18T23:10+00:00 · raw jobs read: 12160 · matches: 32 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 656 | ok |
+| Anthropic | greenhouse | 658 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -202,7 +202,7 @@ Last run 2026-10-18T23:10+00:00 · raw jobs read: 12160 · matches: 32 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 9 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 385 | ok |
+| Okta | greenhouse | 387 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 813 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-18T23:10+00:00 · raw jobs read: 12160 · matches: 32 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: no new jobs
