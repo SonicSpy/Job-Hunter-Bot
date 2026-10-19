@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T19:20+00:00",
- "count": 29,
- "new_this_run": 7,
+ "updated": "2026-10-19T23:38+00:00",
+ "count": 27,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -58,29 +58,56 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "affidea-bv-qa-and-uat-tester",
-   "title": "QA and UAT Tester",
-   "company": "Affidea BV",
-   "category": "QA / testing",
-   "score": 94,
-   "location": "Remote, Worldwide",
+   "id": "elevenlabs-full-stack-engineer-creative-agents",
+   "title": "Full-Stack Engineer - Creative Agents",
+   "company": "Elevenlabs",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Anywhere",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/affidea-bv/jobs/qa-and-uat-tester?utm_source=api",
-   "source": "Himalayas",
+   "url": "https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents",
+   "source": "Jobicy (find company link before applying)",
    "posted": "2026-10-19",
    "matched_skills": [
+    "evaluation",
+    "ai",
     "quality",
-    "test case",
     "testing",
-    "documentation",
+    "customer",
     "support",
-    "product",
-    "sql",
-    "jira"
+    "communication",
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-19T19:20+00:00",
+   "first_seen": "2026-10-19T23:38+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "elevenlabs-full-stack-engineer-backend-leaning-creative-agents",
+   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+   "company": "Elevenlabs",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T23:38+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -133,33 +160,6 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "cast-automation-test-engineer-for-imaging-cloud-saas",
-   "title": "Automation Test Engineer for Imaging Cloud Saas",
-   "company": "CAST",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cast/jobs/automation-test-engineer-for-imaging-cloud-saas?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "communication",
-    "product",
-    "sql",
-    "jira",
-    "analysis",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-19T19:20+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-developer-experience",
@@ -243,25 +243,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
+   "id": "native-full-stack-developer",
+   "title": "Full Stack Developer",
+   "company": "Native",
+   "category": "AI-assisted developer (full stack)",
    "score": 91,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
+   "url": "https://himalayas.app/companies/native/jobs/full-stack-developer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-19",
    "matched_skills": [
-    "documentation",
+    "quality",
+    "support",
     "product",
+    "api",
+    "python",
     "docker",
-    "gcp"
+    "react",
+    "next.js"
    ],
    "contract": false,
-   "first_seen": "2026-10-19T19:20+00:00",
+   "first_seen": "2026-10-19T23:38+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -290,33 +294,6 @@
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-19T19:20+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -423,30 +400,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "weekday-talent-operations-associate-consultant",
-   "title": "Talent Operations Associate Consultant",
-   "company": "Weekday",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/weekday/jobs/talent-operations-associate-consultant?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "evaluation",
-    "quality",
-    "documentation",
-    "communication",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-19T19:20+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
    "title": "Remote AI Trainers (Generalist and Python Coding Experts)",
    "company": "AITrainers",
@@ -496,28 +449,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "xktalent-inc-rimutee-middleware-devops-community",
-   "title": "MIDDLEWARE|DEVOPS COMMUNITY",
-   "company": "XKTalent Inc. - Rimutee",
-   "category": "Gaming",
-   "score": 78,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rekluti/jobs/middleware-devops-community?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "english",
-    "remote",
-    "community"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-19T19:20+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -538,6 +469,28 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T19:20+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "xktalent-inc-rimutee-design-community",
+   "title": "DESIGN COMMUNITY",
+   "company": "XKTalent Inc. - Rimutee",
+   "category": "Gaming",
+   "score": 78,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/rekluti/jobs/design-community?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "english",
+    "remote",
+    "community"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-19T23:38+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
