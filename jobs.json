@@ -1,35 +1,8 @@
 {
- "updated": "2026-10-20T10:01+00:00",
- "count": 35,
- "new_this_run": 10,
+ "updated": "2026-10-20T15:03+00:00",
+ "count": 32,
+ "new_this_run": 0,
  "jobs": [
-  {
-   "id": "signoz-technical-account-executive",
-   "title": "Technical Account Executive",
-   "company": "SigNoz",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India or EU",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "evaluation",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-13T19:15+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
@@ -81,7 +54,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -108,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -189,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -216,7 +189,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -243,7 +216,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -270,58 +243,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "paytm-product-management-associate-product-manager-travel",
-   "title": "Product Management - Associate Product Manager - Travel.",
-   "company": "Paytm",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
-   "source": "Company careers (Lever)",
-   "posted": "2026-09-30",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "product",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "roblox-recruiting-coordinator",
-   "title": "Recruiting Coordinator",
-   "company": "Roblox",
-   "category": "Gaming",
-   "score": 93,
-   "location": "Gurugram, Haryana, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8242255?gh_jid=8242255",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "support",
-    "communication",
-    "player",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
@@ -346,7 +269,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -373,7 +296,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -400,7 +323,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -481,8 +404,55 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T10:01+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "signoz-technical-account-executive",
+   "title": "Technical Account Executive",
+   "company": "SigNoz",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, India or EU",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "customer",
+    "product",
+    "onboarding",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "roblox-recruiting-coordinator",
+   "title": "Recruiting Coordinator",
+   "company": "Roblox",
+   "category": "Gaming",
+   "score": 89,
+   "location": "Gurugram, Haryana, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://careers.roblox.com/jobs/8242255?gh_jid=8242255",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "support",
+    "communication",
+    "player",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T15:19+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "6sense-it-support-specialist",
@@ -510,29 +480,6 @@
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "paytm-associate-user-growth-market-intelligence",
-   "title": "Associate - User Growth (Market intelligence)",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 85,
-   "location": "Remote, Noida, Uttar Pradesh",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07",
-   "source": "Company careers (Lever)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "askable-software-engineer-ai-coding-tasks",
@@ -640,54 +587,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-   "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
-   "company": "Toptal",
-   "category": "AI-assisted developer (full stack)",
-   "score": 80,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "support",
-    "python",
-    "remote",
-    "javascript",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "triocomb-software-engineer",
-   "title": "Software Engineer",
-   "company": "TrioComb",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, India, Nigeria, Philippines, Ukraine, United States",
-   "mode": "Remote",
-   "salary": "USD 50000-80000 / year",
-   "url": "https://himalayas.app/companies/triocomb/jobs/software-engineer-9339612818?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "support",
-    "english",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-20T04:46+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -757,6 +656,30 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+   "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
+   "company": "Toptal",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-12",
+   "matched_skills": [
+    "support",
+    "python",
+    "remote",
+    "javascript",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
