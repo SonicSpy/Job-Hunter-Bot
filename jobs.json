@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T19:14+00:00",
+ "updated": "2026-10-20T22:18+00:00",
  "count": 30,
- "new_this_run": 9,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -54,7 +54,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -81,7 +81,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -105,7 +105,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -158,7 +158,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -184,7 +184,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -316,27 +316,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "infomediji-video-content-moderator",
-   "title": "Video Content Moderator",
-   "company": "Infomediji",
-   "category": "Gaming",
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
    "score": 87,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/infomediji/jobs/video-content-moderator?utm_source=api",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-20",
    "matched_skills": [
-    "ai",
-    "quality",
+    "documentation",
     "customer",
+    "support",
+    "communication",
     "english",
-    "remote",
-    "community"
+    "saas",
+    "onboarding",
+    "remote"
    ],
-   "contract": true,
-   "first_seen": "2026-10-20T19:14+00:00",
+   "contract": false,
+   "first_seen": "2026-10-20T22:18+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -361,7 +363,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -411,7 +413,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -514,28 +516,6 @@
    "contract": false,
    "first_seen": "2026-10-19T19:20+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "xktalent-inc-rimutee-data-community",
-   "title": "DATA COMMUNITY",
-   "company": "XKTalent Inc. - Rimutee",
-   "category": "Gaming",
-   "score": 78,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rekluti/jobs/data-community?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "english",
-    "remote",
-    "community"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -657,6 +637,29 @@
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "serefin-finance-business-analyst",
+   "title": "Finance Business Analyst",
+   "company": "Serefin",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "CAD 70000-70000 / year",
+   "url": "https://himalayas.app/companies/serefin/jobs/finance-business-analyst-6105433812?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-20",
+   "matched_skills": [
+    "documentation",
+    "support",
+    "communication",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-20T22:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "webflow-it-support-specialist",
