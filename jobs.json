@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T23:38+00:00",
+ "updated": "2026-10-20T04:46+00:00",
  "count": 27,
- "new_this_run": 4,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "signoz-technical-account-executive",
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T23:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -108,7 +108,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T23:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -240,33 +240,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "native-full-stack-developer",
-   "title": "Full Stack Developer",
-   "company": "Native",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/native/jobs/full-stack-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "quality",
-    "support",
-    "product",
-    "api",
-    "python",
-    "docker",
-    "react",
-    "next.js"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-19T23:38+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -449,6 +422,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "triocomb-software-engineer",
+   "title": "Software Engineer",
+   "company": "TrioComb",
+   "category": "AI-assisted developer (full stack)",
+   "score": 79,
+   "location": "Remote, India, Nigeria, Philippines, Ukraine, United States",
+   "mode": "Remote",
+   "salary": "USD 50000-80000 / year",
+   "url": "https://himalayas.app/companies/triocomb/jobs/software-engineer-9339612818?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-20",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "support",
+    "english",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-20T04:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -491,7 +488,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-19T23:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -519,28 +516,6 @@
    "first_seen": "2026-10-07T08:37+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "voltus-customer-success-associate",
-   "title": "Customer Success Associate",
-   "company": "Voltus",
-   "category": "Non-coding tech (high pay)",
-   "score": 77,
-   "location": "Remote, Remote",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T01:17+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "curtins-graduate-transport-planner",
@@ -634,6 +609,28 @@
    ],
    "contract": false,
    "first_seen": "2026-10-05T22:36+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "voltus-customer-success-associate",
+   "title": "Customer Success Associate",
+   "company": "Voltus",
+   "category": "Non-coding tech (high pay)",
+   "score": 73,
+   "location": "Remote, Remote",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T01:17+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
