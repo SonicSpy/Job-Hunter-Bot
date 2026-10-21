@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T13:45+00:00",
- "count": 28,
- "new_this_run": 3,
+ "updated": "2026-10-21T18:36+00:00",
+ "count": 27,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -54,89 +54,8 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T13:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "welo-global-norwegian-tech-linguistic-tester",
-   "title": "Norwegian Tech Linguistic Tester",
-   "company": "Welo Global",
-   "category": "Gaming",
-   "score": 99,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T07:36+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "agilityfeat-ai-product-engineer-elixir",
-   "title": "AI Product Engineer (Elixir)",
-   "company": "AgilityFeat",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/agilityfeat/jobs/ai-product-engineer-elixir?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "customer",
-    "communication",
-    "english",
-    "product",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-21T13:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "level-ai-forward-deployed-engineer-agents",
-   "title": "Forward Deployed Engineer - Agents",
-   "company": "Level AI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/level-ai/jobs/forward-deployed-engineer-agents-3750075229?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "testing",
-    "documentation",
-    "customer",
-    "product",
-    "prompt",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T07:36+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
@@ -246,30 +165,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "signoz-technical-account-executive",
-   "title": "Technical Account Executive",
-   "company": "SigNoz",
-   "category": "Non-coding tech (high pay)",
-   "score": 90,
-   "location": "Remote, India or EU",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "customer",
-    "product",
-    "onboarding",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-13T19:15+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "sporty-group-analytics-implementation-consultant",
    "title": "Analytics Implementation Consultant",
    "company": "Sporty Group",
@@ -347,30 +242,54 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "askable-software-engineer-ai-coding-tasks",
-   "title": "Software Engineer, AI Coding Tasks",
-   "company": "Askable",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
+   "id": "signoz-technical-account-executive",
+   "title": "Technical Account Executive",
+   "company": "SigNoz",
+   "category": "Non-coding tech (high pay)",
+   "score": 86,
+   "location": "Remote, India or EU",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-13",
+   "matched_skills": [
+    "customer",
+    "product",
+    "onboarding",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-13T19:15+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
+   "title": "ServiceNow QA Consultant (CSM/ITSM)",
+   "company": "Joyful Craftsmen AG",
+   "category": "QA / testing",
+   "score": 86,
    "location": "Remote, Worldwide",
    "mode": "Remote",
-   "salary": "$1000 per task",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-   "source": "Remotive (find company link before applying)",
-   "posted": "2026-10-17",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-21",
    "matched_skills": [
-    "evaluation",
-    "ai",
     "quality",
+    "test case",
     "testing",
-    "python",
-    "docker",
-    "remote",
-    "typescript"
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
    ],
    "contract": true,
-   "first_seen": "2026-10-18T04:28+00:00",
-   "new": false,
+   "first_seen": "2026-10-21T18:36+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -498,6 +417,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "askable-software-engineer-ai-coding-tasks",
+   "title": "Software Engineer, AI Coding Tasks",
+   "company": "Askable",
+   "category": "AI-assisted developer (full stack)",
+   "score": 81,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "$1000 per task",
+   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+   "source": "Remotive (find company link before applying)",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "testing",
+    "python",
+    "docker",
+    "remote",
+    "typescript"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-18T04:28+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -592,7 +538,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T13:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -711,6 +657,24 @@
    "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "servicenow-advisory-solution-consultant-presales",
+   "title": "Advisory Solution Consultant - Presales",
+   "company": "ServiceNow",
+   "category": "Non-coding tech (high pay)",
+   "score": 69,
+   "location": "Mumbai, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000156852469",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-21",
+   "matched_skills": [],
+   "contract": false,
+   "first_seen": "2026-10-21T18:36+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   }
  ]
 }
