@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T07:36+00:00",
- "count": 27,
- "new_this_run": 4,
+ "updated": "2026-10-21T13:45+00:00",
+ "count": 28,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -31,6 +31,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "figma-community-support-specialist-bengaluru-india",
+   "title": "Community Support Specialist (Bengaluru, India)",
+   "company": "Figma",
+   "category": "Gaming",
+   "score": 100,
+   "location": "Bengaluru, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T13:45+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "welo-global-norwegian-tech-linguistic-tester",
    "title": "Norwegian Tech Linguistic Tester",
    "company": "Welo Global",
@@ -54,6 +81,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T07:36+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "agilityfeat-ai-product-engineer-elixir",
+   "title": "AI Product Engineer (Elixir)",
+   "company": "AgilityFeat",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/agilityfeat/jobs/ai-product-engineer-elixir?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "communication",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-21T13:45+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -81,7 +135,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T07:36+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -239,7 +293,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T07:36+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -289,33 +343,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "remotepeople-qa-automation-engineer",
-   "title": "QA Automation Engineer",
-   "company": "RemotePeople",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/remote-people/jobs/qa-automation-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "manual testing",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T01:33+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -415,7 +442,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T07:36+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -521,29 +548,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "curtins-graduate-transport-planner",
-   "title": "Graduate Transport Planner",
-   "company": "Curtins",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "quality",
-    "support",
-    "product",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -566,6 +570,30 @@
    "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "druva-sales-engineer",
+   "title": "Sales Engineer",
+   "company": "Druva",
+   "category": "Non-coding tech (high pay)",
+   "score": 76,
+   "location": "Pune, Maharashtra, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://www.druva.com/why-druva/explore/careers/jobs/8857583002/?gh_jid=8857583002",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-08",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "sql",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T13:45+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "talkspace-business-development-growth-associate-pharma",
@@ -615,29 +643,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "serefin-finance-business-analyst",
-   "title": "Finance Business Analyst",
-   "company": "Serefin",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "CAD 70000-70000 / year",
-   "url": "https://himalayas.app/companies/serefin/jobs/finance-business-analyst-6105433812?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "documentation",
-    "support",
-    "communication",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T22:18+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "webflow-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "Webflow",
@@ -681,6 +686,29 @@
    ],
    "contract": false,
    "first_seen": "2026-10-17T01:17+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "curtins-graduate-transport-planner",
+   "title": "Graduate Transport Planner",
+   "company": "Curtins",
+   "category": "Trainee / graduate program",
+   "score": 73,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "quality",
+    "support",
+    "product",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
   }
