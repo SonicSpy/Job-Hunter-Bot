@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T18:36+00:00",
- "count": 27,
- "new_this_run": 2,
+ "updated": "2026-10-21T22:19+00:00",
+ "count": 28,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -55,6 +55,33 @@
    "contract": false,
    "first_seen": "2026-10-21T13:45+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "supabase-software-engineer-turso",
+   "title": "Software Engineer - Turso",
+   "company": "Supabase",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, Global",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "llm",
+    "testing",
+    "customer",
+    "support",
+    "product",
+    "api",
+    "remote",
+    "supabase"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T22:19+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -165,30 +192,26 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sporty-group-analytics-implementation-consultant",
-   "title": "Analytics Implementation Consultant",
-   "company": "Sporty Group",
-   "category": "Non-coding tech (high pay)",
-   "score": 90,
-   "location": "Remote, Canada, Germany, India, United Kingdom, United States",
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sporty-group/jobs/analytics-implementation-consultant?utm_source=api",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-21",
    "matched_skills": [
-    "ai",
-    "testing",
     "documentation",
-    "support",
-    "communication",
     "product",
-    "remote",
-    "javascript"
+    "docker",
+    "gcp"
    ],
    "contract": false,
-   "first_seen": "2026-10-21T07:36+00:00",
-   "new": false,
+   "first_seen": "2026-10-21T22:19+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -242,6 +265,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T22:19+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -264,33 +314,6 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
-   "title": "ServiceNow QA Consultant (CSM/ITSM)",
-   "company": "Joyful Craftsmen AG",
-   "category": "QA / testing",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-21T18:36+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "paytm-associate-user-growth-market-intelligence",
@@ -673,7 +696,7 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-10-21T18:36+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   }
  ]
