@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T01:33+00:00",
- "count": 29,
- "new_this_run": 1,
+ "updated": "2026-10-21T07:36+00:00",
+ "count": 27,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -31,57 +31,57 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-financial-institutions-specialist-freelance-ai-trainer-project",
-   "title": "Financial Institutions Specialist – Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
+   "id": "welo-global-norwegian-tech-linguistic-tester",
+   "title": "Norwegian Tech Linguistic Tester",
+   "company": "Welo Global",
+   "category": "Gaming",
+   "score": 99,
+   "location": "Remote, Anywhere",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/financial-institutions-specialist-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
+   "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-10-21",
    "matched_skills": [
-    "evaluation",
-    "ai",
     "quality",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "prompt"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-literature-specialist-freelance-ai-trainer-project",
-   "title": "Literature Specialist – Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/literature-specialist-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
+    "test case",
+    "testing",
+    "documentation",
     "support",
     "communication",
     "english",
-    "analysis",
-    "prompt"
+    "product"
    ],
-   "contract": true,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": false,
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "level-ai-forward-deployed-engineer-agents",
+   "title": "Forward Deployed Engineer - Agents",
+   "company": "Level AI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/level-ai/jobs/forward-deployed-engineer-agents-3750075229?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "testing",
+    "documentation",
+    "customer",
+    "product",
+    "prompt",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -136,32 +136,6 @@
    "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "spreetail-inc-full-stack-python-and-react-engineer-ii",
-   "title": "Full Stack Python and React Engineer II",
-   "company": "Spreetail Inc.",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spreetail-inc/jobs/full-stack-python-and-react-engineer-ii?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "quality",
-    "python",
-    "remote",
-    "react",
-    "full stack"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-query-execution",
@@ -242,6 +216,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "sporty-group-analytics-implementation-consultant",
+   "title": "Analytics Implementation Consultant",
+   "company": "Sporty Group",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, Canada, Germany, India, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sporty-group/jobs/analytics-implementation-consultant?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "remote",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "roblox-recruiting-coordinator",
    "title": "Recruiting Coordinator",
    "company": "Roblox",
@@ -315,30 +316,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T01:33+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-developer-relations-engineer",
-   "title": "Developer Relations Engineer",
-   "company": "Canonical",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/canonical/jobs/developer-relations-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -416,6 +393,29 @@
    "contract": false,
    "first_seen": "2026-10-07T21:58+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "glance-product-analyst-ii",
+   "title": "Product Analyst II",
+   "company": "Glance",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Bangalore",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/7984509",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "product",
+    "sql",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -683,42 +683,6 @@
    "first_seen": "2026-10-17T01:17+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "servicenow-advisory-solution-consultant-core-business-solutions",
-   "title": "Advisory Solution Consultant - Core Business Solutions",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 65,
-   "location": "Mumbai, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000155944309",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-16",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-10-16T11:20+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "grab-solution-specialist-finance-systems",
-   "title": "Solution Specialist, Finance Systems",
-   "company": "Grab",
-   "category": "Non-coding tech (high pay)",
-   "score": 64,
-   "location": "Bangalore, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/grab/744000154359024",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-08",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-10-08T08:56+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   }
  ]
 }
