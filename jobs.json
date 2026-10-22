@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T22:19+00:00",
- "count": 28,
+ "updated": "2026-10-22T01:29+00:00",
+ "count": 31,
  "new_this_run": 3,
  "jobs": [
   {
@@ -81,8 +81,35 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T22:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "zenara-health-ai-native-software-engineer-qa-automation",
+   "title": "AI-Native Software Engineer, QA Automation",
+   "company": "Zenara Health",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-22",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "test case",
+    "manual testing",
+    "testing",
+    "customer",
+    "support",
+    "communication"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-22T01:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
@@ -211,7 +238,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T22:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -265,6 +292,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "tuva-front-end-developer-with-accessibility-focus-for-visualization-tools",
+   "title": "Front End Developer with Accessibility Focus for Visualization Tools",
+   "company": "Tuva",
+   "category": "AI-assisted developer (full stack)",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "INR 1200000-1700000 / year",
+   "url": "https://himalayas.app/companies/tuva/jobs/front-end-developer-with-accessibility-focus-for-visualization-tools?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-22",
+   "matched_skills": [
+    "quality",
+    "manual testing",
+    "testing",
+    "documentation",
+    "communication",
+    "react",
+    "javascript",
+    "full stack"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-22T01:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "spotter-labs-remote-customer-onboarding-support-specialist",
    "title": "Remote Customer Onboarding Support Specialist",
    "company": "Spotter Labs",
@@ -288,7 +342,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T22:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -464,6 +518,31 @@
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "vertical-compute-front-end-rtl-designer-soc-integration",
+   "title": "Front End RTL Designer / SoC integration",
+   "company": "Vertical Compute",
+   "category": "AI-assisted developer (full stack)",
+   "score": 79,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/vertical-compute/jobs/front-end-rtl-designer-soc-integration?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-22",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-22T01:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
