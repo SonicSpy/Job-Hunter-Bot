@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T07:32+00:00",
- "count": 26,
- "new_this_run": 1,
+ "updated": "2026-10-22T13:45+00:00",
+ "count": 28,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "sigma-malayalam-english-linguistic-projects-sigma-ai",
+   "title": "Malayalam & English Linguistic Projects | Sigma AI",
+   "company": "Sigma",
+   "category": "Gaming",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sigma/jobs/malayalam-english-linguistic-projects-sigma-ai?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-22",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "documentation",
+    "support",
+    "english",
+    "analysis",
+    "annotation"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-22T13:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
    "title": "Product Support Engineer III - ZIA/ZPA",
    "company": "Zscaler",
@@ -111,30 +138,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "paytm-product-management-associate-product-manager-travel",
-   "title": "Product Management - Associate Product Manager - Travel.",
-   "company": "Paytm",
+   "id": "zscaler-product-support-engineer-iii",
+   "title": "Product Support Engineer III",
+   "company": "Zscaler",
    "category": "Non-coding tech (high pay)",
    "score": 93,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
+   "location": "Bangalore, IND",
+   "mode": "Hybrid",
    "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
-   "source": "Company careers (Lever)",
-   "posted": "2026-09-30",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263567007",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-22",
    "matched_skills": [
     "ai",
     "quality",
     "testing",
-    "documentation",
     "customer",
-    "communication",
+    "support",
     "product",
-    "analysis"
+    "python"
    ],
    "contract": false,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": false,
+   "first_seen": "2026-10-22T13:45+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -215,7 +241,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-22T07:32+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -314,6 +340,33 @@
    "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "virtuslab-fullstack-engineer-python-typescript-angular",
+   "title": "Fullstack Engineer (Python, TypeScript, Angular)",
+   "company": "VirtusLab",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/virtuslab/jobs/fullstack-engineer-python-typescript-angular?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-22",
+   "matched_skills": [
+    "ai",
+    "communication",
+    "english",
+    "product",
+    "python",
+    "docker",
+    "github",
+    "typescript"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-22T13:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "mongodb-associate-hr-shared-services",
