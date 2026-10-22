@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T01:29+00:00",
- "count": 31,
- "new_this_run": 3,
+ "updated": "2026-10-22T07:32+00:00",
+ "count": 26,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -83,33 +83,6 @@
    "first_seen": "2026-10-21T22:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "zenara-health-ai-native-software-engineer-qa-automation",
-   "title": "AI-Native Software Engineer, QA Automation",
-   "company": "Zenara Health",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-22",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "test case",
-    "manual testing",
-    "testing",
-    "customer",
-    "support",
-    "communication"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-22T01:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
@@ -219,26 +192,30 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
+   "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+   "company": "Affirm",
+   "category": "AI-assisted developer (full stack)",
    "score": 91,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
+   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-22",
    "matched_skills": [
+    "ai",
+    "quality",
     "documentation",
+    "support",
     "product",
-    "docker",
-    "gcp"
+    "sql",
+    "onboarding",
+    "python"
    ],
    "contract": false,
-   "first_seen": "2026-10-21T22:19+00:00",
-   "new": false,
+   "first_seen": "2026-10-22T07:32+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -288,60 +265,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "tuva-front-end-developer-with-accessibility-focus-for-visualization-tools",
-   "title": "Front End Developer with Accessibility Focus for Visualization Tools",
-   "company": "Tuva",
-   "category": "AI-assisted developer (full stack)",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "INR 1200000-1700000 / year",
-   "url": "https://himalayas.app/companies/tuva/jobs/front-end-developer-with-accessibility-focus-for-visualization-tools?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-22",
-   "matched_skills": [
-    "quality",
-    "manual testing",
-    "testing",
-    "documentation",
-    "communication",
-    "react",
-    "javascript",
-    "full stack"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-22T01:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T22:19+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -521,31 +444,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "vertical-compute-front-end-rtl-designer-soc-integration",
-   "title": "Front End RTL Designer / SoC integration",
-   "company": "Vertical Compute",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/vertical-compute/jobs/front-end-rtl-designer-soc-integration?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-22",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-22T01:29+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -667,28 +565,6 @@
    "first_seen": "2026-10-03T14:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "meesho-associate-operations",
-   "title": "Associate - Operations",
-   "company": "Meesho",
-   "category": "Trainee / graduate program",
-   "score": 75,
-   "location": "Bangalore, Karnataka",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
-   "source": "Company careers (Lever)",
-   "posted": "2026-10-01",
-   "matched_skills": [
-    "quality",
-    "product",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "webflow-it-support-specialist",
