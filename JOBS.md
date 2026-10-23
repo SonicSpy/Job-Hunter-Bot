@@ -1,13 +1,12 @@
 # Job matches for Bhargav
 
-Updated 22 Oct 2026, 22:18 UTC · 28 open matches
+Updated 23 Oct 2026, 01:29 UTC · 26 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
 | 100 | [Community Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-21 |
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
-| 100 | [AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health](https://himalayas.app/companies/zenara-health/jobs/ai-native-platform-engineer-devops-security-compliance-zenara-health?utm_source=api) | Zenara Health | Remote | Remote, India | Not listed | 2026-10-22 |
 | 93 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 93 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
@@ -15,7 +14,6 @@ Updated 22 Oct 2026, 22:18 UTC · 28 open matches
 | 91 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
 | 89 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 89 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
-| 88 | [React.JS - Mumbai](https://himalayas.app/companies/fastjobs-io/jobs/react-js-mumbai?utm_source=api) | Fastjobs.io | Remote | Remote, India | Not listed | 2026-10-22 |
 | 86 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
 | 85 | [Associate - User Growth (Market intelligence)](https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07) | Paytm | Remote | Remote, Noida, Uttar Pradesh | Not listed | 2026-10-03 |
 | 84 | [Associate, HR Shared Services](https://www.mongodb.com/careers/job/?gh_jid=8246377) | MongoDB | On-site | Gurugram | Not listed | 2026-10-07 |
