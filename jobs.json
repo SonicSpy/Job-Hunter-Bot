@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T13:23+00:00",
- "count": 31,
- "new_this_run": 4,
+ "updated": "2026-10-23T18:18+00:00",
+ "count": 29,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "marrina-decisions-remote-india-ai-engineer-saas-platform",
+   "title": "REMOTE (INDIA):   AI Engineer- SaaS Platform",
+   "company": "Marrina Decisions",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-ai-engineer-saas-platform-7100398583?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-23",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-23T18:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
    "title": "Enterprise Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -135,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-23T13:23+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -322,33 +349,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "texau-frontend-developer",
-   "title": "Frontend Developer",
-   "company": "TexAu",
-   "category": "AI-assisted developer (full stack)",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/texau/jobs/frontend-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "english",
-    "product",
-    "github",
-    "remote",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-23T13:23+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -473,32 +473,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "prescient-security-penetration-testing",
-   "title": "Penetration Testing",
-   "company": "Prescient Security",
-   "category": "QA / testing",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/prescient-security/jobs/penetration-testing-7924693472?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "support",
-    "communication",
-    "sql",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-23T13:23+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "askable-software-engineer-ai-coding-tasks",
    "title": "Software Engineer, AI Coding Tasks",
    "company": "Askable",
@@ -522,54 +496,6 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "texau-support-engineer",
-   "title": "Support Engineer",
-   "company": "TexAu",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/texau/jobs/support-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "customer",
-    "support",
-    "product",
-    "remote",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-23T13:23+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "evolve-peptides-operations-support-specialist",
-   "title": "Operations Support Specialist",
-   "company": "Evolve Peptides",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-19",
-   "matched_skills": [
-    "customer",
-    "support",
-    "english",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-19T19:20+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -694,6 +620,30 @@
    ],
    "contract": false,
    "first_seen": "2026-10-03T14:35+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "evolve-peptides-operations-support-specialist",
+   "title": "Operations Support Specialist",
+   "company": "Evolve Peptides",
+   "category": "Non-coding tech (high pay)",
+   "score": 74,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "customer",
+    "support",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T19:20+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
