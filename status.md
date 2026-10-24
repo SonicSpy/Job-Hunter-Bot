@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-10-24T10:55+00:00 · raw jobs read: 12246 · matches: 38 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 135
+- remotive: 150
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 41
-- weworkremotely: 394
+- weworkremotely: 396
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -54,7 +54,7 @@ Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 453 | ok |
+| Cloudflare | greenhouse | 454 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 116 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -208,7 +208,7 @@ Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
-| Paytm | lever | 197 | ok |
+| Paytm | lever | 196 | ok |
 | Perplexity | ashby | 131 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
@@ -261,7 +261,7 @@ Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed
 | Slice | greenhouse | 22 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 45 | ok |
-| Snowflake | ashby | 354 | ok |
+| Snowflake | ashby | 355 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 3
+Telegram: sent 10
