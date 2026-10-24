@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-24T10:55+00:00 · raw jobs read: 12246 · matches: 38 · closed or ghost jobs removed: 0
+Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
@@ -240,7 +240,7 @@ Last run 2026-10-24T10:55+00:00 · raw jobs read: 12246 · matches: 38 · closed
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 149 | ok |
+| Rubrik | greenhouse | 148 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 44 | ok |
 | Sauce Labs | greenhouse | 9 | ok |
@@ -267,7 +267,7 @@ Last run 2026-10-24T10:55+00:00 · raw jobs read: 12246 · matches: 38 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 720 | ok |
+| Stripe | greenhouse | 719 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 59 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-24T10:55+00:00 · raw jobs read: 12246 · matches: 38 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: sent 1
