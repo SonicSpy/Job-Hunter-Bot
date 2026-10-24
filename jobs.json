@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T14:30+00:00",
+ "updated": "2026-10-24T18:07+00:00",
  "count": 35,
- "new_this_run": 1,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -112,60 +112,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-software-engineer-sustaining-engineering",
-   "title": "Software Engineer, Sustaining Engineering",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "python",
-    "docker"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-web-frontend-engineer-js-css-react-flutter",
-   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -191,33 +137,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-software-engineer-solutions-engineering",
-   "title": "Software Engineer - Solutions Engineering",
-   "company": "Canonical",
-   "category": "Non-coding tech (high pay)",
-   "score": 98,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "product",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "canonical-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -354,6 +273,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "impact-brands-data-specialist",
+   "title": "Data Specialist",
+   "company": "Impact Brands",
+   "category": "AI evaluation / AI trainer",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "EUR 1600-1600 / year",
+   "url": "https://himalayas.app/companies/impact-brands/jobs/data-specialist-6657432571?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "quality",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "sql",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T18:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "cribl-customer-success-engineer-sydney",
    "title": "Customer Success Engineer, Sydney",
    "company": "Cribl",
@@ -478,6 +424,32 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "discovered-founder-s-associate-operations",
+   "title": "Founder's Associate, Operations",
+   "company": "Discovered",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 12000-20000 / year",
+   "url": "https://himalayas.app/companies/discovered/jobs/founder-s-associate-operations?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "english",
+    "saas",
+    "onboarding",
+    "remote",
+    "stripe"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T18:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "6sense-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "6sense",
@@ -526,6 +498,32 @@
    "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "holistic-ai-forward-deployed-engineer-bangalore-india",
+   "title": "Forward Deployed Engineer – Bangalore, India",
+   "company": "Holistic AI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "USD 50000-50000 / year",
+   "url": "https://himalayas.app/companies/holistic-ai/jobs/forward-deployed-engineer-bangalore-india-7884264484?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T18:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
@@ -681,6 +679,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "holistic-ai-pre-sales-engineer-bangalore-india",
+   "title": "Pre-Sales Engineer – Bangalore India",
+   "company": "Holistic AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 77,
+   "location": "Remote, India",
+   "mode": "Hybrid",
+   "salary": "USD 50000-50000 / year",
+   "url": "https://himalayas.app/companies/holistic-ai/jobs/pre-sales-engineer-bangalore-india-3858486794?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "saas",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T18:07+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -823,27 +847,6 @@
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "hard-rock-digital-associate-sportsbook-operations-overnight",
-   "title": "Associate - Sportsbook Operations (Overnight)",
-   "company": "Hard Rock Digital",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/hard-rock-digital/jobs/associate-sportsbook-operations-overnight?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "customer",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T14:30+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {

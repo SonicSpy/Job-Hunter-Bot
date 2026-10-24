@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed or ghost jobs removed: 0
+Last run 2026-10-24T18:07+00:00 · raw jobs read: 12185 · matches: 35 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 41
-- weworkremotely: 396
+- workingnomads: 40
+- weworkremotely: 395
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -133,12 +133,12 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | Intuit | not found | 0 | add careers link manually if needed |
 | Invisible Technologies | smartrecruiters | 10 | ok |
 | Jagex | lever | 0 | ok |
-| Jam City | lever | 15 | ok |
+| Jam City | lever | 0 | The read operation timed out |
 | Jar | not found | 0 | add careers link manually if needed |
 | Junglee Games | not found | 0 | add careers link manually if needed |
 | Jupiter | not found | 0 | add careers link manually if needed |
 | Juspay | not found | 0 | add careers link manually if needed |
-| Kabam | lever | 23 | ok |
+| Kabam | lever | 0 | The read operation timed out |
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
@@ -173,14 +173,14 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | Mech Mocha | not found | 0 | add careers link manually if needed |
 | Meesho | lever | 58 | ok |
 | Mercor | ashby | 112 | ok |
-| Mindtickle | lever | 21 | ok |
+| Mindtickle | lever | 0 | The read operation timed out |
 | Miniclip | not found | 0 | add careers link manually if needed |
 | Miro | ashby | 21 | ok |
 | MoEngage | not found | 0 | add careers link manually if needed |
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 383 | ok |
+| MongoDB | greenhouse | 382 | ok |
 | Moon Active | ashby | 33 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -209,7 +209,7 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
 | Paytm | lever | 196 | ok |
-| Perplexity | ashby | 131 | ok |
+| Perplexity | ashby | 132 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
 | Physics Wallah | not found | 0 | add careers link manually if needed |
@@ -232,7 +232,7 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | Remote | greenhouse | 2 | ok |
 | Replit | ashby | 37 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
-| Riot Games | greenhouse | 177 | ok |
+| Riot Games | greenhouse | 176 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
 | Roblox | greenhouse | 269 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
@@ -270,7 +270,7 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | Stripe | greenhouse | 719 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
-| Supabase | ashby | 59 | ok |
+| Supabase | ashby | 61 | ok |
 | SuperGaming | not found | 0 | add careers link manually if needed |
 | Supercell | ashby | 38 | ok |
 | Surge AI | ashby | 28 | ok |
@@ -288,7 +288,7 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | ToolJet | not found | 0 | add careers link manually if needed |
 | Toptal | lever | 30 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
-| Turing | greenhouse | 30 | ok |
+| Turing | greenhouse | 31 | ok |
 | Twilio | greenhouse | 134 | ok |
 | Twitch | greenhouse | 58 | ok |
 | Uber | smartrecruiters | 1 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-24T14:30+00:00 · raw jobs read: 12244 · matches: 35 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 4
