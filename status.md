@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-24T00:39+00:00 · raw jobs read: 12224 · matches: 36 · closed or ghost jobs removed: 0
+Last run 2026-10-24T05:50+00:00 · raw jobs read: 12228 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 135
@@ -22,7 +22,7 @@ Last run 2026-10-24T00:39+00:00 · raw jobs read: 12224 · matches: 36 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 678 | ok |
+| Anthropic | greenhouse | 681 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-10-24T00:39+00:00 · raw jobs read: 12224 · matches: 36 · closed
 | Coursera | greenhouse | 31 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 895 | ok |
+| Databricks | greenhouse | 896 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 46 | ok |
@@ -204,7 +204,7 @@ Last run 2026-10-24T00:39+00:00 · raw jobs read: 12224 · matches: 36 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 390 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 795 | ok |
+| OpenAI | ashby | 796 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -240,7 +240,7 @@ Last run 2026-10-24T00:39+00:00 · raw jobs read: 12224 · matches: 36 · closed
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 150 | ok |
+| Rubrik | greenhouse | 149 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 44 | ok |
 | Sauce Labs | greenhouse | 9 | ok |
