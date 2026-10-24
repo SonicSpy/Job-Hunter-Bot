@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T22:08+00:00",
+ "updated": "2026-10-24T00:39+00:00",
  "count": 36,
- "new_this_run": 8,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -139,33 +139,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "talent-hackers-ai-data-quality-reviewer",
-   "title": "AI Data Quality Reviewer",
-   "company": "Talent Hackers",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/trytalenthackers/jobs/ai-data-quality-reviewer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "product",
-    "annotation",
-    "dataset"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -216,34 +189,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "anywherenow-ai-product-engineer",
-   "title": "AI Product Engineer",
-   "company": "Anywherenow",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/anywhere-now/jobs/ai-product-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -268,7 +214,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -347,7 +293,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -454,6 +400,33 @@
    ],
    "contract": true,
    "first_seen": "2026-10-23T22:08+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "stermedia-fullstack-developer-python-react",
+   "title": "Fullstack Developer (Python + React)",
+   "company": "Stermedia",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "PLN 22000-28000 / year",
+   "url": "https://himalayas.app/companies/stermedia/jobs/fullstack-developer-python-react?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-23",
+   "matched_skills": [
+    "testing",
+    "support",
+    "communication",
+    "english",
+    "python",
+    "docker",
+    "remote",
+    "react"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-24T00:39+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -504,7 +477,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-23T22:08+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -632,6 +605,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "ewor-gmbh-applied-ai-co-founder-ceo-100-remote-m-f-d",
+   "title": "Applied AI Co-Founder / CEO (100 % remote) (m/f/d)",
+   "company": "EWOR GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-ceo-100-remote-m-f-d?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-23",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T00:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "askable-software-engineer-ai-coding-tasks",
    "title": "Software Engineer, AI Coding Tasks",
    "company": "Askable",
@@ -659,27 +658,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "xktalent-inc-rimutee-desarrollador-full-stack-python-angular-go",
-   "title": "DESARROLLADOR FULL STACK (PYTHON + ANGULAR + GO)",
-   "company": "XKTalent Inc. - Rimutee",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
+   "id": "partner-one-capital-sales-engineer",
+   "title": "Sales Engineer",
+   "company": "Partner One Capital",
+   "category": "Non-coding tech (high pay)",
+   "score": 80,
+   "location": "Remote, India",
+   "mode": "Hybrid",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-full-stack-python-angular-go?utm_source=api",
+   "url": "https://himalayas.app/companies/partner-one-capital/jobs/sales-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-23",
    "matched_skills": [
-    "testing",
+    "evaluation",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
     "product",
-    "sql",
-    "python",
-    "full stack",
-    "gcp"
+    "player",
+    "community"
    ],
-   "contract": true,
-   "first_seen": "2026-10-23T22:08+00:00",
+   "contract": false,
+   "first_seen": "2026-10-24T00:39+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -857,28 +858,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "voltus-customer-success-associate",
-   "title": "Customer Success Associate",
-   "company": "Voltus",
-   "category": "Non-coding tech (high pay)",
-   "score": 73,
-   "location": "Remote, Remote",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T01:17+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "curtins-graduate-transport-planner",
    "title": "Graduate Transport Planner",
    "company": "Curtins",
@@ -898,6 +877,28 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "voltus-customer-success-associate",
+   "title": "Customer Success Associate",
+   "company": "Voltus",
+   "category": "Non-coding tech (high pay)",
+   "score": 69,
+   "location": "Remote, Remote",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-16",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-17T01:17+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
