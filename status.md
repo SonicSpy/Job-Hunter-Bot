@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-24T18:07+00:00 · raw jobs read: 12185 · matches: 35 · closed or ghost jobs removed: 0
+Last run 2026-10-24T20:46+00:00 · raw jobs read: 12244 · matches: 30 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
@@ -133,12 +133,12 @@ Last run 2026-10-24T18:07+00:00 · raw jobs read: 12185 · matches: 35 · closed
 | Intuit | not found | 0 | add careers link manually if needed |
 | Invisible Technologies | smartrecruiters | 10 | ok |
 | Jagex | lever | 0 | ok |
-| Jam City | lever | 0 | The read operation timed out |
+| Jam City | lever | 15 | ok |
 | Jar | not found | 0 | add careers link manually if needed |
 | Junglee Games | not found | 0 | add careers link manually if needed |
 | Jupiter | not found | 0 | add careers link manually if needed |
 | Juspay | not found | 0 | add careers link manually if needed |
-| Kabam | lever | 0 | The read operation timed out |
+| Kabam | lever | 23 | ok |
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
@@ -173,7 +173,7 @@ Last run 2026-10-24T18:07+00:00 · raw jobs read: 12185 · matches: 35 · closed
 | Mech Mocha | not found | 0 | add careers link manually if needed |
 | Meesho | lever | 58 | ok |
 | Mercor | ashby | 112 | ok |
-| Mindtickle | lever | 0 | The read operation timed out |
+| Mindtickle | lever | 21 | ok |
 | Miniclip | not found | 0 | add careers link manually if needed |
 | Miro | ashby | 21 | ok |
 | MoEngage | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-24T18:07+00:00 · raw jobs read: 12185 · matches: 35 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1

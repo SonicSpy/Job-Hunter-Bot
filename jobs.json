@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T18:07+00:00",
- "count": 35,
- "new_this_run": 4,
+ "updated": "2026-10-24T20:46+00:00",
+ "count": 30,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -139,30 +139,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Anywhere",
+   "id": "parexel-associate-clinical-operations-leader",
+   "title": "Associate Clinical Operations Leader",
+   "company": "Parexel",
+   "category": "Trainee / graduate program",
+   "score": 95,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-   "source": "Jobicy (find company link before applying)",
+   "url": "https://himalayas.app/companies/parexel/jobs/associate-clinical-operations-leader?utm_source=api",
+   "source": "Himalayas",
    "posted": "2026-10-24",
    "matched_skills": [
-    "ai",
     "quality",
-    "testing",
     "customer",
+    "support",
+    "communication",
     "english",
     "product",
-    "python",
-    "docker"
+    "analysis",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
+   "first_seen": "2026-10-24T20:46+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -273,33 +273,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "impact-brands-data-specialist",
-   "title": "Data Specialist",
-   "company": "Impact Brands",
-   "category": "AI evaluation / AI trainer",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "EUR 1600-1600 / year",
-   "url": "https://himalayas.app/companies/impact-brands/jobs/data-specialist-6657432571?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "english",
-    "product",
-    "sql",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T18:07+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cribl-customer-success-engineer-sydney",
    "title": "Customer Success Engineer, Sydney",
    "company": "Cribl",
@@ -376,30 +349,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-graduate-sales-development-representative",
-   "title": "Graduate Sales Development Representative",
-   "company": "Canonical",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -422,32 +371,6 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "discovered-founder-s-associate-operations",
-   "title": "Founder's Associate, Operations",
-   "company": "Discovered",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 12000-20000 / year",
-   "url": "https://himalayas.app/companies/discovered/jobs/founder-s-associate-operations?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "english",
-    "saas",
-    "onboarding",
-    "remote",
-    "stripe"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T18:07+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "6sense-it-support-specialist",
@@ -498,32 +421,6 @@
    "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "holistic-ai-forward-deployed-engineer-bangalore-india",
-   "title": "Forward Deployed Engineer – Bangalore, India",
-   "company": "Holistic AI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "USD 50000-50000 / year",
-   "url": "https://himalayas.app/companies/holistic-ai/jobs/forward-deployed-engineer-bangalore-india-7884264484?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T18:07+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
@@ -676,32 +573,6 @@
    "contract": false,
    "first_seen": "2026-10-14T23:12+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "holistic-ai-pre-sales-engineer-bangalore-india",
-   "title": "Pre-Sales Engineer – Bangalore India",
-   "company": "Holistic AI",
-   "category": "Non-coding tech (high pay)",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Hybrid",
-   "salary": "USD 50000-50000 / year",
-   "url": "https://himalayas.app/companies/holistic-ai/jobs/pre-sales-engineer-bangalore-india-3858486794?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "english",
-    "product",
-    "saas",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T18:07+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
