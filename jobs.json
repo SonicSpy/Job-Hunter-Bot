@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T20:46+00:00",
- "count": 30,
- "new_this_run": 1,
+ "updated": "2026-10-24T23:11+00:00",
+ "count": 33,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "invisible-technologies-investment-specialist-freelance-ai-trainer-project",
+   "title": "Investment Specialist – Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/investment-specialist-freelance-ai-trainer-project?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "support",
+    "communication",
+    "analysis",
+    "prompt",
+    "entry level"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-24T23:11+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
    "title": "Enterprise Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -137,33 +164,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "parexel-associate-clinical-operations-leader",
-   "title": "Associate Clinical Operations Leader",
-   "company": "Parexel",
-   "category": "Trainee / graduate program",
-   "score": 95,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/parexel/jobs/associate-clinical-operations-leader?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "analysis",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T20:46+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -349,6 +349,60 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
+   "title": "Remote Customer Onboarding Support Specialist",
+   "company": "Spotter Labs",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T23:11+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "moneygram-customer-support-specialist-inbound-calls",
+   "title": "Customer Support Specialist - inbound calls",
+   "company": "MoneyGram",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/moneygram/jobs/customer-support-specialist-inbound-calls?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T23:11+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -421,6 +475,33 @@
    "first_seen": "2026-10-20T19:14+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "zoftify-travel-software-development-frontend-developer-react",
+   "title": "Frontend Developer (React)",
+   "company": "Zoftify — Travel Software Development",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/frontend-developer-react?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "english",
+    "product",
+    "api",
+    "remote",
+    "react",
+    "next.js",
+    "typescript",
+    "tailwind"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T23:11+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
