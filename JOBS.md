@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 25 Oct 2026, 19:03 UTC · 33 open matches
+Updated 25 Oct 2026, 21:45 UTC · 35 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -10,24 +10,26 @@ Updated 25 Oct 2026, 19:03 UTC · 33 open matches
 | 100 | [Technical Account Management (TAM) Leader](https://jobicy.com/jobs/156942-technical-account-management-tam-leader) | Supabase | Remote | Remote, Anywhere | Not listed | 2026-10-25 |
 | 99 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
 | 99 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
+| 99 | [AI Engineer (Offensive Security)](https://himalayas.app/companies/covertswarm/jobs/ai-engineer-offensive-security?utm_source=api) 🆕 | CovertSwarm | Remote | Remote, Worldwide | Not listed | 2026-10-25 |
 | 98 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
-| 96 | [Pre-sales Engineer, Chemistry | Luma](https://himalayas.app/companies/dotmatics/jobs/pre-sales-engineer-chemistry-luma?utm_source=api) 🆕 | Dotmatics | Remote | Remote, India | Not listed | 2026-10-25 |
+| 96 | [Pre-sales Engineer, Chemistry | Luma](https://himalayas.app/companies/dotmatics/jobs/pre-sales-engineer-chemistry-luma?utm_source=api) | Dotmatics | Remote | Remote, India | Not listed | 2026-10-25 |
 | 93 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
 | 91 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
-| 91 | [Software Engineer - Remote (Global), Full-Time](https://himalayas.app/companies/mixrank/jobs/software-engineer-remote-global-full-time?utm_source=api) 🆕 | Mixrank | Remote | Remote, Worldwide | Not listed | 2026-10-25 |
+| 91 | [Software Engineer - Remote (Global), Full-Time](https://himalayas.app/companies/mixrank/jobs/software-engineer-remote-global-full-time?utm_source=api) | Mixrank | Remote | Remote, Worldwide | Not listed | 2026-10-25 |
 | 90 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 90 | [Software Engineer - Branching](https://jobicy.com/jobs/156947-software-engineer-branching) | Supabase | Remote | Remote, Anywhere | Not listed | 2026-10-25 |
 | 89 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 89 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
+| 87 | [Developer Relations Engineer](https://himalayas.app/companies/fly/jobs/developer-relations-engineer?utm_source=api) 🆕 | Fly | Remote | Remote, Worldwide | USD 134000-190000 / year | 2026-10-25 |
 | 86 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
 | 85 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
+| 85 | [Software Developer](https://himalayas.app/companies/coditation-systems/jobs/software-developer?utm_source=api) 🆕 | Coditation Systems | Remote | Remote, India | Not listed | 2026-10-25 |
+| 84 | [Production Coordinator](https://himalayas.app/companies/fusefx/jobs/production-coordinator?utm_source=api) 🆕 | FuseFX | Remote | Remote, India | Not listed | 2026-10-25 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 83 | [Associate Data Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer) | BeyondTrust | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
-| 82 | [Frontend Engineer](https://himalayas.app/companies/fairarena/jobs/frontend-engineer?utm_source=api) | Fairarena | Remote | Remote, Worldwide | Not listed | 2026-10-25 |
 | 80 | [Product Analyst II](https://job-boards.greenhouse.io/glance/jobs/7984509) | Glance | On-site | Bangalore | Not listed | 2026-10-21 |
-| 78 | [Network - Specialist Solutions Engineer](https://himalayas.app/companies/ahead/jobs/network-specialist-solutions-engineer?utm_source=api) | AHEAD | Remote | Remote, India | Not listed | 2026-10-25 |
 | 77 | [Product Analyst II](https://job-boards.greenhouse.io/inmobi/jobs/8181422) | InMobi | On-site | Bangalore | Not listed | 2026-10-06 |
 | 77 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 77 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |

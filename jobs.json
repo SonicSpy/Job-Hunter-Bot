@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T19:03+00:00",
- "count": 33,
- "new_this_run": 2,
+ "updated": "2026-10-25T21:45+00:00",
+ "count": 35,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -166,6 +166,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "covertswarm-ai-engineer-offensive-security",
+   "title": "AI Engineer (Offensive Security)",
+   "company": "CovertSwarm",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/covertswarm/jobs/ai-engineer-offensive-security?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "support",
+    "communication",
+    "product",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T21:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -216,7 +243,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T19:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -350,7 +377,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T19:03+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -456,6 +483,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "fly-developer-relations-engineer",
+   "title": "Developer Relations Engineer",
+   "company": "Fly",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 134000-190000 / year",
+   "url": "https://himalayas.app/companies/fly/jobs/developer-relations-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "product",
+    "api",
+    "remote",
+    "javascript",
+    "supabase",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T21:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -504,6 +558,55 @@
    "contract": false,
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "coditation-systems-software-developer",
+   "title": "Software Developer",
+   "company": "Coditation Systems",
+   "category": "AI-assisted developer (full stack)",
+   "score": 85,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/coditation-systems/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "product",
+    "react",
+    "typescript",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T21:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "fusefx-production-coordinator",
+   "title": "Production Coordinator",
+   "company": "FuseFX",
+   "category": "Gaming",
+   "score": 84,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/fusefx/jobs/production-coordinator?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "quality",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T21:45+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -559,32 +662,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "fairarena-frontend-engineer",
-   "title": "Frontend Engineer",
-   "company": "Fairarena",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/fairarena/jobs/frontend-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "product",
-    "saas",
-    "react",
-    "next.js",
-    "typescript",
-    "javascript",
-    "tailwind"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T16:14+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "glance-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "Glance",
@@ -606,29 +683,6 @@
    "first_seen": "2026-10-21T07:36+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "ahead-network-specialist-solutions-engineer",
-   "title": "Network - Specialist Solutions Engineer",
-   "company": "AHEAD",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ahead/jobs/network-specialist-solutions-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T16:14+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "inmobi-product-analyst-ii",

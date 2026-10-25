@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed or ghost jobs removed: 0
+Last run 2026-10-25T21:45+00:00 · raw jobs read: 12238 · matches: 35 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
@@ -22,7 +22,7 @@ Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed
 | Airtable | greenhouse | 4 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 682 | ok |
+| Anthropic | greenhouse | 681 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed
 | Coursera | greenhouse | 31 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 896 | ok |
+| Databricks | greenhouse | 894 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 46 | ok |
@@ -84,7 +84,7 @@ Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed
 | Facilio | not found | 0 | add careers link manually if needed |
 | Fampay | lever | 18 | ok |
 | Fi Money | not found | 0 | add careers link manually if needed |
-| Figma | greenhouse | 138 | ok |
+| Figma | greenhouse | 139 | ok |
 | Flipkart | not found | 0 | add careers link manually if needed |
 | Freshdesk | not found | 0 | add careers link manually if needed |
 | Freshworks | lever | 0 | ok |
@@ -267,7 +267,7 @@ Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 719 | ok |
+| Stripe | greenhouse | 718 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 61 | ok |
@@ -328,4 +328,4 @@ Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 4
