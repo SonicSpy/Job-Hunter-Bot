@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-25T16:14+00:00 · raw jobs read: 12244 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-10-25T19:03+00:00 · raw jobs read: 12241 · matches: 33 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
@@ -8,7 +8,7 @@ Last run 2026-10-25T16:14+00:00 · raw jobs read: 12244 · matches: 34 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 39
-- weworkremotely: 397
+- weworkremotely: 396
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -204,7 +204,7 @@ Last run 2026-10-25T16:14+00:00 · raw jobs read: 12244 · matches: 34 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 390 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 794 | ok |
+| OpenAI | ashby | 793 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -289,7 +289,7 @@ Last run 2026-10-25T16:14+00:00 · raw jobs read: 12244 · matches: 34 · closed
 | Toptal | lever | 30 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 31 | ok |
-| Twilio | greenhouse | 134 | ok |
+| Twilio | greenhouse | 133 | ok |
 | Twitch | greenhouse | 58 | ok |
 | Uber | smartrecruiters | 1 | ok |
 | Ubisoft | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-25T16:14+00:00 · raw jobs read: 12244 · matches: 34 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 6
+Telegram: sent 2
