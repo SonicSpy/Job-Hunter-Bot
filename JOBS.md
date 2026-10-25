@@ -1,14 +1,17 @@
 # Job matches for Bhargav
 
-Updated 25 Oct 2026, 01:08 UTC · 30 open matches
+Updated 25 Oct 2026, 06:05 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Community Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-21 |
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
 | 100 | [Technical Support Engineer (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-23 |
+| 100 | [Full Stack Developer - Remote | Open Across India](https://himalayas.app/companies/the-leadership-thread/jobs/full-stack-developer-remote-open-across-india?utm_source=api) 🆕 | The Leadership Thread | Remote | Remote, India | USD 35000-55000 / year | 2026-10-25 |
 | 99 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
+| 99 | [Full-Stack Web Developer (Next.js) – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/full-stack-web-developer-next-js-elvoro-ltd?utm_source=api) 🆕 | Elvoro | Remote | Remote, Worldwide | Not listed | 2026-10-25 |
 | 98 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
+| 96 | [Web Developer - JavaScript/Node JS/React](https://himalayas.app/companies/hemitz-media-pvt-ltd/jobs/web-developer-javascript-node-js-react?utm_source=api) 🆕 | Hemitz Media Pvt Ltd | Remote | Remote, India | Not listed | 2026-10-25 |
 | 93 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
@@ -22,7 +25,6 @@ Updated 25 Oct 2026, 01:08 UTC · 30 open matches
 | 84 | [Product Analyst II](https://job-boards.greenhouse.io/glance/jobs/7984509) | Glance | On-site | Bangalore | Not listed | 2026-10-21 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 83 | [Associate Data Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer) | BeyondTrust | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
-| 82 | [Red Team Operator (Hive Member) - Apply Anytime!](https://himalayas.app/companies/covertswarm/jobs/red-team-operator-hive-member-apply-anytime?utm_source=api) 🆕 | CovertSwarm | Remote | Remote, Worldwide | GBP 40000-40000 / year | 2026-10-24 |
 | 81 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |
 | 77 | [Product Analyst II](https://job-boards.greenhouse.io/inmobi/jobs/8181422) | InMobi | On-site | Bangalore | Not listed | 2026-10-06 |
 | 77 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |

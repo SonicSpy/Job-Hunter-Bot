@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T01:08+00:00",
- "count": 30,
- "new_this_run": 1,
+ "updated": "2026-10-25T06:05+00:00",
+ "count": 32,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,6 +85,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "the-leadership-thread-full-stack-developer-remote-open-across-india",
+   "title": "Full Stack Developer - Remote | Open Across India",
+   "company": "The Leadership Thread",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "USD 35000-55000 / year",
+   "url": "https://himalayas.app/companies/the-leadership-thread/jobs/full-stack-developer-remote-open-across-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "sql",
+    "python"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-25T06:05+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
    "title": "Enterprise Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -112,6 +139,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "elvoro-full-stack-web-developer-next-js-elvoro-ltd",
+   "title": "Full-Stack Web Developer (Next.js) – Elvoro Ltd",
+   "company": "Elvoro",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/elvoro/jobs/full-stack-web-developer-next-js-elvoro-ltd?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "product",
+    "sql",
+    "analysis",
+    "prompt",
+    "github"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-25T06:05+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -137,6 +191,33 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "hemitz-media-pvt-ltd-web-developer-javascript-node-js-react",
+   "title": "Web Developer - JavaScript/Node JS/React",
+   "company": "Hemitz Media Pvt Ltd",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/hemitz-media-pvt-ltd/jobs/web-developer-javascript-node-js-react?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "communication",
+    "api",
+    "python",
+    "react",
+    "typescript",
+    "javascript",
+    "node",
+    "full stack"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T06:05+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -468,30 +549,6 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "covertswarm-red-team-operator-hive-member-apply-anytime",
-   "title": "Red Team Operator (Hive Member) - Apply Anytime!",
-   "company": "CovertSwarm",
-   "category": "AI evaluation / AI trainer",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "GBP 40000-40000 / year",
-   "url": "https://himalayas.app/companies/covertswarm/jobs/red-team-operator-hive-member-apply-anytime?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "communication",
-    "english",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T01:08+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
