@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-24T23:11+00:00 · raw jobs read: 12243 · matches: 33 · closed or ghost jobs removed: 0
+Last run 2026-10-25T01:08+00:00 · raw jobs read: 12237 · matches: 30 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
@@ -8,7 +8,7 @@ Last run 2026-10-24T23:11+00:00 · raw jobs read: 12243 · matches: 33 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 40
-- weworkremotely: 395
+- weworkremotely: 390
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -204,7 +204,7 @@ Last run 2026-10-24T23:11+00:00 · raw jobs read: 12243 · matches: 33 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 390 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 795 | ok |
+| OpenAI | ashby | 794 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-24T23:11+00:00 · raw jobs read: 12243 · matches: 33 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1

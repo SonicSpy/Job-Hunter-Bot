@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T23:11+00:00",
- "count": 33,
- "new_this_run": 4,
+ "updated": "2026-10-25T01:08+00:00",
+ "count": 30,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -83,33 +83,6 @@
    "first_seen": "2026-10-23T07:29+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "invisible-technologies-investment-specialist-freelance-ai-trainer-project",
-   "title": "Investment Specialist – Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/investment-specialist-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "analysis",
-    "prompt",
-    "entry level"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-24T23:11+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
@@ -349,60 +322,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "spotter-labs-remote-customer-onboarding-support-specialist",
-   "title": "Remote Customer Onboarding Support Specialist",
-   "company": "Spotter Labs",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/remote-customer-onboarding-support-specialist-6530893583?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T23:11+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "moneygram-customer-support-specialist-inbound-calls",
-   "title": "Customer Support Specialist - inbound calls",
-   "company": "MoneyGram",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/moneygram/jobs/customer-support-specialist-inbound-calls?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T23:11+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -477,33 +396,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "zoftify-travel-software-development-frontend-developer-react",
-   "title": "Frontend Developer (React)",
-   "company": "Zoftify — Travel Software Development",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/frontend-developer-react?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "english",
-    "product",
-    "api",
-    "remote",
-    "react",
-    "next.js",
-    "typescript",
-    "tailwind"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T23:11+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "glance-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "Glance",
@@ -576,6 +468,30 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "covertswarm-red-team-operator-hive-member-apply-anytime",
+   "title": "Red Team Operator (Hive Member) - Apply Anytime!",
+   "company": "CovertSwarm",
+   "category": "AI evaluation / AI trainer",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "GBP 40000-40000 / year",
+   "url": "https://himalayas.app/companies/covertswarm/jobs/red-team-operator-hive-member-apply-anytime?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "testing",
+    "documentation",
+    "communication",
+    "english",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T01:08+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
