@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T06:05+00:00",
- "count": 32,
- "new_this_run": 3,
+ "updated": "2026-10-25T11:23+00:00",
+ "count": 33,
+ "new_this_run": 7,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,29 +85,56 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "the-leadership-thread-full-stack-developer-remote-open-across-india",
-   "title": "Full Stack Developer - Remote | Open Across India",
-   "company": "The Leadership Thread",
+   "id": "marcopolo-learning-ai-product-engineer",
+   "title": "AI Product Engineer",
+   "company": "MarcoPolo Learning",
    "category": "AI-assisted developer (full stack)",
    "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
-   "salary": "USD 35000-55000 / year",
-   "url": "https://himalayas.app/companies/the-leadership-thread/jobs/full-stack-developer-remote-open-across-india?utm_source=api",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/marcopolo-learning/jobs/ai-product-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-25",
    "matched_skills": [
+    "evaluation",
+    "llm",
     "ai",
+    "quality",
     "testing",
+    "customer",
     "support",
-    "communication",
-    "english",
-    "product",
-    "sql",
-    "python"
+    "english"
    ],
    "contract": true,
-   "first_seen": "2026-10-25T06:05+00:00",
+   "first_seen": "2026-10-25T11:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "canonical-junior-linux-kernel-engineer-ubuntu",
+   "title": "Junior Linux Kernel Engineer - Ubuntu",
+   "company": "Canonical",
+   "category": "Trainee / graduate program",
+   "score": 100,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T11:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -139,29 +166,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "elvoro-full-stack-web-developer-next-js-elvoro-ltd",
-   "title": "Full-Stack Web Developer (Next.js) – Elvoro Ltd",
-   "company": "Elvoro",
+   "id": "planetscale-ai-developer-experience-engineer",
+   "title": "AI Developer Experience Engineer",
+   "company": "PlanetScale",
    "category": "AI-assisted developer (full stack)",
    "score": 99,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/elvoro/jobs/full-stack-web-developer-next-js-elvoro-ltd?utm_source=api",
-   "source": "Himalayas",
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
+   "source": "We Work Remotely (find company link before applying)",
    "posted": "2026-10-25",
    "matched_skills": [
+    "llm",
     "ai",
-    "quality",
+    "customer",
     "support",
+    "communication",
     "product",
-    "sql",
-    "analysis",
-    "prompt",
-    "github"
+    "api",
+    "saas"
    ],
-   "contract": true,
-   "first_seen": "2026-10-25T06:05+00:00",
+   "contract": false,
+   "first_seen": "2026-10-25T11:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -191,33 +218,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "hemitz-media-pvt-ltd-web-developer-javascript-node-js-react",
-   "title": "Web Developer - JavaScript/Node JS/React",
-   "company": "Hemitz Media Pvt Ltd",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/hemitz-media-pvt-ltd/jobs/web-developer-javascript-node-js-react?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "communication",
-    "api",
-    "python",
-    "react",
-    "typescript",
-    "javascript",
-    "node",
-    "full stack"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T06:05+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -403,6 +403,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "very-good-ventures-quality-engineer-mid-level",
+   "title": "Quality Engineer - Mid-Level",
+   "company": "Very Good Ventures",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/verygood/jobs/quality-engineer-mid-level?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-25T11:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -425,6 +452,33 @@
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "zoftify-travel-software-development-quality-assurance-engineer",
+   "title": "Quality Assurance Engineer",
+   "company": "Zoftify — Travel Software Development",
+   "category": "QA / testing",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/quality-assurance-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product",
+    "api",
+    "sql",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T11:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "6sense-it-support-specialist",
@@ -452,52 +506,6 @@
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "paytm-associate-user-growth-market-intelligence",
-   "title": "Associate - User Growth (Market intelligence)",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 85,
-   "location": "Remote, Noida, Uttar Pradesh",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07",
-   "source": "Company careers (Lever)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T19:14+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "glance-product-analyst-ii",
-   "title": "Product Analyst II",
-   "company": "Glance",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Bangalore",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/glance/jobs/7984509",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "ai",
-    "product",
-    "sql",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T07:36+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "typeform-full-stack-developer",
@@ -576,6 +584,74 @@
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "rajyug-it-solutions-pvt-ltd-react-js-developer",
+   "title": "React JS Developer",
+   "company": "Rajyug IT Solutions Pvt Ltd",
+   "category": "AI-assisted developer (full stack)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/rajyug-it-solutions-pvt-ltd/jobs/react-js-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "customer",
+    "react",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T11:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "glance-product-analyst-ii",
+   "title": "Product Analyst II",
+   "company": "Glance",
+   "category": "Non-coding tech (high pay)",
+   "score": 80,
+   "location": "Bangalore",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/7984509",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "product",
+    "sql",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "entrata-utility-operations-associate-cth-6-months",
+   "title": "Utility Operations Associate (CTH- 6 Months)",
+   "company": "Entrata",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/entrata/jobs/utility-operations-associate-cth-6-months?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "communication"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-25T11:23+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -678,31 +754,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "talkspace-business-development-growth-associate-pharma",
-   "title": "Business Development & Growth Associate, Pharma",
-   "company": "Talkspace",
-   "category": "Trainee / graduate program",
-   "score": 75,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-03T14:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -727,54 +778,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webflow-it-support-specialist",
-   "title": "IT Support Specialist",
-   "company": "Webflow",
-   "category": "Non-coding tech (high pay)",
-   "score": 73,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-03",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-05T22:36+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "curtins-graduate-transport-planner",
-   "title": "Graduate Transport Planner",
-   "company": "Curtins",
-   "category": "Trainee / graduate program",
-   "score": 73,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "quality",
-    "support",
-    "product",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-18T09:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "voltus-customer-success-associate",
    "title": "Customer Success Associate",
    "company": "Voltus",
@@ -793,6 +796,29 @@
    ],
    "contract": false,
    "first_seen": "2026-10-17T01:17+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "curtins-graduate-transport-planner",
+   "title": "Graduate Transport Planner",
+   "company": "Curtins",
+   "category": "Trainee / graduate program",
+   "score": 69,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-10-17",
+   "matched_skills": [
+    "quality",
+    "support",
+    "product",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },

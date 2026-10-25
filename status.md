@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-25T06:05+00:00 · raw jobs read: 12239 · matches: 32 · closed or ghost jobs removed: 0
+Last run 2026-10-25T11:23+00:00 · raw jobs read: 12244 · matches: 33 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 150
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 40
-- weworkremotely: 390
+- workingnomads: 39
+- weworkremotely: 397
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -180,7 +180,7 @@ Last run 2026-10-25T06:05+00:00 · raw jobs read: 12239 · matches: 32 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 382 | ok |
+| MongoDB | greenhouse | 381 | ok |
 | Moon Active | ashby | 33 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-10-25T06:05+00:00 · raw jobs read: 12239 · matches: 32 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 3
+Telegram: sent 7
