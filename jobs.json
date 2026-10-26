@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T12:57+00:00",
- "count": 33,
- "new_this_run": 5,
+ "updated": "2026-10-26T19:16+00:00",
+ "count": 31,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -58,31 +58,31 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "webengage-software-engineer-java",
-   "title": "Software Engineer (Java)",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
+   "id": "supabase-support-engineer-apac-weekends",
+   "title": "Support Engineer (APAC - Weekends)",
+   "company": "Supabase",
+   "category": "Non-coding tech (high pay)",
    "score": 100,
-   "location": "Remote, India",
+   "location": "Remote, Global",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-java?utm_source=api",
-   "source": "Himalayas",
+   "url": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3",
+   "source": "Company careers (Ashby)",
    "posted": "2026-10-26",
    "matched_skills": [
-    "quality",
     "test case",
+    "testing",
+    "documentation",
     "customer",
     "support",
     "communication",
-    "product",
-    "sql",
-    "saas"
+    "english",
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-26T06:10+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
+   "first_seen": "2026-10-26T19:16+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
@@ -162,7 +162,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -191,33 +191,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "sai-group-ltd-ai-engineer-llm-vlm",
-   "title": "AI Engineer — LLM / VLM",
-   "company": "SAI Group Ltd",
-   "category": "AI evaluation / AI trainer",
-   "score": 97,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sai-group-ltd/jobs/ai-engineer-llm-vlm?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "product",
-    "prompt",
-    "gemini",
-    "python",
-    "docker"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "dremio-software-engineer-query-execution",
@@ -271,29 +244,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "documentation",
-    "product",
-    "docker",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -471,6 +421,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
+   "title": "ServiceNow QA Consultant (CSM/ITSM)",
+   "company": "Joyful Craftsmen AG",
+   "category": "QA / testing",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-26T19:16+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -524,7 +501,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -727,29 +704,6 @@
    "first_seen": "2026-10-21T13:45+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "coditation-systems-software-developer-node-js",
-   "title": "Software Developer (Node.js)",
-   "company": "Coditation Systems",
-   "category": "AI-assisted developer (full stack)",
-   "score": 76,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/coditation-systems/jobs/software-developer-node-js?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "ai",
-    "support",
-    "product",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T06:10+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
