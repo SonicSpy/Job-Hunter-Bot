@@ -1,26 +1,27 @@
 # Job matches for Bhargav
 
-Updated 26 Oct 2026, 19:16 UTC · 31 open matches
+Updated 26 Oct 2026, 23:09 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Community Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-21 |
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
-| 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) 🆕 | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
+| 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 99 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
 | 99 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 99 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 98 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
+| 92 | [QA Engineer](https://himalayas.app/companies/motorola-solutions/jobs/qa-engineer?utm_source=api) 🆕 | Motorola Solutions | Remote | Remote, Algeria, Angola, Benin, Botswana | Not listed | 2026-10-26 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
+| 91 | [1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A](https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a?utm_source=api) 🆕 | TalentCross | Remote | Remote, Worldwide | Not listed | 2026-10-26 |
 | 90 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 89 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 89 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 89 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 87 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
 | 86 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
-| 86 | [Associate, Growth Advisory](https://himalayas.app/companies/frost-sullivan/jobs/associate-growth-advisory?utm_source=api) | Frost & Sullivan | Remote | Remote, India | Not listed | 2026-10-26 |
-| 86 | [ServiceNow QA Consultant (CSM/ITSM)](https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api) 🆕 | Joyful Craftsmen AG | Remote | Remote, Worldwide | Not listed | 2026-10-26 |
+| 86 | [ServiceNow QA Consultant (CSM/ITSM)](https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api) | Joyful Craftsmen AG | Remote | Remote, Worldwide | Not listed | 2026-10-26 |
 | 85 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
 | 84 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |

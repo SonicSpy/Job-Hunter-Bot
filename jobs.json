@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T19:16+00:00",
- "count": 31,
+ "updated": "2026-10-26T23:09+00:00",
+ "count": 32,
  "new_this_run": 2,
  "jobs": [
   {
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T19:16+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -193,6 +193,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "motorola-solutions-qa-engineer",
+   "title": "QA Engineer",
+   "company": "Motorola Solutions",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, French Southern Territories, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/motorola-solutions/jobs/qa-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "api",
+    "postman",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T23:09+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "dremio-software-engineer-query-execution",
    "title": "Software Engineer - Query Execution",
    "company": "Dremio",
@@ -244,6 +271,33 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "talentcross-1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a",
+   "title": "1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A",
+   "company": "TalentCross",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "api",
+    "remote",
+    "react"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T23:09+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -400,31 +454,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "frost-sullivan-associate-growth-advisory",
-   "title": "Associate, Growth Advisory",
-   "company": "Frost & Sullivan",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/frost-sullivan/jobs/associate-growth-advisory?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "joyful-craftsmen-ag-servicenow-qa-consultant-csm-itsm",
    "title": "ServiceNow QA Consultant (CSM/ITSM)",
    "company": "Joyful Craftsmen AG",
@@ -448,7 +477,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-26T19:16+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
