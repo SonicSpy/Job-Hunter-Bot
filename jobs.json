@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T00:21+00:00",
- "count": 33,
- "new_this_run": 0,
+ "updated": "2026-10-26T06:10+00:00",
+ "count": 37,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -64,7 +64,7 @@
    "category": "Non-coding tech (high pay)",
    "score": 100,
    "location": "Bengaluru, India",
-   "mode": "On-site",
+   "mode": "Hybrid",
    "salary": "Not listed",
    "url": "https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004",
    "source": "Company careers (Greenhouse)",
@@ -109,6 +109,33 @@
    "contract": false,
    "first_seen": "2026-10-25T16:14+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-software-engineer-java",
+   "title": "Software Engineer (Java)",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-java?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -166,33 +193,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "covertswarm-ai-engineer-offensive-security",
-   "title": "AI Engineer (Offensive Security)",
-   "company": "CovertSwarm",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/covertswarm/jobs/ai-engineer-offensive-security?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "product",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T21:45+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -218,6 +218,59 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "micro1-test-engineer-i-for-testing-2skill-cq",
+   "title": "Test Engineer I for testing(2skill+CQ)",
+   "company": "micro1",
+   "category": "QA / testing",
+   "score": 97,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/test-engineer-i-for-testing-2skill-cq?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "itsacheckmate-associate-product-manager",
+   "title": "Associate Product Manager",
+   "company": "ItsaCheckmate",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/itsacheckmate/jobs/associate-product-manager?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "ai",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "jira",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -327,33 +380,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mixrank-software-engineer-remote-global-full-time",
-   "title": "Software Engineer - Remote (Global), Full-Time",
-   "company": "Mixrank",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mixrank/jobs/software-engineer-remote-global-full-time?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "customer",
-    "product",
-    "sql",
-    "jira",
-    "analysis",
-    "python",
-    "remote",
-    "typescript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T19:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cribl-customer-success-engineer-sydney",
    "title": "Customer Success Engineer, Sydney",
    "company": "Cribl",
@@ -404,6 +430,32 @@
    "contract": false,
    "first_seen": "2026-10-25T16:14+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "arora-media-llc-ai-developer",
+   "title": "AI Developer",
+   "company": "Arora Media LLC",
+   "category": "AI-assisted developer (full stack)",
+   "score": 90,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/arora-media-llc/jobs/ai-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "customer",
+    "support",
+    "product",
+    "saas",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -612,6 +664,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "interview-mocha-full-stack-developer",
+   "title": "Full stack developer",
+   "company": "Interview Mocha",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/interview-mocha/jobs/full-stack-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "documentation",
+    "support",
+    "communication",
+    "sql",
+    "analysis",
+    "full stack"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "glance-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "Glance",
@@ -759,6 +836,29 @@
    "first_seen": "2026-10-21T13:45+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "coditation-systems-software-developer-node-js",
+   "title": "Software Developer (Node.js)",
+   "company": "Coditation Systems",
+   "category": "AI-assisted developer (full stack)",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/coditation-systems/jobs/software-developer-node-js?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "ai",
+    "support",
+    "product",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T06:10+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
