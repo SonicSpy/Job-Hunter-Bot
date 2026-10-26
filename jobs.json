@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T21:45+00:00",
- "count": 35,
- "new_this_run": 4,
+ "updated": "2026-10-26T00:21+00:00",
+ "count": 33,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -189,7 +189,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T21:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -218,33 +218,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "dotmatics-pre-sales-engineer-chemistry-luma",
-   "title": "Pre-sales Engineer, Chemistry | Luma",
-   "company": "Dotmatics",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/dotmatics/jobs/pre-sales-engineer-chemistry-luma?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "sql",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T19:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -506,7 +479,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T21:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -583,30 +556,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T21:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "fusefx-production-coordinator",
-   "title": "Production Coordinator",
-   "company": "FuseFX",
-   "category": "Gaming",
-   "score": 84,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/fusefx/jobs/production-coordinator?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "quality",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T21:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
