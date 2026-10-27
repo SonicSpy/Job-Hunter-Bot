@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:28+00:00",
+ "updated": "2026-10-27T20:04+00:00",
  "count": 34,
  "new_this_run": 4,
  "jobs": [
@@ -108,8 +108,34 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T14:28+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "notion-product-support-specialist",
+   "title": "Product Support Specialist",
+   "company": "Notion",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Hyderabad, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -163,33 +189,6 @@
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "td-synnex-ai-automation-specialist",
-   "title": "AI Automation Specialist",
-   "company": "TD SYNNEX",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/td-synnex/jobs/ai-automation-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "onboarding",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T14:28+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -274,30 +273,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "gather-ai-software-development-engineer-ii-sde-ii-full-stack-india",
-   "title": "Software Development Engineer II (SDE II) - Full Stack - India",
-   "company": "Gather AI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
+   "id": "freshly-commerce-technical-support-specialist",
+   "title": "Technical Support Specialist",
+   "company": "Freshly Commerce",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/gather-ai/jobs/software-development-engineer-ii-sde-ii-full-stack-india?utm_source=api",
-   "source": "Himalayas",
+   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+   "source": "We Work Remotely (find company link before applying)",
    "posted": "2026-10-27",
    "matched_skills": [
-    "ai",
+    "quality",
     "testing",
+    "documentation",
     "customer",
     "support",
     "communication",
     "product",
-    "sql",
-    "python"
+    "api"
    ],
    "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": false,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -352,6 +351,29 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "reality-games-sysadmin-devops",
+   "title": "SysAdmin/DevOps",
+   "company": "Reality Games",
+   "category": "Gaming",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "documentation",
+    "product",
+    "docker",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -527,7 +549,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T14:28+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -584,31 +606,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "granicus-automation-engineer-1-technical-support",
-   "title": "Automation Engineer 1 - Technical Support",
-   "company": "Granicus",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, Armenia, Australia, Canada, India, New Zealand, United Kingdom, United States",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/granicus/jobs/automation-engineer-1-technical-support-6458363834?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T14:28+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -658,6 +655,32 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "sdf-systems-software-engineer-php-remote",
+   "title": "Software Engineer (PHP) - Remote",
+   "company": "SDF Systems",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sdf-systems/jobs/software-engineer-php-remote?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "communication",
+    "api",
+    "remote",
+    "javascript",
+    "postgresql",
+    "bugs",
+    "player"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -788,7 +811,7 @@
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
    "category": "Non-coding tech (high pay)",
-   "score": 74,
+   "score": 70,
    "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
@@ -851,24 +874,6 @@
    "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "servicenow-advisory-solution-consultant-presales",
-   "title": "Advisory Solution Consultant - Presales",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 65,
-   "location": "Mumbai, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000156852469",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-21",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-10-21T18:36+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   }
  ]
 }
