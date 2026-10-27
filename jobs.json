@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T23:09+00:00",
+ "updated": "2026-10-27T02:03+00:00",
  "count": 32,
- "new_this_run": 2,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -216,7 +216,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T23:09+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -297,7 +297,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T23:09+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

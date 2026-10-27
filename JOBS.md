@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 26 Oct 2026, 23:09 UTC · 32 open matches
+Updated 27 Oct 2026, 02:03 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -11,10 +11,10 @@ Updated 26 Oct 2026, 23:09 UTC · 32 open matches
 | 99 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 99 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 98 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
-| 92 | [QA Engineer](https://himalayas.app/companies/motorola-solutions/jobs/qa-engineer?utm_source=api) 🆕 | Motorola Solutions | Remote | Remote, Algeria, Angola, Benin, Botswana | Not listed | 2026-10-26 |
+| 92 | [QA Engineer](https://himalayas.app/companies/motorola-solutions/jobs/qa-engineer?utm_source=api) | Motorola Solutions | Remote | Remote, Algeria, Angola, Benin, Botswana | Not listed | 2026-10-26 |
 | 91 | [Software Engineer - Query Execution](https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution) | Dremio | Remote | Remote, Anywhere in the World | Not listed | 2026-10-07 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
-| 91 | [1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A](https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a?utm_source=api) 🆕 | TalentCross | Remote | Remote, Worldwide | Not listed | 2026-10-26 |
+| 91 | [1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A](https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a?utm_source=api) | TalentCross | Remote | Remote, Worldwide | Not listed | 2026-10-26 |
 | 90 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 89 | [Recruiting Coordinator](https://careers.roblox.com/jobs/8242255?gh_jid=8242255) | Roblox | Hybrid | Gurugram, Haryana, India | Not listed | 2026-10-12 |
 | 89 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
