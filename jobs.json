@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T07:49+00:00",
- "count": 39,
- "new_this_run": 11,
+ "updated": "2026-10-27T14:28+00:00",
+ "count": 34,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,29 +85,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "webengage-software-engineer-java",
-   "title": "Software Engineer (Java)",
-   "company": "WebEngage",
+   "id": "alkira-inc-software-engineer-backend-engineer-india",
+   "title": "Software Engineer - Backend Engineer (India)",
+   "company": "Alkira, Inc.",
    "category": "AI-assisted developer (full stack)",
    "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-java?utm_source=api",
+   "url": "https://himalayas.app/companies/alkira-inc/jobs/software-engineer-backend-engineer-india-1883162452?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-27",
    "matched_skills": [
-    "quality",
-    "test case",
+    "llm",
+    "ai",
     "customer",
     "support",
-    "communication",
     "product",
-    "sql",
-    "saas"
+    "api",
+    "postgresql",
+    "bug"
    ],
    "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
+   "first_seen": "2026-10-27T14:28+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -166,31 +166,31 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "figma-customer-support-specialist-bengaluru-india",
-   "title": "Customer Support Specialist (Bengaluru, India)",
-   "company": "Figma",
-   "category": "Non-coding tech (high pay)",
-   "score": 98,
-   "location": "Bengaluru, India",
-   "mode": "On-site",
+   "id": "td-synnex-ai-automation-specialist",
+   "title": "AI Automation Specialist",
+   "company": "TD SYNNEX",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, India",
+   "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-19",
+   "url": "https://himalayas.app/companies/td-synnex/jobs/ai-automation-specialist?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-27",
    "matched_skills": [
+    "llm",
     "ai",
-    "customer",
     "support",
     "communication",
     "english",
     "product",
-    "saas",
-    "onboarding"
+    "onboarding",
+    "python"
    ],
    "contract": false,
-   "first_seen": "2026-10-19T13:15+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
+   "first_seen": "2026-10-27T14:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
@@ -243,8 +243,35 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "figma-customer-support-specialist-bengaluru-india",
+   "title": "Customer Support Specialist (Bengaluru, India)",
+   "company": "Figma",
+   "category": "Non-coding tech (high pay)",
+   "score": 94,
+   "location": "Bengaluru, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-19",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-19T13:15+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "gather-ai-software-development-engineer-ii-sde-ii-full-stack-india",
@@ -270,33 +297,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -456,29 +457,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -527,6 +505,29 @@
    "contract": false,
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "sarvam-product-strategy-associate",
+   "title": "Product & Strategy Associate",
+   "company": "Sarvam",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Bengaluru",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "product",
+    "prompt"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T14:28+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -583,6 +584,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "granicus-automation-engineer-1-technical-support",
+   "title": "Automation Engineer 1 - Technical Support",
+   "company": "Granicus",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Remote, Armenia, Australia, Canada, India, New Zealand, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/granicus/jobs/automation-engineer-1-technical-support-6458363834?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T14:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -635,54 +661,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "wadhwani-ai-associate-machine-learning-scientist",
-   "title": "Associate Machine Learning Scientist",
-   "company": "Wadhwani AI",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wadhwani-ai/jobs/associate-machine-learning-scientist-4897794238?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "analysis",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "glance-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "Glance",
@@ -704,33 +682,6 @@
    "first_seen": "2026-10-21T07:36+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "ema-solutions-engineer",
-   "title": "Solutions Engineer",
-   "company": "Ema",
-   "category": "Non-coding tech (high pay)",
-   "score": 80,
-   "location": "Remote, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ema/jobs/solutions-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "customer",
-    "support",
-    "product",
-    "saas",
-    "onboarding",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
@@ -782,28 +733,6 @@
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "teknos-associates-valuation-associate-technology-digital-assets",
-   "title": "Valuation Associate — Technology & Digital Assets",
-   "company": "Teknos Associates",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "INR 1750000-2000000 / year",
-   "url": "https://himalayas.app/companies/teknos-associates/jobs/valuation-associate-technology-digital-assets?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "support",
-    "english",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -876,51 +805,6 @@
    "contract": false,
    "first_seen": "2026-10-19T19:20+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "safeguard-global-hrss-associate",
-   "title": "HRSS Associate",
-   "company": "Safeguard Global",
-   "category": "Trainee / graduate program",
-   "score": 73,
-   "location": "Remote, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/safeguard-global/jobs/hrss-associate?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
