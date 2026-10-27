@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T20:04+00:00",
- "count": 34,
- "new_this_run": 4,
+ "updated": "2026-10-27T23:45+00:00",
+ "count": 31,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -85,33 +85,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "alkira-inc-software-engineer-backend-engineer-india",
-   "title": "Software Engineer - Backend Engineer (India)",
-   "company": "Alkira, Inc.",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/alkira-inc/jobs/software-engineer-backend-engineer-india-1883162452?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "customer",
-    "support",
-    "product",
-    "api",
-    "postgresql",
-    "bug"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T14:28+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -134,7 +107,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -296,7 +269,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -351,29 +324,6 @@
    "contract": false,
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "reality-games-sysadmin-devops",
-   "title": "SysAdmin/DevOps",
-   "company": "Reality Games",
-   "category": "Gaming",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/reality-games/jobs/sysadmin-devops?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "documentation",
-    "product",
-    "docker",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T20:04+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -655,32 +605,6 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sdf-systems-software-engineer-php-remote",
-   "title": "Software Engineer (PHP) - Remote",
-   "company": "SDF Systems",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sdf-systems/jobs/software-engineer-php-remote?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "communication",
-    "api",
-    "remote",
-    "javascript",
-    "postgresql",
-    "bugs",
-    "player"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-27T20:04+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
