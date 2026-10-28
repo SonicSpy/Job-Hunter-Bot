@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T05:39+00:00",
- "count": 32,
- "new_this_run": 1,
+ "updated": "2026-10-28T12:50+00:00",
+ "count": 35,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -111,6 +111,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "canonical-cloud-support-engineer",
+   "title": "Cloud Support Engineer",
+   "company": "Canonical",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/151889-cloud-support-engineer-2",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-10-28",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "analysis",
+    "docker"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-28T12:50+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "planetscale-ai-developer-experience-engineer",
    "title": "AI Developer Experience Engineer",
    "company": "PlanetScale",
@@ -162,6 +189,33 @@
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "hercules-technical-customer-support-engineer-apac-weekend-coverage",
+   "title": "Technical Customer Support Engineer, APAC (Weekend Coverage)",
+   "company": "Hercules",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+   "mode": "Remote",
+   "salary": "USD 60000-125000 / year",
+   "url": "https://himalayas.app/companies/hercules/jobs/technical-customer-support-engineer-apac-weekend-coverage?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-28",
+   "matched_skills": [
+    "ai",
+    "test case",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "docker",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-28T12:50+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -327,33 +381,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "cribl-customer-success-engineer-sydney",
-   "title": "Customer Success Engineer, Sydney",
-   "company": "Cribl",
-   "category": "Non-coding tech (high pay)",
-   "score": 90,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding",
-    "remote",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "roblox-recruiting-coordinator",
    "title": "Recruiting Coordinator",
    "company": "Roblox",
@@ -373,32 +400,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-12T15:19+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "zscaler-product-support-engineer-iii-zia-zpa",
-   "title": "Product Support Engineer III - ZIA/ZPA",
-   "company": "Zscaler",
-   "category": "Non-coding tech (high pay)",
-   "score": 89,
-   "location": "Bangalore, IND; Mohali, IND",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263573007",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-20",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "customer",
-    "support",
-    "product",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-20T10:01+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -480,6 +481,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "cribl-customer-success-engineer-sydney",
+   "title": "Customer Success Engineer, Sydney",
+   "company": "Cribl",
+   "category": "Non-coding tech (high pay)",
+   "score": 86,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "onboarding",
+    "remote",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T10:55+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "sarvam-product-strategy-associate",
    "title": "Product & Strategy Associate",
    "company": "Sarvam",
@@ -528,6 +556,32 @@
    "first_seen": "2026-10-15T13:23+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "zscaler-product-support-engineer-iii-zia-zpa",
+   "title": "Product Support Engineer III - ZIA/ZPA",
+   "company": "Zscaler",
+   "category": "Non-coding tech (high pay)",
+   "score": 85,
+   "location": "Bangalore, IND; Mohali, IND",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263573007",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-20",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "product",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-20T10:01+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "mercury-customer-support-specialist",
@@ -583,52 +637,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "beyondtrust-associate-data-engineer",
-   "title": "Associate Data Engineer",
-   "company": "BeyondTrust",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, Anywhere in the World",
+   "id": "icore-frontend-developers",
+   "title": "Frontend Developers",
+   "company": "iCore",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-24",
+   "url": "https://himalayas.app/companies/icorepioneer/jobs/frontend-developers?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-28",
    "matched_skills": [
+    "testing",
     "customer",
     "support",
-    "analysis",
-    "saas",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "indg-junior-project-support",
-   "title": "Junior Project Support",
-   "company": "INDG",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/indg/jobs/junior-project-support?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "support",
     "communication",
-    "english",
-    "product",
-    "jira",
-    "remote"
+    "react",
+    "javascript"
    ],
    "contract": true,
-   "first_seen": "2026-10-28T05:39+00:00",
+   "first_seen": "2026-10-28T12:50+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -654,6 +683,55 @@
    "first_seen": "2026-10-21T07:36+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "beyondtrust-associate-data-engineer",
+   "title": "Associate Data Engineer",
+   "company": "BeyondTrust",
+   "category": "Trainee / graduate program",
+   "score": 79,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "customer",
+    "support",
+    "analysis",
+    "saas",
+    "python",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T10:55+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "nestifytech-solutions-private-limited-client-onboarding-specialist",
+   "title": "Client Onboarding Specialist",
+   "company": "Nestifytech Solutions Private Limited",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "INR 900000-2100000 / year",
+   "url": "https://himalayas.app/companies/nestifytech-solutions-private-limited/jobs/client-onboarding-specialist?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-28",
+   "matched_skills": [
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-28T12:50+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
