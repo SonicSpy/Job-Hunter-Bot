@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 27 Oct 2026, 23:45 UTC · 31 open matches
+Updated 28 Oct 2026, 05:39 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@ Updated 27 Oct 2026, 23:45 UTC · 31 open matches
 | 84 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 83 | [Associate Data Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer) | BeyondTrust | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
+| 83 | [Junior Project Support](https://himalayas.app/companies/indg/jobs/junior-project-support?utm_source=api) 🆕 | INDG | Remote | Remote, Worldwide | Not listed | 2026-10-27 |
 | 80 | [Product Analyst II](https://job-boards.greenhouse.io/glance/jobs/7984509) | Glance | On-site | Bangalore | Not listed | 2026-10-21 |
 | 77 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 77 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |

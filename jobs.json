@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T23:45+00:00",
- "count": 31,
- "new_this_run": 0,
+ "updated": "2026-10-28T05:39+00:00",
+ "count": 32,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -605,6 +605,31 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "indg-junior-project-support",
+   "title": "Junior Project Support",
+   "company": "INDG",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/indg/jobs/junior-project-support?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "support",
+    "communication",
+    "english",
+    "product",
+    "jira",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-28T05:39+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
