@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T18:51+00:00",
- "count": 35,
- "new_this_run": 3,
+ "updated": "2026-10-28T23:13+00:00",
+ "count": 34,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -134,7 +134,7 @@
    ],
    "contract": true,
    "first_seen": "2026-10-28T18:51+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -271,6 +271,33 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "wing-assistant-full-stack-developer",
+   "title": "Full Stack Developer",
+   "company": "Wing Assistant",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/wing-assistant/jobs/full-stack-developer-8177891239?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-28",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "product",
+    "api",
+    "sql",
+    "python",
+    "docker"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-28T23:13+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "freshly-commerce-technical-support-specialist",
@@ -525,7 +552,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-28T18:51+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -635,31 +662,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "icore-frontend-developers",
-   "title": "Frontend Developers",
-   "company": "iCore",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/icorepioneer/jobs/frontend-developers?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-28",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "react",
-    "javascript"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-28T12:50+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "glance-product-analyst-ii",
    "title": "Product Analyst II",
    "company": "Glance",
@@ -757,27 +759,6 @@
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "dataforest-gmbh-it-support-specialist-junior-2nd-level-hosting-m-w-d",
-   "title": "IT Support Specialist (Junior, 2nd Level) – Hosting (m/w/d)",
-   "company": "dataforest GmbH",
-   "category": "Non-coding tech (high pay)",
-   "score": 77,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/dataforest-gmbh/jobs/it-support-specialist-junior-2nd-level-hosting-m-w-d?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-28",
-   "matched_skills": [
-    "support",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-28T18:51+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
