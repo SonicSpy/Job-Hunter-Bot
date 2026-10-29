@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T23:13+00:00",
- "count": 34,
+ "updated": "2026-10-29T02:26+00:00",
+ "count": 32,
  "new_this_run": 1,
  "jobs": [
   {
@@ -111,33 +111,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "micro1-music-sound-annotation-expert",
-   "title": "Music & Sound Annotation Expert",
-   "company": "micro1",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-28",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "english",
-    "annotation",
-    "onboarding",
-    "remote",
-    "react"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-28T18:51+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "planetscale-ai-developer-experience-engineer",
    "title": "AI Developer Experience Engineer",
    "company": "PlanetScale",
@@ -190,33 +163,6 @@
    "first_seen": "2026-10-26T12:57+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "figma-enterprise-support-specialist-bengaluru-india",
-   "title": "Enterprise Support Specialist (Bengaluru, India)",
-   "company": "Figma",
-   "category": "Non-coding tech (high pay)",
-   "score": 95,
-   "location": "Bengaluru, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "prompt",
-    "saas",
-    "bug"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-23T07:29+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -296,7 +242,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-28T23:13+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -531,31 +477,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "parexel-clinical-data-associate-ii-south-africa-fsp",
-   "title": "Clinical Data Associate II - South Africa - FSP",
-   "company": "Parexel",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, French Southern Territories, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/parexel/jobs/clinical-data-associate-ii-south-africa-fsp?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-28",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-28T18:51+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "6sense-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "6sense",
@@ -659,6 +580,32 @@
    "contract": false,
    "first_seen": "2026-10-10T13:39+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "ewor-gmbh-applied-ai-co-founder-cto-100-remote-m-f-d",
+   "title": "Applied AI Co-Founder / CTO (100 % remote) (m/f/d)",
+   "company": "EWOR GmbH",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-cto-100-remote-m-f-d-4443638991?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-29",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-29T02:26+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
