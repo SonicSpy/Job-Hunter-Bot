@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T09:55+00:00",
- "count": 32,
- "new_this_run": 5,
+ "updated": "2026-10-29T16:55+00:00",
+ "count": 30,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -215,7 +215,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-29T09:55+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -270,33 +270,6 @@
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "supplyhouse-com-qa-engineer",
-   "title": "QA Engineer",
-   "company": "SupplyHouse.com",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "USD 18482-27723 / year",
-   "url": "https://himalayas.app/companies/supplyhouse-com/jobs/qa-engineer-1197423769?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-29",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "test case",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-29T09:55+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -560,29 +533,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "ncr-atleos-desktop-support-engineer",
-   "title": "Desktop Support Engineer",
-   "company": "NCR Atleos",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ncr-atleos/jobs/desktop-support-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-29",
-   "matched_skills": [
-    "customer",
-    "support",
-    "remote",
-    "bug"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-29T09:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
    "title": "Remote AI Trainers (Generalist and Python Coding Experts)",
    "company": "AITrainers",
@@ -722,28 +672,26 @@
    ],
    "contract": false,
    "first_seen": "2026-10-29T09:55+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
-   "id": "haier-pre-sales-engineer-assistant",
-   "title": "Pre Sales Engineer Assistant",
-   "company": "Haier",
-   "category": "Non-coding tech (high pay)",
-   "score": 72,
-   "location": "Remote, Worldwide",
+   "id": "rws-group-associate-resource-coordinator",
+   "title": "Associate Resource Coordinator",
+   "company": "RWS Group",
+   "category": "Trainee / graduate program",
+   "score": 71,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/haier-com/jobs/pre-sales-engineer-assistant?utm_source=api",
+   "url": "https://himalayas.app/companies/rws-group/jobs/associate-resource-coordinator-9265267537?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-29",
    "matched_skills": [
-    "customer",
-    "support",
-    "product"
+    "communication"
    ],
    "contract": false,
-   "first_seen": "2026-10-29T09:55+00:00",
+   "first_seen": "2026-10-29T16:55+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
