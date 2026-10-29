@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T02:26+00:00",
+ "updated": "2026-10-29T09:55+00:00",
  "count": 32,
- "new_this_run": 1,
+ "new_this_run": 5,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -95,7 +95,7 @@
    "salary": "Not listed",
    "url": "https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
    "source": "Company careers (Ashby)",
-   "posted": "2026-10-27",
+   "posted": "2026-10-29",
    "matched_skills": [
     "ai",
     "quality",
@@ -103,39 +103,12 @@
     "support",
     "communication",
     "product",
-    "api"
+    "sql"
    ],
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "planetscale-ai-developer-experience-engineer",
-   "title": "AI Developer Experience Engineer",
-   "company": "PlanetScale",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T11:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "reddit-frontend-engineer-ads",
@@ -161,6 +134,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "planetscale-ai-developer-experience-engineer",
+   "title": "AI Developer Experience Engineer",
+   "company": "PlanetScale",
+   "category": "AI-assisted developer (full stack)",
+   "score": 95,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-25",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-25T11:23+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -192,6 +192,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "figma-enterprise-support-specialist-bengaluru-india",
+   "title": "Enterprise Support Specialist (Bengaluru, India)",
+   "company": "Figma",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Bengaluru, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-23",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "prompt",
+    "saas",
+    "bug"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-29T09:55+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "figma-customer-support-specialist-bengaluru-india",
    "title": "Customer Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -217,33 +244,6 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "wing-assistant-full-stack-developer",
-   "title": "Full Stack Developer",
-   "company": "Wing Assistant",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wing-assistant/jobs/full-stack-developer-8177891239?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-28",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "product",
-    "api",
-    "sql",
-    "python",
-    "docker"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-28T23:13+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "freshly-commerce-technical-support-specialist",
@@ -273,30 +273,30 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "dremio-software-engineer-query-execution",
-   "title": "Software Engineer - Query Execution",
-   "company": "Dremio",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Anywhere in the World",
+   "id": "supplyhouse-com-qa-engineer",
+   "title": "QA Engineer",
+   "company": "SupplyHouse.com",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-07",
+   "salary": "USD 18482-27723 / year",
+   "url": "https://himalayas.app/companies/supplyhouse-com/jobs/qa-engineer-1197423769?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-29",
    "matched_skills": [
-    "evaluation",
     "ai",
     "quality",
+    "test case",
     "testing",
-    "documentation",
     "customer",
     "support",
-    "communication"
+    "communication",
+    "english"
    ],
    "contract": false,
-   "first_seen": "2026-10-07T08:37+00:00",
-   "new": false,
+   "first_seen": "2026-10-29T09:55+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -325,29 +325,6 @@
    "first_seen": "2026-10-11T08:47+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "roblox-recruiting-coordinator",
-   "title": "Recruiting Coordinator",
-   "company": "Roblox",
-   "category": "Gaming",
-   "score": 89,
-   "location": "Gurugram, Haryana, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8242255?gh_jid=8242255",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "support",
-    "communication",
-    "player",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "zscaler-product-support-engineer-iii",
@@ -583,77 +560,26 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "ewor-gmbh-applied-ai-co-founder-cto-100-remote-m-f-d",
-   "title": "Applied AI Co-Founder / CTO (100 % remote) (m/f/d)",
-   "company": "EWOR GmbH",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
+   "id": "ncr-atleos-desktop-support-engineer",
+   "title": "Desktop Support Engineer",
+   "company": "NCR Atleos",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-cto-100-remote-m-f-d-4443638991?utm_source=api",
+   "url": "https://himalayas.app/companies/ncr-atleos/jobs/desktop-support-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-29",
    "matched_skills": [
-    "ai",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-29T02:26+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "glance-product-analyst-ii",
-   "title": "Product Analyst II",
-   "company": "Glance",
-   "category": "Non-coding tech (high pay)",
-   "score": 80,
-   "location": "Bangalore",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/glance/jobs/7984509",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-21",
-   "matched_skills": [
-    "ai",
-    "product",
-    "sql",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-21T07:36+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "beyondtrust-associate-data-engineer",
-   "title": "Associate Data Engineer",
-   "company": "BeyondTrust",
-   "category": "Trainee / graduate program",
-   "score": 79,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
     "customer",
     "support",
-    "analysis",
-    "saas",
-    "python",
-    "remote"
+    "remote",
+    "bug"
    ],
    "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
+   "first_seen": "2026-10-29T09:55+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -733,6 +659,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "glance-product-analyst-ii",
+   "title": "Product Analyst II",
+   "company": "Glance",
+   "category": "Non-coding tech (high pay)",
+   "score": 76,
+   "location": "Bangalore",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/7984509",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-10-21",
+   "matched_skills": [
+    "ai",
+    "product",
+    "sql",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-21T07:36+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "druva-sales-engineer",
    "title": "Sales Engineer",
    "company": "Druva",
@@ -755,6 +704,48 @@
    "first_seen": "2026-10-21T13:45+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "servicenow-customer-success-executive",
+   "title": "Customer Success Executive",
+   "company": "ServiceNow",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Bangalore, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000158473789",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-10-29",
+   "matched_skills": [
+    "customer"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-29T09:55+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "haier-pre-sales-engineer-assistant",
+   "title": "Pre Sales Engineer Assistant",
+   "company": "Haier",
+   "category": "Non-coding tech (high pay)",
+   "score": 72,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/haier-com/jobs/pre-sales-engineer-assistant?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-29",
+   "matched_skills": [
+    "customer",
+    "support",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-29T09:55+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
