@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T08:37+00:00",
- "count": 29,
- "new_this_run": 1,
+ "updated": "2026-10-30T15:55+00:00",
+ "count": 31,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -320,7 +320,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-30T08:37+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -531,6 +531,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "astreya-software-engineer-ii",
+   "title": "Software Engineer II",
+   "company": "Astreya",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/astreya/jobs/software-engineer-ii-1963141452?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "product",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T15:55+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "mercury-customer-support-specialist",
    "title": "Customer Support Specialist",
    "company": "Mercury",
@@ -674,6 +699,27 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "proof-of-skill-ux-ui-designer-fresher",
+   "title": "UX/UI Designer (Fresher)",
+   "company": "Proof of Skill",
+   "category": "Trainee / graduate program",
+   "score": 74,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/proof-of-skill/jobs/ux-ui-designer-fresher?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "product",
+    "fresher"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T15:55+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
