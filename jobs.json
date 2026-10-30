@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T15:55+00:00",
- "count": 31,
- "new_this_run": 2,
+ "updated": "2026-10-30T20:46+00:00",
+ "count": 32,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -109,6 +109,33 @@
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "pole-to-win-international-technical-support-representative-tier-2",
+   "title": "Technical Support Representative - Tier 2",
+   "company": "Pole To Win International",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/technical-support-representative-tier-2?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "api",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T20:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -531,31 +558,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "astreya-software-engineer-ii",
-   "title": "Software Engineer II",
-   "company": "Astreya",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/astreya/jobs/software-engineer-ii-1963141452?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "product",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T15:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "mercury-customer-support-specialist",
    "title": "Customer Support Specialist",
    "company": "Mercury",
@@ -634,6 +636,28 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "highstreet-2026-1611-associate-technical-consultant",
+   "title": "2026 - 1611 - Associate Technical Consultant",
+   "company": "Highstreet",
+   "category": "Trainee / graduate program",
+   "score": 77,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/highstreet/jobs/2026-1611-associate-technical-consultant?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "testing",
+    "documentation",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T20:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
    "company": "Toptal",
@@ -699,27 +723,6 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "proof-of-skill-ux-ui-designer-fresher",
-   "title": "UX/UI Designer (Fresher)",
-   "company": "Proof of Skill",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/proof-of-skill/jobs/ux-ui-designer-fresher?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "product",
-    "fresher"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T15:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
@@ -788,6 +791,26 @@
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mensch-und-maschine-technical-support-ecad-software-m-w-d",
+   "title": "Technical Support - ECAD Software (m/w/d)",
+   "company": "Mensch und Maschine",
+   "category": "Non-coding tech (high pay)",
+   "score": 66,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mensch-und-maschine/jobs/technical-support-ecad-software-m-w-d?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T20:46+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   }
  ]
