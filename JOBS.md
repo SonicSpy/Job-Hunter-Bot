@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 29 Oct 2026, 21:48 UTC · 39 open matches
+Updated 30 Oct 2026, 01:56 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -8,24 +8,16 @@ Updated 29 Oct 2026, 21:48 UTC · 39 open matches
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
-| 100 | [Forward Deployed Engineer III - IN (Palantir)](https://himalayas.app/companies/rackspace-us-inc/jobs/forward-deployed-engineer-iii-in-palantir?utm_source=api) 🆕 | Rackspace US, Inc. | Remote | Remote, India | Not listed | 2026-10-29 |
-| 100 | [Business and Management Specialist – Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/business-and-management-specialist-freelance-ai-trainer-project?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
-| 100 | [Investment Specialist – Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/investment-specialist-freelance-ai-trainer-project?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
-| 100 | [Hindi Voice Actor - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/hindi-voice-actor-freelance-ai-trainer-project?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, India | Not listed | 2026-10-29 |
-| 100 | [Applied AI Engineer - India](https://himalayas.app/companies/dscout/jobs/applied-ai-engineer-india?utm_source=api) 🆕 | Dscout | Remote | Remote, India | Not listed | 2026-10-29 |
+| 100 | [AI Engineer](https://himalayas.app/companies/yipitdata/jobs/ai-engineer?utm_source=api) 🆕 | YipitData | Remote | Remote, India | Not listed | 2026-10-30 |
 | 99 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
-| 99 | [Registered Nurse - AI Trainer](https://himalayas.app/companies/inv/jobs/registered-nurse-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
+| 96 | [Mid AI Engineer](https://himalayas.app/companies/tensorops/jobs/mid-ai-engineer?utm_source=api) 🆕 | TensorOps | Remote | Remote, Worldwide | Not listed | 2026-10-30 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 95 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
 | 93 | [Technical Support Specialist](https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1) | Freshly Commerce | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
-| 91 | [1225 - 410MOS | Full Stack Engineer (React, Node.js, PostgreSQL, Web Scraping, A](https://himalayas.app/companies/talentcross/jobs/1225-410mos-full-stack-engineer-react-node-js-postgresql-web-scraping-a?utm_source=api) 🆕 | TalentCross | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
-| 91 | [Full Stack Developer](https://himalayas.app/companies/talent-sam/jobs/full-stack-developer-1559067408?utm_source=api) 🆕 | Talent Sam | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
-| 90 | [Software Engineer - India](https://himalayas.app/companies/dscout/jobs/software-engineer-india?utm_source=api) 🆕 | Dscout | Remote | Remote, India | Not listed | 2026-10-29 |
 | 89 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
-| 88 | [Front-End Developer](https://himalayas.app/companies/talent-sam/jobs/front-end-developer?utm_source=api) 🆕 | Talent Sam | Remote | Remote, Worldwide | Not listed | 2026-10-29 |
 | 87 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
 | 86 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
 | 86 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
@@ -34,6 +26,7 @@ Updated 29 Oct 2026, 21:48 UTC · 39 open matches
 | 85 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 84 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
+| 81 | [Business Analyst III Encounters Claims, EDI, SQL](https://himalayas.app/companies/centene-corporation/jobs/business-analyst-iii-encounters-claims-edi-sql?utm_source=api) 🆕 | Centene Corporation | Remote | Remote, Worldwide | USD 70100-126200 / year | 2026-10-30 |
 | 77 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 77 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |
 | 76 | [Full-Stack E-commerce Developer with Sage X3 Experience](https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-10-12 |
