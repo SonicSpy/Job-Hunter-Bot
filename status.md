@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-31T18:32+00:00 · raw jobs read: 12272 · matches: 38 · closed or ghost jobs removed: 0
+Last run 2026-10-31T22:28+00:00 · raw jobs read: 12269 · matches: 33 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -204,7 +204,7 @@ Last run 2026-10-31T18:32+00:00 · raw jobs read: 12272 · matches: 38 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 387 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 812 | ok |
+| OpenAI | ashby | 810 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -321,11 +321,11 @@ Last run 2026-10-31T18:32+00:00 · raw jobs read: 12272 · matches: 38 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 364 | ok |
+| Zscaler | greenhouse | 363 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 7 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1

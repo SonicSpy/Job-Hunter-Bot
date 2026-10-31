@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T18:32+00:00",
- "count": 38,
- "new_this_run": 4,
+ "updated": "2026-10-31T22:28+00:00",
+ "count": 33,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -138,6 +138,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "fello-prompt-engineer-multi-agent-systems",
+   "title": "Prompt Engineer, Multi-Agent Systems",
+   "company": "Fello",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "test case",
+    "customer",
+    "support",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-31T22:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "fluence-international-inc-full-stack-developer",
    "title": "Full-Stack Developer",
    "company": "Fluence International, Inc.",
@@ -162,31 +189,6 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mercor-research-analyst-data-annotation",
-   "title": "Research Analyst - Data Annotation",
-   "company": "mercor",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mercor/jobs/research-analyst-data-annotation?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "product",
-    "annotation",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-31T18:32+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -271,33 +273,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "veralto-dts-business-analyst",
-   "title": "DTS Business Analyst",
-   "company": "Veralto",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/videojet/jobs/dts-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "sql",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T18:32+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "vercel-software-engineer-backend",
    "title": "Software Engineer, Backend",
    "company": "Vercel",
@@ -379,33 +354,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "altera-digital-health-systems-support-engineer",
-   "title": "Systems Support Engineer",
-   "company": "Altera Digital Health",
-   "category": "Non-coding tech (high pay)",
-   "score": 90,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/altera-digital-health/jobs/systems-support-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "sql",
-    "analysis",
-    "bug"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "freshly-commerce-technical-support-specialist",
    "title": "Technical Support Specialist",
    "company": "Freshly Commerce",
@@ -430,32 +378,6 @@
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sage-associate-managing-editor",
-   "title": "Associate Managing Editor",
-   "company": "Sage",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T18:32+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -690,30 +612,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "proof-of-skill-customer-success-executive",
-   "title": "Customer Success Executive",
-   "company": "Proof of Skill",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/proof-of-skill/jobs/customer-success-executive?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "mercury-customer-support-specialist",
    "title": "Customer Support Specialist",
    "company": "Mercury",
@@ -881,27 +779,6 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "highstreet-2026-1610-associate-functional-consultant-hcm",
-   "title": "2026 - 1610   Associate Functional Consultant_HCM",
-   "company": "Highstreet",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/highstreet/jobs/2026-1610-associate-functional-consultant_hcm?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "test case",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T18:32+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
