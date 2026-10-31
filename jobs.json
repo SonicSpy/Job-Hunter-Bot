@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T20:46+00:00",
- "count": 32,
- "new_this_run": 3,
+ "updated": "2026-10-31T00:46+00:00",
+ "count": 31,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -109,33 +109,6 @@
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "pole-to-win-international-technical-support-representative-tier-2",
-   "title": "Technical Support Representative - Tier 2",
-   "company": "Pole To Win International",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/technical-support-representative-tier-2?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "api",
-    "jira"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T20:46+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -504,6 +477,31 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "transaction-network-services-noc-support-engineer",
+   "title": "NOC Support Engineer",
+   "company": "Transaction Network Services",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/transaction-network-services/jobs/noc-support-engineer-9635821247?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-31T00:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "typeform-full-stack-developer",
    "title": "Full Stack Developer",
    "company": "Typeform",
@@ -633,28 +631,6 @@
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "highstreet-2026-1611-associate-technical-consultant",
-   "title": "2026 - 1611 - Associate Technical Consultant",
-   "company": "Highstreet",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/highstreet/jobs/2026-1611-associate-technical-consultant?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T20:46+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -810,7 +786,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-30T20:46+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   }
  ]

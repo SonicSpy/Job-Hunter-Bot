@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 30 Oct 2026, 20:46 UTC · 32 open matches
+Updated 31 Oct 2026, 00:46 UTC · 31 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -8,7 +8,6 @@ Updated 30 Oct 2026, 20:46 UTC · 32 open matches
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
-| 96 | [Technical Support Representative - Tier 2](https://himalayas.app/companies/pole-to-win-international/jobs/technical-support-representative-tier-2?utm_source=api) 🆕 | Pole To Win International | Remote | Remote, India | Not listed | 2026-10-30 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 95 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
@@ -23,16 +22,16 @@ Updated 30 Oct 2026, 20:46 UTC · 32 open matches
 | 85 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
 | 85 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 85 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
+| 84 | [NOC Support Engineer](https://himalayas.app/companies/transaction-network-services/jobs/noc-support-engineer-9635821247?utm_source=api) 🆕 | Transaction Network Services | Remote | Remote, India | Not listed | 2026-10-30 |
 | 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 83 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
 | 80 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 77 | [Remote AI Trainers (Generalist and Python Coding Experts)](https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts) | AITrainers | Remote | Remote, Anywhere in the World | Not listed | 2026-10-14 |
 | 77 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |
-| 77 | [2026 - 1611 - Associate Technical Consultant](https://himalayas.app/companies/highstreet/jobs/2026-1611-associate-technical-consultant?utm_source=api) 🆕 | Highstreet | Remote | Remote, India | Not listed | 2026-10-30 |
 | 76 | [Full-Stack E-commerce Developer with Sage X3 Experience](https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-10-12 |
 | 76 | [Product Analyst II](https://job-boards.greenhouse.io/glance/jobs/7984509) | Glance | On-site | Bangalore | Not listed | 2026-10-21 |
 | 75 | [Customer Success Executive](https://jobs.smartrecruiters.com/servicenow/744000158473789) | ServiceNow | On-site | Bangalore, in | Not listed | 2026-10-29 |
 | 70 | [Operations Support Specialist](https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist) | Evolve Peptides | Remote | Remote, Anywhere in the World | Not listed | 2026-10-19 |
 | 69 | [Customer Success Associate](https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529) | Voltus | Remote | Remote, Remote | Not listed | 2026-10-16 |
 | 69 | [Graduate Transport Planner](https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542) | Curtins | Remote | Remote, Worldwide | Not listed | 2026-10-17 |
-| 66 | [Technical Support - ECAD Software (m/w/d)](https://himalayas.app/companies/mensch-und-maschine/jobs/technical-support-ecad-software-m-w-d?utm_source=api) 🆕 | Mensch und Maschine | Remote | Remote, Worldwide | Not listed | 2026-10-30 |
+| 66 | [Technical Support - ECAD Software (m/w/d)](https://himalayas.app/companies/mensch-und-maschine/jobs/technical-support-ecad-software-m-w-d?utm_source=api) | Mensch und Maschine | Remote | Remote, Worldwide | Not listed | 2026-10-30 |
