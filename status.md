@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-31T06:58+00:00 · raw jobs read: 12254 · matches: 36 · closed or ghost jobs removed: 0
+Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 180
+- remotive: 195
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 38
-- weworkremotely: 402
+- workingnomads: 37
+- weworkremotely: 404
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -128,7 +128,7 @@ Last run 2026-10-31T06:58+00:00 · raw jobs read: 12254 · matches: 36 · closed
 | InMobi | greenhouse | 80 | ok |
 | InVideo | not found | 0 | add careers link manually if needed |
 | Innovaccer | not found | 0 | add careers link manually if needed |
-| Intercom | greenhouse | 110 | ok |
+| Intercom | greenhouse | 109 | ok |
 | Internshala | not found | 0 | add careers link manually if needed |
 | Intuit | not found | 0 | add careers link manually if needed |
 | Invisible Technologies | smartrecruiters | 10 | ok |
@@ -208,7 +208,7 @@ Last run 2026-10-31T06:58+00:00 · raw jobs read: 12254 · matches: 36 · closed
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
-| Paytm | lever | 200 | ok |
+| Paytm | lever | 201 | ok |
 | Perplexity | ashby | 138 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
@@ -270,7 +270,7 @@ Last run 2026-10-31T06:58+00:00 · raw jobs read: 12254 · matches: 36 · closed
 | Stripe | greenhouse | 746 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
-| Supabase | ashby | 64 | ok |
+| Supabase | ashby | 68 | ok |
 | SuperGaming | not found | 0 | add careers link manually if needed |
 | Supercell | ashby | 35 | ok |
 | Surge AI | ashby | 33 | ok |
