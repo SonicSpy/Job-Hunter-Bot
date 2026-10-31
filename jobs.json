@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T13:38+00:00",
- "count": 36,
- "new_this_run": 7,
+ "updated": "2026-10-31T18:32+00:00",
+ "count": 38,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -111,32 +111,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "wikimedia-foundation-community-management-associate",
-   "title": "Community Management Associate",
-   "company": "Wikimedia Foundation",
-   "category": "Gaming",
-   "score": 100,
-   "location": "Remote, Brazil, Canada, Colombia, France, Germany, Ghana, India, Indonesia, Italy, Kenya, Mexico, Morocco, Netherlands, Poland, Singapore, South Africa, Spain, Switzerland, United Kingdom, United States",
-   "mode": "Remote",
-   "salary": "USD 62074-93077 / year",
-   "url": "https://himalayas.app/companies/wikimedia-foundation/jobs/community-management-associate?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "remote",
-    "react",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "alloy-technical-support-engineer-triage-discovery",
    "title": "Technical Support Engineer, Triage & Discovery",
    "company": "Alloy",
@@ -160,7 +134,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -187,6 +161,31 @@
    ],
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mercor-research-analyst-data-annotation",
+   "title": "Research Analyst - Data Annotation",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/research-analyst-data-annotation?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "support",
+    "product",
+    "annotation",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-10-31T18:32+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -272,30 +271,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "freshly-commerce-technical-support-specialist",
-   "title": "Technical Support Specialist",
-   "company": "Freshly Commerce",
+   "id": "veralto-dts-business-analyst",
+   "title": "DTS Business Analyst",
+   "company": "Veralto",
    "category": "Non-coding tech (high pay)",
    "score": 93,
-   "location": "Remote, Anywhere in the World",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-27",
+   "url": "https://himalayas.app/companies/videojet/jobs/dts-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-31",
    "matched_skills": [
     "quality",
-    "testing",
-    "documentation",
     "customer",
     "support",
     "communication",
+    "english",
     "product",
-    "api"
+    "sql",
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-10-27T20:04+00:00",
-   "new": false,
+   "first_seen": "2026-10-31T18:32+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -403,28 +402,59 @@
    ],
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
-   "id": "snapscale-wordpress-web-developer",
-   "title": "WordPress Web Developer",
-   "company": "Snapscale",
-   "category": "AI-assisted developer (full stack)",
+   "id": "freshly-commerce-technical-support-specialist",
+   "title": "Technical Support Specialist",
+   "company": "Freshly Commerce",
+   "category": "Non-coding tech (high pay)",
+   "score": 89,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "sage-associate-managing-editor",
+   "title": "Associate Managing Editor",
+   "company": "Sage",
+   "category": "Trainee / graduate program",
    "score": 89,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/snapscale/jobs/wordpress-web-developer?utm_source=api",
+   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-10-31",
    "matched_skills": [
-    "ai",
+    "quality",
+    "documentation",
+    "support",
     "communication",
-    "remote"
+    "product",
+    "analysis",
+    "onboarding"
    ],
    "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
+   "first_seen": "2026-10-31T18:32+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -680,7 +710,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -730,7 +760,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -851,6 +881,27 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "highstreet-2026-1610-associate-functional-consultant-hcm",
+   "title": "2026 - 1610   Associate Functional Consultant_HCM",
+   "company": "Highstreet",
+   "category": "Trainee / graduate program",
+   "score": 74,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/highstreet/jobs/2026-1610-associate-functional-consultant_hcm?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "test case",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-31T18:32+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",

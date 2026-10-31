@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed or ghost jobs removed: 0
+Last run 2026-10-31T18:32+00:00 · raw jobs read: 12272 · matches: 38 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 37
-- weworkremotely: 404
+- workingnomads: 35
+- weworkremotely: 407
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -202,9 +202,9 @@ Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 8 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 388 | ok |
+| Okta | greenhouse | 387 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 813 | ok |
+| OpenAI | ashby | 812 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 746 | ok |
+| Stripe | greenhouse | 745 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 68 | ok |
@@ -303,7 +303,7 @@ Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed
 | Vercel | greenhouse | 91 | ok |
 | Verloop.io | not found | 0 | add careers link manually if needed |
 | Visa | not found | 0 | add careers link manually if needed |
-| Voodoo | ashby | 102 | ok |
+| Voodoo | ashby | 103 | ok |
 | Walmart Global Tech | not found | 0 | add careers link manually if needed |
 | Wargaming | not found | 0 | add careers link manually if needed |
 | WebEngage | not found | 0 | add careers link manually if needed |
@@ -321,11 +321,11 @@ Last run 2026-10-31T13:38+00:00 · raw jobs read: 12274 · matches: 36 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 365 | ok |
+| Zscaler | greenhouse | 364 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 7 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 7
+Telegram: sent 4
