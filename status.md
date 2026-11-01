@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed or ghost jobs removed: 0
+Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -8,7 +8,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 417
+- weworkremotely: 424
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | Airtable | greenhouse | 5 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 675 | ok |
+| Anthropic | greenhouse | 673 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -71,7 +71,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | Dream11 | not found | 0 | add careers link manually if needed |
 | Druva | greenhouse | 27 | ok |
 | Dukaan | not found | 0 | add careers link manually if needed |
-| Duolingo | greenhouse | 57 | ok |
+| Duolingo | greenhouse | 56 | ok |
 | EA | not found | 0 | add careers link manually if needed |
 | Elastic | greenhouse | 407 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
@@ -219,7 +219,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | Playstudios | not found | 0 | add careers link manually if needed |
 | Playtika | not found | 0 | add careers link manually if needed |
 | Plivo | lever | 0 | ok |
-| Pocket FM | lever | 0 | The read operation timed out |
+| Pocket FM | lever | 12 | ok |
 | Pocket Gems | greenhouse | 0 | ok |
 | PolicyBazaar | not found | 0 | add careers link manually if needed |
 | Postman | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 746 | ok |
+| Stripe | greenhouse | 745 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 68 | ok |
@@ -286,7 +286,7 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 18 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 0 | The read operation timed out |
+| Toptal | lever | 29 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 39 | ok |
 | Twilio | greenhouse | 132 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: no new jobs
