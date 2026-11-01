@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 31 Oct 2026, 22:28 UTC · 33 open matches
+Updated 01 Nov 2026, 02:12 UTC · 34 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,8 +9,9 @@ Updated 31 Oct 2026, 22:28 UTC · 33 open matches
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
 | 100 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
-| 100 | [Prompt Engineer, Multi-Agent Systems](https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api) 🆕 | Fello | Remote | Remote, India | Not listed | 2026-10-31 |
+| 100 | [Prompt Engineer, Multi-Agent Systems](https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api) | Fello | Remote | Remote, India | Not listed | 2026-10-31 |
 | 99 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
+| 96 | [(Fluent English) Technical Support Consultant (Global)](https://himalayas.app/companies/supportyourapp/jobs/fluent-english-technical-support-consultant-global?utm_source=api) 🆕 | SupportYourApp | Remote | Remote, India | Not listed | 2026-10-31 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T22:28+00:00",
- "count": 33,
+ "updated": "2026-11-01T02:12+00:00",
+ "count": 34,
  "new_this_run": 1,
  "jobs": [
   {
@@ -161,7 +161,7 @@
    ],
    "contract": false,
    "first_seen": "2026-10-31T22:28+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -189,6 +189,33 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "supportyourapp-fluent-english-technical-support-consultant-global",
+   "title": "(Fluent English) Technical Support Consultant (Global)",
+   "company": "SupportYourApp",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-technical-support-consultant-global?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "customer",
+    "support",
+    "english",
+    "product",
+    "postman",
+    "sql",
+    "analysis",
+    "saas"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-01T02:12+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {

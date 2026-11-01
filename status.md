@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-10-31T22:28+00:00 · raw jobs read: 12269 · matches: 33 · closed or ghost jobs removed: 0
+Last run 2026-11-01T02:12+00:00 · raw jobs read: 12269 · matches: 34 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -31,7 +31,7 @@ Last run 2026-10-31T22:28+00:00 · raw jobs read: 12269 · matches: 33 · closed
 | Atlassian | not found | 0 | add careers link manually if needed |
 | Automattic | not found | 0 | add careers link manually if needed |
 | Avaamo | not found | 0 | add careers link manually if needed |
-| Azerion | smartrecruiters | 0 | ok |
+| Azerion | not found | 0 | add careers link manually if needed |
 | Behaviour Interactive | not found | 0 | add careers link manually if needed |
 | Bewakoof | not found | 0 | add careers link manually if needed |
 | BharatPe | not found | 0 | add careers link manually if needed |
