@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T02:12+00:00",
- "count": 34,
- "new_this_run": 1,
+ "updated": "2026-11-01T09:14+00:00",
+ "count": 33,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -138,30 +138,57 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "fello-prompt-engineer-multi-agent-systems",
-   "title": "Prompt Engineer, Multi-Agent Systems",
-   "company": "Fello",
-   "category": "AI evaluation / AI trainer",
+   "id": "pavago-ai-engineer",
+   "title": "AI Engineer",
+   "company": "Pavago",
+   "category": "AI-assisted developer (full stack)",
    "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api",
+   "url": "https://himalayas.app/companies/pavago/jobs/ai-engineer?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-10-31",
+   "posted": "2026-11-01",
    "matched_skills": [
     "evaluation",
     "llm",
     "ai",
     "quality",
-    "test case",
+    "testing",
     "customer",
     "support",
-    "product"
+    "communication"
    ],
    "contract": false,
-   "first_seen": "2026-10-31T22:28+00:00",
-   "new": false,
+   "first_seen": "2026-11-01T09:14+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-agentic-audio-specialist-freelance-ai-trainer-project",
+   "title": "Agentic Audio Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-01",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-01T09:14+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -189,33 +216,6 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "supportyourapp-fluent-english-technical-support-consultant-global",
-   "title": "(Fluent English) Technical Support Consultant (Global)",
-   "company": "SupportYourApp",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-technical-support-consultant-global?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "customer",
-    "support",
-    "english",
-    "product",
-    "postman",
-    "sql",
-    "analysis",
-    "saas"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-01T02:12+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -456,33 +456,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "cribl-customer-success-engineer-sydney",
-   "title": "Customer Success Engineer, Sydney",
-   "company": "Cribl",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding",
-    "remote",
-    "gcp"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "6sense-it-support-specialist",
    "title": "IT Support Specialist",
    "company": "6sense",
@@ -562,33 +535,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "typeform-full-stack-developer",
-   "title": "Full Stack Developer",
-   "company": "Typeform",
-   "category": "AI-assisted developer (full stack)",
-   "score": 83,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-10",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-10T13:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -612,6 +558,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-22T07:32+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "cribl-customer-success-engineer-sydney",
+   "title": "Customer Success Engineer, Sydney",
+   "company": "Cribl",
+   "category": "Non-coding tech (high pay)",
+   "score": 82,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "onboarding",
+    "remote",
+    "gcp"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },

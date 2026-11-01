@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-01T02:12+00:00 · raw jobs read: 12269 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 195
+- remotive: 180
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 407
+- weworkremotely: 417
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -62,7 +62,7 @@ Last run 2026-11-01T02:12+00:00 · raw jobs read: 12269 · matches: 34 · closed
 | Coursera | greenhouse | 30 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 901 | ok |
+| Databricks | greenhouse | 904 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 41 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-01T02:12+00:00 · raw jobs read: 12269 · matches: 34 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 2

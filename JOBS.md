@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 01 Nov 2026, 02:12 UTC · 34 open matches
+Updated 01 Nov 2026, 09:14 UTC · 33 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,9 +9,9 @@ Updated 01 Nov 2026, 02:12 UTC · 34 open matches
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
 | 100 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
-| 100 | [Prompt Engineer, Multi-Agent Systems](https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api) | Fello | Remote | Remote, India | Not listed | 2026-10-31 |
+| 100 | [AI Engineer](https://himalayas.app/companies/pavago/jobs/ai-engineer?utm_source=api) 🆕 | Pavago | Remote | Remote, India | Not listed | 2026-11-01 |
+| 100 | [Agentic Audio Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
 | 99 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
-| 96 | [(Fluent English) Technical Support Consultant (Global)](https://himalayas.app/companies/supportyourapp/jobs/fluent-english-technical-support-consultant-global?utm_source=api) 🆕 | SupportYourApp | Remote | Remote, India | Not listed | 2026-10-31 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
@@ -21,12 +21,11 @@ Updated 01 Nov 2026, 02:12 UTC · 34 open matches
 | 89 | [Technical Support Specialist](https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1) | Freshly Commerce | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 88 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 86 | [Technical Account Executive](https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8) | SigNoz | Remote | Remote, India or EU | Not listed | 2026-10-13 |
-| 86 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 85 | [IT Support Specialist](https://weworkremotely.com/remote-jobs/6sense-it-support-specialist) | 6sense | Remote | Remote, Anywhere in the World | Not listed | 2026-10-15 |
 | 85 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 85 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
-| 83 | [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) | Typeform | Remote | Remote, Anywhere in the World | Not listed | 2026-10-10 |
 | 83 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
+| 82 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 82 | [Product & Strategy Associate](https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2) | Sarvam | On-site | Bengaluru | Not listed | 2026-10-27 |
 | 80 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 78 | [Account Executive, NAS Product Specialist](https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist) | Rubrik Job Board | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
