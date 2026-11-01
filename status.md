@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed or ghost jobs removed: 0
+Last run 2026-11-01T16:02+00:00 · raw jobs read: 12227 · matches: 42 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -54,15 +54,15 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 464 | ok |
+| Cloudflare | greenhouse | 463 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
-| Cohere | ashby | 122 | ok |
+| Cohere | ashby | 120 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
 | Confluent | ashby | 0 | ok |
 | Coursera | greenhouse | 30 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 904 | ok |
+| Databricks | greenhouse | 909 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 41 | ok |
@@ -202,7 +202,7 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 8 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 387 | ok |
+| Okta | greenhouse | 386 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 810 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -219,7 +219,7 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | Playstudios | not found | 0 | add careers link manually if needed |
 | Playtika | not found | 0 | add careers link manually if needed |
 | Plivo | lever | 0 | ok |
-| Pocket FM | lever | 12 | ok |
+| Pocket FM | lever | 0 | The read operation timed out |
 | Pocket Gems | greenhouse | 0 | ok |
 | PolicyBazaar | not found | 0 | add careers link manually if needed |
 | Postman | not found | 0 | add careers link manually if needed |
@@ -240,7 +240,7 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 158 | ok |
+| Rubrik | greenhouse | 157 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 46 | ok |
 | Sauce Labs | greenhouse | 10 | ok |
@@ -267,7 +267,7 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 745 | ok |
+| Stripe | greenhouse | 746 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 68 | ok |
@@ -286,7 +286,7 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 18 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 29 | ok |
+| Toptal | lever | 0 | The read operation timed out |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 39 | ok |
 | Twilio | greenhouse | 132 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-01T09:14+00:00 · raw jobs read: 12267 · matches: 33 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 2
+Telegram: sent 10

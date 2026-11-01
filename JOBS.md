@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 01 Nov 2026, 09:14 UTC · 33 open matches
+Updated 01 Nov 2026, 16:02 UTC · 42 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,12 +9,21 @@ Updated 01 Nov 2026, 09:14 UTC · 33 open matches
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
 | 100 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
-| 100 | [AI Engineer](https://himalayas.app/companies/pavago/jobs/ai-engineer?utm_source=api) 🆕 | Pavago | Remote | Remote, India | Not listed | 2026-11-01 |
-| 100 | [Agentic Audio Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/agentic-audio-specialist-freelance-ai-trainer-project?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 100 | [Language Alignment & Resource Partner (Taiwanese) - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-taiwanese-freelance-ai-trainer-project-5436164639?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 100 | [Language Alignment & Resource Partner (Maori) - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-maori-freelance-ai-trainer-project-4922624105?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 100 | [Language Alignment & Resource Partner (Azerbaijani) - Freelance AI Trainer Proje](https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-azerbaijani-freelance-ai-trainer-proje?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 100 | [Music Evaluation Expert - Fully Remote | Upto $19/hr](https://himalayas.app/companies/mercor/jobs/music-evaluation-expert-fully-remote-upto-19-hr-269594409?utm_source=api) 🆕 | mercor | Remote | Remote, Bangladesh, India | Not listed | 2026-11-01 |
 | 99 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
+| 99 | [British Sign Language (BSL) - AI Trainer](https://himalayas.app/companies/inv/jobs/british-sign-language-bsl-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 96 | [Sales Engineer - Commercial](https://himalayas.app/companies/fivetran/jobs/sales-engineer-commercial?utm_source=api) 🆕 | Fivetran | Remote | Remote, Afghanistan, Bangladesh, Bhutan, | Not listed | 2026-11-01 |
+| 96 | [Hungarian Voice Actor - AI Trainer](https://himalayas.app/companies/inv/jobs/hungarian-voice-actor-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 96 | [Danish Voice Actor - AI Trainer](https://himalayas.app/companies/inv/jobs/danish-voice-actor-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 96 | [Swedish Voice Actor - AI Trainer](https://himalayas.app/companies/inv/jobs/swedish-voice-actor-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
+| 92 | [Junior Data Engineer](https://himalayas.app/companies/jumo/jobs/junior-data-engineer?utm_source=api) 🆕 | JUMO | Remote | Remote, Algeria, British Indian Ocean Te | Not listed | 2026-11-01 |
+| 92 | [Automation Test Engineer for Imaging Cloud Saas](https://himalayas.app/companies/cast/jobs/automation-test-engineer-for-imaging-cloud-saas?utm_source=api) 🆕 | CAST | Remote | Remote, France, India | Not listed | 2026-11-01 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
 | 91 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 91 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
