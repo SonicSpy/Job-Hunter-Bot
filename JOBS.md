@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 01 Nov 2026, 20:29 UTC · 31 open matches
+Updated 02 Nov 2026, 00:42 UTC · 39 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,10 +9,17 @@ Updated 01 Nov 2026, 20:29 UTC · 31 open matches
 | 100 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, Global | Not listed | 2026-10-26 |
 | 100 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-10-29 |
 | 100 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
+| 100 | [Language Alignment & Resource Partner (Taiwanese) - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-taiwanese-freelance-ai-trainer-project-5436164639?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 100 | [Language Alignment & Resource Partner (Maori) - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-maori-freelance-ai-trainer-project-4922624105?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
 | 99 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
+| 96 | [Research Analyst - Data Annotation](https://himalayas.app/companies/mercor/jobs/research-analyst-data-annotation?utm_source=api) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-11-01 |
+| 96 | [Kotlin Coding Specialist - AI Trainer](https://himalayas.app/companies/inv/jobs/kotlin-coding-specialist-ai-trainer?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-01 |
+| 96 | [Sales Engineer - Commercial](https://himalayas.app/companies/fivetran/jobs/sales-engineer-commercial?utm_source=api) 🆕 | Fivetran | Remote | Remote, Afghanistan, Bangladesh, Bhutan, | Not listed | 2026-11-01 |
 | 95 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 95 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
+| 92 | [QA Engineer – Salesforce & Enterprise Applications](https://himalayas.app/companies/labcorp/jobs/qa-engineer-salesforce-enterprise-applications?utm_source=api) 🆕 | Labcorp | Remote | Remote, India | Not listed | 2026-11-01 |
+| 92 | [Junior Data Engineer](https://himalayas.app/companies/jumo/jobs/junior-data-engineer?utm_source=api) 🆕 | JUMO | Remote | Remote, Algeria, British Indian Ocean Te | Not listed | 2026-11-01 |
 | 91 | [Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend) | Vercel | Remote | Remote, Anywhere in the World | Not listed | 2026-10-11 |
 | 91 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 91 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
@@ -35,3 +42,4 @@ Updated 01 Nov 2026, 20:29 UTC · 31 open matches
 | 70 | [Operations Support Specialist](https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist) | Evolve Peptides | Remote | Remote, Anywhere in the World | Not listed | 2026-10-19 |
 | 69 | [Customer Success Associate](https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529) | Voltus | Remote | Remote, Remote | Not listed | 2026-10-16 |
 | 69 | [Graduate Transport Planner](https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542) | Curtins | Remote | Remote, Worldwide | Not listed | 2026-10-17 |
+| 62 | [Team Supervisor - Offsite Audit, Concurrent Audit & QA| Thrissur](https://himalayas.app/companies/csb-bank/jobs/team-supervisor-offsite-audit-concurrent-audit-qa-thrissur?utm_source=api) 🆕 | CSB Bank Limited | Remote | Remote, India | Not listed | 2026-11-01 |

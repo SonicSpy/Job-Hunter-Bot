@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-11-02T00:42+00:00 · raw jobs read: 12277 · matches: 39 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -22,7 +22,7 @@ Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed
 | Airtable | greenhouse | 5 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 673 | ok |
+| Anthropic | greenhouse | 672 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -45,7 +45,7 @@ Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed
 | CRED | lever | 14 | ok |
 | Calendly | greenhouse | 8 | ok |
 | Canonical | greenhouse | 314 | ok |
-| Canva | smartrecruiters | 56 | ok |
+| Canva | smartrecruiters | 62 | ok |
 | Capillary Technologies | not found | 0 | add careers link manually if needed |
 | CarDekho | not found | 0 | add careers link manually if needed |
 | Cars24 | smartrecruiters | 1 | ok |
@@ -204,7 +204,7 @@ Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 386 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 810 | ok |
+| OpenAI | ashby | 809 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -261,13 +261,13 @@ Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed
 | Slice | greenhouse | 23 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 42 | ok |
-| Snowflake | ashby | 366 | ok |
+| Snowflake | ashby | 367 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 745 | ok |
+| Stripe | greenhouse | 746 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 68 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-01T20:29+00:00 · raw jobs read: 12271 · matches: 31 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: no new jobs
+Telegram: sent 8
