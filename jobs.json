@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T07:39+00:00",
- "count": 55,
- "new_this_run": 21,
+ "updated": "2026-11-02T18:19+00:00",
+ "count": 51,
+ "new_this_run": 7,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -135,7 +135,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -162,7 +162,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -189,8 +189,35 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "supabase-billing-support-specialist",
+   "title": "Billing Support Specialist",
+   "company": "Supabase",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Global",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "test case",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "fluence-international-inc-full-stack-developer",
@@ -220,114 +247,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "invisible-technologies-oromo-language-specialist-ai-trainer",
-   "title": "Oromo Language Specialist - AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/oromo-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-m-ori-language-specialist-ai-trainer",
-   "title": "Māori Language Specialist - AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/maori-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-asturian-language-specialist-ai-trainer",
-   "title": "Asturian Language Specialist - AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/asturian-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-kazakh-language-specialist-ai-trainer",
-   "title": "Kazakh Language Specialist - AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/kazakh-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "canonical-web-frontend-engineer-js-css-react-flutter",
    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
    "company": "Canonical",
@@ -351,7 +270,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -378,7 +297,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -405,7 +324,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -435,57 +354,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "mercor-research-analyst-data-annotation",
-   "title": "Research Analyst - Data Annotation",
-   "company": "mercor",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mercor/jobs/research-analyst-data-annotation?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-01",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "product",
-    "annotation",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T00:42+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-kotlin-coding-specialist-ai-trainer",
-   "title": "Kotlin Coding Specialist - AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/kotlin-coding-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-01",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "product",
-    "remote",
-    "bug"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T00:42+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "invisible-technologies-latex-specialist-fluent-in-russian-ai-trainer",
    "title": "LaTex Specialist (Fluent in Russian) - AI Trainer",
    "company": "Invisible Technologies",
@@ -508,7 +376,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -534,7 +402,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -560,7 +428,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -586,7 +454,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -612,7 +480,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -638,7 +506,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -664,7 +532,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -722,80 +590,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-galician-trilingual-language-specialist-ai-trainer",
-   "title": "Galician Trilingual Language Specialist – AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
    "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/galician-trilingual-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-hungarian-trilingual-language-specialist-ai-trainer",
-   "title": "Hungarian Trilingual Language Specialist – AI Trainer",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 93,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/hungarian-trilingual-language-specialist-ai-trainer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "labcorp-qa-engineer-salesforce-enterprise-applications",
-   "title": "QA Engineer – Salesforce & Enterprise Applications",
-   "company": "Labcorp",
-   "category": "QA / testing",
-   "score": 92,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/labcorp/jobs/qa-engineer-salesforce-enterprise-applications?utm_source=api",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-01",
+   "posted": "2026-11-02",
    "matched_skills": [
-    "quality",
-    "test case",
     "testing",
-    "documentation",
     "customer",
-    "support",
     "communication",
-    "english"
+    "product",
+    "saas",
+    "react",
+    "javascript"
    ],
-   "contract": true,
-   "first_seen": "2026-11-02T00:42+00:00",
-   "new": false,
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -880,6 +697,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "harris-systems-support-engineer",
+   "title": "Systems Support Engineer",
+   "company": "Harris",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/harris/jobs/systems-support-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "sql",
+    "analysis",
+    "bug"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "freshly-commerce-technical-support-specialist",
    "title": "Technical Support Specialist",
    "company": "Freshly Commerce",
@@ -907,33 +751,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sumatosoft-qa-engineer",
-   "title": "QA Engineer",
-   "company": "SumatoSoft",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "communication",
-    "english",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -955,6 +772,29 @@
    "contract": false,
    "first_seen": "2026-10-30T08:37+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -1138,6 +978,30 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "mercury-customer-support-specialist",
    "title": "Customer Support Specialist",
    "company": "Mercury",
@@ -1185,7 +1049,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-02T07:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -1210,6 +1074,30 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "vame-ltd-technical-sales-engineer",
+   "title": "Technical Sales Engineer",
+   "company": "VAme Ltd",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/vame-ltd/jobs/technical-sales-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -1316,7 +1204,7 @@
    "title": "Customer Success Executive",
    "company": "ServiceNow",
    "category": "Non-coding tech (high pay)",
-   "score": 75,
+   "score": 71,
    "location": "Bangalore, in",
    "mode": "On-site",
    "salary": "Not listed",
@@ -1353,6 +1241,27 @@
    "contract": false,
    "first_seen": "2026-10-19T19:20+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T18:19+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -1397,24 +1306,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-18T09:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "csb-bank-limited-team-supervisor-offsite-audit-concurrent-audit-qa-thrissur",
-   "title": "Team Supervisor - Offsite Audit, Concurrent Audit & QA| Thrissur",
-   "company": "CSB Bank Limited",
-   "category": "QA / testing",
-   "score": 62,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/csb-bank/jobs/team-supervisor-offsite-audit-concurrent-audit-qa-thrissur?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-01",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-11-02T00:42+00:00",
    "new": false,
    "verified": "Link checked, still open"
   }
