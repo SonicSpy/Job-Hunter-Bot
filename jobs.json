@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T01:34+00:00",
- "count": 32,
- "new_this_run": 1,
+ "updated": "2026-11-03T09:30+00:00",
+ "count": 35,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -139,31 +139,56 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "reddit-frontend-engineer-ads",
-   "title": "Frontend Engineer, Ads",
-   "company": "Reddit",
-   "category": "AI-assisted developer (full stack)",
-   "score": 95,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
+   "id": "roblox-moderation-escalation-specialist",
+   "title": "Moderation Escalation Specialist",
+   "company": "Roblox",
+   "category": "Gaming",
+   "score": 100,
+   "location": "Gurugram, Haryana, India",
+   "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-26",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
-    "quality",
-    "testing",
+    "customer",
     "support",
     "communication",
     "product",
-    "prompt",
-    "docker"
+    "analysis",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "notion-product-support-specialist",
+   "title": "Product Support Specialist",
+   "company": "Notion",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Hyderabad, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "fluence-international-inc-full-stack-developer",
@@ -243,6 +268,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-25T11:23+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "reddit-frontend-engineer-ads",
+   "title": "Frontend Engineer, Ads",
+   "company": "Reddit",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "communication",
+    "product",
+    "prompt",
+    "docker"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T12:57+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -328,56 +380,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sage-associate-managing-editor",
-   "title": "Associate Managing Editor",
-   "company": "Sage",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T01:34+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "airtable-renewals-associate",
-   "title": "Renewals Associate",
-   "company": "Airtable",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "saas",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "signoz-technical-account-executive",
    "title": "Technical Account Executive",
    "company": "SigNoz",
@@ -399,6 +401,30 @@
    "contract": false,
    "first_seen": "2026-10-13T19:15+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "paytm-associate-it-audit",
+   "title": "Associate IT Audit",
+   "company": "Paytm",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Noida, Uttar Pradesh",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
@@ -481,6 +507,30 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "airtable-renewals-associate",
+   "title": "Renewals Associate",
+   "company": "Airtable",
+   "category": "Trainee / graduate program",
+   "score": 84,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "saas",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T08:37+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -558,32 +608,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "mercury-customer-support-specialist",
-   "title": "Customer Support Specialist",
-   "company": "Mercury",
-   "category": "Non-coding tech (high pay)",
-   "score": 80,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "remote",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "descript-software-engineer-infrastructure",
    "title": "Software Engineer, Infrastructure",
    "company": "Descript",
@@ -631,6 +655,27 @@
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "sarvam-technical-writer",
+   "title": "Technical Writer",
+   "company": "Sarvam",
+   "category": "Non-coding tech (high pay)",
+   "score": 78,
+   "location": "Bengaluru",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "ai",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "aitrainers-remote-ai-trainers-generalist-and-python-coding-experts",
@@ -730,6 +775,32 @@
    "first_seen": "2026-10-21T07:36+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "mercury-customer-support-specialist",
+   "title": "Customer Support Specialist",
+   "company": "Mercury",
+   "category": "Non-coding tech (high pay)",
+   "score": 76,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "remote",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T12:57+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
   },
   {
    "id": "servicenow-customer-success-executive",
