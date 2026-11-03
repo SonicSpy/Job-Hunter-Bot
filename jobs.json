@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T09:30+00:00",
- "count": 35,
- "new_this_run": 4,
+ "updated": "2026-11-03T17:50+00:00",
+ "count": 34,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -54,33 +54,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-21T22:19+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "supabase-support-engineer-apac-weekends",
-   "title": "Support Engineer (APAC - Weekends)",
-   "company": "Supabase",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, Global",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "test case",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T19:16+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -161,7 +134,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -187,7 +160,34 @@
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
-   "new": true,
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "supabase-support-engineer-apac-weekends",
+   "title": "Support Engineer (APAC - Weekends)",
+   "company": "Supabase",
+   "category": "Non-coding tech (high pay)",
+   "score": 98,
+   "location": "Remote, Global",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-26",
+   "matched_skills": [
+    "test case",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-26T19:16+00:00",
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -424,7 +424,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -674,7 +674,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -726,30 +726,6 @@
    ],
    "contract": true,
    "first_seen": "2026-10-18T04:28+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-   "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
-   "company": "Toptal",
-   "category": "AI-assisted developer (full stack)",
-   "score": 76,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-12",
-   "matched_skills": [
-    "support",
-    "python",
-    "remote",
-    "javascript",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-12T15:19+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
