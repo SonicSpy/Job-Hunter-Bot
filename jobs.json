@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T06:15+00:00",
- "count": 34,
- "new_this_run": 0,
+ "updated": "2026-11-04T14:35+00:00",
+ "count": 37,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -56,33 +56,6 @@
    "first_seen": "2026-10-21T22:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "alloy-technical-support-engineer-triage-discovery",
-   "title": "Technical Support Engineer, Triage & Discovery",
-   "company": "Alloy",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-billing-support-specialist",
@@ -189,6 +162,33 @@
    "first_seen": "2026-10-26T19:16+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "alloy-technical-support-engineer-triage-discovery",
+   "title": "Technical Support Engineer, Triage & Discovery",
+   "company": "Alloy",
+   "category": "Non-coding tech (high pay)",
+   "score": 97,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-31T13:38+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
   },
   {
    "id": "fluence-international-inc-full-stack-developer",
@@ -299,33 +299,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "coinbase-broker-dealer-operations-associate",
-   "title": "Broker Dealer Operations, Associate",
-   "company": "Coinbase",
-   "category": "Trainee / graduate program",
-   "score": 91,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "product",
-    "sql",
-    "jira"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T07:49+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "figma-enterprise-support-specialist-bengaluru-india",
    "title": "Enterprise Support Specialist (Bengaluru, India)",
    "company": "Figma",
@@ -353,6 +326,31 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "canonical-marketing-associate",
+   "title": "Marketing Associate",
+   "company": "Canonical",
+   "category": "Trainee / graduate program",
+   "score": 91,
+   "location": "Remote, APAC,  EMEA,  LATAM,  Canada,  USA",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/149941-marketing-associate",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T14:35+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "freshly-commerce-technical-support-specialist",
    "title": "Technical Support Specialist",
    "company": "Freshly Commerce",
@@ -376,6 +374,33 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "coinbase-broker-dealer-operations-associate",
+   "title": "Broker Dealer Operations, Associate",
+   "company": "Coinbase",
+   "category": "Trainee / graduate program",
+   "score": 87,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "product",
+    "sql",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T07:49+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -426,6 +451,30 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "canonical-developer-relations-engineer",
+   "title": "Developer Relations Engineer",
+   "company": "Canonical",
+   "category": "Non-coding tech (high pay)",
+   "score": 86,
+   "location": "Remote, APAC,  EMEA",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "ai",
+    "documentation",
+    "product",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T14:35+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "6sense-it-support-specialist",
@@ -585,29 +634,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sarvam-product-strategy-associate",
-   "title": "Product & Strategy Associate",
-   "company": "Sarvam",
-   "category": "Trainee / graduate program",
-   "score": 82,
-   "location": "Bengaluru",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "product",
-    "prompt"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T14:28+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "descript-software-engineer-infrastructure",
    "title": "Software Engineer, Infrastructure",
    "company": "Descript",
@@ -633,28 +659,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "rubrik-job-board-account-executive-nas-product-specialist",
-   "title": "Account Executive, NAS Product Specialist",
-   "company": "Rubrik Job Board",
-   "category": "Non-coding tech (high pay)",
+   "id": "sarvam-product-strategy-associate",
+   "title": "Product & Strategy Associate",
+   "company": "Sarvam",
+   "category": "Trainee / graduate program",
    "score": 78,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
+   "location": "Bengaluru",
+   "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-31",
+   "url": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-10-27",
    "matched_skills": [
     "ai",
     "customer",
     "product",
-    "saas",
-    "remote"
+    "prompt"
    ],
    "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
+   "first_seen": "2026-10-27T14:28+00:00",
    "new": false,
-   "verified": "Link checked, still open"
+   "verified": "Live on company careers page"
   },
   {
    "id": "sarvam-technical-writer",
@@ -779,23 +804,66 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "servicenow-customer-success-executive",
-   "title": "Customer Success Executive",
+   "id": "mindtickle-customer-support-engineer-i",
+   "title": "Customer Support Engineer - I",
+   "company": "Mindtickle",
+   "category": "Non-coding tech (high pay)",
+   "score": 75,
+   "location": "Pune, Maharashtra",
+   "mode": "On-site",
+   "salary": "INR 0-0 per-month-salary",
+   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "customer",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T14:35+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "rubrik-job-board-account-executive-nas-product-specialist",
+   "title": "Account Executive, NAS Product Specialist",
+   "company": "Rubrik Job Board",
+   "category": "Non-coding tech (high pay)",
+   "score": 74,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-31",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "product",
+    "saas",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-31T13:38+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "servicenow-advisory-solution-consultant-presales",
+   "title": "Advisory Solution Consultant - Presales",
    "company": "ServiceNow",
    "category": "Non-coding tech (high pay)",
-   "score": 71,
+   "score": 72,
    "location": "Bangalore, in",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000158473789",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000159600589",
    "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-10-29",
-   "matched_skills": [
-    "customer"
-   ],
+   "posted": "2026-11-04",
+   "matched_skills": [],
    "contract": false,
-   "first_seen": "2026-10-29T09:55+00:00",
-   "new": false,
+   "first_seen": "2026-11-04T14:35+00:00",
+   "new": true,
    "verified": "Live on company careers page"
   },
   {
