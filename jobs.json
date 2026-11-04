@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T14:35+00:00",
- "count": 37,
- "new_this_run": 4,
+ "updated": "2026-11-04T21:18+00:00",
+ "count": 36,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -137,12 +137,66 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "motion-qa-tester",
+   "title": "QA Tester",
+   "company": "Motion",
+   "category": "Gaming",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "postman"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T21:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-georgian-language-specialist-ai-trainer",
+   "title": "Georgian Language Specialist - AI Trainer",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/georgian-language-specialist-ai-trainer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "communication",
+    "english",
+    "entry level",
+    "remote",
+    "localization"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-04T21:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
    "category": "Non-coding tech (high pay)",
    "score": 98,
-   "location": "Remote, Global",
+   "location": "Remote, APAC",
    "mode": "Remote",
    "salary": "Not listed",
    "url": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3",
@@ -326,58 +380,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-marketing-associate",
-   "title": "Marketing Associate",
-   "company": "Canonical",
-   "category": "Trainee / graduate program",
-   "score": 91,
-   "location": "Remote, APAC,  EMEA,  LATAM,  Canada,  USA",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149941-marketing-associate",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-04T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "freshly-commerce-technical-support-specialist",
-   "title": "Technical Support Specialist",
-   "company": "Freshly Commerce",
-   "category": "Non-coding tech (high pay)",
-   "score": 89,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-27",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-27T20:04+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -405,30 +407,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "signoz-technical-account-executive",
-   "title": "Technical Account Executive",
-   "company": "SigNoz",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, India or EU",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/signoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-10-13",
-   "matched_skills": [
-    "customer",
-    "product",
-    "onboarding",
-    "github",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-13T19:15+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "paytm-associate-it-audit",
    "title": "Associate IT Audit",
    "company": "Paytm",
@@ -451,30 +429,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-developer-relations-engineer",
-   "title": "Developer Relations Engineer",
-   "company": "Canonical",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, APAC,  EMEA",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "product",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-04T14:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "6sense-it-support-specialist",
@@ -554,6 +508,33 @@
    "first_seen": "2026-10-22T13:45+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "freshly-commerce-technical-support-specialist",
+   "title": "Technical Support Specialist",
+   "company": "Freshly Commerce",
+   "category": "Non-coding tech (high pay)",
+   "score": 85,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-27",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-27T20:04+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
   },
   {
    "id": "airtable-renewals-associate",
@@ -821,7 +802,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-04T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -863,7 +844,7 @@
    "matched_skills": [],
    "contract": false,
    "first_seen": "2026-11-04T14:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
