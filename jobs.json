@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T21:18+00:00",
- "count": 36,
- "new_this_run": 2,
+ "updated": "2026-11-05T02:25+00:00",
+ "count": 40,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -160,7 +160,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-04T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -187,7 +187,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-04T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -299,6 +299,32 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T02:25+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "planetscale-ai-developer-experience-engineer",
    "title": "AI Developer Experience Engineer",
    "company": "PlanetScale",
@@ -378,6 +404,56 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "sumatosoft-qa-engineer",
+   "title": "QA Engineer",
+   "company": "SumatoSoft",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "communication",
+    "english",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T02:25+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T02:25+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -612,6 +688,30 @@
    "contract": false,
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T02:25+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
