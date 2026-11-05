@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T10:50+00:00",
- "count": 39,
- "new_this_run": 2,
+ "updated": "2026-11-05T18:43+00:00",
+ "count": 38,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -137,28 +137,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "wavelength-network-junior-ai-specialist-claude",
-   "title": "Junior AI Specialist (Claude)",
-   "company": "Wavelength Network",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, India, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, South Africa, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Åland Islands",
+   "id": "xo-health-full-stack-engineer-front-end",
+   "title": "Full Stack Engineer (Front-End)",
+   "company": "XO Health",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/wavelength-network/jobs/junior-ai-specialist-claude?utm_source=api",
+   "salary": "INR 1500000-2500000 / year",
+   "url": "https://himalayas.app/companies/xo-health/jobs/full-stack-engineer-front-end?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-05",
    "matched_skills": [
     "ai",
-    "english",
+    "quality",
+    "testing",
     "product",
-    "prompt",
-    "gemini",
-    "python",
+    "api",
+    "sql",
+    "onboarding",
     "remote"
    ],
-   "contract": true,
-   "first_seen": "2026-11-05T10:50+00:00",
+   "contract": false,
+   "first_seen": "2026-11-05T18:43+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -271,29 +272,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
+   "id": "rws-group-ai-data-specialist-telugu",
+   "title": "AI Data Specialist - Telugu",
+   "company": "RWS Group",
+   "category": "AI evaluation / AI trainer",
+   "score": 94,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "url": "https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-telugu?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-05",
    "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
+    "evaluation",
+    "ai",
+    "quality",
+    "support",
+    "english",
+    "telugu",
+    "annotation",
+    "remote"
    ],
-   "contract": false,
-   "first_seen": "2026-11-05T02:25+00:00",
-   "new": false,
+   "contract": true,
+   "first_seen": "2026-11-05T18:43+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -318,7 +320,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-05T10:50+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -401,29 +403,6 @@
    "first_seen": "2026-10-29T09:55+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-05T02:25+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -661,27 +640,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
+   "id": "clinton-health-access-initiative-helpdesk-support-engineer",
+   "title": "Helpdesk Support Engineer",
+   "company": "Clinton Health Access Initiative",
    "category": "Non-coding tech (high pay)",
    "score": 81,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "url": "https://himalayas.app/companies/clinton-health-access-initiative/jobs/helpdesk-support-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-05",
    "matched_skills": [
+    "ai",
     "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
+    "documentation",
+    "support",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-11-05T02:25+00:00",
-   "new": false,
+   "first_seen": "2026-11-05T18:43+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
