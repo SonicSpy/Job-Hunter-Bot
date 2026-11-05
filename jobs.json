@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T02:25+00:00",
- "count": 40,
- "new_this_run": 4,
+ "updated": "2026-11-05T10:50+00:00",
+ "count": 39,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -137,57 +137,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "motion-qa-tester",
-   "title": "QA Tester",
-   "company": "Motion",
-   "category": "Gaming",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "postman"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-04T21:18+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-georgian-language-specialist-ai-trainer",
-   "title": "Georgian Language Specialist - AI Trainer",
-   "company": "Invisible Technologies",
+   "id": "wavelength-network-junior-ai-specialist-claude",
+   "title": "Junior AI Specialist (Claude)",
+   "company": "Wavelength Network",
    "category": "AI evaluation / AI trainer",
    "score": 99,
-   "location": "Remote, Worldwide",
+   "location": "Remote, Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, India, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, South Africa, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Åland Islands",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/georgian-language-specialist-ai-trainer?utm_source=api",
+   "url": "https://himalayas.app/companies/wavelength-network/jobs/junior-ai-specialist-claude?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-04",
+   "posted": "2026-11-05",
    "matched_skills": [
-    "evaluation",
     "ai",
-    "quality",
-    "communication",
     "english",
-    "entry level",
-    "remote",
-    "localization"
+    "product",
+    "prompt",
+    "gemini",
+    "python",
+    "remote"
    ],
    "contract": true,
-   "first_seen": "2026-11-04T21:18+00:00",
-   "new": false,
+   "first_seen": "2026-11-05T10:50+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -321,8 +293,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-05T02:25+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "zscaler-customer-support-associate-i",
+   "title": "Customer Support Associate I",
+   "company": "Zscaler",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "product",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T10:50+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -406,33 +403,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "sumatosoft-qa-engineer",
-   "title": "QA Engineer",
-   "company": "SumatoSoft",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "communication",
-    "english",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-05T02:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "webengage-growth-associate-mar-tech",
    "title": "Growth Associate, Mar-tech",
    "company": "WebEngage",
@@ -452,7 +422,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-05T02:25+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -711,7 +681,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-05T02:25+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
