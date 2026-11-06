@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T06:44+00:00",
- "count": 34,
- "new_this_run": 0,
+ "updated": "2026-11-06T15:00+00:00",
+ "count": 36,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -137,6 +137,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "scopely-qa-engineer-royal-lounge-casino",
+   "title": "QA Engineer - Royal Lounge Casino",
+   "company": "Scopely",
+   "category": "Gaming · QA / testing",
+   "score": 100,
+   "location": "IN - Bangalore, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T15:00+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
@@ -164,6 +191,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "the-cigna-group-automation-engineer-associate-analyst-cigna-healthcare",
+   "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
+   "company": "The Cigna Group",
+   "category": "Trainee / graduate program",
+   "score": 98,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/the-cigna-group/jobs/automation-engineer-associate-analyst-cigna-healthcare?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T15:00+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "alloy-technical-support-engineer-triage-discovery",
    "title": "Technical Support Engineer, Triage & Discovery",
    "company": "Alloy",
@@ -188,6 +242,32 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
+   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+   "company": "Toptal",
+   "category": "AI evaluation / AI trainer",
+   "score": 96,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "product",
+    "api",
+    "python",
+    "docker",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T15:00+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -402,33 +482,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "6sense-it-support-specialist",
-   "title": "IT Support Specialist",
-   "company": "6sense",
-   "category": "Non-coding tech (high pay)",
-   "score": 85,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-15",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-15T13:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
    "title": "Product Support Engineer III - ZIA/ZPA",
    "company": "Zscaler",
@@ -586,31 +639,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "descript-software-engineer-infrastructure",
-   "title": "Software Engineer, Infrastructure",
-   "company": "Descript",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "product",
-    "remote",
-    "gcp",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-02T07:39+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "sarvam-product-strategy-associate",
    "title": "Product & Strategy Associate",
    "company": "Sarvam",
@@ -727,6 +755,31 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "descript-software-engineer-infrastructure",
+   "title": "Software Engineer, Infrastructure",
+   "company": "Descript",
+   "category": "AI-assisted developer (full stack)",
+   "score": 75,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-02",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "product",
+    "remote",
+    "gcp",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-02T07:39+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
