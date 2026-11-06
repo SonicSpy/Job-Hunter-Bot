@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T00:13+00:00",
- "count": 47,
- "new_this_run": 13,
+ "updated": "2026-11-06T06:44+00:00",
+ "count": 34,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -137,60 +137,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "altera-digital-health-associate-technical-support-consultant",
-   "title": "Associate Technical Support Consultant",
-   "company": "Altera Digital Health",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/altera-digital-health/jobs/associate-technical-support-consultant?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "sql"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "appetiser-apps-junior-full-stack-developer",
-   "title": "Junior Full-Stack Developer",
-   "company": "Appetiser Apps",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/appetiser-apps/jobs/junior-full-stack-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "product",
-    "api",
-    "postman",
-    "sql",
-    "typescript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
@@ -299,33 +245,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "talent-systems-customer-support-specialist-remote-india",
-   "title": "Customer Support Specialist - Remote (India)",
-   "company": "Talent Systems",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/talent-systems/jobs/customer-support-specialist-remote-india-5269616085?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "jira",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "zscaler-customer-support-associate-i",
    "title": "Customer Support Associate I",
    "company": "Zscaler",
@@ -432,128 +351,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-ai-assisted-developer-workflows-trace-ai-task-auditor-freelance-ai-",
-   "title": "AI-Assisted Developer Workflows (Trace) AI Task Auditor - Freelance AI Trainer P",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/ai-assisted-developer-workflows-trace-ai-task-auditor-freelance-ai-trainer-p?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "analysis",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-aws-serverless-iac-ai-task-auditor-freelance-ai-trainer-project",
-   "title": "AWS Serverless & IaC AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/aws-serverless-iac-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote",
-    "bugs"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-gpu-kernels-ai-task-auditor-freelance-ai-trainer-project",
-   "title": "GPU Kernels AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/gpu-kernels-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote",
-    "bugs"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-kubernetes-ai-task-auditor-freelance-ai-trainer-project",
-   "title": "Kubernetes AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/kubernetes-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote",
-    "bugs"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "lifelancer-clinical-payments-associate",
-   "title": "Clinical Payments Associate",
-   "company": "Lifelancer",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lifelancer/jobs/clinical-payments-associate?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "communication",
-    "english",
-    "jira",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -578,29 +375,6 @@
    "contract": false,
    "first_seen": "2026-10-27T07:49+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-cve-application-security-ai-task-auditor-freelance-ai-trainer-proje",
-   "title": "CVE & Application Security AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/cve-application-security-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -812,56 +586,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "cummins-ai-engineer",
-   "title": "AI Engineer",
-   "company": "Cummins",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cummins/jobs/ai-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "smart-working-cloud-engineer-frontend-leaning-remote-full-time-as315",
-   "title": "Cloud Engineer - Frontend-leaning (Remote, Full-Time) [AS315]",
-   "company": "Smart Working",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/smart-working/jobs/cloud-engineer-frontend-leaning-remote-full-time-as315?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "support",
-    "product",
-    "github",
-    "remote",
-    "react",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "descript-software-engineer-infrastructure",
    "title": "Software Engineer, Infrastructure",
    "company": "Descript",
@@ -884,30 +608,6 @@
    "contract": false,
    "first_seen": "2026-11-02T07:39+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "cummins-software-engineer",
-   "title": "Software Engineer",
-   "company": "Cummins",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/cummins/jobs/software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -953,30 +653,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "little-pixies-gohighlevel-implementation-specialist",
-   "title": "GoHighLevel Implementation Specialist",
-   "company": "Little Pixies",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/little-pixies/jobs/gohighlevel-implementation-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "communication",
-    "jira",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T00:13+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "askable-software-engineer-ai-coding-tasks",
