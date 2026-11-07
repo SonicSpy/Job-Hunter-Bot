@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T13:58+00:00",
- "count": 39,
- "new_this_run": 4,
+ "updated": "2026-11-07T18:45+00:00",
+ "count": 40,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -161,7 +161,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-07T13:58+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -320,7 +320,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-07T13:58+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -476,6 +476,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-07T13:58+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "hivex-fullstack-developer-react-node-js",
+   "title": "FullStack Developer (react + node.js)",
+   "company": "Hivex",
+   "category": "AI-assisted developer (full stack)",
+   "score": 88,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/hivex/jobs/fullstack-developer-react-node-js-9559398791?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "communication",
+    "english",
+    "api",
+    "remote",
+    "react",
+    "typescript",
+    "javascript",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T18:45+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -710,7 +737,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-07T13:58+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

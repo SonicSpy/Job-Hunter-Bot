@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed or ghost jobs removed: 0
+Last run 2026-11-07T18:45+00:00 · raw jobs read: 12314 · matches: 40 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 32
-- weworkremotely: 438
+- workingnomads: 17
+- weworkremotely: 441
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -73,7 +73,7 @@ Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed
 | Dukaan | not found | 0 | add careers link manually if needed |
 | Duolingo | greenhouse | 59 | ok |
 | EA | not found | 0 | add careers link manually if needed |
-| Elastic | greenhouse | 423 | ok |
+| Elastic | greenhouse | 425 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
 | Epic Games | greenhouse | 131 | ok |
@@ -204,7 +204,7 @@ Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 375 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 820 | ok |
+| OpenAI | ashby | 819 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 765 | ok |
+| Stripe | greenhouse | 766 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 70 | ok |
@@ -288,7 +288,7 @@ Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed
 | ToolJet | not found | 0 | add careers link manually if needed |
 | Toptal | lever | 31 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
-| Turing | greenhouse | 46 | ok |
+| Turing | greenhouse | 47 | ok |
 | Twilio | greenhouse | 128 | ok |
 | Twitch | greenhouse | 55 | ok |
 | Uber | smartrecruiters | 1 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1
