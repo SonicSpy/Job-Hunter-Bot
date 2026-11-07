@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-07T18:45+00:00 · raw jobs read: 12314 · matches: 40 · closed or ghost jobs removed: 0
+Last run 2026-11-07T22:43+00:00 · raw jobs read: 12313 · matches: 40 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -62,7 +62,7 @@ Last run 2026-11-07T18:45+00:00 · raw jobs read: 12314 · matches: 40 · closed
 | Coursera | greenhouse | 40 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 924 | ok |
+| Databricks | greenhouse | 922 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 27 | ok |
@@ -261,7 +261,7 @@ Last run 2026-11-07T18:45+00:00 · raw jobs read: 12314 · matches: 40 · closed
 | Slice | greenhouse | 24 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 41 | ok |
-| Snowflake | ashby | 371 | ok |
+| Snowflake | ashby | 372 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-07T18:45+00:00 · raw jobs read: 12314 · matches: 40 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 5
