@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-07T00:55+00:00 · raw jobs read: 12333 · matches: 42 · closed or ghost jobs removed: 0
+Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -22,7 +22,7 @@ Last run 2026-11-07T00:55+00:00 · raw jobs read: 12333 · matches: 42 · closed
 | Airtable | greenhouse | 5 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 677 | ok |
+| Anthropic | greenhouse | 675 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-07T00:55+00:00 · raw jobs read: 12333 · matches: 42 · closed
 | Coursera | greenhouse | 40 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 923 | ok |
+| Databricks | greenhouse | 924 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 27 | ok |
@@ -260,7 +260,7 @@ Last run 2026-11-07T00:55+00:00 · raw jobs read: 12333 · matches: 42 · closed
 | Sky Mavis | ashby | 6 | ok |
 | Slice | greenhouse | 24 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
-| Snorkel AI | greenhouse | 42 | ok |
+| Snorkel AI | greenhouse | 41 | ok |
 | Snowflake | ashby | 371 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-07T00:55+00:00 · raw jobs read: 12333 · matches: 42 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 3
+Telegram: sent 1

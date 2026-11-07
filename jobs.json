@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T00:55+00:00",
- "count": 42,
- "new_this_run": 3,
+ "updated": "2026-11-07T07:06+00:00",
+ "count": 36,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -104,32 +104,6 @@
     "product",
     "analysis",
     "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "notion-product-support-specialist",
-   "title": "Product Support Specialist",
-   "company": "Notion",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, Hyderabad, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-11-03",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "sql"
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
@@ -162,33 +136,6 @@
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "invisible-technologies-welsh-language-specialist-freelance-ai-trainer-project",
-   "title": "Welsh Language Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/welsh-language-specialist-freelance-ai-trainer-project-6185052992?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-07T00:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -245,6 +192,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "notion-product-support-specialist",
+   "title": "Product Support Specialist",
+   "company": "Notion",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, Hyderabad, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
    "company": "Toptal",
@@ -298,33 +271,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "aduna-global-developer-advocate-network-apis",
-   "title": "Developer Advocate - Network APIs",
-   "company": "Aduna Global",
-   "category": "Non-coding tech (high pay)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/aduna-global/jobs/developer-advocate-network-apis-7119485508?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "product",
-    "api",
-    "python",
-    "github",
-    "typescript",
-    "javascript",
-    "gcp",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-07T00:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "zscaler-customer-support-associate-i",
    "title": "Customer Support Associate I",
    "company": "Zscaler",
@@ -348,33 +294,6 @@
    "first_seen": "2026-11-05T10:50+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "toku-pte-ltd-qa-engineer",
-   "title": "QA Engineer",
-   "company": "Toku Pte Ltd",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/toku-co/jobs/qa-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "manual testing",
-    "testing",
-    "customer",
-    "support",
-    "communication",
-    "english"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -485,56 +404,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "welo-global-audio-transcription-reviewer-annotator",
-   "title": "Audio Transcription Reviewer (Annotator)",
-   "company": "Welo Global",
-   "category": "AI evaluation / AI trainer",
-   "score": 91,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/welo-global/jobs/audio-transcription-reviewer-annotator?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "support",
-    "english",
-    "annotation",
-    "remote",
-    "community"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-aws-trainium-nki-trn-ai-task-auditor-freelance-ai-trainer-project",
-   "title": "AWS Trainium/NKI (TRN) AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/aws-trainium-nki-trn-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote",
-    "bugs"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -560,53 +429,6 @@
    "first_seen": "2026-10-27T07:49+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-swe-bench-ai-task-auditor-freelance-ai-trainer-project",
-   "title": "SWE-Bench AI Task Auditor - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 87,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/swe-bench-ai-task-auditor-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "support",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "paytm-associate-it-audit",
-   "title": "Associate IT Audit",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-03",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
@@ -712,6 +534,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "micro1-software-engineer-electron-js",
+   "title": "Software Engineer (Electron.js)",
+   "company": "micro1",
+   "category": "AI-assisted developer (full stack)",
+   "score": 84,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-electron-js-5954044927?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "product",
+    "remote",
+    "typescript",
+    "javascript",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T07:06+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -736,30 +582,6 @@
    "contract": false,
    "first_seen": "2026-10-22T07:32+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "lifelancer-associate-product-support",
-   "title": "Associate Product Support",
-   "company": "Lifelancer",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lifelancer/jobs/associate-product-support?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "quality",
-    "support",
-    "product",
-    "analysis",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-07T00:55+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -788,6 +610,30 @@
    "first_seen": "2026-10-24T10:55+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "paytm-associate-it-audit",
+   "title": "Associate IT Audit",
+   "company": "Paytm",
+   "category": "Trainee / graduate program",
+   "score": 82,
+   "location": "Noida, Uttar Pradesh",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "karat-software-engineer-interviewer",
@@ -860,27 +706,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T14:28+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "sarvam-technical-writer",
-   "title": "Technical Writer",
-   "company": "Sarvam",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Bengaluru",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-11-03",
-   "matched_skills": [
-    "ai",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -1029,6 +854,27 @@
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "sarvam-technical-writer",
+   "title": "Technical Writer",
+   "company": "Sarvam",
+   "category": "Non-coding tech (high pay)",
+   "score": 74,
+   "location": "Bengaluru",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "ai",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "evolve-peptides-operations-support-specialist",
