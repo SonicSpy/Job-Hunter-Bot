@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T20:52+00:00",
- "count": 48,
- "new_this_run": 13,
+ "updated": "2026-11-07T00:55+00:00",
+ "count": 42,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -164,69 +164,15 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "highlevel-full-stack-builder-team-of-one",
-   "title": "Full Stack Builder (Team of One)",
-   "company": "HighLevel",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/highlevel/jobs/full-stack-builder-team-of-one-9961208303?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "documentation",
-    "product",
-    "api",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "quantumloopai-ai-ml-prompt-engineer-llm-rag-voice-agent",
-   "title": "AI/ML & Prompt Engineer LLM, RAG & Voice Agent",
-   "company": "QuantumLoopAI",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "support",
-    "communication",
-    "product",
-    "prompt",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-occitan-language-specialist-freelance-ai-trainer-project",
-   "title": "Occitan Language Specialist - Freelance AI Trainer Project",
+   "id": "invisible-technologies-welsh-language-specialist-freelance-ai-trainer-project",
+   "title": "Welsh Language Specialist - Freelance AI Trainer Project",
    "company": "Invisible Technologies",
    "category": "AI evaluation / AI trainer",
    "score": 99,
    "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/occitan-language-specialist-freelance-ai-trainer-project-8287719690?utm_source=api",
+   "url": "https://himalayas.app/companies/inv/jobs/welsh-language-specialist-freelance-ai-trainer-project-6185052992?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-06",
    "matched_skills": [
@@ -240,7 +186,7 @@
     "remote"
    ],
    "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
+   "first_seen": "2026-11-07T00:55+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -352,29 +298,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "databento-technical-support-engineer-l1-frontline-support-apac",
-   "title": "Technical Support Engineer (L1/Frontline Support), APAC",
-   "company": "Databento",
+   "id": "aduna-global-developer-advocate-network-apis",
+   "title": "Developer Advocate - Network APIs",
+   "company": "Aduna Global",
    "category": "Non-coding tech (high pay)",
    "score": 93,
-   "location": "Remote, Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Oman, Pakistan, Palestine, State of, Philippines, Qatar, Russian Federation, Saudi Arabia, Singapore, South Korea, Sri Lanka, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/databento/jobs/technical-support-engineer-l1-frontline-support-apac-8526631739?utm_source=api",
+   "url": "https://himalayas.app/companies/aduna-global/jobs/developer-advocate-network-apis-7119485508?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-06",
    "matched_skills": [
-    "documentation",
-    "customer",
-    "support",
-    "communication",
+    "product",
     "api",
-    "sql",
-    "onboarding",
-    "python"
+    "python",
+    "github",
+    "typescript",
+    "javascript",
+    "gcp",
+    "community"
    ],
    "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
+   "first_seen": "2026-11-07T00:55+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -427,34 +373,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "yipitdata-data-qa-specialist",
-   "title": "Data QA Specialist",
-   "company": "YipitData",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/yipitdata/jobs/data-qa-specialist-327547019?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "sql"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -588,7 +507,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -612,31 +531,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-tutoring-specialist-freelance-ai-trainer-project",
-   "title": "Tutoring Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/tutoring-specialist-freelance-ai-trainer-project-8502989985?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "communication",
-    "english",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -686,7 +581,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -844,6 +739,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "lifelancer-associate-product-support",
+   "title": "Associate Product Support",
+   "company": "Lifelancer",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/associate-product-support?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "quality",
+    "support",
+    "product",
+    "analysis",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T00:55+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "cribl-customer-success-engineer-sydney",
    "title": "Customer Success Engineer, Sydney",
    "company": "Cribl",
@@ -893,7 +812,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -918,7 +837,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -1042,30 +961,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "eastwood-cleef-llc-frontend-software-development-engineer-javascript-vue-js",
-   "title": "Frontend Software Development Engineer JavaScript Vue.JS",
-   "company": "Eastwood & Cleef, LLC",
-   "category": "AI-assisted developer (full stack)",
-   "score": 76,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/eastwood-cleef-llc/jobs/frontend-software-development-engineer-javascript-vue-js?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "quality",
-    "communication",
-    "docker",
-    "remote",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "descript-software-engineer-infrastructure",
    "title": "Software Engineer, Infrastructure",
    "company": "Descript",
@@ -1136,24 +1031,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "servicenow-advisory-solution-consultant-presales",
-   "title": "Advisory Solution Consultant - Presales",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 72,
-   "location": "Bangalore, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000159600589",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-11-04",
-   "matched_skills": [],
-   "contract": false,
-   "first_seen": "2026-11-04T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "evolve-peptides-operations-support-specialist",
    "title": "Operations Support Specialist",
    "company": "Evolve Peptides",
@@ -1174,28 +1051,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-19T19:20+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "voltus-customer-success-associate",
-   "title": "Customer Success Associate",
-   "company": "Voltus",
-   "category": "Non-coding tech (high pay)",
-   "score": 69,
-   "location": "Remote, Remote",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-10-16",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-17T01:17+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
