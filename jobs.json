@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T07:06+00:00",
- "count": 36,
- "new_this_run": 1,
+ "updated": "2026-11-07T13:58+00:00",
+ "count": 39,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -138,6 +138,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "harris-associate-technical-support-consultant",
+   "title": "Associate Technical Support Consultant",
+   "company": "Harris",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T13:58+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
@@ -269,6 +296,32 @@
    "first_seen": "2026-10-19T13:15+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T13:58+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "zscaler-customer-support-associate-i",
@@ -404,6 +457,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T13:58+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -510,54 +586,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "airtable-renewals-associate",
-   "title": "Renewals Associate",
-   "company": "Airtable",
-   "category": "Trainee / graduate program",
-   "score": 84,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-30",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "saas",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-30T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "micro1-software-engineer-electron-js",
-   "title": "Software Engineer (Electron.js)",
-   "company": "micro1",
-   "category": "AI-assisted developer (full stack)",
-   "score": 84,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-electron-js-5954044927?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-07",
-   "matched_skills": [
-    "product",
-    "remote",
-    "typescript",
-    "javascript",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-07T07:06+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -658,6 +686,54 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-07",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-07T13:58+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "airtable-renewals-associate",
+   "title": "Renewals Associate",
+   "company": "Airtable",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-10-30",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "saas",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-10-30T08:37+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },

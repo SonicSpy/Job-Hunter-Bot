@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed or ghost jobs removed: 0
+Last run 2026-11-07T13:58+00:00 · raw jobs read: 12323 · matches: 39 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -8,7 +8,7 @@ Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 32
-- weworkremotely: 450
+- weworkremotely: 438
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -84,7 +84,7 @@ Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed
 | Facilio | not found | 0 | add careers link manually if needed |
 | Fampay | lever | 17 | ok |
 | Fi Money | not found | 0 | add careers link manually if needed |
-| Figma | greenhouse | 144 | ok |
+| Figma | greenhouse | 145 | ok |
 | Flipkart | not found | 0 | add careers link manually if needed |
 | Freshdesk | not found | 0 | add careers link manually if needed |
 | Freshworks | lever | 0 | ok |
@@ -234,7 +234,7 @@ Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed
 | Revolut | not found | 0 | add careers link manually if needed |
 | Riot Games | greenhouse | 186 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 269 | ok |
+| Roblox | greenhouse | 270 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 22 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
@@ -288,7 +288,7 @@ Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed
 | ToolJet | not found | 0 | add careers link manually if needed |
 | Toptal | lever | 31 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
-| Turing | greenhouse | 44 | ok |
+| Turing | greenhouse | 46 | ok |
 | Twilio | greenhouse | 128 | ok |
 | Twitch | greenhouse | 55 | ok |
 | Uber | smartrecruiters | 1 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-07T07:06+00:00 · raw jobs read: 12331 · matches: 36 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 4
