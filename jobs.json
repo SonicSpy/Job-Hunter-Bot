@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:42+00:00",
+ "updated": "2026-11-08T21:08+00:00",
  "count": 34,
  "new_this_run": 1,
  "jobs": [
@@ -214,33 +214,6 @@
    "contract": false,
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "clario-clinical-data-management-associate-ii",
-   "title": "Clinical Data Management Associate II",
-   "company": "Clario",
-   "category": "Trainee / graduate program",
-   "score": 95,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/clario/jobs/clinical-data-management-associate-ii?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T16:42+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -638,6 +611,29 @@
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mi-guila-frontend-developer",
+   "title": "FRONTEND DEVELOPER",
+   "company": "Mi Águila",
+   "category": "AI-assisted developer (full stack)",
+   "score": 81,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mi-aguila/jobs/frontend-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-08",
+   "matched_skills": [
+    "english",
+    "product",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-08T21:08+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {

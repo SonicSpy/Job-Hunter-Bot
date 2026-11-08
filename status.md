@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-08T16:42+00:00 · raw jobs read: 12312 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-11-08T21:08+00:00 · raw jobs read: 12323 · matches: 34 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -8,7 +8,7 @@ Last run 2026-11-08T16:42+00:00 · raw jobs read: 12312 · matches: 34 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 17
-- weworkremotely: 428
+- weworkremotely: 437
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -73,7 +73,7 @@ Last run 2026-11-08T16:42+00:00 · raw jobs read: 12312 · matches: 34 · closed
 | Dukaan | not found | 0 | add careers link manually if needed |
 | Duolingo | greenhouse | 59 | ok |
 | EA | not found | 0 | add careers link manually if needed |
-| Elastic | greenhouse | 425 | ok |
+| Elastic | greenhouse | 426 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
 | Epic Games | greenhouse | 131 | ok |
@@ -321,7 +321,7 @@ Last run 2026-11-08T16:42+00:00 · raw jobs read: 12312 · matches: 34 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 375 | ok |
+| Zscaler | greenhouse | 376 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 7 | ok |

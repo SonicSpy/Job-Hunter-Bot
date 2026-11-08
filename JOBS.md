@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 08 Nov 2026, 16:42 UTC · 34 open matches
+Updated 08 Nov 2026, 21:08 UTC · 34 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -12,7 +12,6 @@ Updated 08 Nov 2026, 16:42 UTC · 34 open matches
 | 98 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, APAC | Not listed | 2026-10-26 |
 | 96 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
 | 96 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-11-05 |
-| 95 | [Clinical Data Management Associate II](https://himalayas.app/companies/clario/jobs/clinical-data-management-associate-ii?utm_source=api) 🆕 | Clario | Remote | Remote, India | Not listed | 2026-11-08 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
 | 93 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
 | 92 | [Customer Support Associate I](https://job-boards.greenhouse.io/zscaler/jobs/5263579007) | Zscaler | Hybrid | Bangalore, IND; Bangalore, IND; Mohali,  | Not listed | 2026-11-05 |
@@ -28,6 +27,7 @@ Updated 08 Nov 2026, 16:42 UTC · 34 open matches
 | 82 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 82 | [Associate IT Audit](https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-11-03 |
 | 82 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
+| 81 | [FRONTEND DEVELOPER](https://himalayas.app/companies/mi-aguila/jobs/frontend-developer?utm_source=api) 🆕 | Mi Águila | Remote | Remote, Worldwide | Not listed | 2026-11-08 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 79 | [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) | OpenTrain AI | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 78 | [Product & Strategy Associate](https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2) | Sarvam | On-site | Bengaluru | Not listed | 2026-10-27 |
