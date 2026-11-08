@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed or ghost jobs removed: 0
+Last run 2026-11-08T10:16+00:00 · raw jobs read: 12300 · matches: 39 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -8,7 +8,7 @@ Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 17
-- weworkremotely: 441
+- weworkremotely: 430
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -42,7 +42,7 @@ Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed
 | BrowserStack | not found | 0 | add careers link manually if needed |
 | Bungie | greenhouse | 4 | ok |
 | CD Projekt | not found | 0 | add careers link manually if needed |
-| CRED | lever | 13 | ok |
+| CRED | lever | 14 | ok |
 | Calendly | greenhouse | 7 | ok |
 | Canonical | greenhouse | 316 | ok |
 | Canva | smartrecruiters | 37 | ok |
@@ -181,7 +181,7 @@ Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
 | MongoDB | greenhouse | 374 | ok |
-| Moon Active | ashby | 32 | ok |
+| Moon Active | ashby | 31 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
 | Mythical Games | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 5
