@@ -1,19 +1,18 @@
 # Job matches for Bhargav
 
-Updated 07 Nov 2026, 22:43 UTC · 40 open matches
+Updated 08 Nov 2026, 02:27 UTC · 38 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [Community Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-21 |
 | 100 | [Software Engineer - Turso](https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259) | Supabase | Remote | Remote, Global | Not listed | 2026-10-21 |
 | 100 | [Billing Support Specialist](https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e) | Supabase | Remote | Remote, Global | Not listed | 2026-11-02 |
-| 100 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8327882?gh_jid=8327882) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-03 |
+| 100 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
 | 100 | [QA Engineer - Royal Lounge Casino](https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008) | Scopely | Hybrid | IN - Bangalore, India | Not listed | 2026-11-06 |
-| 100 | [Small Business Ownership – Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/small-business-ownership-freelance-ai-trainer-project-58348805?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
-| 100 | [Full Stack Developer – Agentic AI & Automation](https://himalayas.app/companies/hyre/jobs/full-stack-developer-agentic-ai-automation?utm_source=api) 🆕 | Hyre | Remote | Remote, Argentina, Belize, Brazil, Camer | Not listed | 2026-11-07 |
-| 99 | [Luo Language Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/luo-language-specialist-freelance-ai-trainer-project-2202806066?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
-| 99 | [Uzbek Language Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/uzbek-language-specialist-freelance-ai-trainer-project-7723446791?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
+| 100 | [Small Business Ownership – Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/small-business-ownership-freelance-ai-trainer-project-58348805?utm_source=api) | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
+| 99 | [Luo Language Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/luo-language-specialist-freelance-ai-trainer-project-2202806066?utm_source=api) | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
 | 98 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, APAC | Not listed | 2026-10-26 |
+| 98 | [Community Manager](https://himalayas.app/companies/micro1/jobs/community-manager-1595701534?utm_source=api) 🆕 | micro1 | Remote | Remote, Worldwide | Not listed | 2026-11-07 |
 | 97 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
 | 96 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
 | 96 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-11-05 |
@@ -33,7 +32,6 @@ Updated 07 Nov 2026, 22:43 UTC · 40 open matches
 | 82 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 79 | [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) | OpenTrain AI | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
-| 79 | [Software Engineer Backend(Django)](https://himalayas.app/companies/uvation/jobs/software-engineer-backend-django?utm_source=api) 🆕 | uvation | Remote | Remote, India | Not listed | 2026-11-07 |
 | 78 | [Product & Strategy Associate](https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2) | Sarvam | On-site | Bengaluru | Not listed | 2026-10-27 |
 | 77 | [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) | Askable | Remote | Remote, Worldwide | $1000 per task | 2026-10-17 |
 | 76 | [Product Analyst II](https://job-boards.greenhouse.io/glance/jobs/7984509) | Glance | On-site | Bangalore | Not listed | 2026-10-21 |

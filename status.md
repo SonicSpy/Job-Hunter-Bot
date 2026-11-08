@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-07T22:43+00:00 · raw jobs read: 12313 · matches: 40 · closed or ghost jobs removed: 0
+Last run 2026-11-08T02:27+00:00 · raw jobs read: 12311 · matches: 38 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 180
@@ -180,7 +180,7 @@ Last run 2026-11-07T22:43+00:00 · raw jobs read: 12313 · matches: 40 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 375 | ok |
+| MongoDB | greenhouse | 374 | ok |
 | Moon Active | ashby | 32 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -204,7 +204,7 @@ Last run 2026-11-07T22:43+00:00 · raw jobs read: 12313 · matches: 40 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 375 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 819 | ok |
+| OpenAI | ashby | 818 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-07T22:43+00:00 · raw jobs read: 12313 · matches: 40 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 5
+Telegram: sent 1
