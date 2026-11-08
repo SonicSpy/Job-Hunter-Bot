@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-08T10:16+00:00 · raw jobs read: 12300 · matches: 39 · closed or ghost jobs removed: 0
+Last run 2026-11-08T16:42+00:00 · raw jobs read: 12312 · matches: 34 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 180
+- remotive: 195
 - remoteok: 99
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 17
-- weworkremotely: 430
+- weworkremotely: 428
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -204,7 +204,7 @@ Last run 2026-11-08T10:16+00:00 · raw jobs read: 12300 · matches: 39 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 375 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 818 | ok |
+| OpenAI | ashby | 816 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -248,7 +248,7 @@ Last run 2026-11-08T10:16+00:00 · raw jobs read: 12300 · matches: 39 · closed
 | Scale AI | greenhouse | 168 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
-| Scopely | greenhouse | 167 | ok |
+| Scopely | greenhouse | 168 | ok |
 | ServiceNow | smartrecruiters | 100 | ok |
 | Setu | not found | 0 | add careers link manually if needed |
 | ShareChat | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-08T10:16+00:00 · raw jobs read: 12300 · matches: 39 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 5
+Telegram: sent 1

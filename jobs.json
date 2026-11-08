@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T10:16+00:00",
- "count": 39,
- "new_this_run": 5,
+ "updated": "2026-11-08T16:42+00:00",
+ "count": 34,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -136,60 +136,6 @@
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "marcopolo-learning-qa-automation-engineer-ai-first",
-   "title": "QA Automation Engineer (AI-First)",
-   "company": "MarcoPolo Learning",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "english"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-08T10:16+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "kreative-media-ai-automation-expert-n8n-make-zapier-ai-agents",
-   "title": "AI Automation Expert (n8n / Make / Zapier / AI Agents)",
-   "company": "Kreative Media",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 84000-132000 / year",
-   "url": "https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "testing",
-    "english",
-    "product",
-    "prompt",
-    "gemini",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T10:16+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -268,6 +214,33 @@
    "contract": false,
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "clario-clinical-data-management-associate-ii",
+   "title": "Clinical Data Management Associate II",
+   "company": "Clario",
+   "category": "Trainee / graduate program",
+   "score": 95,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/clario/jobs/clinical-data-management-associate-ii?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-08",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-08T16:42+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -564,32 +537,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "ashby-product-support-specialist-apac",
-   "title": "Product Support Specialist - APAC",
-   "company": "Ashby",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, APAC",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/154816-product-support-specialist-apac",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T10:16+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "company": "Affirm",
@@ -694,31 +641,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "health-hue-digital-platform-support-specialist",
-   "title": "Platform Support Specialist",
-   "company": "Health Hue Digital",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/healthhue/jobs/platform-support-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "customer",
-    "support",
-    "english",
-    "product",
-    "saas",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T10:16+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -789,33 +711,6 @@
    "first_seen": "2026-10-27T14:28+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "askable-software-engineer-ai-coding-tasks",
-   "title": "Software Engineer, AI Coding Tasks",
-   "company": "Askable",
-   "category": "AI-assisted developer (full stack)",
-   "score": 77,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "$1000 per task",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-   "source": "Remotive (find company link before applying)",
-   "posted": "2026-10-17",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "testing",
-    "python",
-    "docker",
-    "remote",
-    "typescript"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-18T04:28+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
@@ -892,27 +787,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mindtickle-customer-support-engineer-i",
-   "title": "Customer Support Engineer - I",
-   "company": "Mindtickle",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Pune, Maharashtra",
-   "mode": "On-site",
-   "salary": "INR 0-0 per-month-salary",
-   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "customer",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-04T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "sarvam-technical-writer",
    "title": "Technical Writer",
    "company": "Sarvam",
@@ -930,6 +804,27 @@
    ],
    "contract": false,
    "first_seen": "2026-11-03T09:30+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "mindtickle-customer-support-engineer-i",
+   "title": "Customer Support Engineer - I",
+   "company": "Mindtickle",
+   "category": "Non-coding tech (high pay)",
+   "score": 71,
+   "location": "Pune, Maharashtra",
+   "mode": "On-site",
+   "salary": "INR 0-0 per-month-salary",
+   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "customer",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -979,27 +874,6 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "health-hue-digital-implementation-specialist",
-   "title": "Implementation Specialist",
-   "company": "Health Hue Digital",
-   "category": "Non-coding tech (high pay)",
-   "score": 69,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/healthhue/jobs/implementation-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "saas",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T10:16+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   }
  ]
