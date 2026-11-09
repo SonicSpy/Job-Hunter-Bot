@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-08T21:08+00:00 · raw jobs read: 12323 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-11-09T00:51+00:00 · raw jobs read: 12322 · matches: 36 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 195
@@ -59,7 +59,7 @@ Last run 2026-11-08T21:08+00:00 · raw jobs read: 12323 · matches: 34 · closed
 | Cohere | ashby | 124 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
 | Confluent | ashby | 0 | ok |
-| Coursera | greenhouse | 40 | ok |
+| Coursera | greenhouse | 39 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
 | Databricks | greenhouse | 922 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-08T21:08+00:00 · raw jobs read: 12323 · matches: 34 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 2
