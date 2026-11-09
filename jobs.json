@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T00:51+00:00",
- "count": 36,
- "new_this_run": 2,
+ "updated": "2026-11-09T07:56+00:00",
+ "count": 34,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -431,6 +431,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "max-security-solutions-customer-success-operations-specialist",
+   "title": "Customer Success Operations Specialist",
+   "company": "MAX Security Solutions",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/max-security-solutions/jobs/customer-success-operations-specialist?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-09",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-09T07:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "zscaler-product-support-engineer-iii-zia-zpa",
    "title": "Product Support Engineer III - ZIA/ZPA",
    "company": "Zscaler",
@@ -537,30 +563,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "deblock-kyc-screening-analyst-junior",
-   "title": "KYC/Screening Analyst (Junior)",
-   "company": "Deblock",
-   "category": "Trainee / graduate program",
-   "score": 83,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/deblock/jobs/kyc-screening-analyst-junior?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-09T00:51+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cribl-customer-success-engineer-sydney",
    "title": "Customer Success Engineer, Sydney",
    "company": "Cribl",
@@ -634,29 +636,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mi-guila-frontend-developer",
-   "title": "FRONTEND DEVELOPER",
-   "company": "Mi Águila",
-   "category": "AI-assisted developer (full stack)",
-   "score": 81,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mi-aguila/jobs/frontend-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "english",
-    "product",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-08T21:08+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -826,27 +805,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "max-security-solutions-junior-geo-political-risk-analyst",
-   "title": "Junior Geo Political Risk Analyst",
-   "company": "MAX Security Solutions",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/max-security-solutions/jobs/junior-geo-political-risk-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-08",
-   "matched_skills": [
-    "english",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-09T00:51+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "mindtickle-customer-support-engineer-i",

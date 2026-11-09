@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 09 Nov 2026, 00:51 UTC · 36 open matches
+Updated 09 Nov 2026, 07:56 UTC · 34 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -20,15 +20,14 @@ Updated 09 Nov 2026, 00:51 UTC · 36 open matches
 | 91 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
 | 91 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
 | 87 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
+| 87 | [Customer Success Operations Specialist](https://himalayas.app/companies/max-security-solutions/jobs/customer-success-operations-specialist?utm_source=api) 🆕 | MAX Security Solutions | Remote | Remote, India | Not listed | 2026-11-09 |
 | 85 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 85 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 85 | [Technical Support Specialist](https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1) | Freshly Commerce | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 83 | [Analytics Engineer II, Full Stack (Revenue Analytics)](https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics) | Affirm | Remote | Remote, Anywhere in the World | Not listed | 2026-10-22 |
-| 83 | [KYC/Screening Analyst (Junior)](https://himalayas.app/companies/deblock/jobs/kyc-screening-analyst-junior?utm_source=api) 🆕 | Deblock | Remote | Remote, India | Not listed | 2026-11-08 |
 | 82 | [Customer Success Engineer, Sydney](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-10-24 |
 | 82 | [Associate IT Audit](https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-11-03 |
 | 82 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
-| 81 | [FRONTEND DEVELOPER](https://himalayas.app/companies/mi-aguila/jobs/frontend-developer?utm_source=api) | Mi Águila | Remote | Remote, Worldwide | Not listed | 2026-11-08 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 79 | [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) | OpenTrain AI | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 78 | [Product & Strategy Associate](https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2) | Sarvam | On-site | Bengaluru | Not listed | 2026-10-27 |
@@ -36,7 +35,6 @@ Updated 09 Nov 2026, 00:51 UTC · 36 open matches
 | 76 | [Customer Support Specialist](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 75 | [Software Engineer, Infrastructure](https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure) | Descript | Remote | Remote, Anywhere in the World | Not listed | 2026-11-02 |
 | 74 | [Technical Writer](https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d) | Sarvam | On-site | Bengaluru | Not listed | 2026-11-03 |
-| 74 | [Junior Geo Political Risk Analyst](https://himalayas.app/companies/max-security-solutions/jobs/junior-geo-political-risk-analyst?utm_source=api) 🆕 | MAX Security Solutions | Remote | Remote, India | Not listed | 2026-11-08 |
 | 71 | [Customer Support Engineer - I](https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7) | Mindtickle | On-site | Pune, Maharashtra | INR 0-0 per-month-salary | 2026-11-04 |
 | 70 | [Operations Support Specialist](https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist) | Evolve Peptides | Remote | Remote, Anywhere in the World | Not listed | 2026-10-19 |
 | 70 | [Account Executive, NAS Product Specialist](https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist) | Rubrik Job Board | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
