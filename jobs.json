@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T07:56+00:00",
- "count": 34,
- "new_this_run": 1,
+ "updated": "2026-11-09T18:45+00:00",
+ "count": 38,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "figma-community-support-specialist-bengaluru-india",
@@ -93,9 +93,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -136,6 +136,87 @@
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "mercor-music-evaluator-fully-remote-upto-42-hr",
+   "title": "Music Evaluator - Fully Remote | Upto $42/hr",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mercor/jobs/music-evaluator-fully-remote-upto-42-hr-2783000245?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-09",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "english",
+    "hindi",
+    "prompt",
+    "onboarding",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-09T18:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "generation-uk-ireland-learning-technology-ai-specialist-11-12-month-fixed-term-remote",
+   "title": "Learning Technology & AI Specialist (11-12-month Fixed-term/Remote)",
+   "company": "Generation UK & Ireland",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/generation/jobs/learning-technology-ai-specialist-11-12-month-fixed-term-remote?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-09",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "english",
+    "product",
+    "sql"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-09T18:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+   "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
+   "company": "Volga Partners",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "INR 1500000-2200000 / year",
+   "url": "https://himalayas.app/companies/volga-partners/jobs/ai-ml-engineer-production-ai-llm-systems-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-09",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-09T18:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -189,32 +270,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
-   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
-   "company": "Toptal",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "product",
-    "api",
-    "python",
-    "docker",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T15:00+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "figma-customer-support-specialist-bengaluru-india",
@@ -271,29 +326,54 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "zscaler-customer-support-associate-i",
-   "title": "Customer Support Associate I",
-   "company": "Zscaler",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
-   "mode": "Hybrid",
+   "id": "mercor-data-engineer-ai-model-evaluator",
+   "title": "Data Engineer - AI Model Evaluator",
+   "company": "mercor",
+   "category": "AI evaluation / AI trainer",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-05",
+   "url": "https://himalayas.app/companies/mercor/jobs/data-engineer-ai-model-evaluator-5962627298?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-09",
    "matched_skills": [
     "ai",
-    "quality",
-    "customer",
     "support",
-    "product",
-    "analysis"
+    "gemini",
+    "remote",
+    "bugs"
    ],
    "contract": false,
-   "first_seen": "2026-11-05T10:50+00:00",
+   "first_seen": "2026-11-09T18:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
+   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+   "company": "Toptal",
+   "category": "AI evaluation / AI trainer",
+   "score": 92,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "product",
+    "api",
+    "python",
+    "docker",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
-   "verified": "Live on company careers page"
+   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -404,6 +484,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "zscaler-customer-support-associate-i",
+   "title": "Customer Support Associate I",
+   "company": "Zscaler",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-05",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "product",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-05T10:50+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -453,7 +558,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-09T07:56+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
