@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 09 Nov 2026, 18:45 UTC · 38 open matches
+Updated 10 Nov 2026, 02:05 UTC · 35 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -9,22 +9,19 @@ Updated 09 Nov 2026, 18:45 UTC · 38 open matches
 | 100 | [Billing Support Specialist](https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e) | Supabase | Remote | Remote, Global | Not listed | 2026-11-02 |
 | 100 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
 | 100 | [QA Engineer - Royal Lounge Casino](https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008) | Scopely | Hybrid | IN - Bangalore, India | Not listed | 2026-11-06 |
-| 100 | [Music Evaluator - Fully Remote | Upto $42/hr](https://himalayas.app/companies/mercor/jobs/music-evaluator-fully-remote-upto-42-hr-2783000245?utm_source=api) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-11-09 |
-| 100 | [Learning Technology & AI Specialist (11-12-month Fixed-term/Remote)](https://himalayas.app/companies/generation/jobs/learning-technology-ai-specialist-11-12-month-fixed-term-remote?utm_source=api) 🆕 | Generation UK & Ireland | Remote | Remote, India | Not listed | 2026-11-09 |
-| 100 | [AI/ML Engineer - Production AI & LLM Systems (India)](https://himalayas.app/companies/volga-partners/jobs/ai-ml-engineer-production-ai-llm-systems-india?utm_source=api) 🆕 | Volga Partners | Remote | Remote, India | INR 1500000-2200000 / year | 2026-11-09 |
+| 100 | [Music & Sound Annotation Expert](https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api) 🆕 | micro1 | Remote | Remote, Worldwide | Not listed | 2026-11-10 |
 | 98 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, APAC | Not listed | 2026-10-26 |
 | 96 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
 | 94 | [Customer Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004) | Figma | On-site | Bengaluru, India | Not listed | 2026-10-19 |
 | 93 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
-| 93 | [Data Engineer - AI Model Evaluator](https://himalayas.app/companies/mercor/jobs/data-engineer-ai-model-evaluator-5962627298?utm_source=api) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-11-09 |
 | 92 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-11-05 |
 | 91 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |
 | 91 | [Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads) | Reddit | Remote | Remote, Anywhere in the World | Not listed | 2026-10-26 |
 | 91 | [Enterprise Support Specialist (Bengaluru, India)](https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004) | Figma | Hybrid | Bengaluru, India | Not listed | 2026-10-23 |
 | 91 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
+| 89 | [Onboarding Documents Associate](https://jobicy.com/jobs/160713-onboarding-documents-associate) 🆕 | Clipboard | Remote | Remote, APAC | Not listed | 2026-11-09 |
 | 88 | [Customer Support Associate I](https://job-boards.greenhouse.io/zscaler/jobs/5263579007) | Zscaler | Hybrid | Bangalore, IND; Bangalore, IND; Mohali,  | Not listed | 2026-11-05 |
 | 87 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
-| 87 | [Customer Success Operations Specialist](https://himalayas.app/companies/max-security-solutions/jobs/customer-success-operations-specialist?utm_source=api) | MAX Security Solutions | Remote | Remote, India | Not listed | 2026-11-09 |
 | 85 | [Product Support Engineer III - ZIA/ZPA](https://job-boards.greenhouse.io/zscaler/jobs/5263573007) | Zscaler | Hybrid | Bangalore, IND; Mohali, IND | Not listed | 2026-10-20 |
 | 85 | [Product Support Engineer III](https://job-boards.greenhouse.io/zscaler/jobs/5263567007) | Zscaler | Hybrid | Bangalore, IND | Not listed | 2026-10-22 |
 | 85 | [Technical Support Specialist](https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1) | Freshly Commerce | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
