@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T17:47+00:00",
+ "updated": "2026-11-10T23:17+00:00",
  "count": 35,
- "new_this_run": 2,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "supabase-software-engineer-turso",
@@ -39,9 +39,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -268,7 +268,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -583,7 +583,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -665,32 +665,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "karat-software-engineer-interviewer",
-   "title": "Software Engineer Interviewer",
-   "company": "Karat",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "communication",
-    "english",
-    "product",
-    "onboarding",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -711,31 +685,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-30T08:37+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "opentrain-ai-full-stack-engineer",
-   "title": "Full-Stack Engineer",
-   "company": "OpenTrain AI",
-   "category": "AI-assisted developer (full stack)",
-   "score": 79,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "english",
-    "product",
-    "api",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -761,6 +710,32 @@
    "first_seen": "2026-10-27T14:28+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "karat-software-engineer-interviewer",
+   "title": "Software Engineer Interviewer",
+   "company": "Karat",
+   "category": "AI-assisted developer (full stack)",
+   "score": 78,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "evaluation",
+    "communication",
+    "english",
+    "product",
+    "onboarding",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T20:52+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
@@ -808,6 +783,31 @@
    ],
    "contract": false,
    "first_seen": "2026-10-26T12:57+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "opentrain-ai-full-stack-engineer",
+   "title": "Full-Stack Engineer",
+   "company": "OpenTrain AI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 75,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "english",
+    "product",
+    "api",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
