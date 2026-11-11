@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T06:11+00:00",
- "count": 33,
- "new_this_run": 1,
+ "updated": "2026-11-11T14:17+00:00",
+ "count": 42,
+ "new_this_run": 9,
  "jobs": [
   {
    "id": "supabase-software-engineer-turso",
@@ -39,9 +39,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -94,7 +94,7 @@
    "salary": "Not listed",
    "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-10",
+   "posted": "2026-11-11",
    "matched_skills": [
     "ai",
     "quality",
@@ -165,6 +165,87 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "bitwarden-implementation-engineer-customer-support-apac",
+   "title": "Implementation Engineer, Customer Support (APAC)",
+   "company": "Bitwarden",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Russian Federation, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/bitwarden/jobs/implementation-engineer-customer-support-apac?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "customer",
+    "support",
+    "english",
+    "product",
+    "sql",
+    "docker",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "trustonic-technical-support-engineer",
+   "title": "Technical Support Engineer",
+   "company": "Trustonic",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/trustonic/jobs/technical-support-engineer-8234650280?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "chainguard-technical-support-engineer",
+   "title": "Technical Support Engineer",
+   "company": "Chainguard",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/chainguard/jobs/technical-support-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "docker",
+    "github",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "alloy-technical-support-engineer-triage-discovery",
    "title": "Technical Support Engineer, Triage & Discovery",
    "company": "Alloy",
@@ -189,6 +270,32 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -241,6 +348,33 @@
    "contract": false,
    "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "cfra-quality-assurance-engineer-desktop-solutions",
+   "title": "Quality Assurance Engineer (Desktop Solutions)",
+   "company": "CFRA",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/cfra/jobs/quality-assurance-engineer-desktop-solutions?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "communication",
+    "product",
+    "api",
+    "postman"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -399,6 +533,29 @@
    "first_seen": "2026-11-05T10:50+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -561,6 +718,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -674,7 +855,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-11T06:11+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -752,25 +933,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sarvam-technical-writer",
-   "title": "Technical Writer",
-   "company": "Sarvam",
-   "category": "Non-coding tech (high pay)",
+   "id": "imagine-worldwide-data-quality-analyst",
+   "title": "Data Quality Analyst",
+   "company": "Imagine Worldwide",
+   "category": "QA / testing",
    "score": 74,
-   "location": "Bengaluru",
-   "mode": "On-site",
+   "location": "Remote, Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
+   "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-11-03",
+   "url": "https://himalayas.app/companies/imagine-worldwide/jobs/data-quality-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
    "matched_skills": [
-    "ai",
-    "product"
+    "quality",
+    "documentation",
+    "support",
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "descript-software-engineer-infrastructure",
@@ -840,6 +1023,48 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "sarvam-technical-writer",
+   "title": "Technical Writer",
+   "company": "Sarvam",
+   "category": "Non-coding tech (high pay)",
+   "score": 70,
+   "location": "Bengaluru",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-03",
+   "matched_skills": [
+    "ai",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T14:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   }
  ]
