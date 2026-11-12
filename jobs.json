@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T21:55+00:00",
- "count": 35,
- "new_this_run": 3,
+ "updated": "2026-11-12T02:56+00:00",
+ "count": 37,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "supabase-software-engineer-turso",
@@ -84,6 +84,87 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "supabase-developer-relations-engineer",
+   "title": "Developer Relations Engineer",
+   "company": "Supabase",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Global",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "support",
+    "product",
+    "remote",
+    "react",
+    "next.js",
+    "typescript",
+    "javascript",
+    "supabase"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "remotejobsone-forward-deployed-engineer-remote-worldwide",
+   "title": "Forward Deployed Engineer – Remote (Worldwide)",
+   "company": "RemoteJobsOne",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "USD 300000-650000 / year",
+   "url": "https://himalayas.app/companies/remotejobsone/jobs/forward-deployed-engineer-remote-worldwide?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "product",
+    "annotation"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "remotejobsone-software-engineer-new-grad-remote-worldwide",
+   "title": "Software Engineer, New Grad – Remote (Worldwide)",
+   "company": "RemoteJobsOne",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+   "mode": "Remote",
+   "salary": "USD 180000-250000 / year",
+   "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-new-grad-remote-worldwide?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "product",
+    "remote",
+    "react"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
@@ -136,6 +217,60 @@
    "first_seen": "2026-11-02T18:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "thynk-junior-revenue-operations-analyst",
+   "title": "Junior Revenue Operations Analyst",
+   "company": "Thynk",
+   "category": "Trainee / graduate program",
+   "score": 95,
+   "location": "Remote, Afghanistan, Andorra, Armenia, Azerbaijan, Bahrain, Bangladesh, Belarus, Bhutan, Brunei Darussalam, Cambodia, China, Cyprus, Georgia, Gibraltar, Greece, Holy See (Vatican City State), Hong Kong, India, Indonesia, Iran, Iraq, Israel, Italy, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Macao, Malaysia, Maldives, Malta, Moldova, Mongolia, Myanmar, Nepal, Oman, Pakistan, Palestine, State of, Philippines, Portugal, Qatar, Russian Federation, San Marino, Saudi Arabia, Singapore, South Korea, Spain, Sri Lanka, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Vietnam, Yemen",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/thynk/jobs/junior-revenue-operations-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "saas",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "sa-technologies-software-engineer-node-js-python",
+   "title": "Software Engineer – Node.js / Python",
+   "company": "SA Technologies",
+   "category": "AI-assisted developer (full stack)",
+   "score": 94,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sa-technologies/jobs/software-engineer-node-js-python?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "alloy-technical-support-engineer-triage-discovery",
@@ -217,33 +352,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-11",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-11T21:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "planetscale-ai-developer-experience-engineer",
    "title": "AI Developer Experience Engineer",
    "company": "PlanetScale",
@@ -298,33 +406,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "figma-enterprise-support-specialist-bengaluru-india",
-   "title": "Enterprise Support Specialist (Bengaluru, India)",
-   "company": "Figma",
-   "category": "Non-coding tech (high pay)",
-   "score": 91,
-   "location": "Bengaluru, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-23",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "prompt",
-    "saas",
-    "bug"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-29T09:55+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "fluence-international-inc-full-stack-developer",
    "title": "Full-Stack Developer",
    "company": "Fluence International, Inc.",
@@ -376,6 +457,32 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "sage-associate-managing-editor",
+   "title": "Associate Managing Editor",
+   "company": "Sage",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T02:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "zscaler-customer-support-associate-i",
    "title": "Customer Support Associate I",
    "company": "Zscaler",
@@ -399,33 +506,6 @@
    "first_seen": "2026-11-05T10:50+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "hivex-fullstack-developer-react-node-js",
-   "title": "FullStack Developer (react + node.js)",
-   "company": "Hivex",
-   "category": "AI-assisted developer (full stack)",
-   "score": 88,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/hivex/jobs/fullstack-developer-react-node-js-9559398791?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-11",
-   "matched_skills": [
-    "communication",
-    "english",
-    "api",
-    "remote",
-    "react",
-    "typescript",
-    "javascript",
-    "node"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-11T21:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -703,28 +783,6 @@
    "first_seen": "2026-11-11T06:11+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "highstreet-2026-1638-associate-functional-consultant",
-   "title": "2026-1638 - Associate Functional Consultant",
-   "company": "Highstreet",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/highstreet/jobs/2026-1638-associate-functional-consultant?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-11",
-   "matched_skills": [
-    "testing",
-    "product",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-11T21:55+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "glance-product-analyst-ii",
