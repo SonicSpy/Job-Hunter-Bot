@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T11:01+00:00",
- "count": 37,
- "new_this_run": 6,
+ "updated": "2026-11-12T18:53+00:00",
+ "count": 34,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "supabase-software-engineer-turso",
@@ -111,29 +111,56 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-software-engineer-python-container-images",
-   "title": "Software Engineer - Python - Container Images",
-   "company": "Canonical",
+   "id": "spektra-systems-software-development-engineer-i-full-stack-net-angular-ai-assisted-develop",
+   "title": "Software Development Engineer I (Full stack - .NET, Angular, AI-Assisted Develop",
+   "company": "Spektra Systems",
    "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, APAC,  EMEA,  LATAM,  Canada,  USA",
+   "score": 100,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-   "source": "Jobicy (find company link before applying)",
+   "url": "https://himalayas.app/companies/spektra-systems/jobs/software-development-engineer-i-full-stack-net-angular-ai-assisted-develop?utm_source=api",
+   "source": "Himalayas",
    "posted": "2026-11-12",
    "matched_skills": [
     "ai",
     "quality",
-    "testing",
-    "documentation",
-    "customer",
+    "support",
     "communication",
     "product",
-    "python"
+    "sql",
+    "github",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
+   "first_seen": "2026-11-12T18:53+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "micro1-music-sound-annotation-expert",
+   "title": "Music & Sound Annotation Expert",
+   "company": "micro1",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "english",
+    "annotation",
+    "onboarding",
+    "remote",
+    "react"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-12T18:53+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -190,60 +217,6 @@
    "first_seen": "2026-11-02T18:19+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-graduate-hr-generalist-apac",
-   "title": "Graduate HR Generalist - APAC",
-   "company": "Canonical",
-   "category": "Trainee / graduate program",
-   "score": 97,
-   "location": "Remote, APAC",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/150371-graduate-hr-generalist-apac",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
-   "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, APAC,  LATAM,  Canada,  China,  USA",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "alloy-technical-support-engineer-triage-discovery",
@@ -325,6 +298,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "newfold-digital-ai-software-development-engineer-in-test-ai-sdet",
+   "title": "AI - Software Development Engineer in Test (AI - SDET)",
+   "company": "Newfold Digital",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, Argentina, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-12",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-12T18:53+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "planetscale-ai-developer-experience-engineer",
    "title": "AI Developer Experience Engineer",
    "company": "PlanetScale",
@@ -403,32 +403,6 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-go-golang-software-engineer-developer-tooling-and-containers",
-   "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 90,
-   "location": "Remote, APAC",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "english",
-    "product",
-    "python",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -558,32 +532,6 @@
    "contract": false,
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "the-intect-se-sse-react",
-   "title": "SE/SSE (React)",
-   "company": "The Intect",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/the-intect/jobs/se-sse-react?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "testing",
-    "product",
-    "jira",
-    "analysis",
-    "react",
-    "javascript",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -764,29 +712,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mindtickle-customer-support-engineer-i",
-   "title": "Customer Support Engineer - I",
-   "company": "Mindtickle",
-   "category": "Non-coding tech (high pay)",
-   "score": 77,
-   "location": "Pune, Maharashtra",
-   "mode": "On-site",
-   "salary": "INR 0-0 per-month-salary",
-   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-04T14:35+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "elastic-associate-marketing-technology",
    "title": "Associate, Marketing Technology",
    "company": "Elastic",
@@ -805,29 +730,6 @@
    "first_seen": "2026-11-11T06:11+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "softgic-it-associate",
-   "title": "IT Associate",
-   "company": "Softgic",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/145745-it-associate",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "documentation",
-    "customer",
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-12T11:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "mercury-customer-support-specialist",
@@ -879,6 +781,29 @@
    "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "mindtickle-customer-support-engineer-i",
+   "title": "Customer Support Engineer - I",
+   "company": "Mindtickle",
+   "category": "Non-coding tech (high pay)",
+   "score": 73,
+   "location": "Pune, Maharashtra",
+   "mode": "On-site",
+   "salary": "INR 0-0 per-month-salary",
+   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "saas"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-04T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "descript-software-engineer-infrastructure",
