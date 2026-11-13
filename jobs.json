@@ -1,34 +1,8 @@
 {
- "updated": "2026-11-13T00:19+00:00",
- "count": 34,
- "new_this_run": 4,
+ "updated": "2026-11-13T07:54+00:00",
+ "count": 30,
+ "new_this_run": 0,
  "jobs": [
-  {
-   "id": "roblox-moderation-escalation-specialist",
-   "title": "Moderation Escalation Specialist",
-   "company": "Roblox",
-   "category": "Gaming",
-   "score": 100,
-   "location": "Gurugram, Haryana, India",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
    "title": "QA Engineer - Royal Lounge Casino",
@@ -84,60 +58,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "mercor-customer-support-specialist-fully-remote-upto-35k-yr",
-   "title": "Customer Support Specialist - Fully Remote | Upto $35K/yr",
-   "company": "mercor",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "USD 25000-35000 / year",
-   "url": "https://himalayas.app/companies/mercor/jobs/customer-support-specialist-fully-remote-upto-35k-yr?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "product",
-    "prompt",
-    "saas",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-13T00:19+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "rounds-full-stack-developer",
-   "title": "Full Stack Developer",
-   "company": "Rounds",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Belgium, British Indian Ocean Territory, Burundi, Comoros, Denmark, Djibouti, Egypt, Eritrea, Estonia, Ethiopia, Faroe Islands, Finland, France, Georgia, Germany, Guernsey, Iceland, Iraq, Ireland, Isle of Man, Israel, Jersey, Jordan, Kenya, Kuwait, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mauritius, Mayotte, Moldova, Monaco, Morocco, Mozambique, Netherlands, Norway, Oman, Palestine, State of, Qatar, Russian Federation, Rwanda, Réunion, Saudi Arabia, Seychelles, Somalia, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tanzania, Tunisia, Turkey, Uganda, Ukraine, United Arab Emirates, United Kingdom, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rounds/jobs/full-stack-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "testing",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T00:19+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "supabase-support-engineer-apac-weekends",
    "title": "Support Engineer (APAC - Weekends)",
    "company": "Supabase",
@@ -188,6 +108,32 @@
    ],
    "contract": false,
    "first_seen": "2026-11-02T18:19+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "roblox-moderation-escalation-specialist",
+   "title": "Moderation Escalation Specialist",
+   "company": "Roblox",
+   "category": "Gaming",
+   "score": 98,
+   "location": "Gurugram, Haryana, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-04",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -294,7 +240,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-13T00:19+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -455,31 +401,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "parexel-health-economics-associate",
-   "title": "Health Economics Associate",
-   "company": "Parexel",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/parexel/jobs/health-economics-associate-2838745641?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "quality",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T00:19+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "zscaler-product-support-engineer-iii",
    "title": "Product Support Engineer III",
    "company": "Zscaler",
@@ -555,33 +476,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-   "company": "Affirm",
-   "category": "AI-assisted developer (full stack)",
-   "score": 83,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-22",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "support",
-    "product",
-    "sql",
-    "onboarding",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-22T07:32+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
