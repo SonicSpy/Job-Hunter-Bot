@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T07:54+00:00",
- "count": 30,
- "new_this_run": 0,
+ "updated": "2026-11-13T16:18+00:00",
+ "count": 34,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -56,6 +56,33 @@
    "first_seen": "2026-11-12T02:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "micro1-music-sound-annotation-expert",
+   "title": "Music & Sound Annotation Expert",
+   "company": "micro1",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "english",
+    "annotation",
+    "onboarding",
+    "remote",
+    "react"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -165,6 +192,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -189,59 +242,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
-   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
-   "company": "Toptal",
-   "category": "AI evaluation / AI trainer",
-   "score": 92,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-05",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "product",
-    "api",
-    "python",
-    "docker",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T15:00+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-12",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T00:19+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -349,29 +349,53 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "zscaler-customer-support-associate-i",
-   "title": "Customer Support Associate I",
-   "company": "Zscaler",
-   "category": "Trainee / graduate program",
+   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
+   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+   "company": "Toptal",
+   "category": "AI evaluation / AI trainer",
    "score": 88,
-   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
-   "mode": "Hybrid",
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
-   "source": "Company careers (Greenhouse)",
+   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+   "source": "RemoteOK (find company link before applying)",
    "posted": "2026-11-05",
    "matched_skills": [
+    "llm",
     "ai",
-    "quality",
-    "customer",
-    "support",
     "product",
-    "analysis"
+    "api",
+    "python",
+    "docker",
+    "bugs"
    ],
    "contract": false,
-   "first_seen": "2026-11-05T10:50+00:00",
+   "first_seen": "2026-11-06T15:00+00:00",
    "new": false,
-   "verified": "Live on company careers page"
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "coinbase-broker-dealer-operations-associate",
@@ -401,32 +425,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "zscaler-product-support-engineer-iii",
-   "title": "Product Support Engineer III",
-   "company": "Zscaler",
-   "category": "Non-coding tech (high pay)",
-   "score": 85,
-   "location": "Bangalore, IND",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263567007",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-10-22",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "customer",
-    "support",
-    "product",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-22T13:45+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "freshly-commerce-technical-support-specialist",
    "title": "Technical Support Specialist",
    "company": "Freshly Commerce",
@@ -454,30 +452,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "extend-your-team-hil-support-specialist",
-   "title": "HIL Support Specialist",
-   "company": "Extend Your Team",
-   "category": "Non-coding tech (high pay)",
+   "id": "zscaler-customer-support-associate-i",
+   "title": "Customer Support Associate I",
+   "company": "Zscaler",
+   "category": "Trainee / graduate program",
    "score": 84,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
+   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
+   "mode": "Hybrid",
    "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-09",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-05",
    "matched_skills": [
+    "ai",
     "quality",
-    "documentation",
     "customer",
     "support",
-    "communication",
-    "english",
-    "product"
+    "product",
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-11-10T17:47+00:00",
+   "first_seen": "2026-11-05T10:50+00:00",
    "new": false,
-   "verified": "Link checked, still open"
+   "verified": "Live on company careers page"
   },
   {
    "id": "cribl-customer-success-engineer-sydney",
@@ -507,6 +504,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -527,6 +548,32 @@
    ],
    "contract": false,
    "first_seen": "2026-10-30T08:37+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "extend-your-team-hil-support-specialist",
+   "title": "HIL Support Specialist",
+   "company": "Extend Your Team",
+   "category": "Non-coding tech (high pay)",
+   "score": 80,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-11-09",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-10T17:47+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -766,6 +813,52 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "valtech-software-test-engineer",
+   "title": "Software Test Engineer",
+   "company": "Valtech",
+   "category": "QA / testing",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Hybrid",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-13",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-13T16:18+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   }
  ]
 }
