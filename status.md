@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed or ghost jobs removed: 0
+Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 36
-- weworkremotely: 498
+- weworkremotely: 486
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 668 | ok |
+| Anthropic | greenhouse | 670 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -172,7 +172,7 @@ Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed
 | Mastercard | not found | 0 | add careers link manually if needed |
 | Mech Mocha | not found | 0 | add careers link manually if needed |
 | Meesho | lever | 49 | ok |
-| Mercor | ashby | 90 | ok |
+| Mercor | ashby | 91 | ok |
 | Mindtickle | lever | 20 | ok |
 | Miniclip | not found | 0 | add careers link manually if needed |
 | Miro | ashby | 12 | ok |
@@ -202,7 +202,7 @@ Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 11 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 363 | ok |
+| Okta | greenhouse | 362 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 838 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-14T03:11+00:00 · raw jobs read: 12502 · matches: 29 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: no new jobs
+Telegram: sent 4

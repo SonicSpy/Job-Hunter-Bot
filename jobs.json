@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T03:11+00:00",
- "count": 29,
- "new_this_run": 0,
+ "updated": "2026-11-14T10:21+00:00",
+ "count": 32,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -56,6 +56,33 @@
    "first_seen": "2026-11-12T02:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "bjak-android-software-engineer",
+   "title": "Android Software Engineer",
+   "company": "Bjak",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-1896647237?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-14",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-14T10:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -120,9 +147,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -189,33 +216,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
-   "category": "Trainee / graduate program",
-   "score": 92,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-13",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T22:35+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "planetscale-ai-developer-experience-engineer",
@@ -299,30 +299,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "stripe-fraud-operations-associate-sdc",
-   "title": "Fraud Operations Associate SDC",
-   "company": "Stripe",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Bengaluru",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://stripe.com/jobs/search?gh_jid=8158943",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-10",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "support",
-    "analysis",
-    "stripe"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-10T09:45+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
    "company": "Toptal",
@@ -376,6 +352,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "first-advantage-associate-business-data-analyst",
+   "title": "Associate Business Data Analyst",
+   "company": "First Advantage",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/first-advantage/jobs/associate-business-data-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-14",
+   "matched_skills": [
+    "quality",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-14T10:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "freshly-commerce-technical-support-specialist",
    "title": "Technical Support Specialist",
    "company": "Freshly Commerce",
@@ -401,6 +402,30 @@
    "first_seen": "2026-10-27T20:04+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "stripe-fraud-operations-associate-sdc",
+   "title": "Fraud Operations Associate SDC",
+   "company": "Stripe",
+   "category": "Trainee / graduate program",
+   "score": 85,
+   "location": "Bengaluru",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://stripe.com/jobs/search?gh_jid=8158943",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-10",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "support",
+    "analysis",
+    "stripe"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-10T09:45+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "zscaler-customer-support-associate-i",
@@ -502,6 +527,52 @@
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mashreq-associate-cards-operations",
+   "title": "Associate -Cards Operations",
+   "company": "Mashreq",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mashreq/jobs/associate-cards-operations?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-14",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-14T10:21+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "climate-dialogue-japan-meliore-foundation-ceo-office-associate",
+   "title": "Meliore Foundation | CEO Office Associate",
+   "company": "Climate Dialogue Japan",
+   "category": "Trainee / graduate program",
+   "score": 80,
+   "location": "Remote, Afghanistan, Albania, Algeria, American Samoa, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Botswana, Bouvet Island, Brazil, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Cayman Islands, Central African Republic, Chad, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Costa Rica, Croatia, Cuba, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Falkland Islands (Malvinas), Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Heard Island and McDonald Islands, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kiribati, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Martinique, Mauritania, Mauritius, Mayotte, Mexico, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, Norfolk Island, North Macedonia, Northern Mariana Islands, Norway, Oman, Pakistan, Palau, Palestine, State of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Pitcairn, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten (Dutch part), Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Georgia and the South Sandwich Islands, South Korea, South Sudan, Spain, Sri Lanka, Sudan, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States Minor Outlying Islands, Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Virgin Islands, British, Virgin Islands, U.S., Wallis and Futuna, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/climate-dialogue-japan/jobs/meliore-foundation-ceo-office-associate?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-14",
+   "matched_skills": [
+    "support",
+    "communication",
+    "english",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-14T10:21+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
