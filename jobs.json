@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:03+00:00",
+ "updated": "2026-11-14T21:27+00:00",
  "count": 30,
  "new_this_run": 1,
  "jobs": [
@@ -81,6 +81,33 @@
    ],
    "contract": true,
    "first_seen": "2026-11-14T17:03+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-welsh-audio-specialist-freelance-ai-trainer-project",
+   "title": "Welsh Audio Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/welsh-audio-specialist-freelance-ai-trainer-project-2323745099?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-14",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "dataset",
+    "prompt"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-14T21:27+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -505,29 +532,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mashreq-associate-cards-operations",
-   "title": "Associate -Cards Operations",
-   "company": "Mashreq",
-   "category": "Trainee / graduate program",
-   "score": 80,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mashreq/jobs/associate-cards-operations?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-14",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-14T10:21+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "sarvam-product-strategy-associate",
    "title": "Product & Strategy Associate",
    "company": "Sarvam",
@@ -573,32 +577,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "karat-software-engineer-interviewer",
-   "title": "Software Engineer Interviewer",
-   "company": "Karat",
-   "category": "AI-assisted developer (full stack)",
-   "score": 78,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "evaluation",
-    "communication",
-    "english",
-    "product",
-    "onboarding",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "elastic-associate-marketing-technology",
@@ -647,24 +625,25 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "opentrain-ai-full-stack-engineer",
-   "title": "Full-Stack Engineer",
-   "company": "OpenTrain AI",
+   "id": "karat-software-engineer-interviewer",
+   "title": "Software Engineer Interviewer",
+   "company": "Karat",
    "category": "AI-assisted developer (full stack)",
-   "score": 75,
+   "score": 74,
    "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+   "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
    "source": "We Work Remotely (find company link before applying)",
    "posted": "2026-11-06",
    "matched_skills": [
     "evaluation",
-    "ai",
+    "communication",
     "english",
     "product",
-    "api",
-    "remote"
+    "onboarding",
+    "remote",
+    "community"
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
@@ -716,6 +695,31 @@
    ],
    "contract": false,
    "first_seen": "2026-11-02T07:39+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "opentrain-ai-full-stack-engineer",
+   "title": "Full-Stack Engineer",
+   "company": "OpenTrain AI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 71,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-06",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "english",
+    "product",
+    "api",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },

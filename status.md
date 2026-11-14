@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed or ghost jobs removed: 0
+Last run 2026-11-14T21:27+00:00 · raw jobs read: 12479 · matches: 30 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
 - remoteok: 97
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 35
-- weworkremotely: 507
+- workingnomads: 34
+- weworkremotely: 505
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 669 | ok |
+| Anthropic | greenhouse | 670 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 391 | ok |
+| MongoDB | greenhouse | 390 | ok |
 | Moon Active | ashby | 26 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -286,7 +286,7 @@ Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 15 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 32 | ok |
+| Toptal | lever | 0 | The read operation timed out |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 48 | ok |
 | Twilio | greenhouse | 115 | ok |
@@ -303,7 +303,7 @@ Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed
 | Vercel | greenhouse | 86 | ok |
 | Verloop.io | not found | 0 | add careers link manually if needed |
 | Visa | not found | 0 | add careers link manually if needed |
-| Voodoo | ashby | 101 | ok |
+| Voodoo | ashby | 102 | ok |
 | Walmart Global Tech | not found | 0 | add careers link manually if needed |
 | Wargaming | not found | 0 | add careers link manually if needed |
 | WebEngage | not found | 0 | add careers link manually if needed |
