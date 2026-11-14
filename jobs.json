@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T22:35+00:00",
- "count": 32,
- "new_this_run": 4,
+ "updated": "2026-11-14T03:11+00:00",
+ "count": 29,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -56,33 +56,6 @@
    "first_seen": "2026-11-12T02:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "mercor-customer-success-specialist-fully-remote-upto-35k-yr",
-   "title": "Customer Success Specialist - Fully Remote | Upto $35K/yr",
-   "company": "mercor",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "USD 20000-35000 / year",
-   "url": "https://himalayas.app/companies/mercor/jobs/customer-success-specialist-fully-remote-upto-35k-yr?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-13",
-   "matched_skills": [
-    "ai",
-    "documentation",
-    "customer",
-    "support",
-    "product",
-    "prompt",
-    "saas",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-13T22:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -147,9 +120,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -241,7 +214,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-13T22:35+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -348,32 +321,6 @@
    "first_seen": "2026-11-10T09:45+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "sage-associate-managing-editor",
-   "title": "Associate Managing Editor",
-   "company": "Sage",
-   "category": "Trainee / graduate program",
-   "score": 89,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-13",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T22:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
@@ -723,30 +670,6 @@
    "first_seen": "2026-11-04T14:35+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "safeguard-global-hrss-associate",
-   "title": "HRSS Associate",
-   "company": "Safeguard Global",
-   "category": "Trainee / graduate program",
-   "score": 73,
-   "location": "Remote, Costa Rica, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/safeguard-global/jobs/hrss-associate-6302051329?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-13",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-13T22:35+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "descript-software-engineer-infrastructure",
