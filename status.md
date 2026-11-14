@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed or ghost jobs removed: 0
+Last run 2026-11-14T17:03+00:00 · raw jobs read: 12513 · matches: 30 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
 - remoteok: 97
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 36
-- weworkremotely: 486
+- workingnomads: 35
+- weworkremotely: 507
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 670 | ok |
+| Anthropic | greenhouse | 669 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -128,7 +128,7 @@ Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed
 | InMobi | greenhouse | 74 | ok |
 | InVideo | not found | 0 | add careers link manually if needed |
 | Innovaccer | not found | 0 | add careers link manually if needed |
-| Intercom | greenhouse | 114 | ok |
+| Intercom | greenhouse | 115 | ok |
 | Internshala | not found | 0 | add careers link manually if needed |
 | Intuit | not found | 0 | add careers link manually if needed |
 | Invisible Technologies | smartrecruiters | 10 | ok |
@@ -204,7 +204,7 @@ Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 362 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 838 | ok |
+| OpenAI | ashby | 839 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-14T10:21+00:00 · raw jobs read: 12492 · matches: 32 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 1
