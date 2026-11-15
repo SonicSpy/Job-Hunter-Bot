@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T09:20+00:00",
- "count": 32,
- "new_this_run": 4,
+ "updated": "2026-11-15T17:06+00:00",
+ "count": 33,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -82,6 +82,33 @@
    "contract": false,
    "first_seen": "2026-11-14T21:27+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "micro1-music-sound-annotation-expert",
+   "title": "Music & Sound Annotation Expert",
+   "company": "micro1",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "english",
+    "annotation",
+    "onboarding",
+    "remote",
+    "react"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-15T17:06+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -214,7 +241,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-15T09:20+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -370,7 +397,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-15T09:20+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -497,7 +524,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-15T09:20+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -805,7 +832,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-15T09:20+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   }
  ]
