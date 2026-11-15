@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T17:06+00:00",
- "count": 33,
- "new_this_run": 1,
+ "updated": "2026-11-15T21:46+00:00",
+ "count": 31,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -58,33 +58,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-welsh-audio-specialist-freelance-ai-trainer-project",
-   "title": "Welsh Audio Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/welsh-audio-specialist-freelance-ai-trainer-project-2323745099?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-14",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "dataset",
-    "prompt"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-14T21:27+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "micro1-music-sound-annotation-expert",
    "title": "Music & Sound Annotation Expert",
    "company": "micro1",
@@ -108,6 +81,33 @@
    ],
    "contract": true,
    "first_seen": "2026-11-15T17:06+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-uzbek-language-specialist-freelance-ai-trainer-project",
+   "title": "Uzbek Language Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/uzbek-language-specialist-freelance-ai-trainer-project-7723446791?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "support",
+    "communication",
+    "annotation",
+    "prompt",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-15T21:46+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -219,32 +219,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-15T09:20+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -352,6 +326,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "sage-associate-managing-editor",
+   "title": "Associate Managing Editor",
+   "company": "Sage",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-15T21:46+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
    "company": "Toptal",
@@ -374,29 +374,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T15:00+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-15T09:20+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -425,6 +402,32 @@
    "contract": false,
    "first_seen": "2026-10-27T07:49+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "supportyourapp-fluent-english-l2-backend-developer-and-support-engineer",
+   "title": "(Fluent English) L2 Backend Developer and Support Engineer",
+   "company": "SupportYourApp",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-l2-backend-developer-and-support-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "customer",
+    "support",
+    "english",
+    "jira",
+    "saas",
+    "remote",
+    "community"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-15T21:46+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -502,30 +505,6 @@
    "first_seen": "2026-11-05T10:50+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-15T09:20+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "airtable-renewals-associate",
@@ -813,27 +792,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-15T09:20+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   }
  ]
 }

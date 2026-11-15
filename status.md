@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed or ghost jobs removed: 1
+Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 34
-- weworkremotely: 508
+- weworkremotely: 511
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 668 | ok |
+| Anthropic | greenhouse | 667 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 390 | ok |
+| MongoDB | greenhouse | 392 | ok |
 | Moon Active | ashby | 26 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -204,11 +204,11 @@ Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 361 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 837 | ok |
+| OpenAI | ashby | 838 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
-| Paytm | lever | 202 | ok |
+| Paytm | lever | 204 | ok |
 | Perplexity | ashby | 141 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-15T17:06+00:00 · raw jobs read: 12503 · matches: 33 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 3
