@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed or ghost jobs removed: 0
+Last run 2026-11-15T09:20+00:00 · raw jobs read: 12499 · matches: 32 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 34
-- weworkremotely: 503
+- weworkremotely: 495
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 670 | ok |
+| Anthropic | greenhouse | 668 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Coursera | greenhouse | 38 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 896 | ok |
+| Databricks | greenhouse | 895 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 26 | ok |
@@ -96,7 +96,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Games2win | not found | 0 | add careers link manually if needed |
 | Gameskraft | not found | 0 | add careers link manually if needed |
 | Garena | not found | 0 | add careers link manually if needed |
-| GitLab | greenhouse | 251 | ok |
+| GitLab | greenhouse | 254 | ok |
 | Glance | greenhouse | 34 | ok |
 | Glean | smartrecruiters | 1 | ok |
 | Global App Testing | not found | 0 | add careers link manually if needed |
@@ -196,7 +196,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Niantic | ashby | 0 | ok |
 | Nodding Heads Games | not found | 0 | add careers link manually if needed |
 | Nodwin Gaming | not found | 0 | add careers link manually if needed |
-| Notion | ashby | 166 | ok |
+| Notion | ashby | 165 | ok |
 | Nutanix | not found | 0 | add careers link manually if needed |
 | Nykaa | not found | 0 | add careers link manually if needed |
 | OYO | not found | 0 | add careers link manually if needed |
@@ -204,7 +204,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Octro | not found | 0 | add careers link manually if needed |
 | Okta | greenhouse | 362 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 839 | ok |
+| OpenAI | ashby | 840 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
@@ -218,7 +218,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Playrix | not found | 0 | add careers link manually if needed |
 | Playstudios | not found | 0 | add careers link manually if needed |
 | Playtika | not found | 0 | add careers link manually if needed |
-| Plivo | lever | 0 | HTTP Error 404: Not Found |
+| Plivo | not found | 0 | add careers link manually if needed |
 | Pocket FM | lever | 13 | ok |
 | Pocket Gems | greenhouse | 0 | ok |
 | PolicyBazaar | not found | 0 | add careers link manually if needed |
@@ -267,7 +267,7 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 786 | ok |
+| Stripe | greenhouse | 785 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 77 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: no new jobs
+Telegram: sent 4

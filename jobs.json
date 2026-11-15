@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T01:53+00:00",
- "count": 30,
- "new_this_run": 0,
+ "updated": "2026-11-15T09:20+00:00",
+ "count": 32,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -56,33 +56,6 @@
    "first_seen": "2026-11-12T02:56+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "micro1-music-sound-annotation-expert",
-   "title": "Music & Sound Annotation Expert",
-   "company": "micro1",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-14",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "english",
-    "annotation",
-    "onboarding",
-    "remote",
-    "react"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-14T17:03+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "invisible-technologies-welsh-audio-specialist-freelance-ai-trainer-project",
@@ -174,9 +147,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -216,6 +189,32 @@
    "contract": false,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-15T09:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -352,6 +351,29 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "customer",
+    "communication",
+    "product",
+    "steam"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-15T09:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "coinbase-broker-dealer-operations-associate",
    "title": "Broker Dealer Operations, Associate",
    "company": "Coinbase",
@@ -455,30 +477,27 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "cribl-customer-success-engineer-sydney",
-   "title": "Customer Success Engineer, Sydney",
-   "company": "Cribl",
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
    "category": "Non-coding tech (high pay)",
-   "score": 82,
-   "location": "Remote, Anywhere in the World",
+   "score": 81,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-24",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
    "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "onboarding",
-    "remote",
-    "gcp"
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-24T10:55+00:00",
-   "new": false,
+   "first_seen": "2026-11-15T09:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -579,26 +598,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "elastic-associate-marketing-technology",
-   "title": "Associate, Marketing Technology",
-   "company": "Elastic",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Bangalore, India",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-11",
-   "matched_skills": [
-    "ai"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-11T06:11+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "mercury-customer-support-specialist",
    "title": "Customer Support Specialist",
    "company": "Mercury",
@@ -670,6 +669,26 @@
    ],
    "contract": false,
    "first_seen": "2026-11-04T14:35+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "elastic-associate-marketing-technology",
+   "title": "Associate, Marketing Technology",
+   "company": "Elastic",
+   "category": "Trainee / graduate program",
+   "score": 73,
+   "location": "Bangalore, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-11",
+   "matched_skills": [
+    "ai"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-11T06:11+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -767,6 +786,27 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-15",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-15T09:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   }
  ]
 }
