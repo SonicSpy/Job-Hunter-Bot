@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-14T21:27+00:00 · raw jobs read: 12479 · matches: 30 · closed or ghost jobs removed: 0
+Last run 2026-11-15T01:53+00:00 · raw jobs read: 12508 · matches: 30 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-14T21:27+00:00 · raw jobs read: 12479 · matches: 30 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 34
-- weworkremotely: 505
+- weworkremotely: 503
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -286,10 +286,10 @@ Last run 2026-11-14T21:27+00:00 · raw jobs read: 12479 · matches: 30 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 15 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 0 | The read operation timed out |
+| Toptal | lever | 32 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 48 | ok |
-| Twilio | greenhouse | 115 | ok |
+| Twilio | greenhouse | 114 | ok |
 | Twitch | greenhouse | 58 | ok |
 | Uber | smartrecruiters | 1 | ok |
 | Ubisoft | not found | 0 | add careers link manually if needed |
@@ -328,4 +328,4 @@ Last run 2026-11-14T21:27+00:00 · raw jobs read: 12479 · matches: 30 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: no new jobs

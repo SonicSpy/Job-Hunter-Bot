@@ -1,16 +1,16 @@
 # Job matches for Bhargav
 
-Updated 14 Nov 2026, 21:27 UTC · 30 open matches
+Updated 15 Nov 2026, 01:53 UTC · 30 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
 | 100 | [QA Engineer - Royal Lounge Casino](https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008) | Scopely | Hybrid | IN - Bangalore, India | Not listed | 2026-11-06 |
 | 100 | [Developer Relations Engineer](https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4) | Supabase | Remote | Remote, Global | Not listed | 2026-11-11 |
 | 100 | [Music & Sound Annotation Expert](https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045?utm_source=api) | micro1 | Remote | Remote, Worldwide | Not listed | 2026-11-14 |
-| 100 | [Welsh Audio Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/welsh-audio-specialist-freelance-ai-trainer-project-2323745099?utm_source=api) 🆕 | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-14 |
+| 100 | [Welsh Audio Specialist - Freelance AI Trainer Project](https://himalayas.app/companies/inv/jobs/welsh-audio-specialist-freelance-ai-trainer-project-2323745099?utm_source=api) | Invisible Technologies | Remote | Remote, Worldwide | Not listed | 2026-11-14 |
 | 98 | [Support Engineer (APAC - Weekends)](https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3) | Supabase | Remote | Remote, APAC | Not listed | 2026-10-26 |
 | 98 | [Billing Support Specialist](https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e) | Supabase | Remote | Remote, Global | Not listed | 2026-11-02 |
-| 98 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
+| 98 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8327882?gh_jid=8327882) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-03 |
 | 93 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
 | 92 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
 | 91 | [AI Developer Experience Engineer](https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer) | PlanetScale | Remote | Remote, Anywhere in the World | Not listed | 2026-10-25 |

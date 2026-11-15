@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T21:27+00:00",
+ "updated": "2026-11-15T01:53+00:00",
  "count": 30,
- "new_this_run": 1,
+ "new_this_run": 0,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -108,7 +108,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-14T21:27+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -174,9 +174,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
