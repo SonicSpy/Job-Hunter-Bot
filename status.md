@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-11-16T02:01+00:00 · raw jobs read: 12501 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 34
-- weworkremotely: 511
+- weworkremotely: 509
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | Airtable | greenhouse | 9 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 667 | ok |
+| Anthropic | greenhouse | 663 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -142,7 +142,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
-| Keywords Studios | smartrecruiters | 31 | ok |
+| Keywords Studios | smartrecruiters | 29 | ok |
 | Khatabook | not found | 0 | add careers link manually if needed |
 | King | not found | 0 | add careers link manually if needed |
 | Kissflow | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 392 | ok |
+| MongoDB | greenhouse | 391 | ok |
 | Moon Active | ashby | 26 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -202,7 +202,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 11 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 361 | ok |
+| Okta | greenhouse | 360 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 838 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -234,13 +234,13 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | Revolut | not found | 0 | add careers link manually if needed |
 | Riot Games | greenhouse | 194 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 271 | ok |
+| Roblox | greenhouse | 270 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 15 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 183 | ok |
+| Rubrik | greenhouse | 184 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 50 | ok |
 | Sauce Labs | greenhouse | 10 | ok |
@@ -261,7 +261,7 @@ Last run 2026-11-15T21:46+00:00 · raw jobs read: 12510 · matches: 31 · closed
 | Slice | greenhouse | 21 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 43 | ok |
-| Snowflake | ashby | 376 | ok |
+| Snowflake | ashby | 377 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
