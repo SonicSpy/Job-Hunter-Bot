@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T02:01+00:00",
- "count": 31,
- "new_this_run": 3,
+ "updated": "2026-11-16T09:38+00:00",
+ "count": 30,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "scopely-qa-engineer-royal-lounge-casino",
@@ -81,62 +81,34 @@
    ],
    "contract": false,
    "first_seen": "2026-11-16T02:01+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-uzbek-language-specialist-freelance-ai-trainer-project",
-   "title": "Uzbek Language Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/uzbek-language-specialist-freelance-ai-trainer-project-7723446791?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "support",
-    "communication",
-    "annotation",
-    "prompt",
-    "remote"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-15T21:46+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
   {
-   "id": "micro1-video-data-annotator",
-   "title": "Video Data Annotator",
-   "company": "micro1",
-   "category": "AI evaluation / AI trainer",
-   "score": 99,
-   "location": "Remote, Worldwide",
+   "id": "gitlab-customer-success-engineer-india",
+   "title": "Customer Success Engineer, India",
+   "company": "GitLab",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/video-data-annotator-966806508?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-16",
    "matched_skills": [
-    "evaluation",
     "ai",
-    "quality",
+    "documentation",
     "customer",
     "support",
-    "english",
-    "annotation",
+    "communication",
+    "product",
     "remote"
    ],
-   "contract": true,
-   "first_seen": "2026-11-16T02:01+00:00",
+   "contract": false,
+   "first_seen": "2026-11-16T09:38+00:00",
    "new": true,
-   "verified": "Link checked, still open"
+   "verified": "Live on company careers page"
   },
   {
    "id": "supabase-support-engineer-apac-weekends",
@@ -201,9 +173,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
+   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "matched_skills": [
     "ai",
     "customer",
@@ -217,6 +189,33 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "canonical-ubuntu-linux-kernel-test-engineer",
+   "title": "Ubuntu Linux Kernel Test Engineer",
+   "company": "Canonical",
+   "category": "QA / testing",
+   "score": 97,
+   "location": "Remote, APAC,  China",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-16",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "communication",
+    "english",
+    "analysis",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-16T09:38+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "alloy-technical-support-engineer-triage-discovery",
@@ -246,6 +245,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "distro-documentation-and-change-support-specialist",
+   "title": "Documentation and Change Support Specialist",
+   "company": "Distro",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "INR 1000000-1200000 / year",
+   "url": "https://himalayas.app/companies/distro/jobs/documentation-and-change-support-specialist?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-16",
+   "matched_skills": [
+    "evaluation",
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-16T09:38+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -270,33 +296,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "planetscale-ai-developer-experience-engineer",
-   "title": "AI Developer Experience Engineer",
-   "company": "PlanetScale",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-25",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "saas"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-25T11:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "reddit-frontend-engineer-ads",
@@ -350,29 +349,6 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "mercor-cs-benchmark-expert-fully-remote-upto-84-hr",
-   "title": "CS Benchmark Expert - Fully Remote | Upto $84/hr",
-   "company": "mercor",
-   "category": "AI evaluation / AI trainer",
-   "score": 90,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/mercor/jobs/cs-benchmark-expert-fully-remote-upto-84-hr?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-15",
-   "matched_skills": [
-    "ai",
-    "support",
-    "english",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-16T02:01+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -505,6 +481,30 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "global-development-incubator-associate-strategy-and-build-gdi-south-asia",
+   "title": "Associate, Strategy and Build - GDI South Asia",
+   "company": "Global Development Incubator",
+   "category": "Trainee / graduate program",
+   "score": 83,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "INR 2000000-2400000 / year",
+   "url": "https://himalayas.app/companies/global-development-incubator/jobs/associate-strategy-and-build-gdi-south-asia?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-16",
+   "matched_skills": [
+    "quality",
+    "support",
+    "communication",
+    "analysis",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-16T09:38+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "airtable-renewals-associate",
    "title": "Renewals Associate",
    "company": "Airtable",
@@ -574,30 +574,6 @@
    ],
    "contract": false,
    "first_seen": "2026-10-27T14:28+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "paytm-associate-it-audit",
-   "title": "Associate IT Audit",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 78,
-   "location": "Noida, Uttar Pradesh",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-03",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
