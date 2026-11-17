@@ -1,35 +1,8 @@
 {
- "updated": "2026-11-17T03:49+00:00",
- "count": 35,
- "new_this_run": 5,
+ "updated": "2026-11-17T13:20+00:00",
+ "count": 39,
+ "new_this_run": 7,
  "jobs": [
-  {
-   "id": "scopely-qa-engineer-royal-lounge-casino",
-   "title": "QA Engineer - Royal Lounge Casino",
-   "company": "Scopely",
-   "category": "Gaming · QA / testing",
-   "score": 100,
-   "location": "IN - Bangalore, India",
-   "mode": "Hybrid",
-   "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-06",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "sql"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-06T15:00+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
   {
    "id": "supabase-developer-relations-engineer",
    "title": "Developer Relations Engineer",
@@ -111,6 +84,87 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "hevo-data-technical-writer",
+   "title": "Technical Writer",
+   "company": "Hevo Data",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Bangalore, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/hevodata/3f239b8e-6773-456a-8da2-d992b927c65c",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "documentation",
+    "english",
+    "product",
+    "api",
+    "sql",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "snowflake-forward-deployed-engineer-frontier-engineering",
+   "title": "Forward Deployed Engineer, Frontier Engineering",
+   "company": "Snowflake",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, IN-Bangalore-MSO, IN-Mumbai-MSO",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6",
+   "source": "Company careers (Ashby)",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "customer",
+    "communication",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "supplyhouse-com-frontend-engineer",
+   "title": "Frontend Engineer",
+   "company": "SupplyHouse.com",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "USD 24298-30372 / year",
+   "url": "https://himalayas.app/companies/supplyhouse-com/jobs/frontend-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "appetiser-apps-junior-full-stack-developer",
    "title": "Junior Full-Stack Developer",
    "company": "Appetiser Apps",
@@ -134,7 +188,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-17T03:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -267,7 +321,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-17T03:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -297,33 +351,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "reddit-frontend-engineer-ads",
-   "title": "Frontend Engineer, Ads",
-   "company": "Reddit",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "support",
-    "communication",
-    "product",
-    "prompt",
-    "docker"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "fluence-international-inc-full-stack-developer",
    "title": "Full-Stack Developer",
    "company": "Fluence International, Inc.",
@@ -348,6 +375,31 @@
    "contract": true,
    "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "micro1-junior-machine-learning-engineer",
+   "title": "Junior Machine Learning Engineer",
+   "company": "micro1",
+   "category": "Trainee / graduate program",
+   "score": 91,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "support",
+    "onboarding",
+    "python",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -423,7 +475,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-17T03:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -530,6 +582,56 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "resilio-partners-business-community-manager-founder-network-remote",
+   "title": "Business Community Manager — Founder Network (Remote)",
+   "company": "Resilio Partners",
+   "category": "Gaming",
+   "score": 84,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 40000-50000 / year",
+   "url": "https://himalayas.app/companies/resilio-partners/jobs/business-community-manager-founder-network-remote?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "safetywing-product-engineer",
+   "title": "Product Engineer",
+   "company": "SafetyWing",
+   "category": "AI-assisted developer (full stack)",
+   "score": 82,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/safetywing/jobs/product-engineer-1774480954?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "testing",
+    "product",
+    "remote",
+    "react",
+    "next.js",
+    "typescript",
+    "tailwind"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "openspecimen-krishagni-quality-analyst-business-analyst",
    "title": "Quality analyst / Business analyst",
    "company": "OpenSpecimen (Krishagni)",
@@ -550,7 +652,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-17T03:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -601,6 +703,31 @@
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "99brightminds-salesforce-qa-testing-analyst",
+   "title": "Salesforce QA / Testing Analyst",
+   "company": "99brightminds",
+   "category": "QA / testing",
+   "score": 80,
+   "location": "Remote, Egypt, India, Jordan",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/99brightminds/jobs/salesforce-qa-testing-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "communication",
+    "product",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -670,32 +797,6 @@
    "first_seen": "2026-11-16T20:26+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "mercury-customer-support-specialist",
-   "title": "Customer Support Specialist",
-   "company": "Mercury",
-   "category": "Non-coding tech (high pay)",
-   "score": 76,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-26",
-   "matched_skills": [
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "remote",
-    "bugs"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-26T12:57+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "karat-software-engineer-interviewer",
@@ -879,7 +980,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-17T03:49+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   }
  ]
