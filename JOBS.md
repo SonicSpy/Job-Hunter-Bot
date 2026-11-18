@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 17 Nov 2026, 22:19 UTC · 34 open matches
+Updated 18 Nov 2026, 04:17 UTC · 28 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -8,29 +8,23 @@ Updated 17 Nov 2026, 22:19 UTC · 34 open matches
 | 100 | [Customer Success Engineer, India](https://job-boards.greenhouse.io/gitlab/jobs/8926443002) | GitLab | Remote | Remote, India | Not listed | 2026-11-16 |
 | 100 | [Technical Writer](https://jobs.lever.co/hevodata/3f239b8e-6773-456a-8da2-d992b927c65c) | Hevo Data | On-site | Bangalore, India | Not listed | 2026-11-17 |
 | 100 | [Forward Deployed Engineer, Frontier Engineering](https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6) | Snowflake | Remote | Remote, IN-Bangalore-MSO, IN-Mumbai-MSO | Not listed | 2026-11-17 |
-| 100 | [Software Development Engineer II (Fullstack) - Contacts](https://himalayas.app/companies/highlevel/jobs/software-development-engineer-ii-fullstack-contacts?utm_source=api) 🆕 | HighLevel | Remote | Remote, India | Not listed | 2026-11-17 |
 | 98 | [Billing Support Specialist](https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e) | Supabase | Remote | Remote, Global | Not listed | 2026-11-02 |
 | 98 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
-| 96 | [AI Annotation Specialist - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-annotation-specialist-fully-remote-upto-30-hr-2933009768?utm_source=api) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-11-17 |
-| 94 | [AI Software Engineer (Python/Java) - India](https://himalayas.app/companies/zimperium/jobs/ai-software-engineer-python-java-india?utm_source=api) 🆕 | Zimperium | Remote | Remote, India | Not listed | 2026-11-17 |
 | 93 | [Technical Support Engineer, Triage & Discovery](https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery) | Alloy | Remote | Remote, Anywhere in the World | Not listed | 2026-10-31 |
 | 92 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
 | 91 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
-| 89 | [Associate Managing Editor](https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api) 🆕 | Sage | Remote | Remote, India | Not listed | 2026-11-17 |
+| 90 | [Technical Support Consultant](https://himalayas.app/companies/harris/jobs/technical-support-consultant?utm_source=api) 🆕 | Harris | Remote | Remote, India | Not listed | 2026-11-18 |
 | 88 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-11-05 |
 | 87 | [Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate) | Coinbase | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 85 | [Technical Support Specialist](https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1) | Freshly Commerce | Remote | Remote, Anywhere in the World | Not listed | 2026-10-27 |
 | 85 | [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=8158943) | Stripe | On-site | Bengaluru | Not listed | 2026-11-10 |
 | 84 | [Customer Support Associate I](https://job-boards.greenhouse.io/zscaler/jobs/5263579007) | Zscaler | Hybrid | Bangalore, IND; Bangalore, IND; Mohali,  | Not listed | 2026-11-05 |
-| 84 | [Product Specialist](https://himalayas.app/companies/avam/jobs/product-specialist-1549249565?utm_source=api) 🆕 | Avam | Remote | Remote, India | Not listed | 2026-11-17 |
-| 83 | [Desktop Support Specialist - Fully Remote | Upto $70/hr](https://himalayas.app/companies/mercor/jobs/desktop-support-specialist-fully-remote-upto-70-hr?utm_source=api) 🆕 | mercor | Remote | Remote, India | Not listed | 2026-11-17 |
-| 83 | [Associate - Product Marketing](https://himalayas.app/companies/drivetrain/jobs/associate-product-marketing?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India | Not listed | 2026-11-17 |
+| 82 | [React Developer](https://himalayas.app/companies/learnrush/jobs/react-developer?utm_source=api) 🆕 | Learnrush | Remote | Remote, India | Not listed | 2026-11-18 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 78 | [Product & Strategy Associate](https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2) | Sarvam | On-site | Bengaluru | Not listed | 2026-10-27 |
 | 78 | [Associate IT Audit](https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c) | Paytm | On-site | Noida, Uttar Pradesh | Not listed | 2026-11-03 |
 | 77 | [Customer Support Associate- Paytm Money](https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0) | Paytm | On-site | Mumbai, Maharashtra | Not listed | 2026-11-16 |
 | 76 | [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) | Extend Your Team | Remote | Remote, Worldwide | Not listed | 2026-11-09 |
-| 76 | [Software Engineer (Data Engineering)](https://himalayas.app/companies/drivetrain/jobs/software-engineer-data-engineering?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India, United States | Not listed | 2026-11-17 |
 | 74 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 73 | [Customer Support Engineer - I](https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7) | Mindtickle | On-site | Pune, Maharashtra | INR 0-0 per-month-salary | 2026-11-04 |
 | 73 | [Associate, Marketing Technology](https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068) | Elastic | On-site | Bangalore, India | Not listed | 2026-11-11 |
