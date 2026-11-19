@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 18 Nov 2026, 21:25 UTC · 32 open matches
+Updated 19 Nov 2026, 03:23 UTC · 27 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -11,23 +11,18 @@ Updated 18 Nov 2026, 21:25 UTC · 32 open matches
 | 98 | [Billing Support Specialist](https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e) | Supabase | Remote | Remote, Global | Not listed | 2026-11-02 |
 | 98 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
 | 94 | [AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india) | Volga Partners | Remote | Remote, Asia Only | Not listed | 2026-11-18 |
-| 94 | [Software Development Engineer II (Frontend) - Tasks](https://himalayas.app/companies/highlevel/jobs/software-development-engineer-ii-frontend-tasks?utm_source=api) 🆕 | HighLevel | Remote | Remote, India | Not listed | 2026-11-18 |
+| 94 | [Software Development Engineer II (Frontend) - Opportunities](https://himalayas.app/companies/highlevel/jobs/software-development-engineer-ii-frontend-opportunities?utm_source=api) 🆕 | HighLevel | Remote | Remote, India | Not listed | 2026-11-18 |
 | 92 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
-| 92 | [Associate Developer](https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api) 🆕 | ASG Company | Remote | Remote, Worldwide | Not listed | 2026-11-18 |
-| 92 | [Quality Assurance Engineer](https://himalayas.app/companies/particle41/jobs/quality-assurance-engineer?utm_source=api) 🆕 | Particle41 | Remote | Remote, India | Not listed | 2026-11-18 |
+| 92 | [Associate Developer](https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api) | ASG Company | Remote | Remote, Worldwide | Not listed | 2026-11-18 |
 | 91 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remote | Remote, Worldwide | $3.5k–$5k/month | 2026-10-29 |
-| 90 | [Technical Support Consultant](https://himalayas.app/companies/altera-digital-health/jobs/technical-support-consultant?utm_source=api) 🆕 | Altera Digital Health | Remote | Remote, India | Not listed | 2026-11-18 |
+| 90 | [Technical Support Consultant](https://himalayas.app/companies/altera-digital-health/jobs/technical-support-consultant?utm_source=api) | Altera Digital Health | Remote | Remote, India | Not listed | 2026-11-18 |
+| 90 | [Software Engineer (Electron.js)](https://himalayas.app/companies/micro1/jobs/software-engineer-electron-js?utm_source=api) 🆕 | micro1 | Remote | Remote, Worldwide | USD 150000-220000 / year | 2026-11-18 |
 | 88 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Remote | Remote, Anywhere in the World | Not listed | 2026-11-05 |
 | 88 | [Freelance Game Tester (PS5)](https://weworkremotely.com/remote-jobs/side-freelance-game-tester-ps5) | Side | Remote | Remote, Asia Only | Not listed | 2026-11-18 |
-| 87 | [Frontend Engineer](https://himalayas.app/companies/drivetrain/jobs/frontend-engineer-6599186328?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India | Not listed | 2026-11-18 |
-| 87 | [Business Analyst - Customer Platform](https://himalayas.app/companies/drivetrain/jobs/business-analyst-customer-platform?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India | Not listed | 2026-11-18 |
 | 84 | [Customer Support Associate I](https://job-boards.greenhouse.io/zscaler/jobs/5263579007) | Zscaler | Hybrid | Bangalore, IND; Bangalore, IND; Mohali,  | Not listed | 2026-11-05 |
-| 84 | [SaaS Implementation & Client Onboarding Specialist](https://himalayas.app/companies/vame-ltd/jobs/saas-implementation-client-onboarding-specialist?utm_source=api) 🆕 | VAme Ltd | Remote | Remote, Worldwide | Not listed | 2026-11-18 |
-| 81 | [ML/AI Engineer](https://himalayas.app/companies/lingaro/jobs/ml-ai-engineer-3566224246?utm_source=api) 🆕 | Lingaro | Remote | Remote, India | Not listed | 2026-11-18 |
+| 84 | [SaaS Implementation & Client Onboarding Specialist](https://himalayas.app/companies/vame-ltd/jobs/saas-implementation-client-onboarding-specialist?utm_source=api) | VAme Ltd | Remote | Remote, Worldwide | Not listed | 2026-11-18 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
-| 78 | [Solutions Consultant - FP&A (Product Implementation)](https://himalayas.app/companies/drivetrain/jobs/solutions-consultant-fp-a-product-implementation-2308052247?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India | Not listed | 2026-11-18 |
 | 77 | [Customer Support Associate- Paytm Money](https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0) | Paytm | On-site | Mumbai, Maharashtra | Not listed | 2026-11-16 |
-| 77 | [Associate - Growth Marketing](https://himalayas.app/companies/drivetrain/jobs/associate-growth-marketing?utm_source=api) 🆕 | Drivetrain | Remote | Remote, India | Not listed | 2026-11-18 |
 | 76 | [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) | Extend Your Team | Remote | Remote, Worldwide | Not listed | 2026-11-09 |
 | 74 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 73 | [Customer Support Engineer - I](https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7) | Mindtickle | On-site | Pune, Maharashtra | INR 0-0 per-month-salary | 2026-11-04 |

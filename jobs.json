@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T21:25+00:00",
- "count": 32,
- "new_this_run": 10,
+ "updated": "2026-11-19T03:23+00:00",
+ "count": 27,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "supabase-developer-relations-engineer",
@@ -191,29 +191,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "highlevel-software-development-engineer-ii-frontend-tasks",
-   "title": "Software Development Engineer II (Frontend) - Tasks",
+   "id": "highlevel-software-development-engineer-ii-frontend-opportunities",
+   "title": "Software Development Engineer II (Frontend) - Opportunities",
    "company": "HighLevel",
    "category": "AI-assisted developer (full stack)",
    "score": 94,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/highlevel/jobs/software-development-engineer-ii-frontend-tasks?utm_source=api",
+   "url": "https://himalayas.app/companies/highlevel/jobs/software-development-engineer-ii-frontend-opportunities?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-18",
    "matched_skills": [
     "ai",
-    "quality",
-    "testing",
     "customer",
     "support",
     "product",
     "api",
-    "dataset"
+    "remote",
+    "react",
+    "typescript"
    ],
    "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
+   "first_seen": "2026-11-19T03:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -267,34 +267,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "particle41-quality-assurance-engineer",
-   "title": "Quality Assurance Engineer",
-   "company": "Particle41",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/particle41/jobs/quality-assurance-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -348,6 +321,32 @@
    ],
    "contract": false,
    "first_seen": "2026-11-18T21:25+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "micro1-software-engineer-electron-js",
+   "title": "Software Engineer (Electron.js)",
+   "company": "micro1",
+   "category": "AI-assisted developer (full stack)",
+   "score": 90,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 150000-220000 / year",
+   "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-electron-js?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-18",
+   "matched_skills": [
+    "ai",
+    "support",
+    "product",
+    "remote",
+    "typescript",
+    "javascript",
+    "node"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T03:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -401,56 +400,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "drivetrain-frontend-engineer",
-   "title": "Frontend Engineer",
-   "company": "Drivetrain",
-   "category": "AI-assisted developer (full stack)",
-   "score": 87,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/frontend-engineer-6599186328?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "customer",
-    "product",
-    "remote",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "drivetrain-business-analyst-customer-platform",
-   "title": "Business Analyst - Customer Platform",
-   "company": "Drivetrain",
-   "category": "Non-coding tech (high pay)",
-   "score": 87,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/business-analyst-customer-platform?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "sql",
-    "saas",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "zscaler-customer-support-associate-i",
    "title": "Customer Support Associate I",
    "company": "Zscaler",
@@ -498,29 +447,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "lingaro-ml-ai-engineer",
-   "title": "ML/AI Engineer",
-   "company": "Lingaro",
-   "category": "AI-assisted developer (full stack)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lingaro/jobs/ml-ai-engineer-3566224246?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "ai",
-    "prompt",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -548,29 +475,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "drivetrain-solutions-consultant-fp-a-product-implementation",
-   "title": "Solutions Consultant - FP&A (Product Implementation)",
-   "company": "Drivetrain",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/solutions-consultant-fp-a-product-implementation-2308052247?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-customer-support-associate-paytm-money",
    "title": "Customer Support Associate- Paytm Money",
    "company": "Paytm",
@@ -590,28 +494,6 @@
    "first_seen": "2026-11-16T20:26+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "drivetrain-associate-growth-marketing",
-   "title": "Associate - Growth Marketing",
-   "company": "Drivetrain",
-   "category": "Trainee / graduate program",
-   "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/associate-growth-marketing?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "customer",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T21:25+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "extend-your-team-hil-support-specialist",
