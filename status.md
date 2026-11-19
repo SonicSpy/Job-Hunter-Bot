@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed or ghost jobs removed: 0
+Last run 2026-11-19T21:29+00:00 · raw jobs read: 12406 · matches: 43 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 240
+- remotive: 225
 - remoteok: 97
 - himalayas: 1000
 - jobicy: 100
-- workingnomads: 37
-- weworkremotely: 340
+- workingnomads: 36
+- weworkremotely: 434
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Airtable | greenhouse | 11 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 638 | ok |
+| Anthropic | greenhouse | 637 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -42,7 +42,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | BrowserStack | not found | 0 | add careers link manually if needed |
 | Bungie | greenhouse | 4 | ok |
 | CD Projekt | not found | 0 | add careers link manually if needed |
-| CRED | lever | 13 | ok |
+| CRED | lever | 12 | ok |
 | Calendly | greenhouse | 5 | ok |
 | Canonical | greenhouse | 317 | ok |
 | Canva | smartrecruiters | 35 | ok |
@@ -54,7 +54,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 497 | ok |
+| Cloudflare | greenhouse | 498 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 125 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Coursera | greenhouse | 37 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 905 | ok |
+| Databricks | greenhouse | 900 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 27 | ok |
@@ -71,12 +71,12 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Dream11 | not found | 0 | add careers link manually if needed |
 | Druva | greenhouse | 27 | ok |
 | Dukaan | not found | 0 | add careers link manually if needed |
-| Duolingo | greenhouse | 54 | ok |
+| Duolingo | greenhouse | 55 | ok |
 | EA | not found | 0 | add careers link manually if needed |
-| Elastic | greenhouse | 373 | ok |
+| Elastic | greenhouse | 372 | ok |
 | Electronic Arts | not found | 0 | add careers link manually if needed |
 | Embracer | not found | 0 | add careers link manually if needed |
-| Epic Games | greenhouse | 135 | ok |
+| Epic Games | greenhouse | 140 | ok |
 | Eruditus | not found | 0 | add careers link manually if needed |
 | Everstage | not found | 0 | add careers link manually if needed |
 | Exotel | not found | 0 | add careers link manually if needed |
@@ -84,19 +84,19 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Facilio | not found | 0 | add careers link manually if needed |
 | Fampay | lever | 14 | ok |
 | Fi Money | not found | 0 | add careers link manually if needed |
-| Figma | greenhouse | 143 | ok |
+| Figma | greenhouse | 145 | ok |
 | Flipkart | not found | 0 | add careers link manually if needed |
 | Freshdesk | not found | 0 | add careers link manually if needed |
 | Freshworks | lever | 0 | ok |
 | Frontier Developments | not found | 0 | add careers link manually if needed |
 | GUVI | not found | 0 | add careers link manually if needed |
 | Gameberry Labs | not found | 0 | add careers link manually if needed |
-| Gameloft | smartrecruiters | 55 | ok |
+| Gameloft | smartrecruiters | 52 | ok |
 | Games24x7 | not found | 0 | add careers link manually if needed |
 | Games2win | not found | 0 | add careers link manually if needed |
 | Gameskraft | not found | 0 | add careers link manually if needed |
 | Garena | not found | 0 | add careers link manually if needed |
-| GitLab | greenhouse | 248 | ok |
+| GitLab | greenhouse | 249 | ok |
 | Glance | greenhouse | 27 | ok |
 | Glean | smartrecruiters | 1 | ok |
 | Global App Testing | not found | 0 | add careers link manually if needed |
@@ -104,13 +104,13 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Go Digit | not found | 0 | add careers link manually if needed |
 | Gojek | not found | 0 | add careers link manually if needed |
 | Grab | smartrecruiters | 100 | ok |
-| Grafana Labs | greenhouse | 135 | ok |
+| Grafana Labs | greenhouse | 137 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
 | Groww | greenhouse | 9 | ok |
 | Gupshup | not found | 0 | add careers link manually if needed |
 | HackerEarth | not found | 0 | add careers link manually if needed |
-| HackerRank | greenhouse | 33 | ok |
+| HackerRank | greenhouse | 31 | ok |
 | Handshake | greenhouse | 0 | ok |
 | Haptik | not found | 0 | add careers link manually if needed |
 | HashiCorp | not found | 0 | add careers link manually if needed |
@@ -128,7 +128,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | InMobi | greenhouse | 78 | ok |
 | InVideo | not found | 0 | add careers link manually if needed |
 | Innovaccer | not found | 0 | add careers link manually if needed |
-| Intercom | greenhouse | 118 | ok |
+| Intercom | greenhouse | 122 | ok |
 | Internshala | not found | 0 | add careers link manually if needed |
 | Intuit | not found | 0 | add careers link manually if needed |
 | Invisible Technologies | smartrecruiters | 10 | ok |
@@ -138,7 +138,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Junglee Games | not found | 0 | add careers link manually if needed |
 | Jupiter | not found | 0 | add careers link manually if needed |
 | Juspay | not found | 0 | add careers link manually if needed |
-| Kabam | lever | 29 | ok |
+| Kabam | lever | 30 | ok |
 | Kapture CX | not found | 0 | add careers link manually if needed |
 | Katalon | not found | 0 | add careers link manually if needed |
 | Keka | not found | 0 | add careers link manually if needed |
@@ -180,7 +180,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | MobiKwik | not found | 0 | add careers link manually if needed |
 | Mobile Premier League | not found | 0 | add careers link manually if needed |
 | Mojang | not found | 0 | add careers link manually if needed |
-| MongoDB | greenhouse | 403 | ok |
+| MongoDB | greenhouse | 411 | ok |
 | Moon Active | ashby | 25 | ok |
 | Moonfrog | not found | 0 | add careers link manually if needed |
 | Myntra | not found | 0 | add careers link manually if needed |
@@ -189,27 +189,27 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Navi | ashby | 2 | ok |
 | Nazara | not found | 0 | add careers link manually if needed |
 | Netcore Cloud | not found | 0 | add careers link manually if needed |
-| Netlify | greenhouse | 5 | ok |
+| Netlify | greenhouse | 6 | ok |
 | Netmarble | not found | 0 | add careers link manually if needed |
 | Newton School | smartrecruiters | 1 | ok |
 | Nexters | not found | 0 | add careers link manually if needed |
 | Niantic | ashby | 0 | ok |
 | Nodding Heads Games | not found | 0 | add careers link manually if needed |
 | Nodwin Gaming | not found | 0 | add careers link manually if needed |
-| Notion | ashby | 168 | ok |
+| Notion | ashby | 169 | ok |
 | Nutanix | not found | 0 | add careers link manually if needed |
 | Nykaa | not found | 0 | add careers link manually if needed |
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 10 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 365 | ok |
+| Okta | greenhouse | 364 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
-| OpenAI | ashby | 833 | ok |
+| OpenAI | ashby | 842 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
 | Paradox Interactive | not found | 0 | add careers link manually if needed |
 | PayPal | not found | 0 | add careers link manually if needed |
 | Paytm | lever | 197 | ok |
-| Perplexity | ashby | 147 | ok |
+| Perplexity | ashby | 148 | ok |
 | PharmEasy | not found | 0 | add careers link manually if needed |
 | PhonePe | not found | 0 | add careers link manually if needed |
 | Physics Wallah | not found | 0 | add careers link manually if needed |
@@ -219,7 +219,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Playstudios | not found | 0 | add careers link manually if needed |
 | Playtika | not found | 0 | add careers link manually if needed |
 | Plivo | not found | 0 | add careers link manually if needed |
-| Pocket FM | lever | 12 | ok |
+| Pocket FM | lever | 10 | ok |
 | Pocket Gems | greenhouse | 0 | ok |
 | PolicyBazaar | not found | 0 | add careers link manually if needed |
 | Postman | not found | 0 | add careers link manually if needed |
@@ -228,27 +228,27 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Quizizz | not found | 0 | add careers link manually if needed |
 | Rapido | not found | 0 | add careers link manually if needed |
 | Razorpay | not found | 0 | add careers link manually if needed |
-| Remedy | greenhouse | 13 | ok |
+| Remedy | greenhouse | 14 | ok |
 | Remote | greenhouse | 2 | ok |
-| Replit | ashby | 36 | ok |
+| Replit | ashby | 37 | ok |
 | Revolut | not found | 0 | add careers link manually if needed |
-| Riot Games | greenhouse | 205 | ok |
+| Riot Games | greenhouse | 202 | ok |
 | Rippling | not found | 0 | add careers link manually if needed |
-| Roblox | greenhouse | 265 | ok |
+| Roblox | greenhouse | 264 | ok |
 | Rocketlane | not found | 0 | add careers link manually if needed |
 | Rockstar Games | greenhouse | 16 | ok |
 | Rollic | not found | 0 | add careers link manually if needed |
 | Rooter | not found | 0 | add careers link manually if needed |
 | Rovio | not found | 0 | add careers link manually if needed |
-| Rubrik | greenhouse | 203 | ok |
+| Rubrik | greenhouse | 202 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
 | Sarvam | ashby | 43 | ok |
-| Sauce Labs | greenhouse | 9 | ok |
+| Sauce Labs | greenhouse | 12 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
-| Scale AI | greenhouse | 167 | ok |
+| Scale AI | greenhouse | 168 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
-| Scopely | greenhouse | 175 | ok |
+| Scopely | greenhouse | 173 | ok |
 | ServiceNow | smartrecruiters | 100 | ok |
 | Setu | not found | 0 | add careers link manually if needed |
 | ShareChat | not found | 0 | add careers link manually if needed |
@@ -258,19 +258,19 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Simplilearn | not found | 0 | add careers link manually if needed |
 | Skill-Lync | smartrecruiters | 3 | ok |
 | Sky Mavis | ashby | 6 | ok |
-| Slice | greenhouse | 21 | ok |
+| Slice | greenhouse | 23 | ok |
 | Smallcase | not found | 0 | add careers link manually if needed |
 | Snorkel AI | greenhouse | 43 | ok |
-| Snowflake | ashby | 377 | ok |
+| Snowflake | ashby | 376 | ok |
 | Space Ape Games | not found | 0 | add careers link manually if needed |
 | Spendflo | not found | 0 | add careers link manually if needed |
 | Spinny | not found | 0 | add careers link manually if needed |
 | Sprinklr | not found | 0 | add careers link manually if needed |
 | Stillfront | not found | 0 | add careers link manually if needed |
-| Stripe | greenhouse | 780 | ok |
+| Stripe | greenhouse | 771 | ok |
 | Studio Sirah | not found | 0 | add careers link manually if needed |
 | Sumo Digital | not found | 0 | add careers link manually if needed |
-| Supabase | ashby | 77 | ok |
+| Supabase | ashby | 79 | ok |
 | SuperGaming | not found | 0 | add careers link manually if needed |
 | Supercell | ashby | 29 | ok |
 | Surge AI | ashby | 36 | ok |
@@ -288,8 +288,8 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | ToolJet | not found | 0 | add careers link manually if needed |
 | Toptal | lever | 28 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
-| Turing | greenhouse | 41 | ok |
-| Twilio | greenhouse | 109 | ok |
+| Turing | greenhouse | 36 | ok |
+| Twilio | greenhouse | 106 | ok |
 | Twitch | greenhouse | 52 | ok |
 | Uber | smartrecruiters | 1 | ok |
 | Ubisoft | not found | 0 | add careers link manually if needed |
@@ -303,7 +303,7 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Vercel | greenhouse | 86 | ok |
 | Verloop.io | not found | 0 | add careers link manually if needed |
 | Visa | not found | 0 | add careers link manually if needed |
-| Voodoo | ashby | 101 | ok |
+| Voodoo | ashby | 103 | ok |
 | Walmart Global Tech | not found | 0 | add careers link manually if needed |
 | Wargaming | not found | 0 | add careers link manually if needed |
 | WebEngage | not found | 0 | add careers link manually if needed |
@@ -314,18 +314,18 @@ Last run 2026-11-19T12:59+00:00 · raw jobs read: 12320 · matches: 34 · closed
 | Yellow.ai | not found | 0 | add careers link manually if needed |
 | Zapier | ashby | 10 | ok |
 | Zendesk | not found | 0 | add careers link manually if needed |
-| Zenoti | greenhouse | 55 | ok |
+| Zenoti | greenhouse | 56 | ok |
 | Zepto | not found | 0 | add careers link manually if needed |
 | Zerodha | not found | 0 | add careers link manually if needed |
-| Zeta | lever | 31 | ok |
+| Zeta | lever | 32 | ok |
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 379 | ok |
+| Zscaler | greenhouse | 377 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 8 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: error: HTTP Error 502: Bad Gateway

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T12:59+00:00",
- "count": 34,
- "new_this_run": 13,
+ "updated": "2026-11-19T21:29+00:00",
+ "count": 43,
+ "new_this_run": 16,
  "jobs": [
   {
    "id": "supabase-developer-relations-engineer",
@@ -111,29 +111,110 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "elevenlabs-full-stack-engineer-backend-leaning-creative-agents",
-   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-   "company": "Elevenlabs",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere",
+   "id": "invisible-technologies-language-alignment-resource-partner-maori-freelance-ai-trainer-proj",
+   "title": "Language Alignment & Resource Partner (Maori) - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents",
-   "source": "Jobicy (find company link before applying)",
+   "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-maori-freelance-ai-trainer-project-4922624105?utm_source=api",
+   "source": "Himalayas",
    "posted": "2026-11-19",
    "matched_skills": [
     "evaluation",
     "ai",
     "quality",
     "testing",
-    "customer",
+    "documentation",
     "support",
     "communication",
     "product"
    ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-language-alignment-resource-partner-taiwanese-freelance-ai-trainer-",
+   "title": "Language Alignment & Resource Partner (Taiwanese) - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 100,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-taiwanese-freelance-ai-trainer-project-5436164639?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "mactores-full-stack-product-engineer-agent-native",
+   "title": "Full Stack Product Engineer, Agent Native",
+   "company": "Mactores",
+   "category": "AI-assisted developer (full stack)",
+   "score": 100,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/mactores/jobs/full-stack-product-engineer-agent-native?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "customer",
+    "product"
+   ],
    "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "treatwell-seo-full-stack-engineer",
+   "title": "SEO Full Stack Engineer",
+   "company": "Treatwell",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+   "source": "RemoteOK (find company link before applying)",
+   "posted": "2026-11-18",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "sql"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -173,9 +254,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -214,34 +295,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "micro1-frontend-ui-engineer",
-   "title": "Frontend / UI Engineer",
-   "company": "micro1",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/frontend-ui-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "english",
-    "product",
-    "onboarding",
-    "github",
-    "remote",
-    "react"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -272,32 +326,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cribl-customer-success-engineer-west-region",
    "title": "Customer Success Engineer, West Region",
    "company": "Cribl",
@@ -321,7 +349,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -348,6 +376,31 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "invisible-technologies-3d-modeling-python-specialist-freelance-ai-trainer-project",
+   "title": "3D Modeling & Python Specialist - Freelance AI Trainer Project",
+   "company": "Invisible Technologies",
+   "category": "AI evaluation / AI trainer",
+   "score": 93,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/inv/jobs/3d-modeling-python-specialist-freelance-ai-trainer-project?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "annotation",
+    "python",
+    "remote",
+    "javascript"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -378,6 +431,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "asg-company-associate-developer",
+   "title": "Associate Developer",
+   "company": "ASG Company",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "sql",
+    "training provided",
+    "remote",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "fluence-international-inc-full-stack-developer",
    "title": "Full-Stack Developer",
    "company": "Fluence International, Inc.",
@@ -405,6 +485,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "fin-forward-deployed-engineer",
+   "title": "Forward Deployed Engineer",
+   "company": "Fin",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "driversnote-customer-support-specialist-30-hrs",
    "title": "Customer Support Specialist, 30 hrs",
    "company": "Driversnote",
@@ -428,6 +535,59 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "fresh-prints-order-processing-associate",
+   "title": "Order Processing Associate",
+   "company": "Fresh Prints",
+   "category": "Trainee / graduate program",
+   "score": 89,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/fresh-prints/jobs/order-processing-associate-947856453?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "prompt",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "veracode-performance-test-engineer",
+   "title": "Performance Test Engineer",
+   "company": "Veracode",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/veracode-performance-test-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "communication",
+    "product",
+    "sql",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -481,29 +641,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "jetbrains-customer-success-engineer-latam",
    "title": "Customer Success Engineer - LATAM",
    "company": "JetBrains",
@@ -527,7 +664,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -552,31 +689,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -604,6 +717,28 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "welo-global-maps-personalization-relevance-rater-telugu-india",
+   "title": "Maps Personalization Relevance Rater - Telugu (India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 79,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-telugu-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "telugu",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "paytm-customer-support-associate-paytm-money",
    "title": "Customer Support Associate- Paytm Money",
    "company": "Paytm",
@@ -625,28 +760,24 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "drepp-technologies-backend-qa",
-   "title": "Backend QA",
-   "company": "Drepp Technologies",
-   "category": "QA / testing",
+   "id": "zeta-technical-support-engineer-i",
+   "title": "Technical Support Engineer I",
+   "company": "Zeta",
+   "category": "Non-coding tech (high pay)",
    "score": 77,
-   "location": "Remote, India",
-   "mode": "Remote",
+   "location": "Hyderabad",
+   "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/drepp-technologies/jobs/backend-qa?utm_source=api",
-   "source": "Himalayas",
+   "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
+   "source": "Company careers (Lever)",
    "posted": "2026-11-19",
    "matched_skills": [
-    "testing",
-    "api",
-    "jira",
-    "analysis",
-    "player"
+    "support"
    ],
    "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
+   "first_seen": "2026-11-19T21:29+00:00",
    "new": true,
-   "verified": "Link checked, still open"
+   "verified": "Live on company careers page"
   },
   {
    "id": "extend-your-team-hil-support-specialist",
@@ -672,6 +803,111 @@
    "contract": false,
    "first_seen": "2026-11-10T17:47+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "welo-global-maps-personalization-relevance-rater-tamil-india",
+   "title": "Maps Personalization Relevance Rater - Tamil (India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-tamil-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "welo-global-maps-personalization-relevance-rater-kannada-india",
+   "title": "Maps Personalization Relevance Rater - Kannada (India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-kannada-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "welo-global-maps-personalization-relevance-rater-bengali-india",
+   "title": "Maps Personalization Relevance Rater - Bengali (India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-bengali-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "welo-global-maps-personalization-relevance-rater-gujarati-india",
+   "title": "Maps Personalization Relevance Rater - Gujarati(India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-gujarati-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "welo-global-maps-personalization-relevance-rater-marathi-india",
+   "title": "Maps Personalization Relevance Rater - Marathi (India)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 76,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-personalization-relevance-rater-marathi-india?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "support",
+    "onboarding"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -810,27 +1046,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "elastic-associate-marketing-technology",
