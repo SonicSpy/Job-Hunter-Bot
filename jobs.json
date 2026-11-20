@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T11:33+00:00",
- "count": 33,
- "new_this_run": 5,
+ "updated": "2026-11-20T20:11+00:00",
+ "count": 31,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "hevo-data-technical-writer",
@@ -108,7 +108,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -245,33 +245,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "refold-ai-customer-success-engineer",
-   "title": "Customer Success Engineer",
-   "company": "Refold AI",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/refold-ai/jobs/customer-success-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-20",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "postman"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-20T11:33+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
    "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
    "company": "Volga Partners",
@@ -377,33 +350,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "fluence-international-inc-full-stack-developer",
-   "title": "Full-Stack Developer",
-   "company": "Fluence International, Inc.",
-   "category": "AI-assisted developer (full stack)",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "$3.5k–$5k/month",
-   "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-   "source": "Remotive (find company link before applying)",
-   "posted": "2026-10-29",
-   "matched_skills": [
-    "llm",
-    "ai",
-    "quality",
-    "documentation",
-    "communication",
-    "product",
-    "api",
-    "docker"
-   ],
-   "contract": true,
-   "first_seen": "2026-10-31T13:38+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "fin-forward-deployed-engineer",
@@ -584,32 +530,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sap-sales-development-associate-ai-expertise",
-   "title": "Sales Development Associate-(AI Expertise)",
-   "company": "SAP",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sap/jobs/sales-development-associate-ai-expertise?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-20",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-20T11:33+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -636,6 +557,32 @@
    ],
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "revenuecat-developer-support-engineer",
+   "title": "Developer Support Engineer",
+   "company": "RevenueCat",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Remote, APAC,  EMEA,  LATAM,  Canada,  USA",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/163453-developer-support-engineer-2",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-20",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "onboarding",
+    "remote",
+    "bug"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-20T20:11+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
