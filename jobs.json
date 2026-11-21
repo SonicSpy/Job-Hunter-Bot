@@ -1,35 +1,8 @@
 {
- "updated": "2026-11-21T01:29+00:00",
- "count": 32,
- "new_this_run": 2,
+ "updated": "2026-11-21T09:45+00:00",
+ "count": 38,
+ "new_this_run": 10,
  "jobs": [
-  {
-   "id": "hevo-data-technical-writer",
-   "title": "Technical Writer",
-   "company": "Hevo Data",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Bangalore, India",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/hevodata/3f239b8e-6773-456a-8da2-d992b927c65c",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-17",
-   "matched_skills": [
-    "ai",
-    "testing",
-    "documentation",
-    "english",
-    "product",
-    "api",
-    "sql",
-    "jira"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-17T13:20+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
    "title": "Forward Deployed Engineer, Frontier Engineering",
@@ -56,6 +29,33 @@
    "first_seen": "2026-11-17T13:20+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "canonical-associate-linux-support-engineer",
+   "title": "Associate Linux Support Engineer",
+   "company": "Canonical",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "analysis",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "treatwell-seo-full-stack-engineer",
@@ -112,6 +112,60 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "welo-global-finnish-tech-linguistic-tester",
+   "title": "Finnish Tech Linguistic Tester",
+   "company": "Welo Global",
+   "category": "Gaming",
+   "score": 99,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "canonical-software-engineer-secure-container-images",
+   "title": "Software Engineer - Secure Container Images",
+   "company": "Canonical",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "customer",
+    "communication",
+    "english",
+    "product",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "supabase-billing-support-specialist",
    "title": "Billing Support Specialist",
    "company": "Supabase",
@@ -147,9 +201,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -188,6 +242,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-12T02:56+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "hevo-data-technical-writer",
+   "title": "Technical Writer",
+   "company": "Hevo Data",
+   "category": "Non-coding tech (high pay)",
+   "score": 98,
+   "location": "Bangalore, India",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/hevodata/3f239b8e-6773-456a-8da2-d992b927c65c",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-17",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "documentation",
+    "english",
+    "product",
+    "api",
+    "sql",
+    "jira"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-17T13:20+00:00",
    "new": false,
    "verified": "Live on company careers page"
   },
@@ -243,6 +324,33 @@
    "first_seen": "2026-11-16T09:38+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "canonical-distributed-systems-testing-software-engineer-python-go",
+   "title": "Distributed Systems Testing Software Engineer, Python / Go",
+   "company": "Canonical",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, Anywhere",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "customer",
+    "product",
+    "analysis",
+    "dataset",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
@@ -326,6 +434,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "testing",
+    "customer",
+    "communication",
+    "product",
+    "saas",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -375,7 +509,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-21T01:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -403,6 +537,33 @@
    "contract": false,
    "first_seen": "2026-11-19T21:29+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "smartsheet-software-engineer-ii-full-stack-remote-eligible",
+   "title": "Software Engineer II - Full Stack (Remote Eligible)",
+   "company": "Smartsheet",
+   "category": "AI-assisted developer (full stack)",
+   "score": 91,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-ii-full-stack-remote-eligible",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "saas",
+    "remote",
+    "typescript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -460,52 +621,26 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "toptal-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm",
-   "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
-   "company": "Toptal",
-   "category": "AI evaluation / AI trainer",
+   "id": "webengage-growth-associate-mar-tech",
+   "title": "Growth Associate, Mar-tech",
+   "company": "WebEngage",
+   "category": "Trainee / graduate program",
    "score": 88,
-   "location": "Remote, Anywhere in the World",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-05",
+   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
    "matched_skills": [
-    "llm",
-    "ai",
+    "customer",
+    "communication",
     "product",
-    "api",
-    "python",
-    "docker",
-    "bugs"
+    "steam"
    ],
    "contract": false,
-   "first_seen": "2026-11-06T15:00+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "side-freelance-game-tester-ps5",
-   "title": "Freelance Game Tester (PS5)",
-   "company": "Side",
-   "category": "Gaming",
-   "score": 88,
-   "location": "Remote, Asia Only",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/side-freelance-game-tester-ps5",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "testing",
-    "english",
-    "remote",
-    "gameplay"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-18T13:08+00:00",
-   "new": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -588,27 +723,27 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "airtable-renewals-associate",
-   "title": "Renewals Associate",
-   "company": "Airtable",
-   "category": "Trainee / graduate program",
-   "score": 80,
-   "location": "Remote, Anywhere in the World",
+   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
+   "title": "Quality analyst / Business analyst",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-30",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
    "matched_skills": [
-    "ai",
-    "customer",
-    "saas",
-    "remote",
-    "player"
+    "quality",
+    "test case",
+    "testing",
+    "english",
+    "product"
    ],
    "contract": false,
-   "first_seen": "2026-10-30T08:37+00:00",
-   "new": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -632,32 +767,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "extend-your-team-hil-support-specialist",
-   "title": "HIL Support Specialist",
-   "company": "Extend Your Team",
-   "category": "Non-coding tech (high pay)",
-   "score": 76,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-09",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-10T17:47+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "servicenow-technical-support-engineer-moveworks",
    "title": "Technical Support Engineer - Moveworks",
    "company": "ServiceNow",
@@ -674,7 +783,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-21T01:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -701,6 +810,29 @@
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "rustlabs-image-edit-qa-reviewer-photoshop-ai-training-usd-1-5-task",
+   "title": "Image Edit QA Reviewer (Photoshop), AI Training (USD 1.5/task)",
+   "company": "RustLabs",
+   "category": "QA / testing",
+   "score": 74,
+   "location": "Remote, Argentina, Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Mexico, Nigeria, Philippines, Sri Lanka, Vietnam",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/rustlabs/jobs/image-edit-qa-reviewer-photoshop-ai-training-usd-1-5-task?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "english",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -793,6 +925,27 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "openspecimen-krishagni-software-developer",
+   "title": "Software Developer",
+   "company": "OpenSpecimen (Krishagni)",
+   "category": "AI-assisted developer (full stack)",
+   "score": 70,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T09:45+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "elastic-associate-marketing-technology",
