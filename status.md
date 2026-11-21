@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed or ghost jobs removed: 0
+Last run 2026-11-21T23:12+00:00 · raw jobs read: 12609 · matches: 36 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 556
+- weworkremotely: 587
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -54,7 +54,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 503 | ok |
+| Cloudflare | greenhouse | 504 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 124 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | Coursera | greenhouse | 34 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 896 | ok |
+| Databricks | greenhouse | 895 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 29 | ok |
@@ -152,7 +152,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | Krutrim | not found | 0 | add careers link manually if needed |
 | Kuku FM | not found | 0 | add careers link manually if needed |
 | Kwalee | not found | 0 | add careers link manually if needed |
-| Labelbox | greenhouse | 12 | ok |
+| Labelbox | greenhouse | 13 | ok |
 | Lakshya Digital | not found | 0 | add careers link manually if needed |
 | LambdaTest | not found | 0 | add careers link manually if needed |
 | LeadSquared | not found | 0 | add careers link manually if needed |
@@ -245,7 +245,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | Sarvam | ashby | 42 | ok |
 | Sauce Labs | greenhouse | 12 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
-| Scale AI | greenhouse | 169 | ok |
+| Scale AI | greenhouse | 166 | ok |
 | Scaler | ashby | 0 | ok |
 | Sciplay | not found | 0 | add careers link manually if needed |
 | Scopely | greenhouse | 172 | ok |
@@ -286,7 +286,7 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 18 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 0 | The read operation timed out |
+| Toptal | lever | 25 | ok |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 31 | ok |
 | Twilio | greenhouse | 109 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 4
+Telegram: sent 8
