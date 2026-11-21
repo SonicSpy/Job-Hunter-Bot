@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed or ghost jobs removed: 0
+Last run 2026-11-21T17:28+00:00 · raw jobs read: 12555 · matches: 33 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 534
+- weworkremotely: 556
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Airtable | greenhouse | 11 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 633 | ok |
+| Anthropic | greenhouse | 635 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Coursera | greenhouse | 34 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 897 | ok |
+| Databricks | greenhouse | 896 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 29 | ok |
@@ -242,7 +242,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Rovio | not found | 0 | add careers link manually if needed |
 | Rubrik | greenhouse | 208 | ok |
 | Salesforce | not found | 0 | add careers link manually if needed |
-| Sarvam | ashby | 43 | ok |
+| Sarvam | ashby | 42 | ok |
 | Sauce Labs | greenhouse | 12 | ok |
 | SayGames | not found | 0 | add careers link manually if needed |
 | Scale AI | greenhouse | 169 | ok |
@@ -272,7 +272,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Sumo Digital | not found | 0 | add careers link manually if needed |
 | Supabase | ashby | 80 | ok |
 | SuperGaming | not found | 0 | add careers link manually if needed |
-| Supercell | ashby | 28 | ok |
+| Supercell | ashby | 27 | ok |
 | Surge AI | ashby | 36 | ok |
 | Swiggy | smartrecruiters | 100 | ok |
 | Take-Two Interactive | not found | 0 | add careers link manually if needed |
@@ -286,7 +286,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Toddle | not found | 0 | add careers link manually if needed |
 | Toloka | greenhouse | 18 | ok |
 | ToolJet | not found | 0 | add careers link manually if needed |
-| Toptal | lever | 25 | ok |
+| Toptal | lever | 0 | The read operation timed out |
 | Treebo | not found | 0 | add careers link manually if needed |
 | Turing | greenhouse | 31 | ok |
 | Twilio | greenhouse | 109 | ok |
@@ -303,7 +303,7 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Vercel | greenhouse | 86 | ok |
 | Verloop.io | not found | 0 | add careers link manually if needed |
 | Visa | not found | 0 | add careers link manually if needed |
-| Voodoo | ashby | 105 | ok |
+| Voodoo | ashby | 104 | ok |
 | Walmart Global Tech | not found | 0 | add careers link manually if needed |
 | Wargaming | not found | 0 | add careers link manually if needed |
 | WebEngage | not found | 0 | add careers link manually if needed |
@@ -321,11 +321,11 @@ Last run 2026-11-21T09:45+00:00 · raw jobs read: 12559 · matches: 38 · closed
 | Zluri | not found | 0 | add careers link manually if needed |
 | Zoho | not found | 0 | add careers link manually if needed |
 | Zomato | not found | 0 | add careers link manually if needed |
-| Zscaler | greenhouse | 386 | ok |
+| Zscaler | greenhouse | 387 | ok |
 | Zupee | not found | 0 | add careers link manually if needed |
 | Zynga | not found | 0 | add careers link manually if needed |
 | ixigo | smartrecruiters | 7 | ok |
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 10
+Telegram: sent 4

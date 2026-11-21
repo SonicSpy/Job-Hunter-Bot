@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T09:45+00:00",
- "count": 38,
- "new_this_run": 10,
+ "updated": "2026-11-21T17:28+00:00",
+ "count": 33,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -29,33 +29,6 @@
    "first_seen": "2026-11-17T13:20+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "canonical-associate-linux-support-engineer",
-   "title": "Associate Linux Support Engineer",
-   "company": "Canonical",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "analysis",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "treatwell-seo-full-stack-engineer",
@@ -109,60 +82,6 @@
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "welo-global-finnish-tech-linguistic-tester",
-   "title": "Finnish Tech Linguistic Tester",
-   "company": "Welo Global",
-   "category": "Gaming",
-   "score": 99,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-software-engineer-secure-container-images",
-   "title": "Software Engineer - Secure Container Images",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "communication",
-    "english",
-    "product",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -326,29 +245,28 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "canonical-distributed-systems-testing-software-engineer-python-go",
-   "title": "Distributed Systems Testing Software Engineer, Python / Go",
-   "company": "Canonical",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, Anywhere",
+   "id": "harris-associate-technical-support-consultant",
+   "title": "Associate Technical Support Consultant",
+   "company": "Harris",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-   "source": "Jobicy (find company link before applying)",
+   "url": "https://himalayas.app/companies/harris/jobs/associate-technical-support-consultant-8522622094?utm_source=api",
+   "source": "Himalayas",
    "posted": "2026-11-21",
    "matched_skills": [
     "ai",
-    "quality",
-    "testing",
+    "documentation",
     "customer",
-    "product",
-    "analysis",
-    "dataset",
-    "python"
+    "support",
+    "communication",
+    "english",
+    "sql"
    ],
    "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
+   "first_seen": "2026-11-21T17:28+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -434,32 +352,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
-   "category": "AI-assisted developer (full stack)",
-   "score": 93,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "testing",
-    "customer",
-    "communication",
-    "product",
-    "saas",
-    "react",
-    "javascript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -486,30 +378,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
-   "category": "Trainee / graduate program",
+   "id": "supplyhouse-com-qa-engineer",
+   "title": "QA Engineer",
+   "company": "SupplyHouse.com",
+   "category": "QA / testing",
    "score": 92,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
+   "salary": "USD 18482-27723 / year",
+   "url": "https://himalayas.app/companies/supplyhouse-com/jobs/qa-engineer-1197423769?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-20",
+   "posted": "2026-11-21",
    "matched_skills": [
+    "ai",
+    "quality",
+    "test case",
+    "testing",
     "customer",
     "support",
     "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
+    "english"
    ],
    "contract": false,
-   "first_seen": "2026-11-21T01:29+00:00",
-   "new": false,
+   "first_seen": "2026-11-21T17:28+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -563,7 +455,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -594,6 +486,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "globalization-partners-support-specialist",
+   "title": "Support Specialist",
+   "company": "Globalization Partners",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/globalization-partners/jobs/support-specialist?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-21",
+   "matched_skills": [
+    "documentation",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "saas",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T17:28+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "veracode-performance-test-engineer",
    "title": "Performance Test Engineer",
    "company": "Veracode",
@@ -618,29 +537,6 @@
    "contract": false,
    "first_seen": "2026-11-19T21:29+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -723,26 +619,28 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
+   "id": "vame-ltd-saas-implementation-client-onboarding-specialist-latam",
+   "title": "SaaS Implementation & Client Onboarding Specialist (LATAM)",
+   "company": "VAme Ltd",
    "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
+   "score": 84,
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+   "url": "https://himalayas.app/companies/vame-ltd/jobs/saas-implementation-client-onboarding-specialist?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-21",
    "matched_skills": [
     "quality",
-    "test case",
-    "testing",
+    "customer",
+    "support",
+    "communication",
     "english",
-    "product"
+    "saas",
+    "onboarding"
    ],
    "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
+   "first_seen": "2026-11-21T17:28+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -832,7 +730,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -925,27 +823,6 @@
    "first_seen": "2026-11-03T09:30+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T09:45+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "elastic-associate-marketing-technology",
