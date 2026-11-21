@@ -1,6 +1,6 @@
 # Job matches for Bhargav
 
-Updated 20 Nov 2026, 20:11 UTC · 31 open matches
+Updated 21 Nov 2026, 01:29 UTC · 32 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
@@ -17,6 +17,7 @@ Updated 20 Nov 2026, 20:11 UTC · 31 open matches
 | 93 | [Customer Success Engineer, West Region](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-west-region) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 93 | [Sales Solutions Engineer](https://weworkremotely.com/remote-jobs/jumio-sales-solutions-engineer) | Jumio | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 92 | [Product Support Specialist](https://jobs.ashbyhq.com/notion/3339493a-ee21-49f3-ab09-e1f8ba8f1b92) | Notion | Remote | Remote, Hyderabad, India | Not listed | 2026-11-03 |
+| 92 | [Associate Developer](https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api) 🆕 | ASG Company | Remote | Remote, Worldwide | Not listed | 2026-11-20 |
 | 91 | [Forward Deployed Engineer](https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer) | Fin | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 90 | [Customer Support Specialist, 30 hrs](https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs) | Driversnote | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 89 | [Performance Test Engineer](https://weworkremotely.com/remote-jobs/veracode-performance-test-engineer) | Veracode | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
@@ -25,10 +26,10 @@ Updated 20 Nov 2026, 20:11 UTC · 31 open matches
 | 87 | [Community Moderator - Wisdo (1099)](https://weworkremotely.com/remote-jobs/talkspace-community-moderator-wisdo-1099) | Talkspace | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 87 | [Customer Support Specialist - Risk](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-11-20 |
 | 85 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | Askable | Remote | Remote, Worldwide | USD 10000-10000 / year | 2026-11-19 |
-| 84 | [Developer Support Engineer](https://jobicy.com/jobs/163453-developer-support-engineer-2) 🆕 | RevenueCat | Remote | Remote, APAC,  EMEA,  LATAM,  Canada,  U | Not listed | 2026-11-20 |
 | 80 | [Renewals Associate](https://weworkremotely.com/remote-jobs/airtable-renewals-associate) | Airtable | Remote | Remote, Anywhere in the World | Not listed | 2026-10-30 |
 | 77 | [Technical Support Engineer I](https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320) | Zeta | On-site | Hyderabad | Not listed | 2026-11-19 |
 | 76 | [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) | Extend Your Team | Remote | Remote, Worldwide | Not listed | 2026-11-09 |
+| 75 | [Technical Support Engineer - Moveworks](https://jobs.smartrecruiters.com/servicenow/744000162831529) 🆕 | ServiceNow | On-site | Bangalore, in | Not listed | 2026-11-20 |
 | 74 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 73 | [Customer Support Associate- Paytm Money](https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0) | Paytm | On-site | Mumbai, Maharashtra | Not listed | 2026-11-16 |
 | 71 | [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) | OpenTrain AI | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
