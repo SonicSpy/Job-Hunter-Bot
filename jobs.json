@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T23:12+00:00",
- "count": 36,
- "new_this_run": 8,
+ "updated": "2026-11-22T03:09+00:00",
+ "count": 31,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -54,87 +54,6 @@
    ],
    "contract": true,
    "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-language-alignment-resource-partner-haitian-creole-freelance-ai-tra",
-   "title": "Language Alignment & Resource Partner (Haitian Creole) - Freelance AI Trainer Pr",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-haitian-creole-freelance-ai-trainer-pr?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "invisible-technologies-hindi-audio-specialist-freelance-ai-trainer-project",
-   "title": "Hindi Audio Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/hindi-audio-specialist-freelance-ai-trainer-project?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "treatwell-seo-full-stack-engineer",
-   "title": "SEO Full Stack Engineer",
-   "company": "Treatwell",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-18",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "testing",
-    "customer",
-    "support",
-    "english",
-    "product",
-    "sql"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T21:29+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -326,28 +245,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "invisible-technologies-albanian-language-specialist-freelance-ai-trainer-project",
-   "title": "Albanian Language Specialist - Freelance AI Trainer Project",
-   "company": "Invisible Technologies",
-   "category": "AI evaluation / AI trainer",
-   "score": 96,
-   "location": "Remote, Worldwide",
+   "id": "worldwide-clinical-trials-governance-risk-and-compliance-grc-junior-analyst-india",
+   "title": "Governance, Risk, and Compliance (GRC) Junior Analyst (India)",
+   "company": "Worldwide Clinical Trials",
+   "category": "Trainee / graduate program",
+   "score": 95,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/inv/jobs/albanian-language-specialist-freelance-ai-trainer-project?utm_source=api",
+   "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/governance-risk-and-compliance-grc-junior-analyst-india?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-21",
    "matched_skills": [
-    "ai",
     "quality",
+    "testing",
+    "documentation",
+    "customer",
     "support",
     "communication",
     "english",
-    "entry level",
-    "remote"
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-11-21T23:12+00:00",
+   "first_seen": "2026-11-22T03:09+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -402,7 +322,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -567,33 +487,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "lifelancer-it-business-analyst",
-   "title": "IT Business Analyst",
-   "company": "Lifelancer",
-   "category": "Non-coding tech (high pay)",
-   "score": 90,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/lifelancer/jobs/it-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "customer",
-    "communication",
-    "sql",
-    "jira",
-    "analysis",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "veracode-performance-test-engineer",
    "title": "Performance Test Engineer",
    "company": "Veracode",
@@ -673,33 +566,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "askable-software-engineer-ai-coding-tasks",
-   "title": "Software Engineer AI Coding Tasks",
-   "company": "Askable",
-   "category": "AI-assisted developer (full stack)",
-   "score": 85,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 10000-10000 / year",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "testing",
-    "python",
-    "docker",
-    "remote",
-    "typescript"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-20T11:33+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "welo-global-andromeda-delta-audio-transcription-raters-bengali-india",
    "title": "Andromeda Delta - Audio Transcription Raters Bengali (India)",
    "company": "Welo Global",
@@ -719,7 +585,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -806,7 +672,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-21T23:12+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
