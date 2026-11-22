@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T03:09+00:00",
+ "updated": "2026-11-22T11:17+00:00",
  "count": 31,
- "new_this_run": 1,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -31,30 +31,57 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "eventmobi-front-end-engineer-remote",
-   "title": "Front End Engineer - Remote",
-   "company": "EventMobi",
-   "category": "AI-assisted developer (full stack)",
+   "id": "glean-designated-technical-support-engineer-west",
+   "title": "Designated Technical Support Engineer - West",
+   "company": "Glean",
+   "category": "Non-coding tech (high pay)",
    "score": 100,
-   "location": "Remote, Argentina, Brazil, Colombia, India, Mexico, Pakistan",
+   "location": "Remote, Anywhere in the World",
    "mode": "Remote",
-   "salary": "CAD 40000-65000 / year",
-   "url": "https://himalayas.app/companies/eventmobi/jobs/front-end-engineer-remote-8423163253?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-22",
    "matched_skills": [
+    "llm",
     "ai",
-    "quality",
-    "testing",
     "customer",
     "support",
     "communication",
     "product",
-    "remote"
+    "saas",
+    "onboarding"
    ],
-   "contract": true,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": false,
+   "contract": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "glean-designated-technical-support-engineer-central-east",
+   "title": "Designated Technical Support Engineer - Central/East",
+   "company": "Glean",
+   "category": "Non-coding tech (high pay)",
+   "score": 100,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -245,33 +272,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "worldwide-clinical-trials-governance-risk-and-compliance-grc-junior-analyst-india",
-   "title": "Governance, Risk, and Compliance (GRC) Junior Analyst (India)",
-   "company": "Worldwide Clinical Trials",
-   "category": "Trainee / graduate program",
-   "score": 95,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/governance-risk-and-compliance-grc-junior-analyst-india?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-22T03:09+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
    "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
    "company": "Volga Partners",
@@ -295,33 +295,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-18T13:08+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "vvents-remote-india-brazil-only-full-stack-developer",
-   "title": "[Remote - India/Brazil Only] Full Stack Developer",
-   "company": "vVents",
-   "category": "AI-assisted developer (full stack)",
-   "score": 94,
-   "location": "Remote, Brazil, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/vvents/jobs/remote-india-brazil-only-full-stack-developer-1396262361?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "testing",
-    "documentation",
-    "product",
-    "api",
-    "sql",
-    "github",
-    "remote",
-    "react"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T23:12+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -377,6 +350,33 @@
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "win-home-inspection-product-support-specialist",
+   "title": "Product Support Specialist",
+   "company": "WIN Home Inspection",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Remote, APAC",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://jobicy.com/jobs/163766-product-support-specialist-3",
+   "source": "Jobicy (find company link before applying)",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "english",
+    "product"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -487,6 +487,32 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "celonis-applied-ai-value-consultant",
+   "title": "Applied AI Value Consultant",
+   "company": "Celonis",
+   "category": "AI-assisted developer (full stack)",
+   "score": 90,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "veracode-performance-test-engineer",
    "title": "Performance Test Engineer",
    "company": "Veracode",
@@ -566,26 +592,51 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "welo-global-andromeda-delta-audio-transcription-raters-bengali-india",
-   "title": "Andromeda Delta - Audio Transcription Raters Bengali (India)",
-   "company": "Welo Global",
-   "category": "AI evaluation / AI trainer",
-   "score": 82,
+   "id": "elation-health-sales-engineer-billing",
+   "title": "Sales Engineer - Billing",
+   "company": "Elation Health",
+   "category": "Non-coding tech (high pay)",
+   "score": 81,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/elation-health-sales-engineer-billing",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "product",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "yrgcare-junior-video-editor-graphic-designer",
+   "title": "Junior Video Editor & Graphic Designer",
+   "company": "YRGCARE",
+   "category": "Trainee / graduate program",
+   "score": 80,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/welo-global/jobs/andromeda-delta-audio-transcription-raters-bengali-india?utm_source=api",
+   "url": "https://himalayas.app/companies/yrgcare/jobs/junior-video-editor-graphic-designer?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-21",
+   "posted": "2026-11-22",
    "matched_skills": [
-    "ai",
+    "quality",
     "support",
-    "english",
-    "annotation"
+    "communication",
+    "product"
    ],
    "contract": true,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": false,
+   "first_seen": "2026-11-22T11:17+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -655,27 +706,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "sapsol-technologies-inc-entry-level-sap-consultant",
-   "title": "Entry-Level SAP Consultant",
-   "company": "SAPSOL Technologies Inc.",
-   "category": "Trainee / graduate program",
-   "score": 74,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/entry-level-sap-consultant?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-21",
-   "matched_skills": [
-    "communication",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T23:12+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "paytm-customer-support-associate-paytm-money",
    "title": "Customer Support Associate- Paytm Money",
    "company": "Paytm",
@@ -718,30 +748,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "rubrik-job-board-account-executive-nas-product-specialist",
-   "title": "Account Executive, NAS Product Specialist",
-   "company": "Rubrik Job Board",
-   "category": "Non-coding tech (high pay)",
-   "score": 70,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-10-31",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "product",
-    "saas",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-10-31T13:38+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },

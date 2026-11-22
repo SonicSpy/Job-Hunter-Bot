@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 587
+- weworkremotely: 621
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -107,7 +107,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | Grafana Labs | greenhouse | 140 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
-| Groww | greenhouse | 9 | ok |
+| Groww | greenhouse | 8 | ok |
 | Gupshup | not found | 0 | add careers link manually if needed |
 | HackerEarth | not found | 0 | add careers link manually if needed |
 | HackerRank | greenhouse | 31 | ok |
@@ -171,7 +171,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | Masai School | not found | 0 | add careers link manually if needed |
 | Mastercard | not found | 0 | add careers link manually if needed |
 | Mech Mocha | not found | 0 | add careers link manually if needed |
-| Meesho | lever | 48 | ok |
+| Meesho | lever | 47 | ok |
 | Mercor | ashby | 109 | ok |
 | Mindtickle | lever | 19 | ok |
 | Miniclip | not found | 0 | add careers link manually if needed |
@@ -202,7 +202,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 10 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 372 | ok |
+| Okta | greenhouse | 374 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 852 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -303,7 +303,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | Vercel | greenhouse | 86 | ok |
 | Verloop.io | not found | 0 | add careers link manually if needed |
 | Visa | not found | 0 | add careers link manually if needed |
-| Voodoo | ashby | 104 | ok |
+| Voodoo | ashby | 103 | ok |
 | Walmart Global Tech | not found | 0 | add careers link manually if needed |
 | Wargaming | not found | 0 | add careers link manually if needed |
 | WebEngage | not found | 0 | add careers link manually if needed |
@@ -314,7 +314,7 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | Yellow.ai | not found | 0 | add careers link manually if needed |
 | Zapier | ashby | 9 | ok |
 | Zendesk | not found | 0 | add careers link manually if needed |
-| Zenoti | greenhouse | 56 | ok |
+| Zenoti | greenhouse | 55 | ok |
 | Zepto | not found | 0 | add careers link manually if needed |
 | Zerodha | not found | 0 | add careers link manually if needed |
 | Zeta | lever | 33 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-22T03:09+00:00 · raw jobs read: 12607 · matches: 31 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 6
