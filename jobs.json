@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T11:17+00:00",
- "count": 31,
+ "updated": "2026-11-22T19:34+00:00",
+ "count": 36,
  "new_this_run": 6,
  "jobs": [
   {
@@ -54,7 +54,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -272,30 +272,30 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
-   "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
-   "company": "Volga Partners",
-   "category": "AI evaluation / AI trainer",
-   "score": 94,
-   "location": "Remote, Asia Only",
+   "id": "crunch-io-crunch-technical-customer-support-engineer",
+   "title": "Crunch Technical Customer Support Engineer",
+   "company": "Crunch.io",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-18",
+   "url": "https://himalayas.app/companies/crunch-io/jobs/crunch-technical-customer-support-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
    "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
     "testing",
+    "documentation",
+    "customer",
     "support",
+    "english",
     "product",
-    "api"
+    "analysis",
+    "dataset"
    ],
    "contract": false,
-   "first_seen": "2026-11-18T13:08+00:00",
-   "new": false,
+   "first_seen": "2026-11-22T19:34+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -376,6 +376,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "aviso-ai-implementation-engineer-python",
+   "title": "Implementation Engineer - Python",
+   "company": "Aviso AI",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/aviso-ai/jobs/implementation-engineer-python-6244376074?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "ai",
+    "documentation",
+    "customer",
+    "support",
+    "product",
+    "api",
+    "jira",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T19:34+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -460,6 +487,59 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "welo-global-project-rana-human-pose-keypoint-annotator-thermal-imagery",
+   "title": "Project Rana - Human Pose Keypoint Annotator (Thermal Imagery)",
+   "company": "Welo Global",
+   "category": "AI evaluation / AI trainer",
+   "score": 91,
+   "location": "Remote, India, Philippines",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/welo-global/jobs/project-rana-human-pose-keypoint-annotator-thermal-imagery?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "annotation",
+    "dataset",
+    "remote",
+    "community"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-22T19:34+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+   "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
+   "company": "Volga Partners",
+   "category": "AI evaluation / AI trainer",
+   "score": 90,
+   "location": "Remote, Asia Only",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-18",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "support",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-18T13:08+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "driversnote-customer-support-specialist-30-hrs",
    "title": "Customer Support Specialist, 30 hrs",
    "company": "Driversnote",
@@ -509,6 +589,58 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "contxt-io-software-engineer-in-test",
+   "title": "Software Engineer in Test",
+   "company": "Contxt.io",
+   "category": "AI-assisted developer (full stack)",
+   "score": 90,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/contxt-io/jobs/software-engineer-in-test-2074538643?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "testing",
+    "customer",
+    "javascript",
+    "bugs"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T19:34+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "samsara-ai-engineer-customer-success",
+   "title": "AI Engineer, Customer Success",
+   "company": "Samsara",
+   "category": "Non-coding tech (high pay)",
+   "score": 90,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/samsara-ai-engineer-customer-success",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "prompt",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T19:34+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -592,6 +724,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "guest-tek-product-specialist-and-trainer",
+   "title": "Product Specialist and Trainer",
+   "company": "Guest-tek",
+   "category": "Non-coding tech (high pay)",
+   "score": 84,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/guest-tek/jobs/product-specialist-and-trainer-9959789717?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-22T19:34+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "elation-health-sales-engineer-billing",
    "title": "Sales Engineer - Billing",
    "company": "Elation Health",
@@ -613,30 +770,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "yrgcare-junior-video-editor-graphic-designer",
-   "title": "Junior Video Editor & Graphic Designer",
-   "company": "YRGCARE",
-   "category": "Trainee / graduate program",
-   "score": 80,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/yrgcare/jobs/junior-video-editor-graphic-designer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-22",
-   "matched_skills": [
-    "quality",
-    "support",
-    "communication",
-    "product"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-22T11:17+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {

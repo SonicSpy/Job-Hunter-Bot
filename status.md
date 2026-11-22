@@ -1,6 +1,6 @@
 # Bot health
 
-Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed or ghost jobs removed: 0
+Last run 2026-11-22T19:34+00:00 · raw jobs read: 12687 · matches: 36 · closed or ghost jobs removed: 0
 
 ## Remote boards
 - remotive: 240
@@ -8,7 +8,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 35
-- weworkremotely: 621
+- weworkremotely: 674
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -22,7 +22,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | Airtable | greenhouse | 11 | ok |
 | AlmaBetter | not found | 0 | add careers link manually if needed |
 | Amagi | not found | 0 | add careers link manually if needed |
-| Anthropic | greenhouse | 635 | ok |
+| Anthropic | greenhouse | 633 | ok |
 | Apna | not found | 0 | add careers link manually if needed |
 | Applause | not found | 0 | add careers link manually if needed |
 | Appsmith | not found | 0 | add careers link manually if needed |
@@ -62,7 +62,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | Coursera | greenhouse | 34 | ok |
 | Cult.fit | not found | 0 | add careers link manually if needed |
 | Darwinbox | not found | 0 | add careers link manually if needed |
-| Databricks | greenhouse | 895 | ok |
+| Databricks | greenhouse | 893 | ok |
 | Deel | ashby | 0 | ok |
 | Delhivery | not found | 0 | add careers link manually if needed |
 | Discord | greenhouse | 29 | ok |
@@ -104,7 +104,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | Go Digit | not found | 0 | add careers link manually if needed |
 | Gojek | not found | 0 | add careers link manually if needed |
 | Grab | smartrecruiters | 100 | ok |
-| Grafana Labs | greenhouse | 140 | ok |
+| Grafana Labs | greenhouse | 139 | ok |
 | Grammarly | not found | 0 | add careers link manually if needed |
 | Great Learning | not found | 0 | add careers link manually if needed |
 | Groww | greenhouse | 8 | ok |
@@ -202,7 +202,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | OYO | not found | 0 | add careers link manually if needed |
 | Observe.AI | greenhouse | 10 | ok |
 | Octro | not found | 0 | add careers link manually if needed |
-| Okta | greenhouse | 374 | ok |
+| Okta | greenhouse | 373 | ok |
 | Ola | not found | 0 | add careers link manually if needed |
 | OpenAI | ashby | 852 | ok |
 | Ozonetel | not found | 0 | add careers link manually if needed |
@@ -280,7 +280,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | Tata 1mg | not found | 0 | add careers link manually if needed |
 | Teachmint | not found | 0 | add careers link manually if needed |
 | Testbook | not found | 0 | add careers link manually if needed |
-| Testlio | greenhouse | 19 | ok |
+| Testlio | greenhouse | 21 | ok |
 | Testsigma | not found | 0 | add careers link manually if needed |
 | Tilting Point | not found | 0 | add careers link manually if needed |
 | Toddle | not found | 0 | add careers link manually if needed |
@@ -314,7 +314,7 @@ Last run 2026-11-22T11:17+00:00 · raw jobs read: 12639 · matches: 31 · closed
 | Yellow.ai | not found | 0 | add careers link manually if needed |
 | Zapier | ashby | 9 | ok |
 | Zendesk | not found | 0 | add careers link manually if needed |
-| Zenoti | greenhouse | 55 | ok |
+| Zenoti | greenhouse | 54 | ok |
 | Zepto | not found | 0 | add careers link manually if needed |
 | Zerodha | not found | 0 | add careers link manually if needed |
 | Zeta | lever | 33 | ok |
