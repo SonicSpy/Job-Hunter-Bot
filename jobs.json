@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T19:34+00:00",
- "count": 36,
- "new_this_run": 6,
+ "updated": "2026-11-23T00:49+00:00",
+ "count": 41,
+ "new_this_run": 5,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -109,6 +109,33 @@
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "syd-life-ai-junior-software-engineer",
+   "title": "Junior Software Engineer",
+   "company": "Syd Life AI",
+   "category": "AI-assisted developer (full stack)",
+   "score": 99,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 25000-40000 / year",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "documentation",
+    "communication",
+    "product",
+    "remote",
+    "react",
+    "typescript"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-23T00:49+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -295,7 +322,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -403,7 +430,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -509,7 +536,7 @@
    ],
    "contract": true,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -614,7 +641,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -641,7 +668,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -669,6 +696,33 @@
    "contract": false,
    "first_seen": "2026-11-19T21:29+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "syd-life-ai-qa-engineer",
+   "title": "QA Engineer",
+   "company": "Syd Life AI",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 20000-40000 / year",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "manual testing",
+    "testing",
+    "communication",
+    "english",
+    "api",
+    "jira"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-23T00:49+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -724,6 +778,84 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "schneider-electric-remote-support-engineer",
+   "title": "Remote Support Engineer",
+   "company": "Schneider Electric",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/schneider-electric-cn/jobs/remote-support-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-22",
+   "matched_skills": [
+    "quality",
+    "documentation",
+    "customer",
+    "support",
+    "analysis",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-23T00:49+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "syd-life-ai-growth-associate",
+   "title": "Growth Associate",
+   "company": "Syd Life AI",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 20000-40000 / year",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/growth-associate?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "support",
+    "english",
+    "product",
+    "analysis",
+    "remote"
+   ],
+   "contract": true,
+   "first_seen": "2026-11-23T00:49+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "clera-sales-development-associate",
+   "title": "Sales Development Associate",
+   "company": "Clera",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "USD 60000-80000 / year",
+   "url": "https://himalayas.app/companies/clera/jobs/sales-development-associate-4520581748?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "evaluation",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-23T00:49+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "guest-tek-product-specialist-and-trainer",
    "title": "Product Specialist and Trainer",
    "company": "Guest-tek",
@@ -745,7 +877,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T19:34+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
