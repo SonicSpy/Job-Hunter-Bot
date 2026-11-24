@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T21:18+00:00",
- "count": 40,
- "new_this_run": 11,
+ "updated": "2026-11-24T05:59+00:00",
+ "count": 41,
+ "new_this_run": 5,
  "jobs": [
   {
    "id": "glean-designated-technical-support-engineer-west",
@@ -58,29 +58,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "syfe-ai-engineer",
-   "title": "AI Engineer",
-   "company": "Syfe",
-   "category": "AI-assisted developer (full stack)",
+   "id": "micro1-retail-customer-support-specialist",
+   "title": "Retail Customer Support Specialist",
+   "company": "micro1",
+   "category": "Non-coding tech (high pay)",
    "score": 100,
-   "location": "Remote, India",
+   "location": "Remote, Worldwide",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/syfe/jobs/ai-engineer?utm_source=api",
+   "url": "https://himalayas.app/companies/micro1/jobs/retail-customer-support-specialist?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-23",
    "matched_skills": [
     "evaluation",
-    "llm",
     "ai",
     "quality",
     "customer",
     "support",
-    "product",
-    "sql"
+    "communication",
+    "english",
+    "annotation"
    ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
+   "contract": true,
+   "first_seen": "2026-11-24T05:59+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -108,7 +108,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -245,6 +245,33 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "parexel-software-engineer",
+   "title": "Software Engineer",
+   "company": "Parexel",
+   "category": "AI-assisted developer (full stack)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/parexel/jobs/software-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "jira",
+    "analysis"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T05:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "vercel-customer-support-engineer",
    "title": "Customer Support Engineer",
    "company": "Vercel",
@@ -349,7 +376,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -402,7 +429,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -563,6 +590,60 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "edgeq-technologies-private-limited-qa-engineer",
+   "title": "QA Engineer",
+   "company": "EdgeQ Technologies Private Limited",
+   "category": "QA / testing",
+   "score": 89,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "quality",
+    "test case",
+    "manual testing",
+    "testing",
+    "documentation",
+    "communication",
+    "product",
+    "api"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T05:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "akamai-technologies-software-engineer-ii",
+   "title": "Software Engineer II",
+   "company": "Akamai Technologies",
+   "category": "AI-assisted developer (full stack)",
+   "score": 88,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-ii-9225922759?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "docker",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T05:59+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -669,7 +750,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -747,7 +828,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -798,54 +879,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "bold-magazine-virtual-assistant-reddit-community-management",
-   "title": "Virtual Assistant – Reddit & Community Management",
-   "company": "BOLD Magazine",
-   "category": "Gaming",
-   "score": 81,
-   "location": "Remote, Asia Only",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/bold-magazine-virtual-assistant-reddit-community-management",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "support",
-    "communication",
-    "english",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sakshi-technical-writer",
-   "title": "Technical Writer",
-   "company": "Sakshi",
-   "category": "Non-coding tech (high pay)",
-   "score": 78,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sakshi/jobs/technical-writer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "communication",
-    "product",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -916,26 +950,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "zeta-technical-support-engineer-i",
-   "title": "Technical Support Engineer I",
-   "company": "Zeta",
-   "category": "Non-coding tech (high pay)",
-   "score": 73,
-   "location": "Hyderabad",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T21:29+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
    "id": "ford-sap-data-conversion-software-engineer",
    "title": "SAP Data Conversion - Software Engineer",
    "company": "Ford",
@@ -954,7 +968,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -1022,6 +1036,27 @@
    "first_seen": "2026-11-11T06:11+00:00",
    "new": false,
    "verified": "Live on company careers page"
+  },
+  {
+   "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
+   "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
+   "company": "CSB Bank Limited",
+   "category": "QA / testing",
+   "score": 68,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "quality",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T05:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   }
  ]
 }
