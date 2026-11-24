@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T05:59+00:00",
+ "updated": "2026-11-24T17:39+00:00",
  "count": 41,
- "new_this_run": 5,
+ "new_this_run": 6,
  "jobs": [
   {
    "id": "glean-designated-technical-support-engineer-west",
@@ -81,62 +81,8 @@
    ],
    "contract": true,
    "first_seen": "2026-11-24T05:59+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "beyondtrust-front-end-engineer-ux-ui",
-   "title": "Front-End Engineer, UX/UI",
-   "company": "BeyondTrust",
-   "category": "AI-assisted developer (full stack)",
-   "score": 99,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-front-end-engineer-ux-ui",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-20",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "quality",
-    "testing",
-    "documentation",
-    "customer",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
    "new": false,
    "verified": "Link checked, still open"
-  },
-  {
-   "id": "supabase-billing-support-specialist",
-   "title": "Billing Support Specialist",
-   "company": "Supabase",
-   "category": "Non-coding tech (high pay)",
-   "score": 98,
-   "location": "Remote, Global",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobs.ashbyhq.com/supabase/8999613e-cbca-4a00-9516-09681a46749e",
-   "source": "Company careers (Ashby)",
-   "posted": "2026-11-02",
-   "matched_skills": [
-    "test case",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-02T18:19+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
   },
   {
    "id": "roblox-moderation-escalation-specialist",
@@ -219,30 +165,31 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "gitlab-customer-success-engineer-india",
-   "title": "Customer Success Engineer, India",
-   "company": "GitLab",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
+   "id": "diligencevault-marketing-associate",
+   "title": "Marketing Associate",
+   "company": "DiligenceVault",
+   "category": "Trainee / graduate program",
+   "score": 98,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002",
-   "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-16",
+   "url": "https://himalayas.app/companies/diligencevault/jobs/marketing-associate?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
    "matched_skills": [
+    "llm",
     "ai",
-    "documentation",
     "customer",
     "support",
     "communication",
     "product",
-    "remote"
+    "analysis",
+    "gemini"
    ],
    "contract": false,
-   "first_seen": "2026-11-16T09:38+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
+   "first_seen": "2026-11-24T17:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
   },
   {
    "id": "parexel-software-engineer",
@@ -268,7 +215,61 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T05:59+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "quilr-inc-solutions-engineer-ai-identity-data-security",
+   "title": "Solutions Engineer (AI, Identity & Data Security)",
+   "company": "Quilr Inc.",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/quilr-inc/jobs/solutions-engineer-ai-identity-data-security?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "documentation",
+    "customer",
+    "communication",
+    "product",
+    "python",
+    "docker"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T17:39+00:00",
    "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "beyondtrust-front-end-engineer-ux-ui",
+   "title": "Front-End Engineer, UX/UI",
+   "company": "BeyondTrust",
+   "category": "AI-assisted developer (full stack)",
+   "score": 95,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-front-end-engineer-ux-ui",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-20",
+   "matched_skills": [
+    "evaluation",
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-23T21:18+00:00",
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -406,30 +407,83 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
-   "category": "Trainee / graduate program",
+   "id": "gitlab-customer-success-engineer-india",
+   "title": "Customer Success Engineer, India",
+   "company": "GitLab",
+   "category": "Non-coding tech (high pay)",
    "score": 92,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002",
+   "source": "Company careers (Greenhouse)",
+   "posted": "2026-11-16",
    "matched_skills": [
+    "ai",
+    "documentation",
     "customer",
     "support",
     "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
+    "product",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
+   "first_seen": "2026-11-16T09:38+00:00",
    "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
+   "id": "helm-operations-quality-assurance-analyst",
+   "title": "Quality Assurance Analyst",
+   "company": "Helm Operations",
+   "category": "QA / testing",
+   "score": 92,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "test case",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T17:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "cadence-health-outbound-patient-enrollment-specialist-new-college-graduate",
+   "title": "Outbound Patient Enrollment Specialist (New College Graduate)",
+   "company": "Cadence Health",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/cadence-health-outbound-patient-enrollment-specialist-new-college-graduate",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "gemini"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T17:39+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -617,7 +671,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T05:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -644,7 +698,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T05:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -675,30 +729,30 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "mercury-customer-support-specialist-risk",
-   "title": "Customer Support Specialist - Risk",
-   "company": "Mercury",
+   "id": "postscript-solutions-engineer",
+   "title": "Solutions Engineer",
+   "company": "Postscript",
    "category": "Non-coding tech (high pay)",
    "score": 87,
    "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk",
+   "url": "https://weworkremotely.com/remote-jobs/postscript-solutions-engineer",
    "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-20",
+   "posted": "2026-11-24",
    "matched_skills": [
+    "ai",
     "customer",
     "support",
-    "communication",
-    "english",
     "product",
-    "saas",
+    "api",
     "onboarding",
-    "remote"
+    "remote",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-11-20T11:33+00:00",
-   "new": false,
+   "first_seen": "2026-11-24T17:39+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -725,31 +779,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sage-associate-managing-editor",
-   "title": "Associate Managing Editor",
-   "company": "Sage",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -781,53 +810,29 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "talkspace-community-moderator-wisdo-1099",
-   "title": "Community Moderator - Wisdo (1099)",
-   "company": "Talkspace",
-   "category": "Gaming",
+   "id": "mercury-customer-support-specialist-risk",
+   "title": "Customer Support Specialist - Risk",
+   "company": "Mercury",
+   "category": "Non-coding tech (high pay)",
    "score": 83,
    "location": "Remote, Anywhere in the World",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/talkspace-community-moderator-wisdo-1099",
+   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk",
    "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-19",
+   "posted": "2026-11-20",
    "matched_skills": [
-    "quality",
     "customer",
     "support",
     "communication",
-    "remote",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "safetywing-product-engineer",
-   "title": "Product Engineer",
-   "company": "SafetyWing",
-   "category": "AI-assisted developer (full stack)",
-   "score": 82,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/safetywing/jobs/product-engineer-186724217?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "testing",
+    "english",
     "product",
-    "remote",
-    "react",
-    "next.js",
-    "typescript",
-    "tailwind"
+    "saas",
+    "onboarding",
+    "remote"
    ],
    "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
+   "first_seen": "2026-11-20T11:33+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -883,6 +888,30 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "labcorp-software-quality-assurance-analyst-iii",
+   "title": "Software Quality Assurance Analyst III",
+   "company": "Labcorp",
+   "category": "QA / testing",
+   "score": 77,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/labcorp/jobs/software-quality-assurance-analyst-iii?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "quality",
+    "testing",
+    "customer",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-24T17:39+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "servicenow-technical-support-engineer-moveworks",
    "title": "Technical Support Engineer - Moveworks",
    "company": "ServiceNow",
@@ -925,49 +954,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-06T20:52+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "paytm-customer-support-associate-paytm-money",
-   "title": "Customer Support Associate- Paytm Money",
-   "company": "Paytm",
-   "category": "Trainee / graduate program",
-   "score": 73,
-   "location": "Mumbai, Maharashtra",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
-   "source": "Company careers (Lever)",
-   "posted": "2026-11-16",
-   "matched_skills": [
-    "customer",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-16T20:26+00:00",
-   "new": false,
-   "verified": "Live on company careers page"
-  },
-  {
-   "id": "ford-sap-data-conversion-software-engineer",
-   "title": "SAP Data Conversion - Software Engineer",
-   "company": "Ford",
-   "category": "AI-assisted developer (full stack)",
-   "score": 73,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/ford/jobs/sap-data-conversion-software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -1038,6 +1024,27 @@
    "verified": "Live on company careers page"
   },
   {
+   "id": "paytm-customer-support-associate-paytm-money",
+   "title": "Customer Support Associate- Paytm Money",
+   "company": "Paytm",
+   "category": "Trainee / graduate program",
+   "score": 69,
+   "location": "Mumbai, Maharashtra",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
+   "source": "Company careers (Lever)",
+   "posted": "2026-11-16",
+   "matched_skills": [
+    "customer",
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-16T20:26+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
+  },
+  {
    "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
    "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
    "company": "CSB Bank Limited",
@@ -1055,7 +1062,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T05:59+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   }
  ]
