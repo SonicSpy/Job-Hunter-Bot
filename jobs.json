@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T17:39+00:00",
- "count": 41,
- "new_this_run": 6,
+ "updated": "2026-11-25T02:23+00:00",
+ "count": 39,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "glean-designated-technical-support-engineer-west",
@@ -58,33 +58,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "micro1-retail-customer-support-specialist",
-   "title": "Retail Customer Support Specialist",
-   "company": "micro1",
-   "category": "Non-coding tech (high pay)",
-   "score": 100,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/micro1/jobs/retail-customer-support-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "evaluation",
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "annotation"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-24T05:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "roblox-moderation-escalation-specialist",
    "title": "Moderation Escalation Specialist",
    "company": "Roblox",
@@ -93,9 +66,9 @@
    "location": "Gurugram, Haryana, India",
    "mode": "On-site",
    "salary": "Not listed",
-   "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413",
+   "url": "https://careers.roblox.com/jobs/8327882?gh_jid=8327882",
    "source": "Company careers (Greenhouse)",
-   "posted": "2026-11-04",
+   "posted": "2026-11-03",
    "matched_skills": [
     "ai",
     "customer",
@@ -188,33 +161,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T17:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "parexel-software-engineer",
-   "title": "Software Engineer",
-   "company": "Parexel",
-   "category": "AI-assisted developer (full stack)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/parexel/jobs/software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "quality",
-    "testing",
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "jira",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-24T05:59+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -242,6 +188,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T17:39+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "insightsoftware-technical-support-engineer-financial-consolidation-fpa",
+   "title": "Technical Support Engineer (financial consolidation & FPA)",
+   "company": "insightsoftware",
+   "category": "Non-coding tech (high pay)",
+   "score": 96,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/insightsoftware/jobs/technical-support-engineer-financial-consolidation-fpa?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "communication",
+    "english",
+    "product",
+    "api",
+    "postman"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T02:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -381,6 +354,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "tines-technical-support-engineer-i",
+   "title": "Technical Support Engineer I",
+   "company": "Tines",
+   "category": "Non-coding tech (high pay)",
+   "score": 93,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/tines-technical-support-engineer-i",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "llm",
+    "ai",
+    "quality",
+    "testing",
+    "documentation",
+    "customer",
+    "support",
+    "communication"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T02:23+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "notion-product-support-specialist",
    "title": "Product Support Specialist",
    "company": "Notion",
@@ -433,33 +433,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "helm-operations-quality-assurance-analyst",
-   "title": "Quality Assurance Analyst",
-   "company": "Helm Operations",
-   "category": "QA / testing",
-   "score": 92,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "test case",
-    "testing",
-    "documentation",
-    "customer",
-    "support",
-    "communication"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-24T17:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "cadence-health-outbound-patient-enrollment-specialist-new-college-graduate",
    "title": "Outbound Patient Enrollment Specialist (New College Graduate)",
    "company": "Cadence Health",
@@ -483,6 +456,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T17:39+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "asg-company-associate-developer",
+   "title": "Associate Developer",
+   "company": "ASG Company",
+   "category": "Trainee / graduate program",
+   "score": 92,
+   "location": "Remote, Worldwide",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-24",
+   "matched_skills": [
+    "customer",
+    "support",
+    "communication",
+    "sql",
+    "training provided",
+    "remote",
+    "react",
+    "javascript"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T02:23+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -648,60 +648,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "edgeq-technologies-private-limited-qa-engineer",
-   "title": "QA Engineer",
-   "company": "EdgeQ Technologies Private Limited",
-   "category": "QA / testing",
-   "score": 89,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "manual testing",
-    "testing",
-    "documentation",
-    "communication",
-    "product",
-    "api"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-24T05:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "akamai-technologies-software-engineer-ii",
-   "title": "Software Engineer II",
-   "company": "Akamai Technologies",
-   "category": "AI-assisted developer (full stack)",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-ii-9225922759?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "api",
-    "docker",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-24T05:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "fin-forward-deployed-engineer",
    "title": "Forward Deployed Engineer",
    "company": "Fin",
@@ -752,7 +698,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T17:39+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -908,28 +854,8 @@
    ],
    "contract": false,
    "first_seen": "2026-11-24T17:39+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "servicenow-technical-support-engineer-moveworks",
-   "title": "Technical Support Engineer - Moveworks",
-   "company": "ServiceNow",
-   "category": "Non-coding tech (high pay)",
-   "score": 75,
-   "location": "Bangalore, in",
-   "mode": "On-site",
-   "salary": "Not listed",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000162831529",
-   "source": "Company careers (SmartRecruiters)",
-   "posted": "2026-11-20",
-   "matched_skills": [
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-21T01:29+00:00",
    "new": false,
-   "verified": "Live on company careers page"
+   "verified": "Link checked, still open"
   },
   {
    "id": "karat-software-engineer-interviewer",
@@ -981,6 +907,26 @@
    "first_seen": "2026-11-06T20:52+00:00",
    "new": false,
    "verified": "Link checked, still open"
+  },
+  {
+   "id": "servicenow-technical-support-engineer-moveworks",
+   "title": "Technical Support Engineer - Moveworks",
+   "company": "ServiceNow",
+   "category": "Non-coding tech (high pay)",
+   "score": 71,
+   "location": "Bangalore, in",
+   "mode": "On-site",
+   "salary": "Not listed",
+   "url": "https://jobs.smartrecruiters.com/servicenow/744000162831529",
+   "source": "Company careers (SmartRecruiters)",
+   "posted": "2026-11-20",
+   "matched_skills": [
+    "support"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-21T01:29+00:00",
+   "new": false,
+   "verified": "Live on company careers page"
   },
   {
    "id": "sarvam-technical-writer",
@@ -1053,9 +999,9 @@
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api",
+   "url": "https://himalayas.app/companies/csb-bank/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-23",
+   "posted": "2026-11-24",
    "matched_skills": [
     "quality",
     "support"
