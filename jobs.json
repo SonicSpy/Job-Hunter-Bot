@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-25T12:48+00:00",
- "count": 44,
- "new_this_run": 10,
+ "updated": "2026-11-25T22:29+00:00",
+ "count": 38,
+ "new_this_run": 3,
  "jobs": [
   {
    "id": "glean-designated-technical-support-engineer-west",
@@ -81,7 +81,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
+   "new": false,
    "verified": "Live on company careers page"
   },
   {
@@ -138,60 +138,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "insightsoftware-technical-support-engineer-financial-consolidation-fpa",
-   "title": "Technical Support Engineer (financial consolidation & FPA)",
-   "company": "insightsoftware",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/insightsoftware/jobs/technical-support-engineer-financial-consolidation-fpa?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "communication",
-    "english",
-    "product",
-    "api",
-    "postman"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T02:23+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "tala-business-analyst",
-   "title": "Business Analyst",
-   "company": "Tala",
-   "category": "Non-coding tech (high pay)",
-   "score": 96,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/tala/jobs/business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "sql",
-    "analysis"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "beyondtrust-front-end-engineer-ux-ui",
    "title": "Front-End Engineer, UX/UI",
    "company": "BeyondTrust",
@@ -216,6 +162,60 @@
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
    "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "samsara-associate-sales-engineer-se-desk-northeast",
+   "title": "Associate Sales Engineer, SE Desk - Northeast",
+   "company": "Samsara",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/samsara-associate-sales-engineer-se-desk-northeast",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-25",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "customer",
+    "support",
+    "product",
+    "api",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T22:29+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "samsara-associate-sales-engineer-se-desk-mid-west",
+   "title": "Associate Sales Engineer, SE Desk - Mid West",
+   "company": "Samsara",
+   "category": "Non-coding tech (high pay)",
+   "score": 95,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/samsara-associate-sales-engineer-se-desk-mid-west",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-25",
+   "matched_skills": [
+    "ai",
+    "testing",
+    "customer",
+    "support",
+    "product",
+    "api",
+    "remote",
+    "player"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T22:29+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -270,30 +270,6 @@
    "contract": false,
    "first_seen": "2026-11-19T12:59+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "indigo-vc-acquisition-executive-roblox-games",
-   "title": "Acquisition Executive (Roblox Games)",
-   "company": "Indigo VC",
-   "category": "Gaming",
-   "score": 94,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/indigo-vc/jobs/acquisition-executive-roblox-games?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "english",
-    "product",
-    "remote",
-    "player",
-    "discord"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -468,7 +444,7 @@
    "salary": "Not listed",
    "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-24",
+   "posted": "2026-11-25",
    "matched_skills": [
     "customer",
     "support",
@@ -482,29 +458,6 @@
    "contract": false,
    "first_seen": "2026-11-25T02:23+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "indigo-vc-game-producer-roblox-liveops",
-   "title": "Game Producer, Roblox LiveOps",
-   "company": "Indigo VC",
-   "category": "Gaming",
-   "score": 91,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/indigo-vc/jobs/game-producer-roblox-liveops?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "english",
-    "product",
-    "remote",
-    "player"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -661,54 +614,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "canonical-graduate-sales-development-representative",
-   "title": "Graduate Sales Development Representative",
-   "company": "Canonical",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, Anywhere",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-   "source": "Jobicy (find company link before applying)",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "communication",
-    "product",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -842,6 +748,31 @@
    ],
    "contract": false,
    "first_seen": "2026-11-25T12:48+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "sage-associate-managing-editor",
+   "title": "Associate Managing Editor",
+   "company": "Sage",
+   "category": "Trainee / graduate program",
+   "score": 86,
+   "location": "Remote, India",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-25",
+   "matched_skills": [
+    "documentation",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "onboarding"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-25T22:29+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -951,30 +882,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "karat-software-engineer-interviewer",
    "title": "Software Engineer Interviewer",
    "company": "Karat",
@@ -1046,26 +953,6 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "rws-group-associate-resource-coordinator",
-   "title": "Associate Resource Coordinator",
-   "company": "RWS Group",
-   "category": "Trainee / graduate program",
-   "score": 71,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/rws-group/jobs/associate-resource-coordinator-9265267537?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "communication"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "elastic-associate-marketing-technology",
    "title": "Associate, Marketing Technology",
    "company": "Elastic",
@@ -1105,27 +992,6 @@
    "first_seen": "2026-11-16T20:26+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "csb-bank-limited-team-member-offsite-audit-concurrent-audit-qa-mumbai",
-   "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
-   "company": "CSB Bank Limited",
-   "category": "QA / testing",
-   "score": 68,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/csb-bank/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "quality",
-    "support"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-24T05:59+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   }
  ]
 }
