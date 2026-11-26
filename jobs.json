@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-25T22:29+00:00",
+ "updated": "2026-11-26T04:59+00:00",
  "count": 38,
- "new_this_run": 3,
+ "new_this_run": 2,
  "jobs": [
   {
    "id": "glean-designated-technical-support-engineer-west",
@@ -188,7 +188,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-25T22:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -215,7 +215,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-25T22:29+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -434,30 +434,55 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "asg-company-associate-developer",
-   "title": "Associate Developer",
-   "company": "ASG Company",
+   "id": "forbes-financial-services-operations-associate",
+   "title": "Financial Services Operations Associate",
+   "company": "Forbes",
    "category": "Trainee / graduate program",
    "score": 92,
-   "location": "Remote, Worldwide",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/asg-company/jobs/associate-developer?utm_source=api",
+   "url": "https://himalayas.app/companies/forbes/jobs/financial-services-operations-associate?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-25",
+   "posted": "2026-11-26",
    "matched_skills": [
-    "customer",
+    "quality",
+    "testing",
+    "documentation",
     "support",
     "communication",
-    "sql",
-    "training provided",
-    "remote",
-    "react",
-    "javascript"
+    "product",
+    "jira",
+    "analysis"
    ],
    "contract": false,
-   "first_seen": "2026-11-25T02:23+00:00",
-   "new": false,
+   "first_seen": "2026-11-26T04:59+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "abnormal-software-engineer-i-backend",
+   "title": "Software Engineer I - Backend",
+   "company": "Abnormal",
+   "category": "AI-assisted developer (full stack)",
+   "score": 92,
+   "location": "Remote, Asia Only",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/abnormal-software-engineer-i-backend",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-26",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "product",
+    "python",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-26T04:59+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -749,31 +774,6 @@
    "contract": false,
    "first_seen": "2026-11-25T12:48+00:00",
    "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "sage-associate-managing-editor",
-   "title": "Associate Managing Editor",
-   "company": "Sage",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/sage/jobs/associate-managing-editor?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-25",
-   "matched_skills": [
-    "documentation",
-    "support",
-    "communication",
-    "product",
-    "analysis",
-    "onboarding"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T22:29+00:00",
-   "new": true,
    "verified": "Link checked, still open"
   },
   {
