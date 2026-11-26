@@ -1,14 +1,16 @@
 # Job matches for Bhargav
 
-Updated 26 Nov 2026, 04:59 UTC · 38 open matches
+Updated 26 Nov 2026, 15:10 UTC · 42 open matches
 
 | Score | Role | Company | Mode | Location | Salary | Posted |
 |---|---|---|---|---|---|---|
-| 100 | [Designated Technical Support Engineer - West](https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west) | Glean | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
-| 100 | [Designated Technical Support Engineer - Central/East](https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east) | Glean | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
 | 100 | [Forward Deployed Engineer, Frontier Engineering](https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6) | Snowflake | Remote | Remote, IN-Bangalore-MSO, IN-Mumbai-MSO | Not listed | 2026-11-25 |
+| 100 | [AI Native Builder - Frontend](https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638) 🆕 | Atlan | Remote | Remote, India | Not listed | 2026-11-26 |
+| 100 | [AI Engineer](https://himalayas.app/companies/newsweek/jobs/ai-engineer-5371376589?utm_source=api) 🆕 | Newsweek | Remote | Remote, India | Not listed | 2026-11-26 |
 | 98 | [Moderation Escalation Specialist](https://careers.roblox.com/jobs/8331413?gh_jid=8331413) | Roblox | On-site | Gurugram, Haryana, India | Not listed | 2026-11-04 |
 | 98 | [Developer Relations Engineer](https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4) | Supabase | Remote | Remote, Global | Not listed | 2026-11-11 |
+| 97 | [Designated Technical Support Engineer - West](https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west) | Glean | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
+| 97 | [Designated Technical Support Engineer - Central/East](https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east) | Glean | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
 | 95 | [Front-End Engineer, UX/UI](https://weworkremotely.com/remote-jobs/beyondtrust-front-end-engineer-ux-ui) | BeyondTrust | Remote | Remote, Anywhere in the World | Not listed | 2026-11-20 |
 | 95 | [Associate Sales Engineer, SE Desk - Northeast](https://weworkremotely.com/remote-jobs/samsara-associate-sales-engineer-se-desk-northeast) | Samsara | Remote | Remote, Anywhere in the World | Not listed | 2026-11-25 |
 | 95 | [Associate Sales Engineer, SE Desk - Mid West](https://weworkremotely.com/remote-jobs/samsara-associate-sales-engineer-se-desk-mid-west) | Samsara | Remote | Remote, Anywhere in the World | Not listed | 2026-11-25 |
@@ -20,23 +22,25 @@ Updated 26 Nov 2026, 04:59 UTC · 38 open matches
 | 93 | [Technical Support Engineer I](https://weworkremotely.com/remote-jobs/tines-technical-support-engineer-i) | Tines | Remote | Remote, Anywhere in the World | Not listed | 2026-11-24 |
 | 92 | [Customer Success Engineer, India](https://job-boards.greenhouse.io/gitlab/jobs/8926443002) | GitLab | Remote | Remote, India | Not listed | 2026-11-16 |
 | 92 | [Outbound Patient Enrollment Specialist (New College Graduate)](https://weworkremotely.com/remote-jobs/cadence-health-outbound-patient-enrollment-specialist-new-college-graduate) | Cadence Health | Remote | Remote, Anywhere in the World | Not listed | 2026-11-24 |
-| 92 | [Financial Services Operations Associate](https://himalayas.app/companies/forbes/jobs/financial-services-operations-associate?utm_source=api) 🆕 | Forbes | Remote | Remote, India | Not listed | 2026-11-26 |
-| 92 | [Software Engineer I - Backend](https://weworkremotely.com/remote-jobs/abnormal-software-engineer-i-backend) 🆕 | Abnormal | Remote | Remote, Asia Only | Not listed | 2026-11-26 |
-| 90 | [AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india) | Volga Partners | Remote | Remote, Asia Only | Not listed | 2026-11-18 |
-| 90 | [Applied AI Value Consultant](https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant) | Celonis | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
+| 92 | [Software Engineer I - Backend](https://weworkremotely.com/remote-jobs/abnormal-software-engineer-i-backend) | Abnormal | Remote | Remote, Asia Only | Not listed | 2026-11-26 |
+| 92 | [Quality Engineer - Automation](https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation?utm_source=api) 🆕 | InfoTrust | Remote | Remote, India | Not listed | 2026-11-26 |
 | 90 | [AI Engineer, Customer Success](https://weworkremotely.com/remote-jobs/samsara-ai-engineer-customer-success) | Samsara | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
-| 89 | [Customer Success Engineer, West Region](https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-west-region) | Cribl | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 89 | [Sales Solutions Engineer](https://weworkremotely.com/remote-jobs/jumio-sales-solutions-engineer) | Jumio | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 89 | [Industry Executive, Intel Community (AI Transformation)](https://weworkremotely.com/remote-jobs/databricks-industry-executive-intel-community-ai-transformation) | Databricks | Remote | Remote, Anywhere in the World | Not listed | 2026-11-25 |
+| 89 | [Junior SOC Analyst-1](https://himalayas.app/companies/owensminor/jobs/junior-soc-analyst-1?utm_source=api) 🆕 | Owens & Minor | Remote | Remote, India | Not listed | 2026-11-26 |
 | 87 | [Forward Deployed Engineer](https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer) | Fin | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 87 | [Software Engineer II - Full Stack (Remote Eligible)](https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-ii-full-stack-remote-eligible) | Smartsheet | Remote | Remote, Anywhere in the World | Not listed | 2026-11-21 |
 | 87 | [Solutions Engineer](https://weworkremotely.com/remote-jobs/postscript-solutions-engineer) | Postscript | Remote | Remote, Anywhere in the World | Not listed | 2026-11-24 |
+| 86 | [AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india) | Volga Partners | Remote | Remote, Asia Only | Not listed | 2026-11-18 |
 | 86 | [Customer Support Specialist, 30 hrs](https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs) | Driversnote | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
+| 86 | [Applied AI Value Consultant](https://weworkremotely.com/remote-jobs/celonis-applied-ai-value-consultant) | Celonis | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
 | 86 | [Associate, Payment Integrity](https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090) | Oscar Health | Remote | Remote, Worldwide | Not listed | 2026-11-24 |
 | 85 | [Performance Test Engineer](https://weworkremotely.com/remote-jobs/veracode-performance-test-engineer) | Veracode | Remote | Remote, Anywhere in the World | Not listed | 2026-11-19 |
 | 83 | [Customer Support Specialist - Risk](https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk) | Mercury | Remote | Remote, Anywhere in the World | Not listed | 2026-11-20 |
-| 81 | [Sales Engineer - Billing](https://weworkremotely.com/remote-jobs/elation-health-sales-engineer-billing) | Elation Health | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
 | 81 | [Customer Success Executive (APAC & Middle East)](https://weworkremotely.com/remote-jobs/alliants-limited-customer-success-executive-apac-middle-east) | Alliants Limited | Remote | Remote, Asia Only | Not listed | 2026-11-23 |
+| 81 | [Cloud Support Engineer](https://himalayas.app/companies/alphasense/jobs/cloud-support-engineer?utm_source=api) 🆕 | AlphaSense | Remote | Remote, India | Not listed | 2026-11-26 |
+| 77 | [Sales Engineer - Billing](https://weworkremotely.com/remote-jobs/elation-health-sales-engineer-billing) | Elation Health | Remote | Remote, Anywhere in the World | Not listed | 2026-11-22 |
+| 77 | [Associate Systems Engineer](https://himalayas.app/companies/altera-digital-health/jobs/associate-systems-engineer-2124577923?utm_source=api) 🆕 | Altera Digital Health | Remote | Remote, India | Not listed | 2026-11-26 |
 | 74 | [Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer) | Karat | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 71 | [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) | OpenTrain AI | Remote | Remote, Anywhere in the World | Not listed | 2026-11-06 |
 | 71 | [Technical Support Engineer - Moveworks](https://jobs.smartrecruiters.com/servicenow/744000162831529) | ServiceNow | On-site | Bangalore, in | Not listed | 2026-11-20 |
