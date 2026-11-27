@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T08:24+00:00",
- "count": 46,
- "new_this_run": 10,
+ "updated": "2026-11-27T18:56+00:00",
+ "count": 48,
+ "new_this_run": 4,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -81,33 +81,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
-   "id": "bjak-android-software-engineer",
-   "title": "Android Software Engineer",
-   "company": "Bjak",
+   "id": "manta-health-software-engineer",
+   "title": "Software Engineer",
+   "company": "Manta Health",
    "category": "AI-assisted developer (full stack)",
-   "score": 99,
+   "score": 100,
    "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-8158114032?utm_source=api",
+   "url": "https://himalayas.app/companies/manta-health/jobs/software-engineer?utm_source=api",
    "source": "Himalayas",
    "posted": "2026-11-27",
    "matched_skills": [
     "ai",
     "quality",
-    "customer",
     "communication",
-    "english",
     "product",
-    "sql",
-    "github"
+    "remote",
+    "react",
+    "next.js",
+    "typescript"
    ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
+   "contract": true,
+   "first_seen": "2026-11-27T18:56+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -297,7 +297,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -324,7 +324,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -355,30 +355,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "elation-health-technical-support-specialist",
-   "title": "Technical Support Specialist",
-   "company": "Elation Health",
-   "category": "Non-coding tech (high pay)",
+   "id": "webengage-software-engineer-frontend",
+   "title": "Software Engineer- Frontend",
+   "company": "WebEngage",
+   "category": "AI-assisted developer (full stack)",
    "score": 93,
-   "location": "Remote, Anywhere in the World",
+   "location": "Remote, India",
    "mode": "Remote",
    "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/elation-health-technical-support-specialist",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-23",
+   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "source": "Himalayas",
+   "posted": "2026-11-27",
    "matched_skills": [
-    "ai",
-    "quality",
+    "testing",
     "customer",
-    "support",
     "communication",
     "product",
-    "analysis",
-    "prompt"
+    "saas",
+    "react",
+    "javascript"
    ],
    "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
-   "new": false,
+   "first_seen": "2026-11-27T18:56+00:00",
+   "new": true,
    "verified": "Link checked, still open"
   },
   {
@@ -541,6 +540,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "elation-health-technical-support-specialist",
+   "title": "Technical Support Specialist",
+   "company": "Elation Health",
+   "category": "Non-coding tech (high pay)",
+   "score": 89,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/elation-health-technical-support-specialist",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "analysis",
+    "prompt"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-23T21:18+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "databricks-industry-executive-intel-community-ai-transformation",
    "title": "Industry Executive, Intel Community (AI Transformation)",
    "company": "Databricks",
@@ -564,6 +590,31 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "zscaler-commercial-sales-engineer-east",
+   "title": "Commercial Sales Engineer - East",
+   "company": "Zscaler",
+   "category": "Non-coding tech (high pay)",
+   "score": 89,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/zscaler-commercial-sales-engineer-east",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-27",
+   "matched_skills": [
+    "evaluation",
+    "ai",
+    "customer",
+    "support",
+    "product",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-27T18:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "webengage-growth-associate-mar-tech",
    "title": "Growth Associate, Mar-tech",
    "company": "WebEngage",
@@ -583,7 +634,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -607,33 +658,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "fin-forward-deployed-engineer",
-   "title": "Forward Deployed Engineer",
-   "company": "Fin",
-   "category": "AI-assisted developer (full stack)",
-   "score": 87,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T21:29+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -717,6 +741,33 @@
    "verified": "Link checked, still open"
   },
   {
+   "id": "tailscale-developer-relations-engineer",
+   "title": "Developer Relations Engineer",
+   "company": "Tailscale",
+   "category": "Non-coding tech (high pay)",
+   "score": 87,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/tailscale-developer-relations-engineer-1",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-27",
+   "matched_skills": [
+    "ai",
+    "support",
+    "communication",
+    "product",
+    "api",
+    "github",
+    "remote",
+    "community"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-27T18:56+00:00",
+   "new": true,
+   "verified": "Link checked, still open"
+  },
+  {
    "id": "volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
    "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
    "company": "Volga Partners",
@@ -740,33 +791,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-18T13:08+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "driversnote-customer-support-specialist-30-hrs",
-   "title": "Customer Support Specialist, 30 hrs",
-   "company": "Driversnote",
-   "category": "Non-coding tech (high pay)",
-   "score": 86,
-   "location": "Remote, Anywhere in the World",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-19",
-   "matched_skills": [
-    "ai",
-    "customer",
-    "support",
-    "english",
-    "product",
-    "saas",
-    "remote",
-    "stripe"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-19T12:59+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -850,32 +874,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "clera-sales-development-associate",
-   "title": "Sales Development Associate",
-   "company": "Clera",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "USD 60000-80000 / year",
-   "url": "https://himalayas.app/companies/clera/jobs/sales-development-associate-9464129786?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "evaluation",
-    "customer",
-    "support",
-    "communication",
-    "product",
-    "saas",
-    "community"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "jumio-sales-solutions-engineer",
    "title": "Sales Solutions Engineer",
    "company": "Jumio",
@@ -924,7 +922,34 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "fin-forward-deployed-engineer",
+   "title": "Forward Deployed Engineer",
+   "company": "Fin",
+   "category": "AI-assisted developer (full stack)",
+   "score": 83,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/fin-forward-deployed-engineer",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "ai",
+    "quality",
+    "customer",
+    "support",
+    "communication",
+    "product",
+    "saas",
+    "python"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T21:29+00:00",
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -951,6 +976,33 @@
    ],
    "contract": false,
    "first_seen": "2026-11-20T11:33+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "driversnote-customer-support-specialist-30-hrs",
+   "title": "Customer Support Specialist, 30 hrs",
+   "company": "Driversnote",
+   "category": "Non-coding tech (high pay)",
+   "score": 82,
+   "location": "Remote, Anywhere in the World",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-19",
+   "matched_skills": [
+    "ai",
+    "customer",
+    "support",
+    "english",
+    "product",
+    "saas",
+    "remote",
+    "stripe"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-19T12:59+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -982,32 +1034,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "alliants-limited-customer-success-executive-apac-middle-east",
-   "title": "Customer Success Executive (APAC & Middle East)",
-   "company": "Alliants Limited",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, Asia Only",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://weworkremotely.com/remote-jobs/alliants-limited-customer-success-executive-apac-middle-east",
-   "source": "We Work Remotely (find company link before applying)",
-   "posted": "2026-11-23",
-   "matched_skills": [
-    "customer",
-    "support",
-    "english",
-    "product",
-    "jira",
-    "onboarding",
-    "remote"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-23T21:18+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "openspecimen-krishagni-quality-analyst-business-analyst",
    "title": "Quality analyst / Business analyst",
    "company": "OpenSpecimen (Krishagni)",
@@ -1028,7 +1054,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -1053,6 +1079,32 @@
    ],
    "contract": false,
    "first_seen": "2026-11-22T11:17+00:00",
+   "new": false,
+   "verified": "Link checked, still open"
+  },
+  {
+   "id": "alliants-limited-customer-success-executive-apac-middle-east",
+   "title": "Customer Success Executive (APAC & Middle East)",
+   "company": "Alliants Limited",
+   "category": "Non-coding tech (high pay)",
+   "score": 77,
+   "location": "Remote, Asia Only",
+   "mode": "Remote",
+   "salary": "Not listed",
+   "url": "https://weworkremotely.com/remote-jobs/alliants-limited-customer-success-executive-apac-middle-east",
+   "source": "We Work Remotely (find company link before applying)",
+   "posted": "2026-11-23",
+   "matched_skills": [
+    "customer",
+    "support",
+    "english",
+    "product",
+    "jira",
+    "onboarding",
+    "remote"
+   ],
+   "contract": false,
+   "first_seen": "2026-11-23T21:18+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -1145,7 +1197,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T08:24+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
