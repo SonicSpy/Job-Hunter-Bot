@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T18:56+00:00",
- "count": 48,
- "new_this_run": 4,
+ "updated": "2026-11-28T01:56+00:00",
+ "count": 41,
+ "new_this_run": 1,
  "jobs": [
   {
    "id": "snowflake-forward-deployed-engineer-frontier-engineering",
@@ -56,60 +56,6 @@
    "first_seen": "2026-11-26T15:10+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "adfolks-azure-ai-engineer",
-   "title": "Azure AI Engineer",
-   "company": "Adfolks",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/adfolks/jobs/azure-ai-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "evaluation",
-    "llm",
-    "ai",
-    "documentation",
-    "product",
-    "api",
-    "prompt",
-    "python"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "manta-health-software-engineer",
-   "title": "Software Engineer",
-   "company": "Manta Health",
-   "category": "AI-assisted developer (full stack)",
-   "score": 100,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/manta-health/jobs/software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "communication",
-    "product",
-    "remote",
-    "react",
-    "next.js",
-    "typescript"
-   ],
-   "contract": true,
-   "first_seen": "2026-11-27T18:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
   },
   {
    "id": "supabase-developer-relations-engineer",
@@ -355,28 +301,29 @@
    "verified": "Live on company careers page"
   },
   {
-   "id": "webengage-software-engineer-frontend",
-   "title": "Software Engineer- Frontend",
-   "company": "WebEngage",
+   "id": "wing-assistant-full-stack-developer",
+   "title": "Full Stack Developer",
+   "company": "Wing Assistant",
    "category": "AI-assisted developer (full stack)",
-   "score": 93,
+   "score": 94,
    "location": "Remote, India",
    "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api",
+   "salary": "PHP 30000-33000 / year",
+   "url": "https://himalayas.app/companies/wing-assistant/jobs/full-stack-developer-8177891239?utm_source=api",
    "source": "Himalayas",
-   "posted": "2026-11-27",
+   "posted": "2026-11-28",
    "matched_skills": [
+    "ai",
+    "quality",
     "testing",
-    "customer",
-    "communication",
     "product",
-    "saas",
-    "react",
-    "javascript"
+    "api",
+    "sql",
+    "python",
+    "docker"
    ],
    "contract": false,
-   "first_seen": "2026-11-27T18:56+00:00",
+   "first_seen": "2026-11-28T01:56+00:00",
    "new": true,
    "verified": "Link checked, still open"
   },
@@ -611,29 +558,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T18:56+00:00",
-   "new": true,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "webengage-growth-associate-mar-tech",
-   "title": "Growth Associate, Mar-tech",
-   "company": "WebEngage",
-   "category": "Trainee / graduate program",
-   "score": 88,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "customer",
-    "communication",
-    "product",
-    "steam"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -764,7 +688,7 @@
    ],
    "contract": false,
    "first_seen": "2026-11-27T18:56+00:00",
-   "new": true,
+   "new": false,
    "verified": "Link checked, still open"
   },
   {
@@ -848,32 +772,6 @@
    "verified": "Link checked, still open"
   },
   {
-   "id": "oscar-health-associate-payment-integrity",
-   "title": "Associate, Payment Integrity",
-   "company": "Oscar Health",
-   "category": "Trainee / graduate program",
-   "score": 86,
-   "location": "Remote, Worldwide",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
-   "source": "RemoteOK (find company link before applying)",
-   "posted": "2026-11-24",
-   "matched_skills": [
-    "ai",
-    "quality",
-    "support",
-    "sql",
-    "analysis",
-    "remote",
-    "full stack"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-25T12:48+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
    "id": "jumio-sales-solutions-engineer",
    "title": "Sales Solutions Engineer",
    "company": "Jumio",
@@ -897,31 +795,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-23T21:18+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "blink-charging-inc-customer-support-specialist",
-   "title": "Customer Support Specialist",
-   "company": "Blink Charging Inc.",
-   "category": "Non-coding tech (high pay)",
-   "score": 84,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/blink-charging-inc/jobs/customer-support-specialist?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "quality",
-    "documentation",
-    "customer",
-    "support",
-    "communication",
-    "english"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -1030,30 +903,6 @@
    ],
    "contract": false,
    "first_seen": "2026-11-19T21:29+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
-  },
-  {
-   "id": "openspecimen-krishagni-quality-analyst-business-analyst",
-   "title": "Quality analyst / Business analyst",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "Non-coding tech (high pay)",
-   "score": 81,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "quality",
-    "test case",
-    "testing",
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
    "new": false,
    "verified": "Link checked, still open"
   },
@@ -1178,27 +1027,6 @@
    "first_seen": "2026-11-21T01:29+00:00",
    "new": false,
    "verified": "Live on company careers page"
-  },
-  {
-   "id": "openspecimen-krishagni-software-developer",
-   "title": "Software Developer",
-   "company": "OpenSpecimen (Krishagni)",
-   "category": "AI-assisted developer (full stack)",
-   "score": 70,
-   "location": "Remote, India",
-   "mode": "Remote",
-   "salary": "Not listed",
-   "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api",
-   "source": "Himalayas",
-   "posted": "2026-11-27",
-   "matched_skills": [
-    "english",
-    "product"
-   ],
-   "contract": false,
-   "first_seen": "2026-11-27T08:24+00:00",
-   "new": false,
-   "verified": "Link checked, still open"
   },
   {
    "id": "elastic-associate-marketing-technology",
