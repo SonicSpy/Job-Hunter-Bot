@@ -1,14 +1,14 @@
 # Bot health
 
-Last run 2026-11-28T01:56+00:00 · raw jobs read: 13102 · matches: 41 · closed or ghost jobs removed: 0
+Last run 2026-11-28T10:22+00:00 · raw jobs read: 13120 · matches: 44 · closed or ghost jobs removed: 0
 
 ## Remote boards
-- remotive: 255
+- remotive: 240
 - remoteok: 100
 - himalayas: 1000
 - jobicy: 100
 - workingnomads: 37
-- weworkremotely: 1058
+- weworkremotely: 1092
 
 ## Company careers feeds
 | Company | System | Jobs read | Note |
@@ -54,7 +54,7 @@ Last run 2026-11-28T01:56+00:00 · raw jobs read: 13102 · matches: 41 · closed
 | Classplus | not found | 0 | add careers link manually if needed |
 | Cleartrip | not found | 0 | add careers link manually if needed |
 | CleverTap | not found | 0 | add careers link manually if needed |
-| Cloudflare | greenhouse | 533 | ok |
+| Cloudflare | greenhouse | 532 | ok |
 | Coding Ninjas | not found | 0 | add careers link manually if needed |
 | Cohere | ashby | 121 | ok |
 | Cohesity | not found | 0 | add careers link manually if needed |
@@ -172,7 +172,7 @@ Last run 2026-11-28T01:56+00:00 · raw jobs read: 13102 · matches: 41 · closed
 | Mastercard | not found | 0 | add careers link manually if needed |
 | Mech Mocha | not found | 0 | add careers link manually if needed |
 | Meesho | lever | 63 | ok |
-| Mercor | ashby | 109 | ok |
+| Mercor | ashby | 107 | ok |
 | Mindtickle | lever | 17 | ok |
 | Miniclip | not found | 0 | add careers link manually if needed |
 | Miro | ashby | 12 | ok |
@@ -254,7 +254,7 @@ Last run 2026-11-28T01:56+00:00 · raw jobs read: 13102 · matches: 41 · closed
 | ShareChat | not found | 0 | add careers link manually if needed |
 | Shiprocket | not found | 0 | add careers link manually if needed |
 | Shopify | not found | 0 | add careers link manually if needed |
-| SigNoz | ashby | 13 | ok |
+| SigNoz | ashby | 15 | ok |
 | Simplilearn | not found | 0 | add careers link manually if needed |
 | Skill-Lync | smartrecruiters | 3 | ok |
 | Sky Mavis | ashby | 5 | ok |
@@ -328,4 +328,4 @@ Last run 2026-11-28T01:56+00:00 · raw jobs read: 13102 · matches: 41 · closed
 | micro1 | not found | 0 | add careers link manually if needed |
 | upGrad | not found | 0 | add careers link manually if needed |
 
-Telegram: sent 1
+Telegram: sent 4
